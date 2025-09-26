@@ -1,0 +1,3077 @@
+   #[1]Scraping Dog » Feed [2]Scraping Dog » Comments Feed [3]Scraping Dog
+   » Build Web Crawler with Python (Complete Guide) Comments Feed [4]JSON
+   [5]oEmbed (JSON) [6]oEmbed (XML)
+
+   IFRAME: [7]https://www.googletagmanager.com/ns.html?id=GTM-P8RKS6W
+
+   [8]Skip to content
+
+Announcement: We are releasing a new API that gives data from all major
+search engines in one call.
+
+   [9]Learn More
+
+   Add Your Heading Text Here
+
+   (BUTTON)
+     * Products
+       (BUTTON) Close Products Open Products
+
+Products
+          + [10]Universal Search API
+          + [11]Data Extraction API
+          + YouTube API
+               o [12]YouTube Scraper API
+               o [13]YouTube Transcripts API
+          + [14]Social Media API
+               o [15]LinkedIn Scraper API
+               o [16]LinkedIn Jobs API
+               o [17]Twitter Scraper API
+               o [18]YouTube Scraper API
+               o [19]YouTube Transcript Extractor
+               o [20]YouTube Transcripts API
+               o [21]Facebook Scraper API
+               o [22]Instagram Scraper API
+          + [23]Amazon Scraper API
+          + [24]Walmart Scraper API
+          + [25]Ebay Search Scraper
+          + [26]Datacenter Proxies
+          + [27]Screenshot API
+          + [28]Bing Search API
+          + Google APIs
+               o [29]Google SERP API
+               o [30]Google AI Mode API
+               o Google Maps APIs
+                    # [31]Google Maps APIs
+                    # [32]Google Maps Posts API
+                    # [33]Google Maps Reviews API
+                    # [34]Google Maps Photos API
+               o [35]Google News API
+               o [36]Google Trends API
+               o [37]Google Jobs API
+               o [38]Google Patents API
+               o [39]Google Finance API
+               o [40]Google Videos API
+               o [41]Google Images API
+               o [42]Google Autocomplete API
+               o [43]Google Shopping API
+               o [44]Google Lens API
+               o [45]Google Product API
+               o Google Scholar API
+                    # [46]Google Scholar API
+                    # [47]Scholar Author Profile
+          + [48]LLM Ready Data
+          + [49]Universal Search API
+          + [50]Data Extraction API
+          + YouTube API
+               o [51]YouTube Scraper API
+               o [52]YouTube Transcripts API
+          + [53]Social Media API
+               o [54]LinkedIn Scraper API
+               o [55]LinkedIn Jobs API
+               o [56]Twitter Scraper API
+               o [57]YouTube Scraper API
+               o [58]YouTube Transcript Extractor
+               o [59]YouTube Transcripts API
+               o [60]Facebook Scraper API
+               o [61]Instagram Scraper API
+          + [62]Amazon Scraper API
+          + [63]Walmart Scraper API
+          + [64]Ebay Search Scraper
+          + [65]Datacenter Proxies
+          + [66]Screenshot API
+          + [67]Bing Search API
+          + Google APIs
+               o [68]Google SERP API
+               o [69]Google AI Mode API
+               o Google Maps APIs
+                    # [70]Google Maps APIs
+                    # [71]Google Maps Posts API
+                    # [72]Google Maps Reviews API
+                    # [73]Google Maps Photos API
+               o [74]Google News API
+               o [75]Google Trends API
+               o [76]Google Jobs API
+               o [77]Google Patents API
+               o [78]Google Finance API
+               o [79]Google Videos API
+               o [80]Google Images API
+               o [81]Google Autocomplete API
+               o [82]Google Shopping API
+               o [83]Google Lens API
+               o [84]Google Product API
+               o Google Scholar API
+                    # [85]Google Scholar API
+                    # [86]Scholar Author Profile
+          + [87]LLM Ready Data
+     * [88]Pricing
+     * [89]Documentation
+     * Resources
+       (BUTTON) Close Resources Open Resources
+
+Resources
+          + [90]Blog
+          + [91]Video Tutorials
+          + [92]No Code Tutorials
+          + [93]Common Web Scraping Questions
+     * [94]Wall of  ¤
+
+     * Products
+          + [95]Universal Search API
+          + [96]Data Extraction API
+          + YouTube API
+               o [97]YouTube Search Scraper API
+               o [98]YouTube Transcripts API
+          + [99]LinkedIn Scraper API
+          + [100]LinkedIn Jobs API
+          + [101]Amazon Scraper API
+          + [102]Walmart Scraper API
+          + [103]Ebay Search Scraper
+          + [104]Twitter Scraper API
+          + [105]Datacenter Proxies
+          + [106]Screenshot API
+          + [107]Bing Search API
+          + Google APIs
+               o [108]Google SERP API
+               o [109]Google AI Mode API
+               o [110]Google Maps API
+                    # [111]Google Maps API
+                    # [112]Google Maps Posts API
+                    # [113]Google Maps Reviews API
+                    # [114]Google Maps Photos API
+               o [115]Google News API
+               o [116]Google Trends API
+               o [117]Google Jobs API
+               o [118]Google Patents API
+               o [119]Google Finance API
+               o [120]Google Videos API
+               o [121]Google Lens API
+               o [122]Google Images API
+               o [123]Google Autocomplete API
+               o [124]Google Shopping API
+               o [125]Google Product API
+               o Google Scholar API
+                    # [126]Google Scholar API
+                    # [127]Scholar Author Profile
+               o [128]Get free trial
+          + [129]LLM Ready Data
+     * [130]Pricing
+     * [131]Documentation
+     * Resources
+          + [132]Blog
+          + [133]Video Tutorials
+          + [134]No Code Tutorials
+          + [135]Common Web Scraping Questions
+     * [136]Wall of  ¤
+     * [137]Login
+
+   Menu
+
+     * Products
+          + [138]Universal Search API
+          + [139]Data Extraction API
+          + YouTube API
+               o [140]YouTube Search Scraper API
+               o [141]YouTube Transcripts API
+          + [142]LinkedIn Scraper API
+          + [143]LinkedIn Jobs API
+          + [144]Amazon Scraper API
+          + [145]Walmart Scraper API
+          + [146]Ebay Search Scraper
+          + [147]Twitter Scraper API
+          + [148]Datacenter Proxies
+          + [149]Screenshot API
+          + [150]Bing Search API
+          + Google APIs
+               o [151]Google SERP API
+               o [152]Google AI Mode API
+               o [153]Google Maps API
+                    # [154]Google Maps API
+                    # [155]Google Maps Posts API
+                    # [156]Google Maps Reviews API
+                    # [157]Google Maps Photos API
+               o [158]Google News API
+               o [159]Google Trends API
+               o [160]Google Jobs API
+               o [161]Google Patents API
+               o [162]Google Finance API
+               o [163]Google Videos API
+               o [164]Google Lens API
+               o [165]Google Images API
+               o [166]Google Autocomplete API
+               o [167]Google Shopping API
+               o [168]Google Product API
+               o Google Scholar API
+                    # [169]Google Scholar API
+                    # [170]Scholar Author Profile
+               o [171]Get free trial
+          + [172]LLM Ready Data
+     * [173]Pricing
+     * [174]Documentation
+     * Resources
+          + [175]Blog
+          + [176]Video Tutorials
+          + [177]No Code Tutorials
+          + [178]Common Web Scraping Questions
+     * [179]Wall of  ¤
+     * [180]Login
+
+   [181]Login
+   [182]Get free trial
+
+Build Web Crawler with Python (Complete Guide)
+
+     * Published Date
+     * October 1, 2024
+
+     * Read
+     * 4min
+
+Table of Contents
+
+   TL;DR
+     * Explains crawling vs scraping; start from a seed URL and follow
+       links recursively to collect pages.
+     * Builds a mini crawler in Python with requests + BeautifulSoup
+       (Books to Scrape demo).
+     * Scales up with Scrapy (CrawlSpider + link rules) and exports
+       results to JSON.
+     * Scaling tips: use proxies (Scrapingdog datacenter proxy; 1k free
+       credits), tune delays / concurrency, and respect robots.txt.
+
+   Web crawling is a technique by which you can automatically navigate
+   through multiple URLs and collect a tremendous amount of data. You can
+   find all the URLs of multiple domains and extract information from
+   them.
+
+   This technique is mainly used by search engines like Google, Yahoo, and
+   Bing to rank websites and suggest results to the user based on the
+   query one makes.
+
+   In this article, we are going to first understand the
+   main [183]difference between web crawling and web scraping. This will
+   help you create a thin line in your mind between web scraping and web
+   crawling.
+
+   Before we go in and create a full-fledged web crawler I will show you
+   how you can create a small web crawler
+   using [184]requests and [185]BeautifulSoup. This will give you a clear
+   idea of what exactly a web crawler is. Then we will create a
+   production-ready web crawler using [186]Scrapy.
+
+What is web crawling?
+
+   Web crawling is an automated bot whose job is to visit multiple URLs on
+   a single website or multiple websites and download content from those
+   pages. Then this data can be used for multiple purposes like price
+   analysis, indexing on search engines, monitoring changes on websites,
+   etc.
+
+   It all starts with the seed URL which is the entry point of any web
+   crawler. The web crawler then downloads HTML content from the page by
+   making a GET request. The data downloaded is now parsed using various
+   html parsing libraries to extract the most valuable data from it.
+
+   Extracted data might contain links to other pages on the same website.
+   Now, the crawler will make GET requests to these pages as well to
+   repeat the same process that it did with the seed URL. Of course, this
+   process is a recursive process that enables the script to visit every
+   URL on the domain and gather all the information available.
+
+How web crawling is different from web scraping?
+
+   Web scraping and web crawling might sound similar but there is a fine
+   line between them which makes them very different.
+
+   Web scraping involves making a GET request to just one single page and
+   extracting the data present on the page. It will not look for other
+   URLs available on the page. Of course, web scraping is comparatively
+   fast because it works on a single page only.
+
+   Read More: [187]What is Web Scraping?
+
+Web Crawling using Requests & BeautifulSoup
+
+   In my experience, the combination of requests and BS4 is the best when
+   it comes to downloading and parsing the raw HTML. If you want to learn
+   more about the [188]best libraries for web scraping with Python then
+   check out this guide,
+
+   In this section, we will create a small crawler for this [189]website.
+   So, according to the flowchart shown above the crawler will look for
+   links right from the seed URL. The crawler will then go to each link
+   and extract data.
+
+   Let's first download these two libraries in the coding environment.
+
+                                        pip install requests
+pip install bs4
+
+
+   We will be using another library urllib.parse but since it is a part of
+   the Python standard library, there is no need for installation.
+
+   A basic Python crawler for our target website will look like this.
+
+                                        import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+
+# URL of the website to crawl
+base_url = "https://books.toscrape.com/"
+
+# Set to store visited URLs
+visited_urls = set()
+
+# List to store URLs to visit next
+urls_to_visit = [base_url]
+
+# Function to crawl a page and extract links
+def crawl_page(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for HTTP errors
+
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # Extract links and enqueue new URLs
+        links = []
+        for link in soup.find_all("a", href=True):
+            next_url = urljoin(url, link["href"])
+            links.append(next_url)
+
+        return links
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error crawling {url}: {e}")
+        return []
+
+# Crawl the website
+while urls_to_visit:
+    current_url = urls_to_visit.pop(0)  # Dequeue the first URL
+
+    if current_url in visited_urls:
+        continue
+
+    print(f"Crawling: {current_url}")
+
+    new_links = crawl_page(current_url)
+    visited_urls.add(current_url)
+    urls_to_visit.extend(new_links)
+
+print("Crawling finished.")
+
+
+   It is a very simple code but let me break it down and explain it to
+   you.
+    1. We import the required libraries: requests, BeautifulSoup,
+       and urljoin from urllib.parse.
+    2. We define the base_url of the website and initialize a
+       set visited_urls to store visited URLs.
+    3. We define a urls_to_visit list to store URLs that need to be
+       crawled. We start with the base URL.
+    4. We define the crawl_page() function to fetch a web page, parse its
+       HTML content, and extract links from it.
+    5. Inside the function, we use requests.get() to fetch the page
+       and BeautifulSoup to parse its content.
+    6. We iterate through each <a> tag to extract links, and convert them
+       to absolute URLs using urljoin(), and add them to the links list.
+    7. The while loop continues as long as there are URLs in
+       the urls_to_visit list. For each URL, we:
+
+     * Dequeue the URL and check if it has been visited before.
+     * Call the crawl_page() function to fetch the page and extract links.
+     * Add the current URL to the visited_urls set and enqueue the new
+       links to urls_to_visit.
+
+   8. Once the crawling process is complete, we print a message indicating
+   that the process has finished.
+
+   To run this code you can type this command on bash. I have named my
+   file crawl.py.
+
+                                        python crawl.py
+
+
+   Once your crawler starts, this will appear on your screen.
+
+   This code might give you an idea of how web crawling works. However,
+   there are certain limitations and potential disadvantages to this code.
+     * No Parallelism: The code does not utilize parallel processing,
+       meaning that only one request is processed at a time. Parallelizing
+       the crawling process can significantly improve the speed of
+       crawling.
+     * Lack of Error Handling: The code lacks detailed error handling for
+       various scenarios, such as handling specific HTTP errors,
+       connection timeouts, and more. Proper error handling is crucial for
+       robust crawling.
+     * Depth-First Crawling: The code uses a breadth-first approach, but
+       in certain cases, depth-first crawling might be more efficient.
+       This depends on the structure of the website and the goals of the
+       crawling operation. If you want to learn more about BFS and DFS
+       then read this [190]guide. BFS looks for the shortest path to reach
+       the destination.
+
+   In the next section, we are going to create a web crawler using Scrapy
+   which will help us eliminate these limitations.
+
+Web Crawler using Scrapy
+
+   Again we are going to use the same [191]site for crawling with Scrapy.
+
+   This page has a lot of information like warnings, titles, categories,
+   etc. Our task would be to find links that match a certain pattern. For
+   example, when we click on any of the categories we can see a certain
+   pattern in the URL.
+
+   Every URL will have /catalogue, /category and /books. But when we click
+   on a book we only see /catalogue and nothing else.
+
+   So, one task would be to instruct our web crawler to find all the links
+   that have this pattern. The web crawler would then follow to find all
+   the available links with /catalogue/category patterns in them. That
+   would be the mission of our web crawler.
+
+   In this case, it would be quite trivial because we have a sidebar where
+   all the categories are listed but in a real-world project, you will
+   oftentimes have something like maybe the top 10 categories that you can
+   click and then there are a hundred more categories that you have to
+   find by for example going into a book and then you have another 10
+   sub-categories of the book present on that book page.
+
+   So, you can instruct the crawler to go into all the different book
+   pages to find all the secondary categories and then collect all the
+   pages that are category pages.
+
+   This could be the web crawling task and the web scraping task could be
+   to collect titles and prices of the books from each dedicated book
+   page. I hope you got the idea now. Let's proceed with the coding part!
+
+   We will start with downloading Scrapy. It is a web scraping or web
+   crawling framework. It is not just a simple library but an actual
+   framework. Once you download this it will create multiple python files
+   in your folder. You can type the following command in your cmd to
+   install it.
+
+                                        pip install scrapy
+
+
+   Once you install it you can go back to your working directory and run
+   this command.
+
+                                        scrapy startproject learncrawling
+
+
+   You can of course use whatever name you like. I have
+   used learncrawling. Once the project is created you can see that in
+   your chosen directory you have a new directory with the project name
+   inside it.
+
+   You will see a bunch of other Python files as well. We will cover some
+   of these files later in this blog. But the most important directory
+   here is the spider's directory. These are actually the constructs that
+   we use for the web crawling process.
+
+   We can create our own custom spiders to define our own crawling
+   process. We are going to create a new Python file inside this.
+
+   In this file, we are going to write some code.
+
+                                        from scrapy.spiders import CrawlSpider,
+Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+    1. from scrapy.spider import CrawlSpider: This line imports
+       the CrawlSpider class from the scrapy.spider module. CrawlSpider is
+       a subclass of the base Spider class provided by Scrapy. It is used
+       to create spider classes specifically designed for crawling
+       websites by following links. Rule is used to define rules for link
+       extraction and following.
+    2. from scrapy.linkextractors import LinkExtractor: This line imports
+       the LinkExtractor class from
+       the scrapy.linkextractors module. LinkExtractor is a utility class
+       provided by Scrapy to extract links from web pages based on
+       specified rules and patterns.
+
+   Then we want to create a new class which is going to be our custom
+   spider class. I'm going to call this class CrawlingSpider and this is
+   going to inherit from the CrawlSpider class.
+
+                                        from scrapy.spiders import CrawlSpider,
+Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+
+class CrawlingSpider(CrawlSpider):
+    name = "mycrawler"
+    allowed_domains = ["toscrape.com"]
+    start_urls = ["https://books.toscrape.com/"]
+
+
+    rules = (
+        Rule(LinkExtractor(allow="catalogue/category")),
+    )
+
+
+   name = "mycrawler": This attribute specifies the name of the spider.
+   The name is used to uniquely identify the spider when running Scrapy
+   commands.
+
+   allowed_domains = ["toscrape.com"]: This attribute defines a list of
+   domain names that the spider is allowed to crawl. In this case, it
+   specifies that the spider should only crawl within the domain
+   "toscrape.com".
+
+   start_urls = ["https://books.toscrape.com/"]: This attribute provides a
+   list of starting URLs for the spider. The spider will begin crawling
+   from these URLs.
+
+   Rule(LinkExtractor(allow="catalogue/category")),: This line defines a
+   rule using the Rule class. It utilizes a LinkExtractor to extract links
+   based on the provided rule. The allow parameter specifies a regular
+   expression pattern that is used to match URLs. In this case, it's
+   looking for URLs containing the text "catalogue/category".
+
+                                        scrapy crawl mycrawler
+
+
+   Once it starts running you will see something like this on your bash.
+
+   Our crawler is finding all these urls. But what if we want to find
+   links to individual book pages as well and we want to scrape certain
+   information from that?
+
+   Now, we will look for certain things in our spiders and we will extract
+   some data from each individual book page. For finding book pages I will
+   define a new rule.
+
+                                        Rule(LinkExtractor(allow="catalogue", de
+ny="category"), callback="parse_item")
+
+
+   This will find all the URLs with catalogue in it but it will deny the
+   pages with category in them. Then we use a callback function to pass
+   all of our crawled urls. This function will then handle the web
+   scraping part.
+
+What Will We Scrape
+
+   We are going to scrape:
+     * Title of the book
+     * Price of the book
+     * Availability
+
+   Let's find out their DOM locations one by one.
+
+   The title can be seen under the class product_main with h1 tags.
+
+   Pricing can be seen under the p tag with class price_color.
+
+   Availability can be seen under the p tag with class availability.
+
+   Let's put all this under the code under parse_item() function.
+
+                                        def parse_item(self,response):
+
+        yield {
+            "title":response.css(".product_main h1::text").get(),
+            "price":response.css(".price_color::text").get(),
+            "availability":response.css(".availability::text")[1].get().strip()
+        }
+
+
+     * yield { ... }: This line starts a dictionary comprehension enclosed
+       within curly braces. This dictionary will be yielded as the output
+       of the method, effectively passing the extracted data to Scrapy's
+       output pipeline.
+     * "title": response.css(".product_main h1::text").get(): This line
+       extracts the text content of the <h1> element within
+       the .product_main class using a CSS selector.
+       The ::text pseudo-element is used to select the text content.
+       The .get() method retrieves the extracted text.
+     * "price": response.css(".price_color::text").get(): This line
+       extracts the text content of the element with
+       the .price_color class, similar to the previous line.
+     * "availability":
+       response.css(".availability::text")[1].get().strip(): This line
+       extracts the text content of the third element with
+       the .availability class on the page. [2] indicates that we're
+       selecting the third matching element (remember that indexing is
+       zero-based). The .get() method retrieves the text content.
+       The strip() function is used to remove the white spaces.
+
+   Our spider is now ready and we can run it from our terminal. Once again
+   we are going to use the same command.
+
+                                        scrapy crawl mycrawler
+
+
+   Let's run it and see the results. I am pretty excited.
+
+   Our spider scrapes all the books and goes through all the instances
+   that it can find. It will probably take some time but at the end, you
+   will see all the extracted data. You can even notice the dictionary
+   that is being printed, it contains all the data we wanted to scrape.
+
+   What if I want to save this data?
+
+Saving the data in a JSON file
+
+   You can save this data into a JSON file very easily. You can do it
+   directly from the bash, no need to make any changes in the code.
+
+                                        scrapy crawl mycrawler -o results.json
+
+
+   This will then take all the scraped information and save it in a JSON
+   file.
+
+   We have got the title, price, and availability. You can of course play
+   with it a little and extract the integer from the availability string
+   using regex. But my purpose in this was to explain to you how it can be
+   done fast and smoothly.
+
+Web Crawling with Proxy
+
+   One problem you might face in your web crawling journey is you might
+   get blocked from accessing the website. This happens because you might
+   be sending too many requests to the website due to which it might ban
+   your IP. This will put a breakage to your data pipeline.
+
+   In order to prevent this you can use proxy services that can handle IP
+   rotations, and retries, and even pass appropriate headers to the
+   website to act like a legit person rather than a data-hungry bot(of
+   course we are).
+
+   You can sign up for the free [192]datacenter proxy. You will get 1,000
+   free credits to run a small crawler. Let's see how you can integrate
+   this proxy into your Scrapy environment. There are mainly 3 steps
+   involved while integrating your proxy in this.
+    1. Define a constant PROXY_SERVER in your crawler_spider.py file.
+
+
+                                        from scrapy.spiders import CrawlSpider,
+Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+
+class CrawlingSpider(CrawlSpider):
+    name = "mycrawler"
+    allowed_domains = ["toscrape.com"]
+    start_urls = ["https://books.toscrape.com/"]
+
+    PROXY_SERVER = "http://scrapingdog:Your-API-Key@proxy.scrapingdog.com:8081"
+
+    rules = (
+        Rule(LinkExtractor(allow="catalogue/category")),
+        Rule(LinkExtractor(allow="catalogue", deny="category"), callback="parse_
+item")
+    )
+
+    def parse_item(self,response):
+
+        yield {
+            "title":response.css(".product_main h1::text").get(),
+            "price":response.css(".price_color::text").get(),
+            "availability":response.css(".availability::text")[1].get().strip()
+        }
+
+
+   1. Then we will move to settings.py file. Find the downloader
+   middlerwares section in this file and uncomment it.
+
+                                        DOWNLOADER_MIDDLEWARES = {
+   'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware':1,
+   'learncrawling.middlewares.LearncrawlingDownloaderMiddleware': 543,
+}
+
+
+   2. Then we will move to settings.py file. Find the downloader
+   middlerwares section in this file and uncomment it.
+
+                                        DOWNLOADER_MIDDLEWARES = {
+   'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware':1,
+   'learncrawling.middlewares.LearncrawlingDownloaderMiddleware': 543,
+}
+
+
+   This will enable the use of a proxy.
+
+   3. Then the final step would be to make changes in
+   our middlewares.py file. In this file, you will find a class by the
+   name LearncrawlingDownloaderMiddleware. From here we can manipulate the
+   process of request-sending by adding the proxy server.
+
+   Here you will find a function process_request() under which you have to
+   add the below line.
+
+                                        request.meta['proxy'] = "http://scraping
+dog:Your-API-Key@proxy.scrapingdog.com:8081"
+return None
+
+
+   Now, every request will go through a proxy and your data pipeline will
+   not get blocked.
+
+   Of course, changing just the IP will not help you bypass the
+   anti-scraping wall of any website therefore this proxy also passes
+   custom headers to help you penetrate that wall.
+
+   Now, Scrapy has certain limits when it comes to crawling. Let's say if
+   you are crawling websites like Amazon using using Scrapy then you can
+   scrape around 350 pages per minute(according to my own experiment).
+   That means 50400 pages per day. This speed is not enough if you want to
+   scrape millions of pages in just a few days. I came across
+   this article where the author scraped more than 250 million pages
+   within 40 hours. I would recommend reading this article.
+
+   In some cases, you might have to wait to make another request
+   like zoominfo.com. For that, you can use DOWNLOAD_DELAY to give your
+   crawler a little rest. You can read more about it [193]here. This is
+   how you can add this to your code.
+
+                                        class MySpider(scrapy.Spider):
+    name = 'my_spider'
+    start_urls = ['https://example.com']
+
+    download_delay = 1  # Set the delay to 1 second
+
+
+   Then you can use CONCURRENT_REQUESTS to control the number of requests
+   you want to send at a time. You can read more about it [194]here.
+
+   You can also use ROBOTSTXT_OBEY to obey the rules set by the domain
+   owners about data collection. Of course, as a data collector, you
+   should respect their boundaries. You can read more about it [195]here.
+
+Complete Code
+
+   There are multiple data points available on this website which can also
+   be scraped. But for now, the complete code for this tutorial will look
+   like this.
+
+                                        //crawling_spider.py
+
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+
+class CrawlingSpider(CrawlSpider):
+    name = "mycrawler"
+    allowed_domains = ["toscrape.com"]
+    start_urls = ["http://books.toscrape.com/"]
+
+
+    rules = (
+        Rule(LinkExtractor(allow="catalogue/category")),
+        Rule(LinkExtractor(allow="catalogue", deny="category"), callback="parse_
+item")
+    )
+
+    def parse_item(self,response):
+
+        yield {
+            "title":response.css(".product_main h1::text").get(),
+            "price":response.css(".price_color::text").get(),
+            "availability":response.css(".availability::text")[1].get().strip()
+        }
+
+
+Conclusion
+
+   In this blog, we created a crawler using requests and Scrapy. Both are
+   capable of achieving the target but with Scrapy you can complete the
+   task fast. Scrapy provides you flexibility through which you can crawl
+   endless websites with efficiency. Beginners might find Scrapy a little
+   intimidating but once you get it you will be able to crawl websites
+   very easily.
+
+   I hope now you clearly understand the difference between web scraping
+   and web crawling. The parse_item() function is doing web scraping once
+   the URLs are crawled.
+
+   I think you are now capable of crawling websites whose data matters.
+   You can start with crawling Amazon and see how it goes. You can start
+   by reading this guide on [196]web scraping Amazon with Python.
+
+   I hope you like this tutorial and if you do then please do not forget
+   to share it with your friends and on your social media.
+
+Additional Resources
+
+     * [197]Web Crawling using Javascript & NodeJs
+     * [198]Web Scraping Python vs Nodejs
+     * [199]4 Best Methods to Find All The URLs on a Domain's Website
+
+   My name is Manthan Koolwal and I am the founder of scrapingdog.com. I
+   love creating scraper and seamless data pipelines.
+   Manthan Koolwal
+   [200]Read More Blogs
+   [201]Twitter [202]Linkedin-in [203]Medium-m
+
+Web Scraping with Scrapingdog
+
+   Scrape the web without the hassle of getting blocked
+   [204]Try for Free
+   [205]Contact sales
+
+Recent Blogs
+
+   6 Best Programming Languages for Web Scraping in 2025
+
+   6 Best Programming Languages for Web Scraping in 2025
+   In 2025, the best language for web scraping will be the one that is
+   best suited to the task at hand. Let's explore their strengths and
+   limitations.
+     * 2025-09-20
+
+   [206]Read More
+   Use cases of web scraping
+
+   12 Use Cases of Web Scraping for Businesses in 2025
+   In this blog we have listed out the use cases of web scraping that
+   businesses can take advantage of.
+     * 2025-09-17
+
+   [207]Read More
+
+Try Scrapingdog for Free!
+
+   Get 1000 free credits to spin the API. No credit card required!
+   [208]Start your Free Trial
+
+Product
+
+     * [209]LinkedIn Profile Scraper API
+     * [210]LinkedIn Jobs API
+     * [211]Google Search API
+     * [212]Twitter Scraper API
+     * [213]Google Lens API
+     * [214]Amazon Scraper API
+     * [215]Google Maps API
+     * [216]Web Scraping As A Service
+     * [217]Free User-Agent Generator
+     * [218]Free YouTube Transcript Extractor
+
+     * [219]LinkedIn Profile Scraper API
+     * [220]LinkedIn Jobs API
+     * [221]Google Search API
+     * [222]Twitter Scraper API
+     * [223]Google Lens API
+     * [224]Amazon Scraper API
+     * [225]Google Maps API
+     * [226]Web Scraping As A Service
+     * [227]Free User-Agent Generator
+     * [228]Free YouTube Transcript Extractor
+
+Scrapingdog vs Competitors
+
+     * [229]Alternative to ScraperAPI
+     * [230]Alternative to Scrapingbee
+     * [231]Alternative to SerpAPI
+
+     * [232]Alternative to ScraperAPI
+     * [233]Alternative to Scrapingbee
+     * [234]Alternative to SerpAPI
+
+Learn Web Scraping
+
+     * [235]Web Scraping with Python
+     * [236]Web Scraping with Javascript
+     * [237]Web Scraping with PHP
+     * [238]Web Scraping with Java
+     * [239]Web Scraping with GO
+     * [240]Web Scraping with Ruby
+     * [241]Web Scraping with C#
+
+     * [242]Web Scraping with Python
+     * [243]Web Scraping with Javascript
+     * [244]Web Scraping with PHP
+     * [245]Web Scraping with Java
+     * [246]Web Scraping with GO
+     * [247]Web Scraping with Ruby
+     * [248]Web Scraping with C#
+
+Company
+
+     * [249]About
+     * [250]Documentation
+     * [251]Blog
+     * [252]Contact
+     * [253]Affiliate Program
+     * [254]Terms of Service
+     * [255]Privacy Policy
+     * [256]Data Processing Agreement
+     * [257]GDPR Compliance
+     * [258]SLA
+     * [259]Wall of   ¤
+     * [260]¢ Status
+
+     * [261]About
+     * [262]Documentation
+     * [263]Blog
+     * [264]Contact
+     * [265]Affiliate Program
+     * [266]Terms of Service
+     * [267]Privacy Policy
+     * [268]Data Processing Agreement
+     * [269]GDPR Compliance
+     * [270]SLA
+     * [271]Wall of   ¤
+     * [272]¢ Status
+
+   Company
+
+     * [273]About
+     * [274]Documentation
+     * [275]Blog
+     * [276]Contact
+     * [277]Affiliate Program
+     * [278]Terms of Service
+     * [279]Privacy Policy
+     * [280]Data Processing Agreement
+     * [281]GDPR Compliance
+     * [282]SLA
+     * [283]Wall of   ¤
+     * [284]¢ Status
+
+     * [285]About
+     * [286]Documentation
+     * [287]Blog
+     * [288]Contact
+     * [289]Affiliate Program
+     * [290]Terms of Service
+     * [291]Privacy Policy
+     * [292]Data Processing Agreement
+     * [293]GDPR Compliance
+     * [294]SLA
+     * [295]Wall of   ¤
+     * [296]¢ Status
+
+   Product
+
+     * [297]LinkedIn Profile Scraper API
+     * [298]LinkedIn Jobs API
+     * [299]Google Search API
+     * [300]Twitter Scraper API
+     * [301]Google Lens API
+     * [302]Amazon Scraper API
+     * [303]Google Maps API
+     * [304]Web Scraping As A Service
+     * [305]Free User-Agent Generator
+     * [306]Free YouTube Transcript Extractor
+
+     * [307]LinkedIn Profile Scraper API
+     * [308]LinkedIn Jobs API
+     * [309]Google Search API
+     * [310]Twitter Scraper API
+     * [311]Google Lens API
+     * [312]Amazon Scraper API
+     * [313]Google Maps API
+     * [314]Web Scraping As A Service
+     * [315]Free User-Agent Generator
+     * [316]Free YouTube Transcript Extractor
+
+   Scrapingdog vs Competitors
+
+     * [317]Alternative to ScraperAPI
+     * [318]Alternative to Scrapingbee
+     * [319]Alternative to SerpAPI
+
+     * [320]Alternative to ScraperAPI
+     * [321]Alternative to Scrapingbee
+     * [322]Alternative to SerpAPI
+
+   Learn Web Scraping
+
+     * [323]Web Scraping with Python
+     * [324]Web Scraping with Javascript
+     * [325]Web Scraping with PHP
+     * [326]Web Scraping with Java
+     * [327]Web Scraping with GO
+     * [328]Web Scraping with Ruby
+     * [329]Web Scraping with C#
+
+     * [330]Web Scraping with Python
+     * [331]Web Scraping with Javascript
+     * [332]Web Scraping with PHP
+     * [333]Web Scraping with Java
+     * [334]Web Scraping with GO
+     * [335]Web Scraping with Ruby
+     * [336]Web Scraping with C#
+
+   © 2020-2025 Scrapingdog. All rights reserved.
+
+References
+
+   Visible links:
+   1. https://www.scrapingdog.com/feed/
+   2. https://www.scrapingdog.com/comments/feed/
+   3. https://www.scrapingdog.com/blog/web-crawling-with-python/feed/
+   4. https://www.scrapingdog.com/wp-json/wp/v2/posts/17881
+   5. https://www.scrapingdog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.scrapingdog.com%2Fblog%2Fweb-crawling-with-python%2F
+   6. https://www.scrapingdog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.scrapingdog.com%2Fblog%2Fweb-crawling-with-python%2F&format=xml
+   7. https://www.googletagmanager.com/ns.html?id=GTM-P8RKS6W
+   8. https://www.scrapingdog.com/blog/web-crawling-with-python/#content
+   9. https://www.scrapingdog.com/universal-search-api/
+  10. https://www.scrapingdog.com/universal-search-api/
+  11. https://www.scrapingdog.com/data-extraction-api
+  12. https://www.scrapingdog.com/youtube-scraper-api/
+  13. https://www.scrapingdog.com/youtube-transcripts-api/
+  14. https://www.scrapingdog.com/social-media-scrapers/
+  15. https://www.scrapingdog.com/linkedin-scraper-api/
+  16. https://www.scrapingdog.com/linkedin-jobs-api/
+  17. https://www.scrapingdog.com/twitter-scraper-api/
+  18. https://www.scrapingdog.com/youtube-scraper-api/
+  19. https://www.scrapingdog.com/youtube-transcript-extractor/
+  20. https://www.scrapingdog.com/youtube-transcripts-api/
+  21. https://www.scrapingdog.com/facebook-scraper-api/
+  22. https://www.scrapingdog.com/instagram-scraper-api/
+  23. https://www.scrapingdog.com/amazon-scraper-api/
+  24. https://www.scrapingdog.com/walmart-scraper-api/
+  25. https://www.scrapingdog.com/ebay-search-scraper-api/
+  26. https://www.scrapingdog.com/datacenter-proxies/
+  27. https://www.scrapingdog.com/screenshot-api/
+  28. https://www.scrapingdog.com/bing-search-api/
+  29. https://www.scrapingdog.com/google-search-api/
+  30. https://www.scrapingdog.com/google-ai-mode-api/
+  31. https://www.scrapingdog.com/google-maps-api/
+  32. https://docs.scrapingdog.com/google-maps-api/google-maps-posts-api
+  33. https://docs.scrapingdog.com/google-maps-api/google-maps-reviews-api
+  34. https://docs.scrapingdog.com/google-maps-api/google-maps-photos-api
+  35. https://www.scrapingdog.com/google-news-scraper-api/
+  36. https://www.scrapingdog.com/google-trends-api/
+  37. https://www.scrapingdog.com/google-jobs-api/
+  38. https://www.scrapingdog.com/google-patents-api/
+  39. https://www.scrapingdog.com/google-finance-api/
+  40. https://docs.scrapingdog.com/google-videos-api
+  41. https://www.scrapingdog.com/google-images-api/
+  42. https://docs.scrapingdog.com/google-autocomplete-api
+  43. https://www.scrapingdog.com/google-shopping-api/
+  44. https://www.scrapingdog.com/google-lens-api/
+  45. https://docs.scrapingdog.com/google-product-api
+  46. https://www.scrapingdog.com/google-scholar-api/
+  47. https://docs.scrapingdog.com/google-scholar-api/google-scholar-author-profile-api
+  48. https://www.scrapingdog.com/llm-ready-data/
+  49. https://www.scrapingdog.com/universal-search-api/
+  50. https://www.scrapingdog.com/data-extraction-api
+  51. https://www.scrapingdog.com/youtube-scraper-api/
+  52. https://www.scrapingdog.com/youtube-transcripts-api/
+  53. https://www.scrapingdog.com/social-media-scrapers/
+  54. https://www.scrapingdog.com/linkedin-scraper-api/
+  55. https://www.scrapingdog.com/linkedin-jobs-api/
+  56. https://www.scrapingdog.com/twitter-scraper-api/
+  57. https://www.scrapingdog.com/youtube-scraper-api/
+  58. https://www.scrapingdog.com/youtube-transcript-extractor/
+  59. https://www.scrapingdog.com/youtube-transcripts-api/
+  60. https://www.scrapingdog.com/facebook-scraper-api/
+  61. https://www.scrapingdog.com/instagram-scraper-api/
+  62. https://www.scrapingdog.com/amazon-scraper-api/
+  63. https://www.scrapingdog.com/walmart-scraper-api/
+  64. https://www.scrapingdog.com/ebay-search-scraper-api/
+  65. https://www.scrapingdog.com/datacenter-proxies/
+  66. https://www.scrapingdog.com/screenshot-api/
+  67. https://www.scrapingdog.com/bing-search-api/
+  68. https://www.scrapingdog.com/google-search-api/
+  69. https://www.scrapingdog.com/google-ai-mode-api/
+  70. https://www.scrapingdog.com/google-maps-api/
+  71. https://docs.scrapingdog.com/google-maps-api/google-maps-posts-api
+  72. https://docs.scrapingdog.com/google-maps-api/google-maps-reviews-api
+  73. https://docs.scrapingdog.com/google-maps-api/google-maps-photos-api
+  74. https://www.scrapingdog.com/google-news-scraper-api/
+  75. https://www.scrapingdog.com/google-trends-api/
+  76. https://www.scrapingdog.com/google-jobs-api/
+  77. https://www.scrapingdog.com/google-patents-api/
+  78. https://www.scrapingdog.com/google-finance-api/
+  79. https://docs.scrapingdog.com/google-videos-api
+  80. https://www.scrapingdog.com/google-images-api/
+  81. https://docs.scrapingdog.com/google-autocomplete-api
+  82. https://www.scrapingdog.com/google-shopping-api/
+  83. https://www.scrapingdog.com/google-lens-api/
+  84. https://docs.scrapingdog.com/google-product-api
+  85. https://www.scrapingdog.com/google-scholar-api/
+  86. https://docs.scrapingdog.com/google-scholar-api/google-scholar-author-profile-api
+  87. https://www.scrapingdog.com/llm-ready-data/
+  88. https://www.scrapingdog.com/#pricing
+  89. https://docs.scrapingdog.com/
+  90. https://www.scrapingdog.com/blog/
+  91. https://www.scrapingdog.com/video-tutorials-and-tips/
+  92. https://www.scrapingdog.com/no-code-tutorials/
+  93. https://www.scrapingdog.com/webscraping-problems/
+  94. https://www.scrapingdog.com/review-page
+  95. https://www.scrapingdog.com/universal-search-api/
+  96. https://www.scrapingdog.com/data-extraction-api/
+  97. https://www.scrapingdog.com/youtube-scraper-api/
+  98. https://www.scrapingdog.com/youtube-transcripts-api/
+  99. https://www.scrapingdog.com/linkedin-scraper-api/
+ 100. https://www.scrapingdog.com/linkedin-jobs-api/
+ 101. https://www.scrapingdog.com/amazon-scraper-api/
+ 102. https://www.scrapingdog.com/walmart-scraper-api/
+ 103. https://www.scrapingdog.com/ebay-search-scraper-api/
+ 104. https://www.scrapingdog.com/twitter-scraper-api/
+ 105. https://www.scrapingdog.com/datacenter-proxies/
+ 106. https://www.scrapingdog.com/screenshot-api/
+ 107. https://www.scrapingdog.com/bing-search-api/
+ 108. https://www.scrapingdog.com/google-search-api/
+ 109. https://www.scrapingdog.com/google-ai-mode-api/
+ 110. https://www.scrapingdog.com/google-maps-api/
+ 111. https://www.scrapingdog.com/google-maps-api/
+ 112. https://www.scrapingdog.com/google-maps-posts-api/
+ 113. https://www.scrapingdog.com/google-maps-reviews-api/
+ 114. https://www.scrapingdog.com/google-maps-photos-api/
+ 115. https://www.scrapingdog.com/google-news-scraper-api/
+ 116. https://www.scrapingdog.com/google-trends-api/
+ 117. https://www.scrapingdog.com/google-jobs-api/
+ 118. https://www.scrapingdog.com/google-patents-api/
+ 119. https://www.scrapingdog.com/google-finance-api/
+ 120. https://www.scrapingdog.com/google-videos-api/
+ 121. https://www.scrapingdog.com/google-lens-api/
+ 122. https://www.scrapingdog.com/google-images-api/
+ 123. https://www.scrapingdog.com/google-autocomplete-api/
+ 124. https://www.scrapingdog.com/google-shopping-api/
+ 125. https://www.scrapingdog.com/google-product-api/
+ 126. https://www.scrapingdog.com/google-scholar-api/
+ 127. https://www.scrapingdog.com/google-scholar-author-profile-api/
+ 128. https://api.scrapingdog.com/register
+ 129. https://www.scrapingdog.com/llm-ready-data/
+ 130. https://www.scrapingdog.com/#pricing
+ 131. https://docs.scrapingdog.com/
+ 132. https://www.scrapingdog.com/blog/
+ 133. https://www.scrapingdog.com/video-tutorials-and-tips/
+ 134. https://www.scrapingdog.com/no-code-tutorials/
+ 135. https://www.scrapingdog.com/webscraping-problems/
+ 136. https://www.scrapingdog.com/review-page/
+ 137. https://api.scrapingdog.com/login
+ 138. https://www.scrapingdog.com/universal-search-api/
+ 139. https://www.scrapingdog.com/data-extraction-api/
+ 140. https://www.scrapingdog.com/youtube-scraper-api/
+ 141. https://www.scrapingdog.com/youtube-transcripts-api/
+ 142. https://www.scrapingdog.com/linkedin-scraper-api/
+ 143. https://www.scrapingdog.com/linkedin-jobs-api/
+ 144. https://www.scrapingdog.com/amazon-scraper-api/
+ 145. https://www.scrapingdog.com/walmart-scraper-api/
+ 146. https://www.scrapingdog.com/ebay-search-scraper-api/
+ 147. https://www.scrapingdog.com/twitter-scraper-api/
+ 148. https://www.scrapingdog.com/datacenter-proxies/
+ 149. https://www.scrapingdog.com/screenshot-api/
+ 150. https://www.scrapingdog.com/bing-search-api/
+ 151. https://www.scrapingdog.com/google-search-api/
+ 152. https://www.scrapingdog.com/google-ai-mode-api/
+ 153. https://www.scrapingdog.com/google-maps-api/
+ 154. https://www.scrapingdog.com/google-maps-api/
+ 155. https://www.scrapingdog.com/google-maps-posts-api/
+ 156. https://www.scrapingdog.com/google-maps-reviews-api/
+ 157. https://www.scrapingdog.com/google-maps-photos-api/
+ 158. https://www.scrapingdog.com/google-news-scraper-api/
+ 159. https://www.scrapingdog.com/google-trends-api/
+ 160. https://www.scrapingdog.com/google-jobs-api/
+ 161. https://www.scrapingdog.com/google-patents-api/
+ 162. https://www.scrapingdog.com/google-finance-api/
+ 163. https://www.scrapingdog.com/google-videos-api/
+ 164. https://www.scrapingdog.com/google-lens-api/
+ 165. https://www.scrapingdog.com/google-images-api/
+ 166. https://www.scrapingdog.com/google-autocomplete-api/
+ 167. https://www.scrapingdog.com/google-shopping-api/
+ 168. https://www.scrapingdog.com/google-product-api/
+ 169. https://www.scrapingdog.com/google-scholar-api/
+ 170. https://www.scrapingdog.com/google-scholar-author-profile-api/
+ 171. https://api.scrapingdog.com/register
+ 172. https://www.scrapingdog.com/llm-ready-data/
+ 173. https://www.scrapingdog.com/#pricing
+ 174. https://docs.scrapingdog.com/
+ 175. https://www.scrapingdog.com/blog/
+ 176. https://www.scrapingdog.com/video-tutorials-and-tips/
+ 177. https://www.scrapingdog.com/no-code-tutorials/
+ 178. https://www.scrapingdog.com/webscraping-problems/
+ 179. https://www.scrapingdog.com/review-page/
+ 180. https://api.scrapingdog.com/login
+ 181. https://api.scrapingdog.com/login
+ 182. https://api.scrapingdog.com/register
+ 183. https://www.scrapingdog.com/blog/crawling-vs-scraping/
+ 184. https://requests.readthedocs.io/
+ 185. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+ 186. https://scrapy.org/
+ 187. https://www.scrapingdog.com/blog/what-is-web-scraping/
+ 188. https://www.scrapingdog.com/blog/best-python-web-scraping-libraries/
+ 189. https://books.toscrape.com/
+ 190. https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/
+ 191. https://books.toscrape.com/
+ 192. https://www.scrapingdog.com/datacenter-proxies/
+ 193. https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
+ 194. https://docs.scrapy.org/en/latest/topics/settings.html?highlight=concurrent+#concurrent-requests
+ 195. https://docs.scrapy.org/en/latest/topics/settings.html?highlight=ROBOTSTXT_OBEY#robotstxt-obey
+ 196. https://www.scrapingdog.com/blog/scrape-amazon/
+ 197. https://www.scrapingdog.com/blog/javascript-web-crawler-nodejs/
+ 198. https://www.scrapingdog.com/webscraping-problems/python/which-is-better-for-web-scraping-python-or-javascript
+ 199. https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/
+ 200. https://www.scrapingdog.com/author/manthan-koolwal/
+ 201. https://x.com/KoolwalManthan
+ 202. https://www.linkedin.com/in/manthan-koolwal-19639115a/
+ 203. https://scrapingking.medium.com/
+ 204. https://api.scrapingdog.com/register
+ 205. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 206. https://www.scrapingdog.com/blog/best-language-for-web-scraping/
+ 207. https://www.scrapingdog.com/blog/web-scraping-use-cases/
+ 208. https://api.scrapingdog.com/register
+ 209. https://www.scrapingdog.com/linkedin-scraper-api/
+ 210. https://www.scrapingdog.com/linkedin-jobs-api/
+ 211. https://www.scrapingdog.com/google-search-api/
+ 212. https://www.scrapingdog.com/twitter-scraper-api/
+ 213. https://www.scrapingdog.com/google-lens-api/
+ 214. https://www.scrapingdog.com/amazon-scraper-api/
+ 215. https://www.scrapingdog.com/google-maps-api/
+ 216. https://www.scrapingdog.com/web-scraping-service/
+ 217. https://www.scrapingdog.com/user-agent-generator/
+ 218. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 219. https://www.scrapingdog.com/linkedin-scraper-api/
+ 220. https://www.scrapingdog.com/linkedin-jobs-api/
+ 221. https://www.scrapingdog.com/google-search-api/
+ 222. https://www.scrapingdog.com/twitter-scraper-api/
+ 223. https://www.scrapingdog.com/google-lens-api/
+ 224. https://www.scrapingdog.com/amazon-scraper-api/
+ 225. https://www.scrapingdog.com/google-maps-api/
+ 226. https://www.scrapingdog.com/web-scraping-service/
+ 227. https://www.scrapingdog.com/user-agent-generator/
+ 228. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 229. https://www.scrapingdog.com/scraperapi-alternative/
+ 230. https://www.scrapingdog.com/scrapingbee-alternative/
+ 231. https://www.scrapingdog.com/serpapi-alternative/
+ 232. https://www.scrapingdog.com/scraperapi-alternative/
+ 233. https://www.scrapingdog.com/scrapingbee-alternative/
+ 234. https://www.scrapingdog.com/serpapi-alternative/
+ 235. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 236. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 237. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 238. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 239. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 240. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 241. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+ 242. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 243. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 244. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 245. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 246. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 247. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 248. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+ 249. https://www.scrapingdog.com/about/
+ 250. https://docs.scrapingdog.com/
+ 251. https://www.scrapingdog.com/blog/
+ 252. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 253. https://www.scrapingdog.com/affiliates/
+ 254. https://www.scrapingdog.com/terms/
+ 255. https://www.scrapingdog.com/privacy/
+ 256. https://www.scrapingdog.com/data-processing-agreement/
+ 257. https://www.scrapingdog.com/gdpr/
+ 258. https://www.scrapingdog.com/sla/
+ 259. https://www.scrapingdog.com/review-page/
+ 260. https://stats.uptimerobot.com/SAQkQwbOYj
+ 261. https://www.scrapingdog.com/about/
+ 262. https://docs.scrapingdog.com/
+ 263. https://www.scrapingdog.com/blog/
+ 264. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 265. https://www.scrapingdog.com/affiliates/
+ 266. https://www.scrapingdog.com/terms/
+ 267. https://www.scrapingdog.com/privacy/
+ 268. https://www.scrapingdog.com/data-processing-agreement/
+ 269. https://www.scrapingdog.com/gdpr/
+ 270. https://www.scrapingdog.com/sla/
+ 271. https://www.scrapingdog.com/review-page/
+ 272. https://stats.uptimerobot.com/SAQkQwbOYj
+ 273. https://www.scrapingdog.com/about/
+ 274. https://docs.scrapingdog.com/
+ 275. https://www.scrapingdog.com/blog/
+ 276. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 277. https://www.scrapingdog.com/affiliates/
+ 278. https://www.scrapingdog.com/terms/
+ 279. https://www.scrapingdog.com/privacy/
+ 280. https://www.scrapingdog.com/data-processing-agreement/
+ 281. https://www.scrapingdog.com/gdpr/
+ 282. https://www.scrapingdog.com/sla/
+ 283. https://www.scrapingdog.com/review-page/
+ 284. https://stats.uptimerobot.com/SAQkQwbOYj
+ 285. https://www.scrapingdog.com/about/
+ 286. https://docs.scrapingdog.com/
+ 287. https://www.scrapingdog.com/blog/
+ 288. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 289. https://www.scrapingdog.com/affiliates/
+ 290. https://www.scrapingdog.com/terms/
+ 291. https://www.scrapingdog.com/privacy/
+ 292. https://www.scrapingdog.com/data-processing-agreement/
+ 293. https://www.scrapingdog.com/gdpr/
+ 294. https://www.scrapingdog.com/sla/
+ 295. https://www.scrapingdog.com/review-page/
+ 296. https://stats.uptimerobot.com/SAQkQwbOYj
+ 297. https://www.scrapingdog.com/linkedin-scraper-api/
+ 298. https://www.scrapingdog.com/linkedin-jobs-api/
+ 299. https://www.scrapingdog.com/google-search-api/
+ 300. https://www.scrapingdog.com/twitter-scraper-api/
+ 301. https://www.scrapingdog.com/google-lens-api/
+ 302. https://www.scrapingdog.com/amazon-scraper-api/
+ 303. https://www.scrapingdog.com/google-maps-api/
+ 304. https://www.scrapingdog.com/web-scraping-service/
+ 305. https://www.scrapingdog.com/user-agent-generator/
+ 306. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 307. https://www.scrapingdog.com/linkedin-scraper-api/
+ 308. https://www.scrapingdog.com/linkedin-jobs-api/
+ 309. https://www.scrapingdog.com/google-search-api/
+ 310. https://www.scrapingdog.com/twitter-scraper-api/
+ 311. https://www.scrapingdog.com/google-lens-api/
+ 312. https://www.scrapingdog.com/amazon-scraper-api/
+ 313. https://www.scrapingdog.com/google-maps-api/
+ 314. https://www.scrapingdog.com/web-scraping-service/
+ 315. https://www.scrapingdog.com/user-agent-generator/
+ 316. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 317. https://www.scrapingdog.com/scraperapi-alternative/
+ 318. https://www.scrapingdog.com/scrapingbee-alternative/
+ 319. https://www.scrapingdog.com/serpapi-alternative/
+ 320. https://www.scrapingdog.com/scraperapi-alternative/
+ 321. https://www.scrapingdog.com/scrapingbee-alternative/
+ 322. https://www.scrapingdog.com/serpapi-alternative/
+ 323. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 324. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 325. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 326. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 327. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 328. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 329. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+ 330. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 331. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 332. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 333. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 334. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 335. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 336. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+
+   Hidden links:
+ 338. https://www.scrapingdog.com/
+ 339. https://x.com/scrapingdog
+ 340. https://www.linkedin.com/company/scrapingdog/
+ 341. https://medium.com/@darshankhandelwal12
+ 342. https://www.youtube.com/@scrapingdog9955
+   #[1]Scraping Dog » Feed [2]Scraping Dog » Comments Feed [3]Scraping Dog
+   » Build Web Crawler with Python (Complete Guide) Comments Feed [4]JSON
+   [5]oEmbed (JSON) [6]oEmbed (XML)
+
+   IFRAME: [7]https://www.googletagmanager.com/ns.html?id=GTM-P8RKS6W
+
+   [8]Skip to content
+
+Announcement: We are releasing a new API that gives data from all major
+search engines in one call.
+
+   [9]Learn More
+
+   Add Your Heading Text Here
+
+   (BUTTON)
+     * Products
+       (BUTTON) Close Products Open Products
+
+Products
+          + [10]Universal Search API
+          + [11]Data Extraction API
+          + YouTube API
+               o [12]YouTube Scraper API
+               o [13]YouTube Transcripts API
+          + [14]Social Media API
+               o [15]LinkedIn Scraper API
+               o [16]LinkedIn Jobs API
+               o [17]Twitter Scraper API
+               o [18]YouTube Scraper API
+               o [19]YouTube Transcript Extractor
+               o [20]YouTube Transcripts API
+               o [21]Facebook Scraper API
+               o [22]Instagram Scraper API
+          + [23]Amazon Scraper API
+          + [24]Walmart Scraper API
+          + [25]Ebay Search Scraper
+          + [26]Datacenter Proxies
+          + [27]Screenshot API
+          + [28]Bing Search API
+          + Google APIs
+               o [29]Google SERP API
+               o [30]Google AI Mode API
+               o Google Maps APIs
+                    # [31]Google Maps APIs
+                    # [32]Google Maps Posts API
+                    # [33]Google Maps Reviews API
+                    # [34]Google Maps Photos API
+               o [35]Google News API
+               o [36]Google Trends API
+               o [37]Google Jobs API
+               o [38]Google Patents API
+               o [39]Google Finance API
+               o [40]Google Videos API
+               o [41]Google Images API
+               o [42]Google Autocomplete API
+               o [43]Google Shopping API
+               o [44]Google Lens API
+               o [45]Google Product API
+               o Google Scholar API
+                    # [46]Google Scholar API
+                    # [47]Scholar Author Profile
+          + [48]LLM Ready Data
+          + [49]Universal Search API
+          + [50]Data Extraction API
+          + YouTube API
+               o [51]YouTube Scraper API
+               o [52]YouTube Transcripts API
+          + [53]Social Media API
+               o [54]LinkedIn Scraper API
+               o [55]LinkedIn Jobs API
+               o [56]Twitter Scraper API
+               o [57]YouTube Scraper API
+               o [58]YouTube Transcript Extractor
+               o [59]YouTube Transcripts API
+               o [60]Facebook Scraper API
+               o [61]Instagram Scraper API
+          + [62]Amazon Scraper API
+          + [63]Walmart Scraper API
+          + [64]Ebay Search Scraper
+          + [65]Datacenter Proxies
+          + [66]Screenshot API
+          + [67]Bing Search API
+          + Google APIs
+               o [68]Google SERP API
+               o [69]Google AI Mode API
+               o Google Maps APIs
+                    # [70]Google Maps APIs
+                    # [71]Google Maps Posts API
+                    # [72]Google Maps Reviews API
+                    # [73]Google Maps Photos API
+               o [74]Google News API
+               o [75]Google Trends API
+               o [76]Google Jobs API
+               o [77]Google Patents API
+               o [78]Google Finance API
+               o [79]Google Videos API
+               o [80]Google Images API
+               o [81]Google Autocomplete API
+               o [82]Google Shopping API
+               o [83]Google Lens API
+               o [84]Google Product API
+               o Google Scholar API
+                    # [85]Google Scholar API
+                    # [86]Scholar Author Profile
+          + [87]LLM Ready Data
+     * [88]Pricing
+     * [89]Documentation
+     * Resources
+       (BUTTON) Close Resources Open Resources
+
+Resources
+          + [90]Blog
+          + [91]Video Tutorials
+          + [92]No Code Tutorials
+          + [93]Common Web Scraping Questions
+     * [94]Wall of  ¤
+
+     * Products
+          + [95]Universal Search API
+          + [96]Data Extraction API
+          + YouTube API
+               o [97]YouTube Search Scraper API
+               o [98]YouTube Transcripts API
+          + [99]LinkedIn Scraper API
+          + [100]LinkedIn Jobs API
+          + [101]Amazon Scraper API
+          + [102]Walmart Scraper API
+          + [103]Ebay Search Scraper
+          + [104]Twitter Scraper API
+          + [105]Datacenter Proxies
+          + [106]Screenshot API
+          + [107]Bing Search API
+          + Google APIs
+               o [108]Google SERP API
+               o [109]Google AI Mode API
+               o [110]Google Maps API
+                    # [111]Google Maps API
+                    # [112]Google Maps Posts API
+                    # [113]Google Maps Reviews API
+                    # [114]Google Maps Photos API
+               o [115]Google News API
+               o [116]Google Trends API
+               o [117]Google Jobs API
+               o [118]Google Patents API
+               o [119]Google Finance API
+               o [120]Google Videos API
+               o [121]Google Lens API
+               o [122]Google Images API
+               o [123]Google Autocomplete API
+               o [124]Google Shopping API
+               o [125]Google Product API
+               o Google Scholar API
+                    # [126]Google Scholar API
+                    # [127]Scholar Author Profile
+               o [128]Get free trial
+          + [129]LLM Ready Data
+     * [130]Pricing
+     * [131]Documentation
+     * Resources
+          + [132]Blog
+          + [133]Video Tutorials
+          + [134]No Code Tutorials
+          + [135]Common Web Scraping Questions
+     * [136]Wall of  ¤
+     * [137]Login
+
+   Menu
+
+     * Products
+          + [138]Universal Search API
+          + [139]Data Extraction API
+          + YouTube API
+               o [140]YouTube Search Scraper API
+               o [141]YouTube Transcripts API
+          + [142]LinkedIn Scraper API
+          + [143]LinkedIn Jobs API
+          + [144]Amazon Scraper API
+          + [145]Walmart Scraper API
+          + [146]Ebay Search Scraper
+          + [147]Twitter Scraper API
+          + [148]Datacenter Proxies
+          + [149]Screenshot API
+          + [150]Bing Search API
+          + Google APIs
+               o [151]Google SERP API
+               o [152]Google AI Mode API
+               o [153]Google Maps API
+                    # [154]Google Maps API
+                    # [155]Google Maps Posts API
+                    # [156]Google Maps Reviews API
+                    # [157]Google Maps Photos API
+               o [158]Google News API
+               o [159]Google Trends API
+               o [160]Google Jobs API
+               o [161]Google Patents API
+               o [162]Google Finance API
+               o [163]Google Videos API
+               o [164]Google Lens API
+               o [165]Google Images API
+               o [166]Google Autocomplete API
+               o [167]Google Shopping API
+               o [168]Google Product API
+               o Google Scholar API
+                    # [169]Google Scholar API
+                    # [170]Scholar Author Profile
+               o [171]Get free trial
+          + [172]LLM Ready Data
+     * [173]Pricing
+     * [174]Documentation
+     * Resources
+          + [175]Blog
+          + [176]Video Tutorials
+          + [177]No Code Tutorials
+          + [178]Common Web Scraping Questions
+     * [179]Wall of  ¤
+     * [180]Login
+
+   [181]Login
+   [182]Get free trial
+
+Build Web Crawler with Python (Complete Guide)
+
+     * Published Date
+     * October 1, 2024
+
+     * Read
+     * 4min
+
+Table of Contents
+
+   TL;DR
+     * Explains crawling vs scraping; start from a seed URL and follow
+       links recursively to collect pages.
+     * Builds a mini crawler in Python with requests + BeautifulSoup
+       (Books to Scrape demo).
+     * Scales up with Scrapy (CrawlSpider + link rules) and exports
+       results to JSON.
+     * Scaling tips: use proxies (Scrapingdog datacenter proxy; 1k free
+       credits), tune delays / concurrency, and respect robots.txt.
+
+   Web crawling is a technique by which you can automatically navigate
+   through multiple URLs and collect a tremendous amount of data. You can
+   find all the URLs of multiple domains and extract information from
+   them.
+
+   This technique is mainly used by search engines like Google, Yahoo, and
+   Bing to rank websites and suggest results to the user based on the
+   query one makes.
+
+   In this article, we are going to first understand the
+   main [183]difference between web crawling and web scraping. This will
+   help you create a thin line in your mind between web scraping and web
+   crawling.
+
+   Before we go in and create a full-fledged web crawler I will show you
+   how you can create a small web crawler
+   using [184]requests and [185]BeautifulSoup. This will give you a clear
+   idea of what exactly a web crawler is. Then we will create a
+   production-ready web crawler using [186]Scrapy.
+
+What is web crawling?
+
+   Web crawling is an automated bot whose job is to visit multiple URLs on
+   a single website or multiple websites and download content from those
+   pages. Then this data can be used for multiple purposes like price
+   analysis, indexing on search engines, monitoring changes on websites,
+   etc.
+
+   It all starts with the seed URL which is the entry point of any web
+   crawler. The web crawler then downloads HTML content from the page by
+   making a GET request. The data downloaded is now parsed using various
+   html parsing libraries to extract the most valuable data from it.
+
+   Extracted data might contain links to other pages on the same website.
+   Now, the crawler will make GET requests to these pages as well to
+   repeat the same process that it did with the seed URL. Of course, this
+   process is a recursive process that enables the script to visit every
+   URL on the domain and gather all the information available.
+
+How web crawling is different from web scraping?
+
+   Web scraping and web crawling might sound similar but there is a fine
+   line between them which makes them very different.
+
+   Web scraping involves making a GET request to just one single page and
+   extracting the data present on the page. It will not look for other
+   URLs available on the page. Of course, web scraping is comparatively
+   fast because it works on a single page only.
+
+   Read More: [187]What is Web Scraping?
+
+Web Crawling using Requests & BeautifulSoup
+
+   In my experience, the combination of requests and BS4 is the best when
+   it comes to downloading and parsing the raw HTML. If you want to learn
+   more about the [188]best libraries for web scraping with Python then
+   check out this guide,
+
+   In this section, we will create a small crawler for this [189]website.
+   So, according to the flowchart shown above the crawler will look for
+   links right from the seed URL. The crawler will then go to each link
+   and extract data.
+
+   Let's first download these two libraries in the coding environment.
+
+                                        pip install requests
+pip install bs4
+
+
+   We will be using another library urllib.parse but since it is a part of
+   the Python standard library, there is no need for installation.
+
+   A basic Python crawler for our target website will look like this.
+
+                                        import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+
+# URL of the website to crawl
+base_url = "https://books.toscrape.com/"
+
+# Set to store visited URLs
+visited_urls = set()
+
+# List to store URLs to visit next
+urls_to_visit = [base_url]
+
+# Function to crawl a page and extract links
+def crawl_page(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for HTTP errors
+
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # Extract links and enqueue new URLs
+        links = []
+        for link in soup.find_all("a", href=True):
+            next_url = urljoin(url, link["href"])
+            links.append(next_url)
+
+        return links
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error crawling {url}: {e}")
+        return []
+
+# Crawl the website
+while urls_to_visit:
+    current_url = urls_to_visit.pop(0)  # Dequeue the first URL
+
+    if current_url in visited_urls:
+        continue
+
+    print(f"Crawling: {current_url}")
+
+    new_links = crawl_page(current_url)
+    visited_urls.add(current_url)
+    urls_to_visit.extend(new_links)
+
+print("Crawling finished.")
+
+
+   It is a very simple code but let me break it down and explain it to
+   you.
+    1. We import the required libraries: requests, BeautifulSoup,
+       and urljoin from urllib.parse.
+    2. We define the base_url of the website and initialize a
+       set visited_urls to store visited URLs.
+    3. We define a urls_to_visit list to store URLs that need to be
+       crawled. We start with the base URL.
+    4. We define the crawl_page() function to fetch a web page, parse its
+       HTML content, and extract links from it.
+    5. Inside the function, we use requests.get() to fetch the page
+       and BeautifulSoup to parse its content.
+    6. We iterate through each <a> tag to extract links, and convert them
+       to absolute URLs using urljoin(), and add them to the links list.
+    7. The while loop continues as long as there are URLs in
+       the urls_to_visit list. For each URL, we:
+
+     * Dequeue the URL and check if it has been visited before.
+     * Call the crawl_page() function to fetch the page and extract links.
+     * Add the current URL to the visited_urls set and enqueue the new
+       links to urls_to_visit.
+
+   8. Once the crawling process is complete, we print a message indicating
+   that the process has finished.
+
+   To run this code you can type this command on bash. I have named my
+   file crawl.py.
+
+                                        python crawl.py
+
+
+   Once your crawler starts, this will appear on your screen.
+
+   This code might give you an idea of how web crawling works. However,
+   there are certain limitations and potential disadvantages to this code.
+     * No Parallelism: The code does not utilize parallel processing,
+       meaning that only one request is processed at a time. Parallelizing
+       the crawling process can significantly improve the speed of
+       crawling.
+     * Lack of Error Handling: The code lacks detailed error handling for
+       various scenarios, such as handling specific HTTP errors,
+       connection timeouts, and more. Proper error handling is crucial for
+       robust crawling.
+     * Depth-First Crawling: The code uses a breadth-first approach, but
+       in certain cases, depth-first crawling might be more efficient.
+       This depends on the structure of the website and the goals of the
+       crawling operation. If you want to learn more about BFS and DFS
+       then read this [190]guide. BFS looks for the shortest path to reach
+       the destination.
+
+   In the next section, we are going to create a web crawler using Scrapy
+   which will help us eliminate these limitations.
+
+Web Crawler using Scrapy
+
+   Again we are going to use the same [191]site for crawling with Scrapy.
+
+   This page has a lot of information like warnings, titles, categories,
+   etc. Our task would be to find links that match a certain pattern. For
+   example, when we click on any of the categories we can see a certain
+   pattern in the URL.
+
+   Every URL will have /catalogue, /category and /books. But when we click
+   on a book we only see /catalogue and nothing else.
+
+   So, one task would be to instruct our web crawler to find all the links
+   that have this pattern. The web crawler would then follow to find all
+   the available links with /catalogue/category patterns in them. That
+   would be the mission of our web crawler.
+
+   In this case, it would be quite trivial because we have a sidebar where
+   all the categories are listed but in a real-world project, you will
+   oftentimes have something like maybe the top 10 categories that you can
+   click and then there are a hundred more categories that you have to
+   find by for example going into a book and then you have another 10
+   sub-categories of the book present on that book page.
+
+   So, you can instruct the crawler to go into all the different book
+   pages to find all the secondary categories and then collect all the
+   pages that are category pages.
+
+   This could be the web crawling task and the web scraping task could be
+   to collect titles and prices of the books from each dedicated book
+   page. I hope you got the idea now. Let's proceed with the coding part!
+
+   We will start with downloading Scrapy. It is a web scraping or web
+   crawling framework. It is not just a simple library but an actual
+   framework. Once you download this it will create multiple python files
+   in your folder. You can type the following command in your cmd to
+   install it.
+
+                                        pip install scrapy
+
+
+   Once you install it you can go back to your working directory and run
+   this command.
+
+                                        scrapy startproject learncrawling
+
+
+   You can of course use whatever name you like. I have
+   used learncrawling. Once the project is created you can see that in
+   your chosen directory you have a new directory with the project name
+   inside it.
+
+   You will see a bunch of other Python files as well. We will cover some
+   of these files later in this blog. But the most important directory
+   here is the spider's directory. These are actually the constructs that
+   we use for the web crawling process.
+
+   We can create our own custom spiders to define our own crawling
+   process. We are going to create a new Python file inside this.
+
+   In this file, we are going to write some code.
+
+                                        from scrapy.spiders import CrawlSpider,
+Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+    1. from scrapy.spider import CrawlSpider: This line imports
+       the CrawlSpider class from the scrapy.spider module. CrawlSpider is
+       a subclass of the base Spider class provided by Scrapy. It is used
+       to create spider classes specifically designed for crawling
+       websites by following links. Rule is used to define rules for link
+       extraction and following.
+    2. from scrapy.linkextractors import LinkExtractor: This line imports
+       the LinkExtractor class from
+       the scrapy.linkextractors module. LinkExtractor is a utility class
+       provided by Scrapy to extract links from web pages based on
+       specified rules and patterns.
+
+   Then we want to create a new class which is going to be our custom
+   spider class. I'm going to call this class CrawlingSpider and this is
+   going to inherit from the CrawlSpider class.
+
+                                        from scrapy.spiders import CrawlSpider,
+Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+
+class CrawlingSpider(CrawlSpider):
+    name = "mycrawler"
+    allowed_domains = ["toscrape.com"]
+    start_urls = ["https://books.toscrape.com/"]
+
+
+    rules = (
+        Rule(LinkExtractor(allow="catalogue/category")),
+    )
+
+
+   name = "mycrawler": This attribute specifies the name of the spider.
+   The name is used to uniquely identify the spider when running Scrapy
+   commands.
+
+   allowed_domains = ["toscrape.com"]: This attribute defines a list of
+   domain names that the spider is allowed to crawl. In this case, it
+   specifies that the spider should only crawl within the domain
+   "toscrape.com".
+
+   start_urls = ["https://books.toscrape.com/"]: This attribute provides a
+   list of starting URLs for the spider. The spider will begin crawling
+   from these URLs.
+
+   Rule(LinkExtractor(allow="catalogue/category")),: This line defines a
+   rule using the Rule class. It utilizes a LinkExtractor to extract links
+   based on the provided rule. The allow parameter specifies a regular
+   expression pattern that is used to match URLs. In this case, it's
+   looking for URLs containing the text "catalogue/category".
+
+                                        scrapy crawl mycrawler
+
+
+   Once it starts running you will see something like this on your bash.
+
+   Our crawler is finding all these urls. But what if we want to find
+   links to individual book pages as well and we want to scrape certain
+   information from that?
+
+   Now, we will look for certain things in our spiders and we will extract
+   some data from each individual book page. For finding book pages I will
+   define a new rule.
+
+                                        Rule(LinkExtractor(allow="catalogue", de
+ny="category"), callback="parse_item")
+
+
+   This will find all the URLs with catalogue in it but it will deny the
+   pages with category in them. Then we use a callback function to pass
+   all of our crawled urls. This function will then handle the web
+   scraping part.
+
+What Will We Scrape
+
+   We are going to scrape:
+     * Title of the book
+     * Price of the book
+     * Availability
+
+   Let's find out their DOM locations one by one.
+
+   The title can be seen under the class product_main with h1 tags.
+
+   Pricing can be seen under the p tag with class price_color.
+
+   Availability can be seen under the p tag with class availability.
+
+   Let's put all this under the code under parse_item() function.
+
+                                        def parse_item(self,response):
+
+        yield {
+            "title":response.css(".product_main h1::text").get(),
+            "price":response.css(".price_color::text").get(),
+            "availability":response.css(".availability::text")[1].get().strip()
+        }
+
+
+     * yield { ... }: This line starts a dictionary comprehension enclosed
+       within curly braces. This dictionary will be yielded as the output
+       of the method, effectively passing the extracted data to Scrapy's
+       output pipeline.
+     * "title": response.css(".product_main h1::text").get(): This line
+       extracts the text content of the <h1> element within
+       the .product_main class using a CSS selector.
+       The ::text pseudo-element is used to select the text content.
+       The .get() method retrieves the extracted text.
+     * "price": response.css(".price_color::text").get(): This line
+       extracts the text content of the element with
+       the .price_color class, similar to the previous line.
+     * "availability":
+       response.css(".availability::text")[1].get().strip(): This line
+       extracts the text content of the third element with
+       the .availability class on the page. [2] indicates that we're
+       selecting the third matching element (remember that indexing is
+       zero-based). The .get() method retrieves the text content.
+       The strip() function is used to remove the white spaces.
+
+   Our spider is now ready and we can run it from our terminal. Once again
+   we are going to use the same command.
+
+                                        scrapy crawl mycrawler
+
+
+   Let's run it and see the results. I am pretty excited.
+
+   Our spider scrapes all the books and goes through all the instances
+   that it can find. It will probably take some time but at the end, you
+   will see all the extracted data. You can even notice the dictionary
+   that is being printed, it contains all the data we wanted to scrape.
+
+   What if I want to save this data?
+
+Saving the data in a JSON file
+
+   You can save this data into a JSON file very easily. You can do it
+   directly from the bash, no need to make any changes in the code.
+
+                                        scrapy crawl mycrawler -o results.json
+
+
+   This will then take all the scraped information and save it in a JSON
+   file.
+
+   We have got the title, price, and availability. You can of course play
+   with it a little and extract the integer from the availability string
+   using regex. But my purpose in this was to explain to you how it can be
+   done fast and smoothly.
+
+Web Crawling with Proxy
+
+   One problem you might face in your web crawling journey is you might
+   get blocked from accessing the website. This happens because you might
+   be sending too many requests to the website due to which it might ban
+   your IP. This will put a breakage to your data pipeline.
+
+   In order to prevent this you can use proxy services that can handle IP
+   rotations, and retries, and even pass appropriate headers to the
+   website to act like a legit person rather than a data-hungry bot(of
+   course we are).
+
+   You can sign up for the free [192]datacenter proxy. You will get 1,000
+   free credits to run a small crawler. Let's see how you can integrate
+   this proxy into your Scrapy environment. There are mainly 3 steps
+   involved while integrating your proxy in this.
+    1. Define a constant PROXY_SERVER in your crawler_spider.py file.
+
+
+                                        from scrapy.spiders import CrawlSpider,
+Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+
+class CrawlingSpider(CrawlSpider):
+    name = "mycrawler"
+    allowed_domains = ["toscrape.com"]
+    start_urls = ["https://books.toscrape.com/"]
+
+    PROXY_SERVER = "http://scrapingdog:Your-API-Key@proxy.scrapingdog.com:8081"
+
+    rules = (
+        Rule(LinkExtractor(allow="catalogue/category")),
+        Rule(LinkExtractor(allow="catalogue", deny="category"), callback="parse_
+item")
+    )
+
+    def parse_item(self,response):
+
+        yield {
+            "title":response.css(".product_main h1::text").get(),
+            "price":response.css(".price_color::text").get(),
+            "availability":response.css(".availability::text")[1].get().strip()
+        }
+
+
+   1. Then we will move to settings.py file. Find the downloader
+   middlerwares section in this file and uncomment it.
+
+                                        DOWNLOADER_MIDDLEWARES = {
+   'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware':1,
+   'learncrawling.middlewares.LearncrawlingDownloaderMiddleware': 543,
+}
+
+
+   2. Then we will move to settings.py file. Find the downloader
+   middlerwares section in this file and uncomment it.
+
+                                        DOWNLOADER_MIDDLEWARES = {
+   'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware':1,
+   'learncrawling.middlewares.LearncrawlingDownloaderMiddleware': 543,
+}
+
+
+   This will enable the use of a proxy.
+
+   3. Then the final step would be to make changes in
+   our middlewares.py file. In this file, you will find a class by the
+   name LearncrawlingDownloaderMiddleware. From here we can manipulate the
+   process of request-sending by adding the proxy server.
+
+   Here you will find a function process_request() under which you have to
+   add the below line.
+
+                                        request.meta['proxy'] = "http://scraping
+dog:Your-API-Key@proxy.scrapingdog.com:8081"
+return None
+
+
+   Now, every request will go through a proxy and your data pipeline will
+   not get blocked.
+
+   Of course, changing just the IP will not help you bypass the
+   anti-scraping wall of any website therefore this proxy also passes
+   custom headers to help you penetrate that wall.
+
+   Now, Scrapy has certain limits when it comes to crawling. Let's say if
+   you are crawling websites like Amazon using using Scrapy then you can
+   scrape around 350 pages per minute(according to my own experiment).
+   That means 50400 pages per day. This speed is not enough if you want to
+   scrape millions of pages in just a few days. I came across
+   this article where the author scraped more than 250 million pages
+   within 40 hours. I would recommend reading this article.
+
+   In some cases, you might have to wait to make another request
+   like zoominfo.com. For that, you can use DOWNLOAD_DELAY to give your
+   crawler a little rest. You can read more about it [193]here. This is
+   how you can add this to your code.
+
+                                        class MySpider(scrapy.Spider):
+    name = 'my_spider'
+    start_urls = ['https://example.com']
+
+    download_delay = 1  # Set the delay to 1 second
+
+
+   Then you can use CONCURRENT_REQUESTS to control the number of requests
+   you want to send at a time. You can read more about it [194]here.
+
+   You can also use ROBOTSTXT_OBEY to obey the rules set by the domain
+   owners about data collection. Of course, as a data collector, you
+   should respect their boundaries. You can read more about it [195]here.
+
+Complete Code
+
+   There are multiple data points available on this website which can also
+   be scraped. But for now, the complete code for this tutorial will look
+   like this.
+
+                                        //crawling_spider.py
+
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
+
+
+
+class CrawlingSpider(CrawlSpider):
+    name = "mycrawler"
+    allowed_domains = ["toscrape.com"]
+    start_urls = ["http://books.toscrape.com/"]
+
+
+    rules = (
+        Rule(LinkExtractor(allow="catalogue/category")),
+        Rule(LinkExtractor(allow="catalogue", deny="category"), callback="parse_
+item")
+    )
+
+    def parse_item(self,response):
+
+        yield {
+            "title":response.css(".product_main h1::text").get(),
+            "price":response.css(".price_color::text").get(),
+            "availability":response.css(".availability::text")[1].get().strip()
+        }
+
+
+Conclusion
+
+   In this blog, we created a crawler using requests and Scrapy. Both are
+   capable of achieving the target but with Scrapy you can complete the
+   task fast. Scrapy provides you flexibility through which you can crawl
+   endless websites with efficiency. Beginners might find Scrapy a little
+   intimidating but once you get it you will be able to crawl websites
+   very easily.
+
+   I hope now you clearly understand the difference between web scraping
+   and web crawling. The parse_item() function is doing web scraping once
+   the URLs are crawled.
+
+   I think you are now capable of crawling websites whose data matters.
+   You can start with crawling Amazon and see how it goes. You can start
+   by reading this guide on [196]web scraping Amazon with Python.
+
+   I hope you like this tutorial and if you do then please do not forget
+   to share it with your friends and on your social media.
+
+Additional Resources
+
+     * [197]Web Crawling using Javascript & NodeJs
+     * [198]Web Scraping Python vs Nodejs
+     * [199]4 Best Methods to Find All The URLs on a Domain's Website
+
+   My name is Manthan Koolwal and I am the founder of scrapingdog.com. I
+   love creating scraper and seamless data pipelines.
+   Manthan Koolwal
+   [200]Read More Blogs
+   [201]Twitter [202]Linkedin-in [203]Medium-m
+
+Web Scraping with Scrapingdog
+
+   Scrape the web without the hassle of getting blocked
+   [204]Try for Free
+   [205]Contact sales
+
+Recent Blogs
+
+   6 Best Programming Languages for Web Scraping in 2025
+
+   6 Best Programming Languages for Web Scraping in 2025
+   In 2025, the best language for web scraping will be the one that is
+   best suited to the task at hand. Let's explore their strengths and
+   limitations.
+     * 2025-09-20
+
+   [206]Read More
+   Use cases of web scraping
+
+   12 Use Cases of Web Scraping for Businesses in 2025
+   In this blog we have listed out the use cases of web scraping that
+   businesses can take advantage of.
+     * 2025-09-17
+
+   [207]Read More
+
+Try Scrapingdog for Free!
+
+   Get 1000 free credits to spin the API. No credit card required!
+   [208]Start your Free Trial
+
+Product
+
+     * [209]LinkedIn Profile Scraper API
+     * [210]LinkedIn Jobs API
+     * [211]Google Search API
+     * [212]Twitter Scraper API
+     * [213]Google Lens API
+     * [214]Amazon Scraper API
+     * [215]Google Maps API
+     * [216]Web Scraping As A Service
+     * [217]Free User-Agent Generator
+     * [218]Free YouTube Transcript Extractor
+
+     * [219]LinkedIn Profile Scraper API
+     * [220]LinkedIn Jobs API
+     * [221]Google Search API
+     * [222]Twitter Scraper API
+     * [223]Google Lens API
+     * [224]Amazon Scraper API
+     * [225]Google Maps API
+     * [226]Web Scraping As A Service
+     * [227]Free User-Agent Generator
+     * [228]Free YouTube Transcript Extractor
+
+Scrapingdog vs Competitors
+
+     * [229]Alternative to ScraperAPI
+     * [230]Alternative to Scrapingbee
+     * [231]Alternative to SerpAPI
+
+     * [232]Alternative to ScraperAPI
+     * [233]Alternative to Scrapingbee
+     * [234]Alternative to SerpAPI
+
+Learn Web Scraping
+
+     * [235]Web Scraping with Python
+     * [236]Web Scraping with Javascript
+     * [237]Web Scraping with PHP
+     * [238]Web Scraping with Java
+     * [239]Web Scraping with GO
+     * [240]Web Scraping with Ruby
+     * [241]Web Scraping with C#
+
+     * [242]Web Scraping with Python
+     * [243]Web Scraping with Javascript
+     * [244]Web Scraping with PHP
+     * [245]Web Scraping with Java
+     * [246]Web Scraping with GO
+     * [247]Web Scraping with Ruby
+     * [248]Web Scraping with C#
+
+Company
+
+     * [249]About
+     * [250]Documentation
+     * [251]Blog
+     * [252]Contact
+     * [253]Affiliate Program
+     * [254]Terms of Service
+     * [255]Privacy Policy
+     * [256]Data Processing Agreement
+     * [257]GDPR Compliance
+     * [258]SLA
+     * [259]Wall of   ¤
+     * [260]¢ Status
+
+     * [261]About
+     * [262]Documentation
+     * [263]Blog
+     * [264]Contact
+     * [265]Affiliate Program
+     * [266]Terms of Service
+     * [267]Privacy Policy
+     * [268]Data Processing Agreement
+     * [269]GDPR Compliance
+     * [270]SLA
+     * [271]Wall of   ¤
+     * [272]¢ Status
+
+   Company
+
+     * [273]About
+     * [274]Documentation
+     * [275]Blog
+     * [276]Contact
+     * [277]Affiliate Program
+     * [278]Terms of Service
+     * [279]Privacy Policy
+     * [280]Data Processing Agreement
+     * [281]GDPR Compliance
+     * [282]SLA
+     * [283]Wall of   ¤
+     * [284]¢ Status
+
+     * [285]About
+     * [286]Documentation
+     * [287]Blog
+     * [288]Contact
+     * [289]Affiliate Program
+     * [290]Terms of Service
+     * [291]Privacy Policy
+     * [292]Data Processing Agreement
+     * [293]GDPR Compliance
+     * [294]SLA
+     * [295]Wall of   ¤
+     * [296]¢ Status
+
+   Product
+
+     * [297]LinkedIn Profile Scraper API
+     * [298]LinkedIn Jobs API
+     * [299]Google Search API
+     * [300]Twitter Scraper API
+     * [301]Google Lens API
+     * [302]Amazon Scraper API
+     * [303]Google Maps API
+     * [304]Web Scraping As A Service
+     * [305]Free User-Agent Generator
+     * [306]Free YouTube Transcript Extractor
+
+     * [307]LinkedIn Profile Scraper API
+     * [308]LinkedIn Jobs API
+     * [309]Google Search API
+     * [310]Twitter Scraper API
+     * [311]Google Lens API
+     * [312]Amazon Scraper API
+     * [313]Google Maps API
+     * [314]Web Scraping As A Service
+     * [315]Free User-Agent Generator
+     * [316]Free YouTube Transcript Extractor
+
+   Scrapingdog vs Competitors
+
+     * [317]Alternative to ScraperAPI
+     * [318]Alternative to Scrapingbee
+     * [319]Alternative to SerpAPI
+
+     * [320]Alternative to ScraperAPI
+     * [321]Alternative to Scrapingbee
+     * [322]Alternative to SerpAPI
+
+   Learn Web Scraping
+
+     * [323]Web Scraping with Python
+     * [324]Web Scraping with Javascript
+     * [325]Web Scraping with PHP
+     * [326]Web Scraping with Java
+     * [327]Web Scraping with GO
+     * [328]Web Scraping with Ruby
+     * [329]Web Scraping with C#
+
+     * [330]Web Scraping with Python
+     * [331]Web Scraping with Javascript
+     * [332]Web Scraping with PHP
+     * [333]Web Scraping with Java
+     * [334]Web Scraping with GO
+     * [335]Web Scraping with Ruby
+     * [336]Web Scraping with C#
+
+   © 2020-2025 Scrapingdog. All rights reserved.
+
+References
+
+   Visible links:
+   1. https://www.scrapingdog.com/feed/
+   2. https://www.scrapingdog.com/comments/feed/
+   3. https://www.scrapingdog.com/blog/web-crawling-with-python/feed/
+   4. https://www.scrapingdog.com/wp-json/wp/v2/posts/17881
+   5. https://www.scrapingdog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.scrapingdog.com%2Fblog%2Fweb-crawling-with-python%2F
+   6. https://www.scrapingdog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.scrapingdog.com%2Fblog%2Fweb-crawling-with-python%2F&format=xml
+   7. https://www.googletagmanager.com/ns.html?id=GTM-P8RKS6W
+   8. https://www.scrapingdog.com/blog/web-crawling-with-python/#content
+   9. https://www.scrapingdog.com/universal-search-api/
+  10. https://www.scrapingdog.com/universal-search-api/
+  11. https://www.scrapingdog.com/data-extraction-api
+  12. https://www.scrapingdog.com/youtube-scraper-api/
+  13. https://www.scrapingdog.com/youtube-transcripts-api/
+  14. https://www.scrapingdog.com/social-media-scrapers/
+  15. https://www.scrapingdog.com/linkedin-scraper-api/
+  16. https://www.scrapingdog.com/linkedin-jobs-api/
+  17. https://www.scrapingdog.com/twitter-scraper-api/
+  18. https://www.scrapingdog.com/youtube-scraper-api/
+  19. https://www.scrapingdog.com/youtube-transcript-extractor/
+  20. https://www.scrapingdog.com/youtube-transcripts-api/
+  21. https://www.scrapingdog.com/facebook-scraper-api/
+  22. https://www.scrapingdog.com/instagram-scraper-api/
+  23. https://www.scrapingdog.com/amazon-scraper-api/
+  24. https://www.scrapingdog.com/walmart-scraper-api/
+  25. https://www.scrapingdog.com/ebay-search-scraper-api/
+  26. https://www.scrapingdog.com/datacenter-proxies/
+  27. https://www.scrapingdog.com/screenshot-api/
+  28. https://www.scrapingdog.com/bing-search-api/
+  29. https://www.scrapingdog.com/google-search-api/
+  30. https://www.scrapingdog.com/google-ai-mode-api/
+  31. https://www.scrapingdog.com/google-maps-api/
+  32. https://docs.scrapingdog.com/google-maps-api/google-maps-posts-api
+  33. https://docs.scrapingdog.com/google-maps-api/google-maps-reviews-api
+  34. https://docs.scrapingdog.com/google-maps-api/google-maps-photos-api
+  35. https://www.scrapingdog.com/google-news-scraper-api/
+  36. https://www.scrapingdog.com/google-trends-api/
+  37. https://www.scrapingdog.com/google-jobs-api/
+  38. https://www.scrapingdog.com/google-patents-api/
+  39. https://www.scrapingdog.com/google-finance-api/
+  40. https://docs.scrapingdog.com/google-videos-api
+  41. https://www.scrapingdog.com/google-images-api/
+  42. https://docs.scrapingdog.com/google-autocomplete-api
+  43. https://www.scrapingdog.com/google-shopping-api/
+  44. https://www.scrapingdog.com/google-lens-api/
+  45. https://docs.scrapingdog.com/google-product-api
+  46. https://www.scrapingdog.com/google-scholar-api/
+  47. https://docs.scrapingdog.com/google-scholar-api/google-scholar-author-profile-api
+  48. https://www.scrapingdog.com/llm-ready-data/
+  49. https://www.scrapingdog.com/universal-search-api/
+  50. https://www.scrapingdog.com/data-extraction-api
+  51. https://www.scrapingdog.com/youtube-scraper-api/
+  52. https://www.scrapingdog.com/youtube-transcripts-api/
+  53. https://www.scrapingdog.com/social-media-scrapers/
+  54. https://www.scrapingdog.com/linkedin-scraper-api/
+  55. https://www.scrapingdog.com/linkedin-jobs-api/
+  56. https://www.scrapingdog.com/twitter-scraper-api/
+  57. https://www.scrapingdog.com/youtube-scraper-api/
+  58. https://www.scrapingdog.com/youtube-transcript-extractor/
+  59. https://www.scrapingdog.com/youtube-transcripts-api/
+  60. https://www.scrapingdog.com/facebook-scraper-api/
+  61. https://www.scrapingdog.com/instagram-scraper-api/
+  62. https://www.scrapingdog.com/amazon-scraper-api/
+  63. https://www.scrapingdog.com/walmart-scraper-api/
+  64. https://www.scrapingdog.com/ebay-search-scraper-api/
+  65. https://www.scrapingdog.com/datacenter-proxies/
+  66. https://www.scrapingdog.com/screenshot-api/
+  67. https://www.scrapingdog.com/bing-search-api/
+  68. https://www.scrapingdog.com/google-search-api/
+  69. https://www.scrapingdog.com/google-ai-mode-api/
+  70. https://www.scrapingdog.com/google-maps-api/
+  71. https://docs.scrapingdog.com/google-maps-api/google-maps-posts-api
+  72. https://docs.scrapingdog.com/google-maps-api/google-maps-reviews-api
+  73. https://docs.scrapingdog.com/google-maps-api/google-maps-photos-api
+  74. https://www.scrapingdog.com/google-news-scraper-api/
+  75. https://www.scrapingdog.com/google-trends-api/
+  76. https://www.scrapingdog.com/google-jobs-api/
+  77. https://www.scrapingdog.com/google-patents-api/
+  78. https://www.scrapingdog.com/google-finance-api/
+  79. https://docs.scrapingdog.com/google-videos-api
+  80. https://www.scrapingdog.com/google-images-api/
+  81. https://docs.scrapingdog.com/google-autocomplete-api
+  82. https://www.scrapingdog.com/google-shopping-api/
+  83. https://www.scrapingdog.com/google-lens-api/
+  84. https://docs.scrapingdog.com/google-product-api
+  85. https://www.scrapingdog.com/google-scholar-api/
+  86. https://docs.scrapingdog.com/google-scholar-api/google-scholar-author-profile-api
+  87. https://www.scrapingdog.com/llm-ready-data/
+  88. https://www.scrapingdog.com/#pricing
+  89. https://docs.scrapingdog.com/
+  90. https://www.scrapingdog.com/blog/
+  91. https://www.scrapingdog.com/video-tutorials-and-tips/
+  92. https://www.scrapingdog.com/no-code-tutorials/
+  93. https://www.scrapingdog.com/webscraping-problems/
+  94. https://www.scrapingdog.com/review-page
+  95. https://www.scrapingdog.com/universal-search-api/
+  96. https://www.scrapingdog.com/data-extraction-api/
+  97. https://www.scrapingdog.com/youtube-scraper-api/
+  98. https://www.scrapingdog.com/youtube-transcripts-api/
+  99. https://www.scrapingdog.com/linkedin-scraper-api/
+ 100. https://www.scrapingdog.com/linkedin-jobs-api/
+ 101. https://www.scrapingdog.com/amazon-scraper-api/
+ 102. https://www.scrapingdog.com/walmart-scraper-api/
+ 103. https://www.scrapingdog.com/ebay-search-scraper-api/
+ 104. https://www.scrapingdog.com/twitter-scraper-api/
+ 105. https://www.scrapingdog.com/datacenter-proxies/
+ 106. https://www.scrapingdog.com/screenshot-api/
+ 107. https://www.scrapingdog.com/bing-search-api/
+ 108. https://www.scrapingdog.com/google-search-api/
+ 109. https://www.scrapingdog.com/google-ai-mode-api/
+ 110. https://www.scrapingdog.com/google-maps-api/
+ 111. https://www.scrapingdog.com/google-maps-api/
+ 112. https://www.scrapingdog.com/google-maps-posts-api/
+ 113. https://www.scrapingdog.com/google-maps-reviews-api/
+ 114. https://www.scrapingdog.com/google-maps-photos-api/
+ 115. https://www.scrapingdog.com/google-news-scraper-api/
+ 116. https://www.scrapingdog.com/google-trends-api/
+ 117. https://www.scrapingdog.com/google-jobs-api/
+ 118. https://www.scrapingdog.com/google-patents-api/
+ 119. https://www.scrapingdog.com/google-finance-api/
+ 120. https://www.scrapingdog.com/google-videos-api/
+ 121. https://www.scrapingdog.com/google-lens-api/
+ 122. https://www.scrapingdog.com/google-images-api/
+ 123. https://www.scrapingdog.com/google-autocomplete-api/
+ 124. https://www.scrapingdog.com/google-shopping-api/
+ 125. https://www.scrapingdog.com/google-product-api/
+ 126. https://www.scrapingdog.com/google-scholar-api/
+ 127. https://www.scrapingdog.com/google-scholar-author-profile-api/
+ 128. https://api.scrapingdog.com/register
+ 129. https://www.scrapingdog.com/llm-ready-data/
+ 130. https://www.scrapingdog.com/#pricing
+ 131. https://docs.scrapingdog.com/
+ 132. https://www.scrapingdog.com/blog/
+ 133. https://www.scrapingdog.com/video-tutorials-and-tips/
+ 134. https://www.scrapingdog.com/no-code-tutorials/
+ 135. https://www.scrapingdog.com/webscraping-problems/
+ 136. https://www.scrapingdog.com/review-page/
+ 137. https://api.scrapingdog.com/login
+ 138. https://www.scrapingdog.com/universal-search-api/
+ 139. https://www.scrapingdog.com/data-extraction-api/
+ 140. https://www.scrapingdog.com/youtube-scraper-api/
+ 141. https://www.scrapingdog.com/youtube-transcripts-api/
+ 142. https://www.scrapingdog.com/linkedin-scraper-api/
+ 143. https://www.scrapingdog.com/linkedin-jobs-api/
+ 144. https://www.scrapingdog.com/amazon-scraper-api/
+ 145. https://www.scrapingdog.com/walmart-scraper-api/
+ 146. https://www.scrapingdog.com/ebay-search-scraper-api/
+ 147. https://www.scrapingdog.com/twitter-scraper-api/
+ 148. https://www.scrapingdog.com/datacenter-proxies/
+ 149. https://www.scrapingdog.com/screenshot-api/
+ 150. https://www.scrapingdog.com/bing-search-api/
+ 151. https://www.scrapingdog.com/google-search-api/
+ 152. https://www.scrapingdog.com/google-ai-mode-api/
+ 153. https://www.scrapingdog.com/google-maps-api/
+ 154. https://www.scrapingdog.com/google-maps-api/
+ 155. https://www.scrapingdog.com/google-maps-posts-api/
+ 156. https://www.scrapingdog.com/google-maps-reviews-api/
+ 157. https://www.scrapingdog.com/google-maps-photos-api/
+ 158. https://www.scrapingdog.com/google-news-scraper-api/
+ 159. https://www.scrapingdog.com/google-trends-api/
+ 160. https://www.scrapingdog.com/google-jobs-api/
+ 161. https://www.scrapingdog.com/google-patents-api/
+ 162. https://www.scrapingdog.com/google-finance-api/
+ 163. https://www.scrapingdog.com/google-videos-api/
+ 164. https://www.scrapingdog.com/google-lens-api/
+ 165. https://www.scrapingdog.com/google-images-api/
+ 166. https://www.scrapingdog.com/google-autocomplete-api/
+ 167. https://www.scrapingdog.com/google-shopping-api/
+ 168. https://www.scrapingdog.com/google-product-api/
+ 169. https://www.scrapingdog.com/google-scholar-api/
+ 170. https://www.scrapingdog.com/google-scholar-author-profile-api/
+ 171. https://api.scrapingdog.com/register
+ 172. https://www.scrapingdog.com/llm-ready-data/
+ 173. https://www.scrapingdog.com/#pricing
+ 174. https://docs.scrapingdog.com/
+ 175. https://www.scrapingdog.com/blog/
+ 176. https://www.scrapingdog.com/video-tutorials-and-tips/
+ 177. https://www.scrapingdog.com/no-code-tutorials/
+ 178. https://www.scrapingdog.com/webscraping-problems/
+ 179. https://www.scrapingdog.com/review-page/
+ 180. https://api.scrapingdog.com/login
+ 181. https://api.scrapingdog.com/login
+ 182. https://api.scrapingdog.com/register
+ 183. https://www.scrapingdog.com/blog/crawling-vs-scraping/
+ 184. https://requests.readthedocs.io/
+ 185. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+ 186. https://scrapy.org/
+ 187. https://www.scrapingdog.com/blog/what-is-web-scraping/
+ 188. https://www.scrapingdog.com/blog/best-python-web-scraping-libraries/
+ 189. https://books.toscrape.com/
+ 190. https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/
+ 191. https://books.toscrape.com/
+ 192. https://www.scrapingdog.com/datacenter-proxies/
+ 193. https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
+ 194. https://docs.scrapy.org/en/latest/topics/settings.html?highlight=concurrent+#concurrent-requests
+ 195. https://docs.scrapy.org/en/latest/topics/settings.html?highlight=ROBOTSTXT_OBEY#robotstxt-obey
+ 196. https://www.scrapingdog.com/blog/scrape-amazon/
+ 197. https://www.scrapingdog.com/blog/javascript-web-crawler-nodejs/
+ 198. https://www.scrapingdog.com/webscraping-problems/python/which-is-better-for-web-scraping-python-or-javascript
+ 199. https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/
+ 200. https://www.scrapingdog.com/author/manthan-koolwal/
+ 201. https://x.com/KoolwalManthan
+ 202. https://www.linkedin.com/in/manthan-koolwal-19639115a/
+ 203. https://scrapingking.medium.com/
+ 204. https://api.scrapingdog.com/register
+ 205. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 206. https://www.scrapingdog.com/blog/best-language-for-web-scraping/
+ 207. https://www.scrapingdog.com/blog/web-scraping-use-cases/
+ 208. https://api.scrapingdog.com/register
+ 209. https://www.scrapingdog.com/linkedin-scraper-api/
+ 210. https://www.scrapingdog.com/linkedin-jobs-api/
+ 211. https://www.scrapingdog.com/google-search-api/
+ 212. https://www.scrapingdog.com/twitter-scraper-api/
+ 213. https://www.scrapingdog.com/google-lens-api/
+ 214. https://www.scrapingdog.com/amazon-scraper-api/
+ 215. https://www.scrapingdog.com/google-maps-api/
+ 216. https://www.scrapingdog.com/web-scraping-service/
+ 217. https://www.scrapingdog.com/user-agent-generator/
+ 218. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 219. https://www.scrapingdog.com/linkedin-scraper-api/
+ 220. https://www.scrapingdog.com/linkedin-jobs-api/
+ 221. https://www.scrapingdog.com/google-search-api/
+ 222. https://www.scrapingdog.com/twitter-scraper-api/
+ 223. https://www.scrapingdog.com/google-lens-api/
+ 224. https://www.scrapingdog.com/amazon-scraper-api/
+ 225. https://www.scrapingdog.com/google-maps-api/
+ 226. https://www.scrapingdog.com/web-scraping-service/
+ 227. https://www.scrapingdog.com/user-agent-generator/
+ 228. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 229. https://www.scrapingdog.com/scraperapi-alternative/
+ 230. https://www.scrapingdog.com/scrapingbee-alternative/
+ 231. https://www.scrapingdog.com/serpapi-alternative/
+ 232. https://www.scrapingdog.com/scraperapi-alternative/
+ 233. https://www.scrapingdog.com/scrapingbee-alternative/
+ 234. https://www.scrapingdog.com/serpapi-alternative/
+ 235. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 236. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 237. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 238. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 239. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 240. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 241. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+ 242. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 243. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 244. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 245. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 246. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 247. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 248. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+ 249. https://www.scrapingdog.com/about/
+ 250. https://docs.scrapingdog.com/
+ 251. https://www.scrapingdog.com/blog/
+ 252. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 253. https://www.scrapingdog.com/affiliates/
+ 254. https://www.scrapingdog.com/terms/
+ 255. https://www.scrapingdog.com/privacy/
+ 256. https://www.scrapingdog.com/data-processing-agreement/
+ 257. https://www.scrapingdog.com/gdpr/
+ 258. https://www.scrapingdog.com/sla/
+ 259. https://www.scrapingdog.com/review-page/
+ 260. https://stats.uptimerobot.com/SAQkQwbOYj
+ 261. https://www.scrapingdog.com/about/
+ 262. https://docs.scrapingdog.com/
+ 263. https://www.scrapingdog.com/blog/
+ 264. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 265. https://www.scrapingdog.com/affiliates/
+ 266. https://www.scrapingdog.com/terms/
+ 267. https://www.scrapingdog.com/privacy/
+ 268. https://www.scrapingdog.com/data-processing-agreement/
+ 269. https://www.scrapingdog.com/gdpr/
+ 270. https://www.scrapingdog.com/sla/
+ 271. https://www.scrapingdog.com/review-page/
+ 272. https://stats.uptimerobot.com/SAQkQwbOYj
+ 273. https://www.scrapingdog.com/about/
+ 274. https://docs.scrapingdog.com/
+ 275. https://www.scrapingdog.com/blog/
+ 276. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 277. https://www.scrapingdog.com/affiliates/
+ 278. https://www.scrapingdog.com/terms/
+ 279. https://www.scrapingdog.com/privacy/
+ 280. https://www.scrapingdog.com/data-processing-agreement/
+ 281. https://www.scrapingdog.com/gdpr/
+ 282. https://www.scrapingdog.com/sla/
+ 283. https://www.scrapingdog.com/review-page/
+ 284. https://stats.uptimerobot.com/SAQkQwbOYj
+ 285. https://www.scrapingdog.com/about/
+ 286. https://docs.scrapingdog.com/
+ 287. https://www.scrapingdog.com/blog/
+ 288. https://share.hsforms.com/1ex4xYy1pTt6rrqFlRAquwQ4h1b2
+ 289. https://www.scrapingdog.com/affiliates/
+ 290. https://www.scrapingdog.com/terms/
+ 291. https://www.scrapingdog.com/privacy/
+ 292. https://www.scrapingdog.com/data-processing-agreement/
+ 293. https://www.scrapingdog.com/gdpr/
+ 294. https://www.scrapingdog.com/sla/
+ 295. https://www.scrapingdog.com/review-page/
+ 296. https://stats.uptimerobot.com/SAQkQwbOYj
+ 297. https://www.scrapingdog.com/linkedin-scraper-api/
+ 298. https://www.scrapingdog.com/linkedin-jobs-api/
+ 299. https://www.scrapingdog.com/google-search-api/
+ 300. https://www.scrapingdog.com/twitter-scraper-api/
+ 301. https://www.scrapingdog.com/google-lens-api/
+ 302. https://www.scrapingdog.com/amazon-scraper-api/
+ 303. https://www.scrapingdog.com/google-maps-api/
+ 304. https://www.scrapingdog.com/web-scraping-service/
+ 305. https://www.scrapingdog.com/user-agent-generator/
+ 306. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 307. https://www.scrapingdog.com/linkedin-scraper-api/
+ 308. https://www.scrapingdog.com/linkedin-jobs-api/
+ 309. https://www.scrapingdog.com/google-search-api/
+ 310. https://www.scrapingdog.com/twitter-scraper-api/
+ 311. https://www.scrapingdog.com/google-lens-api/
+ 312. https://www.scrapingdog.com/amazon-scraper-api/
+ 313. https://www.scrapingdog.com/google-maps-api/
+ 314. https://www.scrapingdog.com/web-scraping-service/
+ 315. https://www.scrapingdog.com/user-agent-generator/
+ 316. https://www.scrapingdog.com/youtube-transcript-extractor/
+ 317. https://www.scrapingdog.com/scraperapi-alternative/
+ 318. https://www.scrapingdog.com/scrapingbee-alternative/
+ 319. https://www.scrapingdog.com/serpapi-alternative/
+ 320. https://www.scrapingdog.com/scraperapi-alternative/
+ 321. https://www.scrapingdog.com/scrapingbee-alternative/
+ 322. https://www.scrapingdog.com/serpapi-alternative/
+ 323. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 324. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 325. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 326. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 327. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 328. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 329. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+ 330. https://www.scrapingdog.com/blog/web-scraping-with-python/
+ 331. https://www.scrapingdog.com/blog/javascript-web-scraping/
+ 332. https://www.scrapingdog.com/blog/web-scraping-with-php/
+ 333. https://www.scrapingdog.com/blog/web-scraping-101-with-java/
+ 334. https://www.scrapingdog.com/blog/web-scraping-with-go/
+ 335. https://www.scrapingdog.com/blog/web-scraping-with-ruby/
+ 336. https://www.scrapingdog.com/blog/web-scraping-with-csharp/
+
+   Hidden links:
+ 338. https://www.scrapingdog.com/
+ 339. https://x.com/scrapingdog
+ 340. https://www.linkedin.com/company/scrapingdog/
+ 341. https://medium.com/@darshankhandelwal12
+ 342. https://www.youtube.com/@scrapingdog9955
+   #[1]alternate [2]alternate
+
+   [3]Skip to main content [4]Skip to footer
+
+   [5]UniTS
+   [6]Student area (BUTTON)
+   (BUTTON) Nascondi la navigazione
+
+     * [7]Home
+     * [8]The course
+     * [9]Study plan
+     * [10]How to apply
+     * [11]University fees
+     * [12]Scholarship
+     * [13]Graduation
+     * [14]Quality Assurance (QA)
+     * [15]Teaching Regulations
+     * [16]Bodies and representatives
+     * [17]Info for students
+
+   View of the Minerva statue, UniTS main building
+   Master's Degree
+
+COMPUTER ENGINEERING
+
+     * [18]Trieste
+     * 2 years
+     * [19]classroom
+     * English
+     * 120 CFU
+     * [20]DIA
+     * [21]degree class LM-32
+     * [22]non-competitive admission
+
+     * [23]visa applicants
+
+   [24]See admission details
+   [25]login and apply* (esse3)
+
+Main content
+
+   Overview
+
+The course at a glance
+
+     *
+
+Why choose this course?
+       This Course prepares students for a wide range of careers in
+       engineering related to information processing. There are four
+       curriculums: computer science; electronic systems; networks and
+       internet of things; robotics and artificial intelligence. Cyber
+       security, big data management, machine learning and internet-based
+       technologies are at the core of the course.
+       [26]Read more
+     *
+
+Educational objectives
+       Graduates in Computer Engineering will gain technological and
+       methodological knowledge across various information processing
+       sectors, focusing on tools for designing, developing, managing, and
+       controlling complex systems, products, and services. They will also
+       understand the importance of cost as well as functional and
+       non-functional requirements in engineering contexts.
+       [27]Read more
+     *
+
+Career prospects
+       The Course prepares students for a variety of careers in computer
+       engineering depending on the curriculum chosen by the student.
+       Future job roles might include: software systems specialist, data
+       analysis systems specialist, autonomous systems engineer, computer
+       systems designers for fixed and mobile networks, hardware and
+       firmware system designers.
+       [28]Read more
+     *
+
+Final examination and degree
+       The final examination consists of a thesis developed by the student
+       with a supervisor on a relevant theoretical, practical, or
+       experimental topic in industry or applied research. Part of the
+       examination may take place during an internship.
+       [29]Read more
+
+   UniTS ensures quality
+   The QA System
+
+   The Degree Programme adheres to the Quality Assurance System for degree
+   programmes defined by ANVUR, in compliance with the Guidelines of the
+   University Quality Assurance Office.
+   [30]LEARN MORE ABOUT THE QA SYSTEM
+
+   Taught courses
+
+Study Plan
+
+     * [31]Curriculum ELECTRONIC SYSTEMS
+     * [32]Curriculum INFORMATICS
+     * [33]Curriculum NETWORKS AND INTERNET OF THINGS
+     * [34]Curriculum ROBOTICS AND ARTIFICIAL INTELLIGENCE
+
+   Start your journey
+
+Apply now
+
+   [35]
+
+How to enrol in this course ¥
+
+   Find out more about the steps you need to take to enrol here
+   [36]
+
+Regulations and Documents
+
+   Regulation on educational activities, guidelines and other documents
+   [37]
+
+Fees and taxes ¥
+
+   Fee payment schedule, deadlines and payment methods
+   [38]
+
+Scholarships
+
+   Right to education and merit-based financial aid
+   [39]
+
+International Students - Degree Seekers
+
+   Details for visa applicants or prosepective students with a foreign
+   academic qualification
+   [40]
+
+Students with disabilities or specific learning difficulties (SpLD)
+
+   Accessibility and inclusion for all at UniTS
+   [41]login and apply* (esse3)
+
+     *Please check all admission deadlines and requirements, including
+     the initial proficiency assessment and the extra admission
+     requirements for International Students - Degree Seekers.
+
+   Choosing your course
+   Course guides
+
+   Choose the best course for you from a rich course catalogue by using
+   our course guides, research tools and other activities for prospective
+   students
+
+University Guidance
+
+     * All our courses
+       Looking for the degree that will open doors? Find the degree course
+       for you in the wide range of courses offered by the University of
+       Trieste!
+
+       [42]Explore the full catalogue
+     * Open Days
+       Join us for one of our open days and discover all our courses!
+       Join us to explore your options at UniTS and find the perfect
+       course for you.
+
+       [43]Explore open days
+     * Course from home
+       Watch webinars and webcasts from our open days, read about UniTS
+       Alumni's experiences and use the UniTS Virtual Classroom for
+       Prospective Students.
+       [44]Explore course from home
+     * Summer Modules
+       Short, free courses of about a week in July and September,
+       featuring university-level lessons aimed at students in 3° and 4°
+       year of secondary school, valid as PCTO
+       [45]Explore SM (ITA only)
+
+   Any question?
+   We are here to help you
+
+   If you have any doubts, send us a message. We will reply as soon as
+   possible.
+   [46]CONTACT US
+
+   logo footer
+   Piazzale Europa, 1 - 34127 - Trieste, Italia
+   Tel. +39 040 558 7111 - P.IVA 00211830328
+   C.F. 80013890324 - P.E.C. ateneo@pec.units.it
+
+Menu footer 1
+
+     * [47]The course
+     * [48]Study plan
+     * [49]Quality Assurance (AQ)
+     * [50]Teaching Regulations
+
+Menu footer 2
+
+     * [51]How to apply
+     * [52]Scholarship
+     * [53]University fees
+
+Menu footer 3
+
+     * [54]Students area
+     * [55]Accessibility
+     * [56]Privacy
+
+Menu contatti
+
+     * [57]Contacts
+     * [58]Locations
+     * [59]Public Relations Office (URP)
+
+Quick links
+
+     * [60]Support UniTS
+     * [61]UniTS Store
+
+Menù social
+
+     * [62]Instagram
+     * [63]Facebook
+     * [64]LinkedIn
+     * [65]YouTube
+     * [66]X
+     * [67]Threads
+     * [68]Rss
+
+Department
+
+   (BUTTON)
+
+   The course is offered by [69]DEPARTMENT OF ENGINEERING AND ARCHITECTURE
+   - DIA
+
+Location
+
+   (BUTTON)
+
+   Lessons are held in: Trieste
+
+Ministerial degree class
+
+   (BUTTON)
+
+   LM-32 - Computer systems engineering
+
+Double degree
+
+   (BUTTON)
+
+Inter-university
+
+   (BUTTON)
+
+   This course is offered in collaboration with:
+
+Admission
+
+   (BUTTON)
+
+   Non-competitive admission with initial proficiency assessment before
+   enrolment
+   The course requires an initial proficiency assessment before enrolment
+
+Teaching modality
+
+   (BUTTON)
+
+   The lectures are taught mainly in the classroom.
+
+PA 110 cum laude
+
+   (BUTTON)
+
+   For this programme, the PA 110 cum laude protocol is active, reserved
+   for Public Administration employees
+
+   [70]Read more on the University portal
+
+Visa applicants
+
+   (BUTTON)
+
+   Visa applicants may only enrol to degree courses with fixed intake
+   quotas. Quotas are set at a national level
+
+   [71]More on intake quotas
+
+References
+
+   Visible links:
+   1. https://degree.units.it/en/0320107303300001
+   2. https://degree.units.it/it/0320107303300001
+   3. https://degree.units.it/en/0320107303300001#main-container
+   4. https://degree.units.it/en/0320107303300001#footer
+   5. https://portale.units.it/
+   6. https://degree.units.it/en/0320107303300001/students-area
+   7. https://degree.units.it/en/0320107303300001
+   8. https://degree.units.it/en/0320107303300001/course
+   9. https://degree.units.it/en/0320107303300001/study-plan
+  10. https://degree.units.it/en/0320107303300001/how-apply
+  11. https://degree.units.it/en/0320107303300001/university-fees
+  12. https://degree.units.it/en/0320107303300001/scholarship
+  13. https://degree.units.it/en/0320107303300001/students-area/graduation
+  14. https://degree.units.it/en/0320107303300001/quality-assurance
+  15. https://degree.units.it/en/0320107303300001/teaching-regulations
+  16. https://degree.units.it/en/0320107303300001/bodies-and-representatives
+  17. https://degree.units.it/en/0320107303300001/students-area
+  18. https://degree.units.it/en/0320107303300001
+  19. https://degree.units.it/en/0320107303300001
+  20. https://degree.units.it/en/0320107303300001
+  21. https://degree.units.it/en/0320107303300001
+  22. https://degree.units.it/en/0320107303300001
+  23. https://degree.units.it/en/0320107303300001
+  24. https://degree.units.it/en/0320107303300001/how-apply
+  25. https://esse3.units.it/auth/Logon.do
+  26. https://degree.units.it/en/0320107303300001/course#sua1
+  27. https://degree.units.it/en/0320107303300001/course#sua2
+  28. https://degree.units.it/en/0320107303300001/course#sua3
+  29. https://degree.units.it/en/0320107303300001/course#sua4
+  30. https://degree.units.it/en/0320107303300001/quality-assurance
+  31. https://degree.units.it/en/0320107303300001/study-plan#percorso-2
+  32. https://degree.units.it/en/0320107303300001/study-plan#percorso-1
+  33. https://degree.units.it/en/0320107303300001/study-plan#percorso-4
+  34. https://degree.units.it/en/0320107303300001/study-plan#percorso-3
+  35. https://degree.units.it/en/0320107303300001/how-apply
+  36. https://degree.units.it/en/0320107303300001/students-area/regulations-and-documents
+  37. https://degree.units.it/en/0320107303300001/university-fees
+  38. https://degree.units.it/en/0320107303300001/scholarship
+  39. https://portale.units.it/en/node/129
+  40. https://portale.units.it/en/node/137
+  41. https://esse3.units.it/auth/Logon.do
+  42. https://portale.units.it/en/node/182
+  43. https://portale.units.it/en/node/357
+  44. https://portale.units.it/en/node/358
+  45. https://www.units.it/moduli-formativi
+  46. https://degree.units.it/en/0320107303300001/bodies-and-representatives
+  47. https://degree.units.it/en/0320107303300001/course
+  48. https://degree.units.it/en/0320107303300001/study-plan
+  49. https://degree.units.it/en/0320107303300001/quality-assurance
+  50. https://degree.units.it/en/0320107303300001/teaching-regulations
+  51. https://degree.units.it/en/0320107303300001/how-apply
+  52. https://degree.units.it/en/0320107303300001/scholarship
+  53. https://degree.units.it/en/0320107303300001/university-fees
+  54. https://degree.units.it/en/0320107303300001/students-area
+  55. https://portale.units.it/en/node/165
+  56. https://gdpr.unityfvg.it/
+  57. https://www.units.it/feedback
+  58. https://portale.units.it/en/node/95
+  59. https://portale.units.it/en/node/158
+  60. https://portale.units.it/en/node/106
+  61. https://store.units.it/
+  62. https://www.instagram.com/unitrieste
+  63. https://www.facebook.com/universitatrieste
+  64. https://www.linkedin.com/school/universitadeglistudiditrieste/
+  65. https://www.youtube.com/user/UniversitaTrieste
+  66. https://x.com/UniTrieste
+  67. https://www.threads.net/@unitrieste
+  68. https://portale.units.it/it/feed
+  69. https://dia.units.it/
+  70. https://portale.units.it/it/studiare/immatricolarsi/i-dipendenti-pubblici-pa-110-e-lode
+  71. https://portale.units.it/en/node/398
+
+   Hidden links:
+  73. https://degree.units.it/en/0320107303300001/how-apply
+  74. https://degree.units.it/en/0320107303300001/students-area/regulations-and-documents
+  75. https://degree.units.it/en/0320107303300001/university-fees
+  76. https://degree.units.it/en/0320107303300001/scholarship
+  77. https://portale.units.it/en/node/129
+  78. https://portale.units.it/en/node/137
