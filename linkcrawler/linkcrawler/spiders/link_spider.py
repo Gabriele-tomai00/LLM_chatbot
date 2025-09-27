@@ -9,7 +9,7 @@ import os
 class UNITSspider(Spider):
 
     name = 'UNITSspider'
-    start_urls = ['https://portale.units.it']
+    start_urls = ['http://www.amiciinsoliti.altervista.org']
     
     try:
         os.remove('units_links.txt')
@@ -24,15 +24,13 @@ class UNITSspider(Spider):
         'AUTOTHROTTLE_DEBUG': True,
         'AUTOTHROTTLE_START_DELAY': 1,
         'AUTOTHROTTLE_TARGET_CONCURRENCY': 8,
-        'DOWNLOAD_DELAY': 0,
-        'DEPTH_LIMIT': 10,
         'LOG_ENABLED': True,
         'LOG_LEVEL': 'INFO',
         'USER_AGENT': 'UNITS Link Crawler (network lab)'
     }
 
     def __init__(self):
-        self.link_extractor = LinkExtractor(unique=True, allow_domains=["units.it"], 
+        self.link_extractor = LinkExtractor(unique=True, allow_domains=["amiciinsoliti.altervista.org"], 
                                             deny_domains=["arts.units.it"],
                                             deny=[r".*feedback.*", r".*search.*", r"#", r".*eventi-passati.*"]
                                             )                                             
