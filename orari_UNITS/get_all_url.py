@@ -129,6 +129,7 @@ chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("user-agent=UNITS Links Crawler (network lab)")
 
 
 def estrai_url(dip):
@@ -152,21 +153,25 @@ def estrai_url(dip):
         for anno_studio in anni_di_studio_e_curriculum:
             set_anno_di_studio_e_curriculum(anno_studio, driver)
             
-            log = "\n" + dip["label"] + "  --  Corso: " + corso["label"] + "  --  Anno di studio e curriculum: " + anno_studio["label"] + "\n"
+            log = dip["label"] + "  --  Corso: " + corso["label"] + "  --  Anno di studio e curriculum: " + anno_studio["label"] + "\n"
             print(log)
 
             if anno_studio["label"].strip().endswith("Comune"):
                 anno_studio["label"] += " con tutti gli altri curriculum di quel corso"
             url = build_orario_url("2025", dip["value"], corso["value"], anno_studio["value"], "29/09/2025", lang="it")
-            
+
+            if corso["label"].strip().endswith("(Laurea)"):
+                corso["label"] = corso["label"][:-len("(Laurea)")] + "(Laurea triennale)"
+
             blocco = {
                 "url": url,
                 "anno_scolastico": "2025",
                 "dipartimento_value": dip["value"],
-                "corso_di_studi": corso["value"],
+                "codice_corso": corso["value"],
+                "corso_di_studi": corso["label"],
                 "codice_curriculum_e_anno_corso": anno_studio["value"],
                 "anno_corso_e_curriculum": anno_studio["label"],
-                "data_settimana": "1/09/2025"
+                "data_settimana": "8/10/2025"
             }
 
             blocchi.append(blocco)
