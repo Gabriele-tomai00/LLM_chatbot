@@ -12,6 +12,7 @@ import logging
 import requests
 import json
 import re
+from urllib.parse import urlencode
 
 URL_sedi = "https://orari.units.it/agendaweb/combo.php?sw=rooms_"
 URL_FORM = "https://orari.units.it/agendaweb/index.php?view=rooms&include=rooms&_lang=it"
@@ -93,27 +94,27 @@ def response_filter(data):
     return filtered_data
 
 
-def add_keys_and_reorder(filtered_data, sedi, aule):
+def add_keys_and_reorder(filtered_data, sedi, aule, payload):
     filtered_data["sede"] = sedi[0]['label']
     filtered_data["codice_sede"] = sedi[0]['value']
 
-    filtered_data["aula"] = aule[2]['label']
-    filtered_data["codice_aula"] = aule[2]['valore']
     ordered_data = {
         "sede": sedi[0]['label'],
         "codice_sede": sedi[0]['value'],
         "aula": aule[2]['label'],
         "codice_aula": aule[2]['valore'],
+        "url": build_units_url(payload),
         **filtered_data
     }
     return ordered_data
 
-def get_response(info_room):
+def build_units_url(payload):
+    query_string = urlencode(payload, doseq=True)
+    separator = "&" if "?" in URL_FORM else "?"
+    full_url = URL_FORM + separator + query_string
+    return full_url
 
-    if not check_date(info_room["data_settimana"]):
-        print("Data oltre il 20 gennaio dell'anno successivo, non procedo con la richiesta.")
-        return
-
+def create_payload(info_room):
     try:
         sede = info_room["sede_code"]
         data_settimana = info_room["data_settimana"]
@@ -121,17 +122,15 @@ def get_response(info_room):
     except Exception as e:
         print(f"Errore nel parsing del json: {e}")
         return
-
-    url = "https://orari.units.it/agendaweb/rooms_call.php"
-
+    
     payload = {
         "form-type": "rooms",
         "view": "rooms",
         "include": "rooms",
         "aula": "",
-        "sede_get[]": [sede],  # lista perché il nome ha []
-        "sede[]": [sede],      # lista perché il nome ha []
-        "aula[]": [valore_aula],     # esempio
+        "sede_get[]": [sede],
+        "sede[]": [sede],
+        "aula[]": [valore_aula],
         "date": data_settimana,
         "_lang": "it",
         "list": "",
@@ -144,7 +143,10 @@ def get_response(info_room):
         "highlighted_date": "0",
         "all_events": "0"
     }
+    return payload
 
+def get_response(payload):
+    url = "https://orari.units.it/agendaweb/rooms_call.php"
     headers = {
         "User-Agent": "UNITS Links Crawler (network lab)",
         "Accept": "application/json, text/javascript, */*; q=0.01",
@@ -153,22 +155,14 @@ def get_response(info_room):
         "Origin": "https://orari.units.it",
         "Referer": "https://orari.units.it/agendaweb/index.php"
     }
-
     response = requests.post(url, data=payload, headers=headers)
     response.raise_for_status()
-
-    # se il server restituisce JSON
     try:
         data = response.json()
         return data
     except json.JSONDecodeError:
-        print(response.text)
+        #print(response.text)
         return None
-
-
-
-
-
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
@@ -180,11 +174,10 @@ if __name__ == "__main__":
 
     aule = get_aule(data, sedi[0]['value'])
     aule[2]["data_settimana"] = "15/10/2025"
-    data = get_response(aule[2])
+    payload = create_payload(aule[2])
+    data = get_response(payload)
     filtered_data = response_filter(data)
-    final_json = add_keys_and_reorder(filtered_data, sedi, aule)
-
-    print(json.dumps(final_json, indent=4, ensure_ascii=False))
+    final_json = add_keys_and_reorder(filtered_data, sedi, aule, payload)
 
     # per salvare su file
     with open("response.json", "w", encoding="utf-8") as f:
