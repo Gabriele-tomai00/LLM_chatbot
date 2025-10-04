@@ -1,5 +1,6 @@
 import time
 import os
+import shutil
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -17,24 +18,42 @@ from datetime import datetime, timedelta
 URL_sedi = "https://orari.units.it/agendaweb/combo.php?sw=rooms_"
 URL_FORM = "https://orari.units.it/agendaweb/index.php?view=rooms&include=rooms&_lang=it"
 
+def write_json_to_file(nome_file, nuovo_contenuto):
+    data = []
+    # Se il file esiste e non è vuoto, carico i dati
+    if os.path.exists(nome_file) and os.path.getsize(nome_file) > 0:
+        with open(nome_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
     
-def next_week(date_str: str) -> str:
-    print("chiamata next_monday")
-    # Riconosciamo il separatore
-    if "-" in date_str:
-        fmt = "%d-%m-%Y"
-        sep = "-"
-    elif "/" in date_str:
-        fmt = "%d/%m/%Y"
-        sep = "/"
+    # Mi assicuro che sia una lista
+    if not isinstance(data, list):
+        raise ValueError("Il JSON esistente non è una lista, impossibile fare append.")
+
+        # Aggiungo il nuovo contenuto (può essere dict o lista di dict)
+    if isinstance(nuovo_contenuto, list):
+        data = nuovo_contenuto + data  # nuovi elementi prima
     else:
-        raise ValueError("Formato data non valido. Usa dd/mm/yyyy o dd-mm-yyyy.")
-    d = datetime.strptime(date_str, fmt).date()
-    days_ahead = 7 - d.weekday()
-    if days_ahead == 0:  # se già lunedì
-        days_ahead = 7
-    next_mon = d + timedelta(days=days_ahead)
-    return next_mon.strftime(f"%d{sep}%m{sep}%Y")
+        data = [nuovo_contenuto] + data
+        
+    # Riscrivo il file
+    with open(nome_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+def iterate_dates(start_date, end_date):
+    def parse_date(d):
+        if "/" in d:
+            return datetime.strptime(d, "%d/%m/%Y")
+        elif "-" in d:
+            return datetime.strptime(d, "%d-%m-%Y")
+        else:
+            raise ValueError("Formato data non valido")
+    
+    current = parse_date(start_date)
+    end = parse_date(end_date)
+    
+    while current <= end:
+        yield current.strftime("%d/%m/%Y")
+        current += timedelta(days=1)
 
 def get_file_with_info():
     resp = requests.get(URL_sedi)
@@ -86,33 +105,17 @@ def check_date(date_str):
 
 
 def response_filter(data):
-    data_s = data["search_data"]["day"]
     chiavi_evento = [
-        "from", "to", "room", "NomeAula", "CodiceAula",
+        "room", "NomeAula", "CodiceAula",
         "NomeSede", "CodiceSede", "name",
         "utenti", "orario"
     ]
-    chiavi_esterne = ["day", "data_settimana"]
-
-    filtered_data = {}
-
-    # 🔹 Mantiene le chiavi esterne se esistono
-    for key in chiavi_esterne:
-        if key in data:
-            filtered_data[key] = data[key]
-
-    # 🔹 Filtra gli eventi se la chiave esiste
     if "events" in data:
         filtered_events = [
             {k: event[k] for k in chiavi_evento if k in event}
             for event in data["events"]
         ]
-        filtered_data["eventi"] = filtered_events
-    filtered_data["data_settimana"] = data_s
-
-    print("Dati filtrati:", filtered_data)
-        
-    return filtered_data
+    return filtered_events
 
 
 def add_keys_and_reorder(filtered_data, sedi, aule, payload):
@@ -135,10 +138,10 @@ def build_units_url(payload):
     full_url = URL_FORM + separator + query_string
     return full_url
 
-def create_payload(info_room, data_settimana):
+def create_payload(sede_code, aula_value, data_settimana):
     try:
-        sede = info_room["sede_code"]
-        valore_aula = info_room["valore"]
+        sede = sede_code
+        valore_aula = aula_value
     except Exception as e:
         print(f"Errore nel parsing del json: {e}")
         return
@@ -184,28 +187,61 @@ def get_response(payload):
         #print(response.text)
         return None
     
-def create_day_schedules_json(data):
-    aule = get_aule(data, sedi[0]['value'])
-    data_settimana = "15/10/2025"
-    payload = create_payload(aule[2], data_settimana)
-    data = get_response(payload)
-    filtered_data = response_filter(data)
-    final_json = add_keys_and_reorder(filtered_data, sedi, aule, payload)
-    return final_json
+def format_time(seconds: float) -> str:
+    hours = int(seconds // 3600)
+    minutes = int((seconds % 3600) // 60)
+    secs = round(seconds % 60)
+    if hours > 0:
+        return f"{hours}h {minutes}m {secs}s"
+    elif minutes > 0:
+        return f"{minutes}m {secs}s"
+    else:
+        return f"{secs}s"
     
+def create_day_schedules_json(data):
+    return
 
 if __name__ == "__main__":
+    start_datetime = datetime.now()
+    start_time = time.time()
+    directory = "response_json_files"
+    try:
+        shutil.rmtree(directory)
+    except:
+        pass
+    os.makedirs(directory, exist_ok=True)
+
     logging.basicConfig(level=logging.INFO)
     data = get_file_with_info()
     sedi = get_sedi(data)
-    if not sedi:
-        logging.error("Nessuna sede trovata, impossibile proseguire con il crowling del calendario delle aule")
-        exit(1)
+    for sede in sedi:
+        aulee = get_aule(data, sedi[0]['value'])
+        for aula in aulee:
+            print(f"----- Aula: {aula['label']} - Codice: {aula['valore']}")
+            json_data = {}
+            json_data["sede"] = sedi[0]['label']
+            json_data["codice_sede"] = sedi[0]['value']
+            json_data["aula"] = aula['label']
+            json_data["codice_aula"] = aula['valore']
+            json_data["calendario"] = []
 
-    data_j = create_day_schedules_json(data)
+            data_inizio = "5-10-2025"
+            data_fine = "6-10-2025"
 
-    # per salvare su file
-    with open("response.json", "w", encoding="utf-8") as f:
-        json.dump(data_j, f, indent=4, ensure_ascii=False)
+            for giorno_settimana in iterate_dates(data_inizio, data_fine):
+                json_filtered = {}
+                json_filtered["data_settimana"] = giorno_settimana
+                # print(f"Giorno preciso: {giorno_settimana}")
+                payload = create_payload(sedi[0]['value'], aula['valore'], giorno_settimana)
+                response_data = get_response(payload)
+                json_filtered["eventi"] = response_filter(response_data)
+                json_data["calendario"].append(json_filtered)
+            # print(json.dumps(json_data, indent=4, ensure_ascii=False))
+            # per salvare su file
+            nome_file = os.path.join(directory, f"{sede["value"]}---{aula["valore"]}---{data_inizio}_to_{data_fine}.json")
+            with open(nome_file, "w", encoding="utf-8") as f:
+                json.dump(json_data, f, ensure_ascii=False, indent=2)
+   
+    print("time taken:", format_time(time.time() - start_time))
 
 
