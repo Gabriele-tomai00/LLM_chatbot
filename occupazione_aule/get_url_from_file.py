@@ -74,7 +74,6 @@ def get_sedi(text):
 
 
 def get_aule(text, sede):
-    # cattura l'oggetto JSON tra graffe
     match_aule = re.search(r"var elenco_aule = (\{.*?\});", text, re.S)
     if not match_aule:
         raise ValueError("Nessun elenco_aule trovato")
@@ -198,8 +197,33 @@ def format_time(seconds: float) -> str:
     else:
         return f"{secs}s"
     
-def create_day_schedules_json(data):
-    return
+def get_data(data_from_units, sede, data_inizio, data_fine):
+        aulee = get_aule(data_from_units, sede['value'])
+        for aula in aulee:
+            print(f"{aula['label']} - Codice: {aula['valore']} - processing...")
+            json_data = {}
+            json_data["sede"] = sede['label']
+            json_data["codice_sede"] = sede['value']
+            json_data["aula"] = aula['label']
+            json_data["codice_aula"] = aula['valore']
+            json_data["calendario"] = []
+
+            for giorno_settimana in iterate_dates(data_inizio, data_fine):
+                json_filtered = {}
+                json_filtered["data_settimana"] = giorno_settimana
+                # print(f"Giorno preciso: {giorno_settimana}")
+                payload = create_payload(sede['value'], aula['valore'], giorno_settimana)
+                response_data = get_response(payload)
+                json_filtered["eventi"] = response_filter(response_data)
+                json_data["calendario"].append(json_filtered)
+            # print(json.dumps(json_data, indent=4, ensure_ascii=False))
+            # per salvare su file
+            nome_file = os.path.join(directory, f"{sede["value"]}---{aula["valore"]}---{data_inizio}_to_{data_fine}.json")
+            with open(nome_file, "w", encoding="utf-8") as f:
+                json.dump(json_data, f, ensure_ascii=False, indent=2)
+
+
+
 
 if __name__ == "__main__":
     start_datetime = datetime.now()
@@ -211,36 +235,17 @@ if __name__ == "__main__":
         pass
     os.makedirs(directory, exist_ok=True)
 
-    logging.basicConfig(level=logging.INFO)
-    data = get_file_with_info()
-    sedi = get_sedi(data)
-    for sede in sedi:
-        aulee = get_aule(data, sedi[0]['value'])
-        for aula in aulee:
-            print(f"----- Aula: {aula['label']} - Codice: {aula['valore']}")
-            json_data = {}
-            json_data["sede"] = sedi[0]['label']
-            json_data["codice_sede"] = sedi[0]['value']
-            json_data["aula"] = aula['label']
-            json_data["codice_aula"] = aula['valore']
-            json_data["calendario"] = []
+    data_inizio = "5-10-2025"
+    data_fine = "25-02-2026"
 
-            data_inizio = "5-10-2025"
-            data_fine = "6-10-2025"
+    data_from_units = get_file_with_info()
+    sedi = get_sedi(data_from_units)
 
-            for giorno_settimana in iterate_dates(data_inizio, data_fine):
-                json_filtered = {}
-                json_filtered["data_settimana"] = giorno_settimana
-                # print(f"Giorno preciso: {giorno_settimana}")
-                payload = create_payload(sedi[0]['value'], aula['valore'], giorno_settimana)
-                response_data = get_response(payload)
-                json_filtered["eventi"] = response_filter(response_data)
-                json_data["calendario"].append(json_filtered)
-            # print(json.dumps(json_data, indent=4, ensure_ascii=False))
-            # per salvare su file
-            nome_file = os.path.join(directory, f"{sede["value"]}---{aula["valore"]}---{data_inizio}_to_{data_fine}.json")
-            with open(nome_file, "w", encoding="utf-8") as f:
-                json.dump(json_data, f, ensure_ascii=False, indent=2)
+    num_cores = max(1, multiprocessing.cpu_count())
+    print("Using", num_cores, "cores")
+    Parallel(n_jobs=num_cores)(
+        delayed(get_data)(data_from_units, sede, data_inizio, data_fine) for sede in sedi
+    )
    
     print("time taken:", format_time(time.time() - start_time))
 
