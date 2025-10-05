@@ -1,15 +1,11 @@
 import time
 import os
 import shutil
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import Select
+import sys
 from joblib import Parallel, delayed
 from datetime import datetime
 import json
 import multiprocessing
-import logging
 import requests
 import json
 import re
@@ -17,12 +13,7 @@ from urllib.parse import urlencode
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-
-URL_sedi = "https://orari.units.it/agendaweb/combo.php?sw=rooms_"
-URL_FORM = "https://orari.units.it/agendaweb/index.php?view=rooms&include=rooms&_lang=it"
-OUTPUT_DIR = "sedi_rag"
-
-def print_title(start_time):
+def print_title(start_time, data_inizio, data_fine):
     print(r"""
    ____                   _ _                         _                _            _                     _        _   _ _   _ ___ _____ ____  
   / ___|_ __ _____      _| (_)_ __   __ _    ___ __ _| | ___ _ __   __| | __ _ _ __(_) ___     __ _ _   _| | ___  | | | | \ | |_ _|_   _/ ___| 
@@ -33,20 +24,26 @@ def print_title(start_time):
     """)
 
     formatted_time = time.strftime("%H:%M:%S", time.localtime(start_time))
-    print(f"Starting at {formatted_time} the process to get all room occupation URLs from orari.units.it...\n")
+    print(f"Script started at {formatted_time}")
+    print(f"First date: {data_inizio}, last date: {data_fine}")
+    print(f"Starting the process to get all room occupation URLs from orari.units.it...\n")
 
-def converti_file_sede(percorso_file):
+def write_json_to_file(content, dir, sede, data_inizio, data_fine):
+    nome_file = os.path.join(dir, f"{sede}---{data_inizio}_to_{data_fine}.json")
+    with open(nome_file, "w", encoding="utf-8") as f:
+        json.dump(content, f, ensure_ascii=False, indent=2)
+
+def convert_json_structure(percorso_file):
     with open(percorso_file, "r", encoding="utf-8") as f:
         dati = json.load(f)
 
     sedi_data = defaultdict(lambda: {
-        "sede": "",
-        "CodiceSede": "",
-        "ultimo_aggiornamento": "",
-        "aule": defaultdict(lambda: {
-            "NomeAula": "",
-            "CodiceAula": "",
-            "eventi": []
+        "Nome sede": "",
+        "Codice sede": "",
+        "Aule": defaultdict(lambda: {
+            "Nome aula": "",
+            "Codice aula": "",
+            "Eventi": []
         })
     })
 
@@ -56,57 +53,36 @@ def converti_file_sede(percorso_file):
         codice_aula = evento.get("CodiceAula")
         nome_aula = evento.get("NomeAula")
         ultimo_agg = evento.get("ultimo_aggiornamento", "")
-        annullato = evento.get("Annullato", "0")
+        annullato = "no" if evento.get("Annullato", "0") == "0" else "si"
         corso = evento.get("name")
         giorno = evento.get("Giorno")
         orario = evento.get("orario", "")
         docente = evento.get("utenti", "")
         sede_entry = sedi_data[codice_sede]
-        sede_entry["sede"] = nome_sede
-        sede_entry["CodiceSede"] = codice_sede
-        sede_entry["ultimo_aggiornamento"] = ultimo_agg
+        sede_entry["Nome sede"] = nome_sede
+        sede_entry["Codice sede"] = codice_sede
 
-        aula_entry = sede_entry["aule"][codice_aula]
-        aula_entry["NomeAula"] = nome_aula
-        aula_entry["CodiceAula"] = codice_aula
+        aula_entry = sede_entry["Aule"][codice_aula]
+        aula_entry["Nome aula"] = nome_aula
+        aula_entry["Codice aula"] = codice_aula
 
         evento_dict = {
             "data": giorno,
             "orario": orario,
             "corso": corso,
             "docente": docente,
-            "annullato": annullato
+            "Ultimo aggiornamento": ultimo_agg
         }
-        aula_entry["eventi"].append(evento_dict)
+        if annullato == "si":
+            evento_dict["annullato"] = annullato
 
+        aula_entry["Eventi"].append(evento_dict)
+
+    sedi_array = []
     for codice_sede, sede_entry in sedi_data.items():
-        sede_entry["aule"] = list(sede_entry["aule"].values())
-        output_path = os.path.join(OUTPUT_DIR, f"{codice_sede}.json")
-        with open(output_path, "w", encoding="utf-8") as out_f:
-            json.dump(sede_entry, out_f, ensure_ascii=False, indent=2)
-
-        print(f"Creato: {output_path}")
-
-def write_json_to_file(nome_file, nuovo_contenuto):
-    data = []
-    # Se il file esiste e non è vuoto, carico i dati
-    if os.path.exists(nome_file) and os.path.getsize(nome_file) > 0:
-        with open(nome_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    
-    # Mi assicuro che sia una lista
-    if not isinstance(data, list):
-        raise ValueError("Il JSON esistente non è una lista, impossibile fare append.")
-
-    # Aggiungo il nuovo contenuto (può essere dict o lista di dict)
-    if isinstance(nuovo_contenuto, list):
-        data = nuovo_contenuto + data
-    else:
-        data = [nuovo_contenuto] + data
-        
-    # Riscrivo il file
-    with open(nome_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        sede_entry["Aule"] = list(sede_entry["Aule"].values())
+        sedi_array.append(sede_entry)
+    return sedi_array
 
 def iterate_dates(start_date, end_date):
     def parse_date(d):
@@ -169,6 +145,11 @@ def check_date(date_str):
 
 def response_filter(data):
     ultimo_aggiornamento = data.get("file_date", "")
+    try:
+        ultimo_aggiornamento = ultimo_aggiornamento.split(" ", 1)[0]
+    except Exception:
+        pass
+
     chiavi_evento = [
         "room", "NomeAula", "CodiceAula",
         "NomeSede", "CodiceSede", "name",
@@ -205,8 +186,8 @@ def add_keys_and_reorder(filtered_data, sedi, aule, payload):
 
 def build_units_url(payload):
     query_string = urlencode(payload, doseq=True)
-    separator = "&" if "?" in URL_FORM else "?"
-    full_url = URL_FORM + separator + query_string
+    separator = "&" if "?" in URL_PORTAL else "?"
+    full_url = URL_PORTAL + separator + query_string
     return full_url
 
 def create_payload(sede_code, data_settimana, aula_value="all"):    
@@ -271,7 +252,7 @@ def format_time(seconds: float) -> str:
     
 from concurrent.futures import ThreadPoolExecutor, as_completed
  
-def get_data(data_from_units, sede, data_inizio, data_fine):
+def get_data(sede, data_inizio, data_fine):
     print(f"Processing sede: {sede['label']} ({sede['value']})...")
     final_json = []
     for giorno in iterate_dates(data_inizio, data_fine):
@@ -281,49 +262,67 @@ def get_data(data_from_units, sede, data_inizio, data_fine):
             print(f"Failed to retrieve data for {sede['label']} on {giorno}. URL: {build_units_url(payload)}")
             continue
         if isinstance(response_data["events"], list) and not response_data["events"]:
-            print(f"No events found for {sede['label']} on {giorno}.")
             continue
         json_filtered = response_filter(response_data)
+        with open("reponse.json", "w", encoding="utf-8") as f:
+            json.dump(json_filtered, f, ensure_ascii=False, indent=2)
+
         final_json.extend(json_filtered)
 
-    nome_file = os.path.join(INPUT_DIR, f"{sede["value"]}---{data_inizio}_to_{data_fine}.json")
-    with open(nome_file, "w", encoding="utf-8") as f:
-        json.dump(final_json, f, ensure_ascii=False, indent=2)
+    write_json_to_file(final_json, TEMP_DIR, sede['label'], data_inizio, data_fine)
 
     return final_json
 
 
 if __name__ == "__main__":
+    # Controlla quanti argomenti sono stati passati
+    if len(sys.argv) > 2:
+        data_inizio = sys.argv[1]
+        data_fine = sys.argv[2]
+    else:
+        data_inizio = "6-11-2025"
+        data_fine = "20-02-2026"
+
     start_datetime = datetime.now()
     start_time = time.time()
-    print_title(start_time)
-    INPUT_DIR = "sedi"
-    try:
-        shutil.rmtree(INPUT_DIR)
-        shutil.rmtree(OUTPUT_DIR)
-    except:
-        pass
-    os.makedirs(INPUT_DIR, exist_ok=True)
-    data_inizio = "6-10-2025"
-    data_fine = "20-11-2025"
+    print_title(start_time, data_inizio, data_fine)
     
+    OUTPUT_DIR = "orario_aule_per_sede"
+    TEMP_DIR = "." + OUTPUT_DIR + "_temp"
+    URL_sedi = "https://orari.units.it/agendaweb/combo.php?sw=rooms_"
+    URL_PORTAL = "https://orari.units.it/agendaweb/index.php?view=rooms&include=rooms&_lang=it"
+
+
+    if os.path.exists(TEMP_DIR):
+        shutil.rmtree(TEMP_DIR)
+    if os.path.exists(OUTPUT_DIR):
+        shutil.rmtree(OUTPUT_DIR)
+    os.makedirs(TEMP_DIR, exist_ok=True)
+    os.remove("nomi_sedi.txt") if os.path.exists("nomi_sedi.txt") else None
+
     resp = requests.get(URL_sedi)
     resp.raise_for_status()
     data_from_units = resp.text
 
     sedi = get_sedi(data_from_units)
+    # sedi = sedi[:2]  # per test, rimuovere per produzione
 
     num_cores = max(1, multiprocessing.cpu_count())
     final_json = Parallel(n_jobs=num_cores)(
-        delayed(get_data)(data_from_units, sede, data_inizio, data_fine) for sede in sedi
+        delayed(get_data)(sede, data_inizio, data_fine) for sede in sedi
     )
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    for file_name in os.listdir(INPUT_DIR):
+    for file_name in os.listdir(TEMP_DIR):
         if file_name.endswith(".json"):
-            percorso = os.path.join(INPUT_DIR, file_name)
-            converti_file_sede(percorso)
+            percorso = os.path.join(TEMP_DIR, file_name)
+            json_files = convert_json_structure(percorso)
+            for file in json_files:
+                write_json_to_file(file, OUTPUT_DIR, file["Codice sede"], data_inizio, data_fine)
 
+
+    if os.path.exists(TEMP_DIR):
+        shutil.rmtree(TEMP_DIR)
 
     print("time taken:", format_time(time.time() - start_time))
 
