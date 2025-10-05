@@ -1,5 +1,7 @@
 # Ignore results folders
 response_json_files/
+sedi/
+sedi_rag/
 
 # Ignore Python bytecode and cache
 __pycache__/
