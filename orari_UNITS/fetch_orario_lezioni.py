@@ -141,7 +141,6 @@ def estrai_url(dip, base_url):
     set_dipartimento(dip, driver)
     corsi_di_studio = get_corsi_di_studio(driver)
     
-    urls_local = set()
     blocchi = []
     for corso in corsi_di_studio:
         set_corso_di_studio(corso, driver)
@@ -172,7 +171,6 @@ def estrai_url(dip, base_url):
             }
 
             blocchi.append(blocco)
-            urls_local.add(url)
     
     driver.quit()
 
@@ -277,7 +275,7 @@ def check_date(date_str, data_fine):
         raise ValueError("Formato data non valido. Usa dd/mm/yyyy o dd-mm-yyyy.")
 
     # Data di riferimento
-    target_date = datetime(2026, 1, 20)
+    target_date = datetime(2025, 11, 20)
 
     return input_date < target_date
 
@@ -286,7 +284,7 @@ def check_date(date_str, data_fine):
 
 
 
-def get_response(info_schedule_corse, number_of_schedules, OUTPUT_DIR, url, data_fine):
+def get_response(info_schedule_corse, OUTPUT_DIR, url, data_fine):
 
     print("Richiesta per:", info_schedule_corse["data settimana"])
 
@@ -348,7 +346,7 @@ def get_response(info_schedule_corse, number_of_schedules, OUTPUT_DIR, url, data
         print(f"ATTENZIONE Orario vuoto per {codice_corso}---{codice_curriculum_e_anno_corso} in data {data_settimana}")
     next_schedule_corse = info_schedule_corse
     next_schedule_corse["data settimana"] = next_week(info_schedule_corse["data settimana"])
-    get_response(info_schedule_corse, number_of_schedules, OUTPUT_DIR, url, data_fine)
+    get_response(info_schedule_corse, OUTPUT_DIR, url, data_fine)
 
     final_json = {**final_json, **orario_json}
 
@@ -384,7 +382,7 @@ if __name__ == "__main__":
     driver.get(URL_FORM)
     time.sleep(0.6)
     dipartimenti = get_dipartimenti(driver)
-    # dipartimenti = dipartimenti[:1]
+    dipartimenti = dipartimenti[:1]
     driver.quit()
 
     num_cores = max(1, multiprocessing.cpu_count())
@@ -408,7 +406,7 @@ if __name__ == "__main__":
     manager = multiprocessing.Manager()
 
     Parallel(n_jobs=num_cores)(
-        delayed(get_response)(info_schedule_corse, len(blocchi_finali), OUTPUT_DIR, URL_orari_data, data_fine) for info_schedule_corse in blocchi_finali
+        delayed(get_response)(info_schedule_corse, OUTPUT_DIR, URL_orari_data, data_fine) for info_schedule_corse in blocchi_finali
     )
 
 
