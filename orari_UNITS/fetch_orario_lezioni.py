@@ -13,26 +13,33 @@ import multiprocessing
 import shutil
 import requests
 import sys
+import argparse
+from urllib.parse import urlencode, quote
 
 def print_title(start_time, data_inizio, data_fine, anno_scolastico):
-    ascii_art = """
-   __     _       _                            _   _          _             _   _    _ _   _ _____ _______ _____ 
-  / _|   | |     | |                          (_) | |        (_)           (_) | |  | | \ | |_   _|__   __/ ____|
- | |_ ___| |_ ___| |__     ___  _ __ __ _ _ __ _  | | ___ _____  ___  _ __  _  | |  | |  \| | | |    | | | (___  
- |  _/ _ \ __/ __| '_ \   / _ \| '__/ _` | '__| | | |/ _ \_  / |/ _ \| '_ \| | | |  | | . ` | | |    | |  \___ \ 
- | ||  __/ || (__| | | | | (_) | | | (_| | |  | | | |  __// /| | (_) | | | | | | |__| | |\  |_| |_   | |  ____) |
- |_| \___|\__\___|_| |_|  \___/|_|  \__,_|_|  |_| |_|\___/___|_|\___/|_| |_|_|  \____/|_| \_|_____|  |_| |_____/ 
-"""
-
-    print(ascii_art)
+    print(r"""
+  _____    _       _                            _   _          _             _   _   _ _   _ ___ _____ ____  
+ |  ___|__| |_ ___| |__     ___  _ __ __ _ _ __(_) | | ___ ___(_) ___  _ __ (_) | | | | \ | |_ _|_   _/ ___| 
+ | |_ / _ \ __/ __| '_ \   / _ \| '__/ _` | '__| | | |/ _ \_  / |/ _ \| '_ \| | | | | |  \| || |  | | \___ \ 
+ |  _|  __/ || (__| | | | | (_) | | | (_| | |  | | | |  __// /| | (_) | | | | | | |_| | |\  || |  | |  ___) |
+ |_|  \___|\__\___|_| |_|  \___/|_|  \__,_|_|  |_| |_|\___/___|_|\___/|_| |_|_|  \___/|_| \_|___| |_| |____/ 
+                                                                                                             
+    """)
     formatted_time = time.strftime("%H:%M:%S", time.localtime(start_time))
     print(f"Script started at {formatted_time}")
     print(f"SCHOOL YEAR: {anno_scolastico}/{anno_scolastico+1} (first fetch date: {data_inizio.strftime("%d-%m-%Y")}, last fetch date: {data_fine.strftime("%d-%m-%Y")})")
     print(f"Starting the process to get all lessons schedule URLs from orari.units.it...\n")
 
+def print_result(start_time, data_inizio, data_fine, anno_scolastico, OUTPUT_DIR):
+    print(f"\n #################### RESULT ####################")
+    print(f"Script started at {time.strftime("%H:%M:%S", time.localtime(start_time))} and ended at {time.strftime("%H:%M:%S", time.localtime(time.time()))}")
+    print(f"SCHOOL YEAR: {anno_scolastico}/{anno_scolastico+1} (first fetch date: {data_inizio.strftime("%d-%m-%Y")}, last fetch date: {data_fine.strftime("%d-%m-%Y")})")
+    print(f"Time needed: {format_time(time.time() - start_time)}")
+    print(f"Results are in : /{OUTPUT_DIR}")
+    print(f"################################################")
+
 
 ############### Funzioni get e set ####################
-from urllib.parse import urlencode, quote
 
 def build_orario_url(anno_scolastico, scuola, corso, anno2, date, base_url, lang="it"):
     params = {
@@ -151,7 +158,7 @@ def estrai_url(dip, base_url, anno_scolastico, data_inizio):
             set_anno_di_studio_e_curriculum(anno_studio, driver)
             
             log = "Getting " + dip["label"] + "  --  Corso: " + corso["label"] + "  --  Anno di studio e curriculum: " + anno_studio["label"]
-            print(f"\r{log}", end="", flush=True)
+            print(f"{log}\n")
 
             if anno_studio["label"].strip().endswith("Comune"):
                 anno_studio["label"] += " con tutti gli altri curriculum di quel corso"
@@ -326,20 +333,23 @@ def get_response(info_schedule_corse, OUTPUT_DIR, url, BASE_URL, data_fine):
     write_json_to_file(file_name, final_json)   
     
 
+
+def parse_date(s):
+    try:
+        return datetime.strptime(s, "%d-%m-%Y").date()
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"Formato data non valido: '{s}'. Usa dd-mm-yyyy.")
+
+
 if __name__ == "__main__":
     start_time = time.time()
-    if len(sys.argv) > 2:
-        try:
-            data_inizio = sys.argv[1].strftime("%d-%m-%Y")
-            data_fine = sys.argv[2].strftime("%d-%m-%Y")
-        except Exception as e:
-            print("Errore nel parsing delle date. Usa il formato dd-mm-yyyy.")
-            sys.exit(1)
-    else:
-        data_inizio = date(2025, 11, 6)
-        #data_fine = date(2025, 11, 20)
-        data_fine = date(2026, 2, 20)
-    # la request vuole solo un anno come anno scolastico. ES 2023 per l'anno scolastico 2023/2024.
+    parser = argparse.ArgumentParser(description="Script per l'estrazione degli orari da orari.units.it")
+    parser.add_argument("--start_date", type=parse_date, help="Data di inizio nel formato dd-mm-yyyy", default=date(datetime.now().year, 11, 6))
+    parser.add_argument("--end_date", type=parse_date, help="Data di fine nel formato dd-mm-yyyy", default=date(datetime.now().year+1, 2, 20))
+    args = parser.parse_args()
+
+    data_inizio = args.start_date
+    data_fine = args.end_date    # la request vuole solo un anno come anno scolastico. ES 2023 per l'anno scolastico 2023/2024.
     # quindi se la data è dopo il 15 agosto, l'anno scolastico è l'anno della data, altrimenti è l'anno precedente. 
     # Si presume che le richieste dopo il 15 agosto siano per l'anno scolastico che inizia a settembre (prima del 15 aosto solitamente non vengono pubblicati gli orari dell'AS nuovo).
     anno_scolastico = data_inizio.year if data_inizio >= date(data_inizio.year, 8, 15) else data_inizio.year - 1
@@ -362,7 +372,7 @@ if __name__ == "__main__":
     driver.get(URL_FORM)
     time.sleep(0.6)
     dipartimenti = get_dipartimenti(driver)
-    #dipartimenti = dipartimenti[:1]
+    dipartimenti = dipartimenti[:1]
     driver.quit()
 
     num_cores = max(1, multiprocessing.cpu_count()*2)
@@ -386,5 +396,4 @@ if __name__ == "__main__":
         delayed(get_response)(info_schedule_corse, OUTPUT_DIR, URL_orari_data, BASE_URL, data_fine) for info_schedule_corse in blocchi_finali
     )
 
-
-    print("tempo impiegato:", format_time(time.time() - start_time))
+    print_result(start_time, data_inizio, data_fine, anno_scolastico, OUTPUT_DIR)
