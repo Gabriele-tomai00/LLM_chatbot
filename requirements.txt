@@ -4,3 +4,4 @@ beautifulsoup4>=4.0.0
 termcolor>=2.0.0
 selenium
 joblib
+webdriver-manager
