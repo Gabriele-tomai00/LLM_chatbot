@@ -12,6 +12,7 @@ import re
 from urllib.parse import urlencode
 from datetime import datetime, timedelta
 from collections import defaultdict
+import argparse
 
 def print_title(start_time, data_inizio, data_fine):
     print(r"""
@@ -275,16 +276,16 @@ def get_data(sede, data_inizio, data_fine):
 
 
 if __name__ == "__main__":
-    # Controlla quanti argomenti sono stati passati
-    if len(sys.argv) > 2:
-        data_inizio = sys.argv[1]
-        data_fine = sys.argv[2]
-    else:
-        data_inizio = "6-11-2025"
-        data_fine = "20-02-2026"
-
     start_datetime = datetime.now()
     start_time = time.time()
+    parser = argparse.ArgumentParser(description="Script per l'estrazione degli orari da orari.units.it")
+    parser.add_argument("--start_date", type=parse_date, help="Data di inizio nel formato dd-mm-yyyy", default=date(datetime.now().year, 11, 6))
+    parser.add_argument("--end_date", type=parse_date, help="Data di fine nel formato dd-mm-yyyy", default=date(datetime.now().year+1, 2, 20))
+    args = parser.parse_args()
+
+    data_inizio = args.start_date
+    data_fine = args.end_date    # la request vuole solo un anno come anno scolastico. ES 2023 per l'anno scolastico 2023/2024.
+
     print_title(start_time, data_inizio, data_fine)
     
     OUTPUT_DIR = "orario_aule_per_sede"
