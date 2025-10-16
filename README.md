@@ -13,6 +13,7 @@ e installare tutte le dipendenze richieste eseguendo il comando:
 Parametri possibili:  
 --start_date: Data di inizio nel formato dd-mm-yyyy  
 --end_date: Data di fine nel formato dd-mm-yyyy
+--num_departments: da specificare in fase di test o se vogliamo solo una parte dei dipartimenti, ma si può indicare solo il numero (es: 3 fa lo scraping solo dei primi 3 dipartimenti presenti in lista). 0 vuol dire tutti
 ```bash
     python3 orari_UNITS/fetch_orario_lezioni.py
 ```
