@@ -16,6 +16,9 @@ import sys
 import argparse
 from urllib.parse import urlencode, quote
 
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+
 def print_title(start_time, data_inizio, data_fine, anno_scolastico):
     print(r"""
   _____    _       _                            _   _          _             _   _   _ _   _ ___ _____ ____  
@@ -31,7 +34,7 @@ def print_title(start_time, data_inizio, data_fine, anno_scolastico):
     print(f"Starting the process to get all lessons schedule URLs from orari.units.it...\n")
 
 def print_result(start_time, data_inizio, data_fine, anno_scolastico, OUTPUT_DIR):
-    print(f"\n #################### RESULT ####################")
+    print(f"\n#################### RESULT ####################")
     print(f"Script started at {time.strftime("%H:%M:%S", time.localtime(start_time))} and ended at {time.strftime("%H:%M:%S", time.localtime(time.time()))}")
     print(f"SCHOOL YEAR: {anno_scolastico}/{anno_scolastico+1} (first fetch date: {data_inizio.strftime("%d-%m-%Y")}, last fetch date: {data_fine.strftime("%d-%m-%Y")})")
     print(f"Time needed: {format_time(time.time() - start_time)}")
@@ -138,11 +141,14 @@ def set_anno_di_studio_e_curriculum(anno, iob_driver):
 
 
 def estrai_url(dip, base_url, anno_scolastico, data_inizio):
-    driver = webdriver.Chrome(options=chrome_options)
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)    
     driver.get(URL_FORM)
     time.sleep(0.4)
 
     anni_scolastici = get_anni_scolastici(driver)
+    if not anni_scolastici:
+        print(f"Nessun anno scolastico trovato per il dipartimento {dip['label']}")
+    return []
     latest_value = max(anni_scolastici, key=lambda x: int(x['value']))
     set_anno_scolastico(latest_value, driver)
     
@@ -368,15 +374,18 @@ if __name__ == "__main__":
 
     OUTPUT_DIR = "calendario_lezioni_per_corso"
 
-    driver = webdriver.Chrome(options=chrome_options)
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     driver.get(URL_FORM)
     time.sleep(0.6)
     dipartimenti = get_dipartimenti(driver)
+    for dipartimento in dipartimenti:
+        print(dipartimento)
+        print("\n")
     dipartimenti = dipartimenti[:1]
     driver.quit()
 
-    num_cores = max(1, multiprocessing.cpu_count()*2)
-    risultati = Parallel(n_jobs=num_cores)(
+    num_cores = max(1, multiprocessing.cpu_count()*4)
+    risultati = Parallel(n_jobs=2)(
         delayed(estrai_url)(dip, BASE_URL, anno_scolastico, data_inizio) for dip in dipartimenti
     )
 
@@ -392,7 +401,7 @@ if __name__ == "__main__":
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-    Parallel(n_jobs=num_cores)(
+    Parallel(n_jobs=16)(
         delayed(get_response)(info_schedule_corse, OUTPUT_DIR, URL_orari_data, BASE_URL, data_fine) for info_schedule_corse in blocchi_finali
     )
 
