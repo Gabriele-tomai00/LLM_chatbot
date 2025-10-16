@@ -13,6 +13,8 @@ import argparse
 from urllib.parse import urlencode, quote
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 def print_title(start_time, data_inizio, data_fine, anno_scolastico):
     print(r"""
@@ -274,8 +276,13 @@ def write_json_to_file(file_name, new_content):
 
 
 def get_response_and_write_json_to_files(info_schedule_corse, OUTPUT_DIR, url, BASE_URL, data_fine):
+    session = requests.Session()
+    retries = Retry(total=5, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504])
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount('https://', adapter)
+
     while info_schedule_corse["data settimana"] <= data_fine:
-        print("Richiesta per:", info_schedule_corse["data settimana"])       
+        print("Richiesta per:", info_schedule_corse["data settimana"])
         try:
             anno_scolastico = info_schedule_corse["anno scolastico"]
             codice_dipartimento = info_schedule_corse["codice dipartimento"]
@@ -286,7 +293,10 @@ def get_response_and_write_json_to_files(info_schedule_corse, OUTPUT_DIR, url, B
             data_settimana = info_schedule_corse["data settimana"]
         except Exception as e:
             print(f"Errore nel parsing del json: {e}")
-            return
+            break
+
+        url_specifico = build_orario_url(anno_scolastico, codice_dipartimento, codice_corso, codice_curriculum_e_anno_corso, data_settimana, BASE_URL, lang="it")
+
         payload = {
             "view": "easycourse",
             "form-type": "corso",
@@ -312,28 +322,38 @@ def get_response_and_write_json_to_files(info_schedule_corse, OUTPUT_DIR, url, B
             "Referer": BASE_URL
         }
 
-        response = requests.post(url, data=payload, headers=headers)
-        response.raise_for_status()
+        try:
+            time.sleep(0.1)  # evita saturazione porte
+            response = session.post(url, data=payload, headers=headers)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print(f"Errore nella richiesta: {e}")
+            break
 
-        url_specifico = build_orario_url(anno_scolastico, codice_dipartimento, codice_corso, codice_curriculum_e_anno_corso, data_settimana, BASE_URL, lang="it")
+        orario_json = response_filter(response.json())x
+        try:
+            orario = orario_json["orario lezioni"]
+        except Exception as e:
+            print(f"Errore nel parsing del json: {e}")
+            break
+
+        if orario_json["orario lezioni"] == []:
+            print(f"ATTENZIONE Orario vuoto per {codice_corso}---{codice_curriculum_e_anno_corso} in data {data_settimana}")
+
         final_json = {
             "url": url_specifico,
             "dipartimento": codice_dipartimento,
             "codice corso": codice_corso,
             "corso di studi": corso_di_studi,
             "codice anno corso di studio": codice_curriculum_e_anno_corso,
-            "anno corso e curriculum": anno_corso_di_studio_e_curriculum
+            "anno corso e curriculum": anno_corso_di_studio_e_curriculum,
+            **orario_json
         }
 
-        orario_json = response_filter(response.json())
-        if orario_json["orario lezioni"] == []:
-            print(f"ATTENZIONE Orario vuoto per {codice_corso}---{codice_curriculum_e_anno_corso} in data {data_settimana}")
-        final_json = {**final_json, **orario_json}
-        file_name = os.path.join(OUTPUT_DIR, f"{codice_corso}---{codice_curriculum_e_anno_corso}.json")
-        write_json_to_file(file_name, final_json)  
+        file_name = os.path.join(OUTPUT_DIR, f"{codice_corso}---{codice_curriculum_e_anno_corso}---{data_settimana}.json")
+        write_json_to_file(file_name, final_json)
 
-        info_schedule_corse["data settimana"] = next_week(info_schedule_corse["data settimana"])
-
+        info_schedule_corse["data settimana"] = next_week(data_settimana)
 
 def parse_date(s):
     try:
