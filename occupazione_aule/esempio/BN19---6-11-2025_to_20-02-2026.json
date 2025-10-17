@@ -1,0 +1,522 @@
+{
+  "Nome sede": "Palazzina N",
+  "Codice sede": "BN19",
+  "Aule": [
+    {
+      "Nome aula": "Laboratorio informatico",
+      "Codice aula": "003_RI",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "17:00 - 19:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "17:00 - 19:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "17:00 - 19:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILaboratorio",
+          "docente": "ELENA PAVONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILaboratorio",
+          "docente": "ELENA PAVONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILaboratorio",
+          "docente": "ELENA PAVONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI SISMICA PER LA GEOTECNICA Lezione",
+          "docente": "Emanuele FORTE, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 14:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "EXPLORATION SEISMOLOGY",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "15:00 - 17:00",
+          "corso": "INTEGRATED PETROPHYSICS",
+          "docente": "Emanuele FORTE, Anna DEL BEN, MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula microscopia A",
+      "Codice aula": "001-O",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 12:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 12:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 12:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "PETROGRAFIA",
+          "docente": "ANGELO DE MIN, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "MINERALOGIA E PETROGRAFIA DEL SEDIMENTARIO",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

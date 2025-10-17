@@ -1,0 +1,74 @@
+{
+  "Nome sede": "Palazzina G",
+  "Codice sede": "Z019",
+  "Aule": [
+    {
+      "Nome aula": "Aula 10",
+      "Codice aula": "001_ZC",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOGERIATRIA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "PSICOPATOLOGIA DELLE DIPENDENZE",
+          "docente": "DEBORAH NORDICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 13:00",
+          "corso": "INTERVENTI DI RIABILITAZIONE PSICOSOCIALE NELLE DIPENDENZE PATOLOGICHE",
+          "docente": "ANDREA MONCULLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 19:00",
+          "corso": "ELEMENTI DI NEUROPSICHIATRIA INFANTILE",
+          "docente": "GIUSEPPE ABBRACCIAVENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 8",
+      "Codice aula": "002_ZB",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "INTERVENTI E SERVIZI PER L'ACCESSO AI DIRITTI DI CITTADINANZA ED ALLE RISORSE DEL TERRITORIO",
+          "docente": "LUISA MARENGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICOLOGIA DELLO SVILUPPO",
+          "docente": "BARBARA FAZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "INTERVENTI RIABILITATIVI SULLE ABILITA' PERSONALI E SOCIALI",
+          "docente": "ANNA CALCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 17:30",
+          "corso": "PSICOLOGIA DELLO SVILUPPO",
+          "docente": "BARBARA FAZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

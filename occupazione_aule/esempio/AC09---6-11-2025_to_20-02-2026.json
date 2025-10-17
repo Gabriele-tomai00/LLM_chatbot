@@ -1,0 +1,2236 @@
+{
+  "Nome sede": "Edificio C9",
+  "Codice sede": "AC09",
+  "Aule": [
+    {
+      "Nome aula": "Sala riunioni",
+      "Codice aula": "022_5",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-08",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-15",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-06",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-25",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-26",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-27",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "08:00 - 20:00",
+          "corso": "UFFICIO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "010_7",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 17:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA CIVILE",
+          "docente": "GIOVANNI LONGO, PAOLO BEVILACQUA, VANNI LUGHI, VINCENZO ARMENIO, MASSIMILIANO GEI, CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA GESTIONALE",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "GESTIONE INDUSTRIALE E LOGISTICA",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOLOGIA DEGLI RNA NON CODIFICANTI",
+          "docente": "Stefan SCHOEFTNER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 19:30",
+          "corso": "TECNICA DELLE COSTRUZIONI",
+          "docente": "SALVATORE NOE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 17:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA CIVILE",
+          "docente": "GIOVANNI LONGO, PAOLO BEVILACQUA, VANNI LUGHI, VINCENZO ARMENIO, MASSIMILIANO GEI, CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA GESTIONALE",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "GESTIONE INDUSTRIALE E LOGISTICA",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOLOGIA DEGLI RNA NON CODIFICANTI",
+          "docente": "Stefan SCHOEFTNER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 17:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA CIVILE",
+          "docente": "GIOVANNI LONGO, PAOLO BEVILACQUA, VANNI LUGHI, VINCENZO ARMENIO, MASSIMILIANO GEI, CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA GESTIONALE",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "GESTIONE INDUSTRIALE E LOGISTICA",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 10:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOLOGIA DEGLI RNA NON CODIFICANTI",
+          "docente": "Stefan SCHOEFTNER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 17:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA CIVILE",
+          "docente": "GIOVANNI LONGO, PAOLO BEVILACQUA, VANNI LUGHI, VINCENZO ARMENIO, MASSIMILIANO GEI, CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA GESTIONALE",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "GESTIONE INDUSTRIALE E LOGISTICA",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOLOGIA DEGLI RNA NON CODIFICANTI",
+          "docente": "Stefan SCHOEFTNER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA GESTIONALE",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "GESTIONE INDUSTRIALE E LOGISTICA",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOLOGIA DEGLI RNA NON CODIFICANTI",
+          "docente": "Stefan SCHOEFTNER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025",
+          "annullato": "si"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 17:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA CIVILE",
+          "docente": "GIOVANNI LONGO, PAOLO BEVILACQUA, VANNI LUGHI, VINCENZO ARMENIO, MASSIMILIANO GEI, CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA GESTIONALE",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "GESTIONE INDUSTRIALE E LOGISTICA",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOLOGIA DEGLI RNA NON CODIFICANTI",
+          "docente": "Stefan SCHOEFTNER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA PER L'ANALISI DELLA POLITICA E DELLE POLICY",
+          "docente": "MATTIA ZULIANELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "009_10",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "Prof. Gallina",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D E GIS PER IL MONITORAGGIO CIVILE E AMBIENTALE",
+          "docente": "RAFFAELA CEFALO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "AIR AND SATELLITE NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "ELEMENTS OF FLUIDMACHINERY AND ENERGY SYSTEMS",
+          "docente": "MAURO REINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "LEARNING-BASED CONTROL",
+          "docente": "ERICA SALVATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 14:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 12:00",
+          "corso": "RETI IDRAULICHE",
+          "docente": "FEDERICO ROMAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 12:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D E GIS PER IL MONITORAGGIO CIVILE E AMBIENTALE",
+          "docente": "RAFFAELA CEFALO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "AIR AND SATELLITE NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "ELEMENTS OF FLUIDMACHINERY AND ENERGY SYSTEMS",
+          "docente": "MAURO REINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "LEARNING-BASED CONTROL",
+          "docente": "ERICA SALVATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 14:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 12:00",
+          "corso": "RETI IDRAULICHE",
+          "docente": "FEDERICO ROMAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 12:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D E GIS PER IL MONITORAGGIO CIVILE E AMBIENTALE",
+          "docente": "RAFFAELA CEFALO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 10:00",
+          "corso": "AIR AND SATELLITE NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "ELEMENTS OF FLUIDMACHINERY AND ENERGY SYSTEMS",
+          "docente": "MAURO REINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "LEARNING-BASED CONTROL",
+          "docente": "ERICA SALVATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 14:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 12:00",
+          "corso": "RETI IDRAULICHE",
+          "docente": "FEDERICO ROMAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 12:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D E GIS PER IL MONITORAGGIO CIVILE E AMBIENTALE",
+          "docente": "RAFFAELA CEFALO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "AIR AND SATELLITE NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "ELEMENTS OF FLUIDMACHINERY AND ENERGY SYSTEMS",
+          "docente": "MAURO REINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "LEARNING-BASED CONTROL",
+          "docente": "ERICA SALVATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 14:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 12:00",
+          "corso": "RETI IDRAULICHE",
+          "docente": "FEDERICO ROMAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 12:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 10:00",
+          "corso": "AIR AND SATELLITE NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "ELEMENTS OF FLUIDMACHINERY AND ENERGY SYSTEMS",
+          "docente": "MAURO REINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "LEARNING-BASED CONTROL",
+          "docente": "ERICA SALVATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 14:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 12:00",
+          "corso": "RETI IDRAULICHE",
+          "docente": "FEDERICO ROMAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D E GIS PER IL MONITORAGGIO CIVILE E AMBIENTALE",
+          "docente": "RAFFAELA CEFALO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 10:00",
+          "corso": "AIR AND SATELLITE NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "ELEMENTS OF FLUIDMACHINERY AND ENERGY SYSTEMS",
+          "docente": "MAURO REINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "LEARNING-BASED CONTROL",
+          "docente": "ERICA SALVATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 14:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 12:00",
+          "corso": "RETI IDRAULICHE",
+          "docente": "FEDERICO ROMAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 16:00",
+          "corso": "CYBERSECURITY LAB",
+          "docente": "ALESSANDRO RENDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 18:00",
+          "corso": "PROGRAMMAZIONE E CONTROLLO DELLA PRODUZIONE",
+          "docente": "MARINO NICOLICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "10:00 - 12:00",
+          "corso": "FUNDAMENTALS OF MODERN POWER SYSTEMS",
+          "docente": "ALESSANDRO MASSI PAVAN, ANDREA VICENZUTTI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "12:00 - 13:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 17:00",
+          "corso": "ADVANCED FLUID MECHANICS",
+          "docente": "VINCENZO ARMENIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "008_7",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA ORGANICA E BIOLOGICA PER L'INGEGNERIA",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 16:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES",
+          "docente": "MARTINO TREVISAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 13:00",
+          "corso": "WIRELESS NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 18:00",
+          "corso": "DIGITAL SIGNAL PROCESSING",
+          "docente": "ALBERTO CARINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOMECCANICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 14:00",
+          "corso": "ELABORAZIONE DI BIOIMMAGINI",
+          "docente": "FRANCESCO BRUN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA ORGANICA E BIOLOGICA PER L'INGEGNERIA",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 16:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 18:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES",
+          "docente": "MARTINO TREVISAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 13:00",
+          "corso": "WIRELESS NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 18:00",
+          "corso": "DIGITAL SIGNAL PROCESSING",
+          "docente": "ALBERTO CARINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOMECCANICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 14:00",
+          "corso": "ELABORAZIONE DI BIOIMMAGINI",
+          "docente": "FRANCESCO BRUN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA ORGANICA E BIOLOGICA PER L'INGEGNERIA",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 16:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES",
+          "docente": "MARTINO TREVISAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 13:00",
+          "corso": "WIRELESS NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 18:00",
+          "corso": "DIGITAL SIGNAL PROCESSING",
+          "docente": "ALBERTO CARINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOMECCANICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 14:00",
+          "corso": "ELABORAZIONE DI BIOIMMAGINI",
+          "docente": "FRANCESCO BRUN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA ORGANICA E BIOLOGICA PER L'INGEGNERIA",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 16:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES",
+          "docente": "MARTINO TREVISAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 13:00",
+          "corso": "WIRELESS NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "DIGITAL SIGNAL PROCESSING",
+          "docente": "ALBERTO CARINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOMECCANICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 14:00",
+          "corso": "ELABORAZIONE DI BIOIMMAGINI",
+          "docente": "FRANCESCO BRUN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES",
+          "docente": "MARTINO TREVISAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 13:00",
+          "corso": "WIRELESS NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 18:00",
+          "corso": "DIGITAL SIGNAL PROCESSING",
+          "docente": "ALBERTO CARINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOMECCANICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 14:00",
+          "corso": "ELABORAZIONE DI BIOIMMAGINI",
+          "docente": "FRANCESCO BRUN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA ORGANICA E BIOLOGICA PER L'INGEGNERIA",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 16:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 18:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES",
+          "docente": "MARTINO TREVISAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 13:00",
+          "corso": "WIRELESS NETWORKS",
+          "docente": "FULVIO BABICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "DIGITAL SIGNAL PROCESSING",
+          "docente": "ALBERTO CARINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "BIOMECCANICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 14:00",
+          "corso": "ELABORAZIONE DI BIOIMMAGINI",
+          "docente": "FRANCESCO BRUN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 12:00",
+          "corso": "FONDAMENTI DI INFORMATICA MEDICA",
+          "docente": "ALEKSANDAR MILADINOVI&#262;",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 14:00",
+          "corso": "DATA ANALYTICS IN THE ELECTRICITY MARKET",
+          "docente": "STEFANO PASTORE, NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "PRINCIPI DI ATTUAZIONE ELETTRICA",
+          "docente": "MATTEO OLIVO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 12:00",
+          "corso": "BIOFLUIDODINAMICA",
+          "docente": "Gianni PEDRIZZETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2334 @@
+{
+  "Nome sede": "Edificio Androna Baciocchi 4",
+  "Codice sede": "CB04",
+  "Aule": [
+    {
+      "Nome aula": "Aula C1",
+      "Codice aula": "001_1",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025",
+          "annullato": "si"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTORATO DI LINGUA INGLESE DI BASE dott.ssa Winteringham",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "Editoria e letteratura italiana moderna e contemporanea - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIA DELLA LETTERATURA",
+          "docente": "SERGIA ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "15:00 - 17:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA INGLESE III",
+          "docente": "ROBERTA GEFTER WONDRICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA TEDESCA III",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "14:00 - 16:00",
+          "corso": "LETTERATURA TEDESCA I - LETTERATURA TEDESCA I - A - LETTERATURA TEDESCA I - B",
+          "docente": "PAOLO PANIZZO, MARIA CAROLINA FOI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Baciocchi",
+      "Codice aula": "024_2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 18:30",
+          "corso": "T2 - Scienze della formazione primaria ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "18:00 - 19:30",
+          "corso": "Una Storia di bugie: le fake news nelletà contemporanea",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:30 - 18:30",
+          "corso": "T1 - Scienze della formazione primaria",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "18:00 - 19:30",
+          "corso": "Una Storia di bugie: le fake news nelletà contemporanea",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 18:30",
+          "corso": "T2 - Scienze della formazione primaria ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "18:00 - 19:30",
+          "corso": "Una Storia di bugie: le fake news nelletà contemporanea",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 18:30",
+          "corso": "T1 - Scienze della formazione primaria",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "18:00 - 19:30",
+          "corso": "Una Storia di bugie: le fake news nelletà contemporanea",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 18:30",
+          "corso": "T1 - Scienze della formazione primaria",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "18:00 - 19:30",
+          "corso": "Una Storia di bugie: le fake news nelletà contemporanea",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 18:30",
+          "corso": "T2 - Scienze della formazione primaria ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "18:00 - 19:30",
+          "corso": "Una Storia di bugie: le fake news nelletà contemporanea",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "08:00 - 10:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "10:00 - 12:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "15:00 - 17:00",
+          "corso": "LA STORIA E IL PATRIMONIO CULTURALE - STORIA GRECA - LA STORIA E IL PATRIMONIO CULTURALE - STORIA ROMANA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA E GRAMMATICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "11:00 - 13:00",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "MATTEO CORNACCHIA, MARCO IUS, ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "15:00 - 17:00",
+          "corso": "METODI DI RICERCA E VALUTAZIONE SCOLASTICA",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "10:00 - 12:30",
+          "corso": "STORIA DELLA SCUOLA E DELLE POLITICHE DELL'ISTRUZIONE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-16",
+          "orario": "09:00 - 11:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO (proff. M. CAPUTI - R. PELLIZZONI)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-11",
+          "orario": "10:00 - 12:30",
+          "corso": "STORIA DELLA SCUOLA E DELLE POLITICHE DELL'ISTRUZIONE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-12",
+          "orario": "09:00 - 11:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO (proff. M. CAPUTI - R. PELLIZZONI)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "007_6",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 17:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA SPECIALE",
+          "docente": "BARBARA BOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "15:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ITALIANA CONTEMPORANEA - LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "10:00 - 13:00",
+          "corso": "ELEMENTI DI BOTANICA - ELEMENTI DI ZOOLOGIA",
+          "docente": "SILVIA BATTISTELLA, Miris CASTELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "14:00 - 16:00",
+          "corso": "PEDAGOGIA INTERCULTURALE",
+          "docente": "MARCO IUS, PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "16:00 - 18:00",
+          "corso": "EDUCAZIONE MOTORIA",
+          "docente": "MARIANGELO MAIOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOGRAFIA E CARTOGRAFIA STORICA",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "14:00 - 16:00",
+          "corso": "DISCIPLINE FISICHE - DIDATTICA DELLA FISICA - DISCIPLINE FISICHE - FISICA",
+          "docente": "FRANCESCO LONGO, VALENTINA BOLOGNA, MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-15",
+          "orario": "15:00 - 18:00",
+          "corso": "DIDATTICA DELLA STORIA (Prof.ssa S.D. INAUDI)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-11",
+          "orario": "15:00 - 18:00",
+          "corso": "DIDATTICA DELLA STORIA (Prof.ssa S.D. INAUDI)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula C2",
+      "Codice aula": "026_3",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 14:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 14:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 14:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 14:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 14:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 14:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 15:00",
+          "corso": "LETTERATURA ED EDITORIA DIGITALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA II",
+          "docente": "DIANA BATTISTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA E POLITICA DELL'INDIA CONTEMPORANEA",
+          "docente": "DIEGO ABENANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "08:00 - 11:00",
+          "corso": "OFA ITALIANO LE08",
+          "docente": "GIANNI CIMADOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA DELL'EUROPA ORIENTALE",
+          "docente": "STEFANO SANTORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

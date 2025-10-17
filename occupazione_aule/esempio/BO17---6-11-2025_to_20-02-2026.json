@@ -1,0 +1,1081 @@
+{
+  "Nome sede": "Palazzina O",
+  "Codice sede": "BO17",
+  "Aule": [
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "012_1",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "DINAMICA E PROTEZIONE DEI LITORALI Lezione",
+          "docente": "GIORGIO FONTOLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILezioni",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "DINAMICA E PROTEZIONE DEI LITORALI Lezione",
+          "docente": "GIORGIO FONTOLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILezioni",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "DINAMICA E PROTEZIONE DEI LITORALI Lezione",
+          "docente": "GIORGIO FONTOLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILezioni",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "DINAMICA E PROTEZIONE DEI LITORALI Lezione",
+          "docente": "GIORGIO FONTOLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILezioni",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "DINAMICA E PROTEZIONE DEI LITORALI Lezione",
+          "docente": "GIORGIO FONTOLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:00 - 13:00",
+          "corso": "ANALISI GEOCHIMICHE CON ELABORAZIONE DATILezioni",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "POTENTIAL METHODS",
+          "docente": "CARLA BRAITENBERG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 18:00",
+          "corso": "MODELLAZIONE STRUTTURALE DEL SOTTOSUOLO",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "010_2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "VULCANISMO E PROCESSI INTERNI",
+          "docente": "CHIARA CIVIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOTHERMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "VULCANISMO E PROCESSI INTERNI",
+          "docente": "CHIARA CIVIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOTHERMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "VULCANISMO E PROCESSI INTERNI",
+          "docente": "CHIARA CIVIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOTHERMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:30 - 10:30",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "VULCANISMO E PROCESSI INTERNI",
+          "docente": "CHIARA CIVIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOTHERMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:30 - 11:30",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOTHERMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:30 - 10:30",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "VULCANISMO E PROCESSI INTERNI",
+          "docente": "CHIARA CIVIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOTHERMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:30 - 11:30",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 18:00",
+          "corso": "MINERALOGIA E PETROGRAFIA CON LABORATORIO",
+          "docente": "FRANCESCO PRINCIVALLE, LUCA ZIBERNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-19",
+          "orario": "08:00 - 20:00",
+          "corso": "Deep-sea Mineral  deposits: from biogeochemistry to geopolitics",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-20",
+          "orario": "08:00 - 20:00",
+          "corso": "Deep-sea Mineral  deposits: from biogeochemistry to geopolitics",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-21",
+          "orario": "08:00 - 20:00",
+          "corso": "Deep-sea Mineral  deposits: from biogeochemistry to geopolitics",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-22",
+          "orario": "08:00 - 20:00",
+          "corso": "Deep-sea Mineral  deposits: from biogeochemistry to geopolitics",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-23",
+          "orario": "08:00 - 20:00",
+          "corso": "Deep-sea Mineral  deposits: from biogeochemistry to geopolitics",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-02",
+          "orario": "17:00 - 19:00",
+          "corso": "ESAMI dott.ssa Melchiori",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "015_1",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 14:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "RISCHIO IDROGEOLOGICO Lezione",
+          "docente": "CHIARA CALLIGARIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 15:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 14:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "RISCHIO IDROGEOLOGICO Lezione",
+          "docente": "CHIARA CALLIGARIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 15:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 14:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 17:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "RISCHIO IDROGEOLOGICO Lezione",
+          "docente": "CHIARA CALLIGARIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 15:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 14:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 17:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "RISCHIO IDROGEOLOGICO Lezione",
+          "docente": "CHIARA CALLIGARIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 15:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "RISCHIO IDROGEOLOGICO Lezione",
+          "docente": "CHIARA CALLIGARIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 15:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 14:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "RISCHIO IDROGEOLOGICO Lezione",
+          "docente": "CHIARA CALLIGARIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 15:00",
+          "corso": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
+          "docente": "Emanuele FORTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "SEISMIC RISK",
+          "docente": "STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOCHIMICA AMBIENTALE",
+          "docente": "STEFANO COVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA APPLICATA 2",
+          "docente": "Luca ZINI, PAOLO MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "GEODYNAMICS",
+          "docente": "MAGDALA TESAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

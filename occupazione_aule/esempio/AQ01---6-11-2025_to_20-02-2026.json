@@ -1,0 +1,747 @@
+{
+  "Nome sede": "Edificio Q",
+  "Codice sede": "AQ01",
+  "Aule": [
+    {
+      "Nome aula": "Aula 1_A",
+      "Codice aula": "001_PT",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "ALIMENTI, NUTRIENTI E SALUTE",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 14:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 13:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 17:00",
+          "corso": "MICOLOGIA",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:00 - 19:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "ALIMENTI, NUTRIENTI E SALUTE",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 14:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 13:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:00",
+          "corso": "MICOLOGIA",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "17:00 - 19:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "ALIMENTI, NUTRIENTI E SALUTE",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 14:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 17:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 13:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 17:00",
+          "corso": "MICOLOGIA",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:00 - 19:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "ALIMENTI, NUTRIENTI E SALUTE",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 14:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 13:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 17:00",
+          "corso": "MICOLOGIA",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "17:00 - 19:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 17:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 13:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 17:00",
+          "corso": "MICOLOGIA",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "17:00 - 19:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 14:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA VEGETALE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 13:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 17:00",
+          "corso": "MICOLOGIA",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "17:00 - 19:00",
+          "corso": "GLOBAL AND REGIONAL CLIMATE CHANGE",
+          "docente": "COSTANZA DEL GOBBO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 10:00",
+          "corso": "ECOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 13:00",
+          "corso": "COMPORTAMENTO E BENESSERE ANIMALE",
+          "docente": "CINZIA CHIANDETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "FISIOLOGIA ANIMALE",
+          "docente": "Paola LORENZON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "ANALISI DI DATI SPERIMENTALI E BIOINFORMATICI",
+          "docente": "Silvano Piazza",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 12:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "13:00 - 15:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "15:00 - 18:00",
+          "corso": "ECONOMICS OF ECOSYSTEM SERVICES",
+          "docente": "MATTEO CARZEDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1521 @@
+{
+  "Nome sede": "Edificio C8",
+  "Codice sede": "AC08",
+  "Aule": [
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "009_7",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 15:00",
+          "corso": "INFORMATIVE 3D MODELING FOR PROJECT DESIGN AND MANAGEMENT",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "BUILDING ENERGY SIMULATION",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 14:00",
+          "corso": "MECCANICA AVANZATA E DINAMICA DELLE STRUTTURE",
+          "docente": "MASSIMILIANO GEI, GIOVANNI NOSELLI, LUIGI CABRAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 15:00",
+          "corso": "INFORMATIVE 3D MODELING FOR PROJECT DESIGN AND MANAGEMENT",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "BUILDING ENERGY SIMULATION",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 14:00",
+          "corso": "MECCANICA AVANZATA E DINAMICA DELLE STRUTTURE",
+          "docente": "MASSIMILIANO GEI, GIOVANNI NOSELLI, LUIGI CABRAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 15:00",
+          "corso": "INFORMATIVE 3D MODELING FOR PROJECT DESIGN AND MANAGEMENT",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "BUILDING ENERGY SIMULATION",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 14:00",
+          "corso": "MECCANICA AVANZATA E DINAMICA DELLE STRUTTURE",
+          "docente": "MASSIMILIANO GEI, GIOVANNI NOSELLI, LUIGI CABRAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 15:00",
+          "corso": "INFORMATIVE 3D MODELING FOR PROJECT DESIGN AND MANAGEMENT",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "BUILDING ENERGY SIMULATION",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 14:00",
+          "corso": "MECCANICA AVANZATA E DINAMICA DELLE STRUTTURE",
+          "docente": "MASSIMILIANO GEI, GIOVANNI NOSELLI, LUIGI CABRAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 15:00",
+          "corso": "INFORMATIVE 3D MODELING FOR PROJECT DESIGN AND MANAGEMENT",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "BUILDING ENERGY SIMULATION",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 14:00",
+          "corso": "MECCANICA AVANZATA E DINAMICA DELLE STRUTTURE",
+          "docente": "MASSIMILIANO GEI, GIOVANNI NOSELLI, LUIGI CABRAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 15:00",
+          "corso": "INFORMATIVE 3D MODELING FOR PROJECT DESIGN AND MANAGEMENT",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 17:00",
+          "corso": "BUILDING ENERGY SIMULATION",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 14:00",
+          "corso": "MECCANICA AVANZATA E DINAMICA DELLE STRUTTURE",
+          "docente": "MASSIMILIANO GEI, GIOVANNI NOSELLI, LUIGI CABRAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 11:00",
+          "corso": "LEGISLATION AND SOCIAL CHANGE",
+          "docente": "GIACOMO BIASUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNICA ED ECONOMIA DEI TRASPORTI",
+          "docente": "CATERINA CARAMUTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "SUSTAINABLE INDUSTRIAL CHEMISTRY",
+          "docente": "ANGELO CORTESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 11:00",
+          "corso": "SOFT MATERIALS AND RELEASE KINETICS",
+          "docente": "Mario GRASSI, MICHELA ABRAMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "PROGETTO NAVI",
+          "docente": "LUCA BRAIDOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "15:00 - 17:00",
+          "corso": "FONDAMENTI E METODI PER LA PROGETTAZIONE",
+          "docente": "VALENTINO PEDIRODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "006_1",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 16:00",
+          "corso": "ELEMENTI DI TERMOFLUIDODINAMICA PER LE MACCHINE",
+          "docente": "LUCIA PARUSSINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 12:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "COSTRUZIONI IN ACCIAIO E VETRO",
+          "docente": "CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "PHOTOVOLTAIC SYSTEMS",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "MODELLAZIONE DELLE ONDE NELLA DINAMICA DELLA NAVE",
+          "docente": "LUIGINO ZOVATTO, FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 14:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 16:00",
+          "corso": "ELEMENTI DI TERMOFLUIDODINAMICA PER LE MACCHINE",
+          "docente": "LUCIA PARUSSINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 12:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "COSTRUZIONI IN ACCIAIO E VETRO",
+          "docente": "CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "PHOTOVOLTAIC SYSTEMS",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "MODELLAZIONE DELLE ONDE NELLA DINAMICA DELLA NAVE",
+          "docente": "LUIGINO ZOVATTO, FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 14:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 16:00",
+          "corso": "ELEMENTI DI TERMOFLUIDODINAMICA PER LE MACCHINE",
+          "docente": "LUCIA PARUSSINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 10:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 12:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "COSTRUZIONI IN ACCIAIO E VETRO",
+          "docente": "CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 10:00",
+          "corso": "PHOTOVOLTAIC SYSTEMS",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "MODELLAZIONE DELLE ONDE NELLA DINAMICA DELLA NAVE",
+          "docente": "LUIGINO ZOVATTO, FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 14:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 16:00",
+          "corso": "ELEMENTI DI TERMOFLUIDODINAMICA PER LE MACCHINE",
+          "docente": "LUCIA PARUSSINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 18:00",
+          "corso": "COSTRUZIONI IN ACCIAIO E VETRO",
+          "docente": "CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "PHOTOVOLTAIC SYSTEMS",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "MODELLAZIONE DELLE ONDE NELLA DINAMICA DELLA NAVE",
+          "docente": "LUIGINO ZOVATTO, FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 14:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 10:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 12:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "COSTRUZIONI IN ACCIAIO E VETRO",
+          "docente": "CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "PHOTOVOLTAIC SYSTEMS",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "MODELLAZIONE DELLE ONDE NELLA DINAMICA DELLA NAVE",
+          "docente": "LUIGINO ZOVATTO, FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 14:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 16:00",
+          "corso": "ELEMENTI DI TERMOFLUIDODINAMICA PER LE MACCHINE",
+          "docente": "LUCIA PARUSSINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 10:00",
+          "corso": "INFRASTRUTTURE FERROVIARIE E AEROPORTUALI",
+          "docente": "ROBERTO ROBERTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 12:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "COSTRUZIONI IN ACCIAIO E VETRO",
+          "docente": "CHIARA BEDON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "PHOTOVOLTAIC SYSTEMS",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "MODELLAZIONE DELLE ONDE NELLA DINAMICA DELLA NAVE",
+          "docente": "LUIGINO ZOVATTO, FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 14:00",
+          "corso": "ANALISI DEI DATI PER LA SALUTE INTELLIGENTE",
+          "docente": "MILOS AJCEVIC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO DEI TRASPORTI E CODICE DEGLI APPALTI",
+          "docente": "MASSIMO CAMPAILLA, Giulia MILO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "VALUTAZIONE ECONOMICA DEI PIANI E DEI PROGETTI",
+          "docente": "Elio PADOANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 16:00",
+          "corso": "MISURE MECCANICHE, TERMICHE E COLLAUDI",
+          "docente": "RODOLFO TACCANI, LUCIA PARUSSINI, RONELLY JOSÉ DE SOUZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 11:00",
+          "corso": "TRASPORTI FERROVIARI",
+          "docente": "GIOVANNI LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 14:00",
+          "corso": "IMPIANTI MECCANICI",
+          "docente": "MARCO BOSCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI BIOLOGIA CHIMICA E MOLECOLARE",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "11:00 - 13:00",
+          "corso": "Elettronica - Prof. Carrato",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-22",
+          "orario": "10:00 - 12:00",
+          "corso": ": ADVANCED INTERNET TECHNOLOGIES [502MI] Orale - Prof. Trevisan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-27",
+          "orario": "11:00 - 13:00",
+          "corso": "Elettronica - Prof. Carrato",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "10:00 - 12:00",
+          "corso": ": ADVANCED INTERNET TECHNOLOGIES [502MI] Orale - Prof. Trevisan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "11:00 - 13:00",
+          "corso": "Elettronica - Prof. Carrato",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-19",
+          "orario": "10:00 - 12:00",
+          "corso": ": ADVANCED INTERNET TECHNOLOGIES [502MI] Orale - Prof. Trevisan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Laboratorio informatico",
+      "Codice aula": "A-03_011",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 18:00",
+          "corso": " Corso per BIM coordinator (Compa FVG)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 18:00",
+          "corso": " Corso per BIM coordinator (Compa FVG)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 18:00",
+          "corso": " Corso per BIM coordinator (Compa FVG)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 18:00",
+          "corso": " Corso per BIM coordinator (Compa FVG)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 18:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 16:00",
+          "corso": "TECNICHE SPAZIALI AVANZATE 3D e GIS PER IL MONITORAGGIO CIVILE e AMBIENTALE- Prof. Raffaela Cefalo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Sala riunioni",
+      "Codice aula": "011_2",
+      "Eventi": [
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "prove di evacuazione antincendio DIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "Nome sede": "Edificio di Portogruaro via Seminario 25",
+  "Codice sede": "X002",
+  "Aule": [
+    {
+      "Nome aula": "Aula Capriate",
+      "Codice aula": "002_ZD",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "STATISTICA SOCIALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA SPECIALE",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA DELL'INFANZIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "FILOSOFIA DELLA PERSONA",
+          "docente": "Alessandra CISLAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "STATISTICA SOCIALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA SPECIALE",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA DELL'INFANZIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 13:00",
+          "corso": "FILOSOFIA DELLA PERSONA",
+          "docente": "Alessandra CISLAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "STATISTICA SOCIALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA SPECIALE",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA DELL'INFANZIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 13:00",
+          "corso": "FILOSOFIA DELLA PERSONA",
+          "docente": "Alessandra CISLAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "STATISTICA SOCIALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA SPECIALE",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA DELL'INFANZIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 13:00",
+          "corso": "FILOSOFIA DELLA PERSONA",
+          "docente": "Alessandra CISLAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 13:00",
+          "corso": "STATISTICA SOCIALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA SPECIALE",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA DELL'INFANZIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 13:00",
+          "corso": "FILOSOFIA DELLA PERSONA",
+          "docente": "Alessandra CISLAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "STATISTICA SOCIALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA SPECIALE",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 13:00",
+          "corso": "PEDAGOGIA DELL'INFANZIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "FILOSOFIA DELLA PERSONA",
+          "docente": "Alessandra CISLAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "METODOLOGIA DEL GIOCO E DELL'ANIMAZIONE",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

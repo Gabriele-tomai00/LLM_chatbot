@@ -1,0 +1,390 @@
+{
+  "Nome sede": "Palazzina W",
+  "Codice sede": "SG_W",
+  "Aule": [
+    {
+      "Nome aula": "Aula conferenze",
+      "Codice aula": "SGW_CONF",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN TC",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN TC",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 13:00",
+          "corso": "MEZZI DI CONTRASTO",
+          "docente": "MARIA ASSUNTA COVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 19:00",
+          "corso": "DIAGNOSTICA PER IMMAGINI SENOLOGICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 18:30",
+          "corso": "TECNICHE DI DIAGNOSTICA PER IMMAGINI IN PEDIATRIA",
+          "docente": "CLAUDIO GRANATA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 18:30",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:30",
+          "corso": "Apparecchiature - tecniche in TC",
+          "docente": "MARIO TOTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 16:30",
+          "corso": "PRINCIPI DI ASSISTENZA ALLA PERSONA",
+          "docente": "MARIO CASOLINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN TC",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 19:00",
+          "corso": "DIAGNOSTICA PER IMMAGINI SENOLOGICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 16:30",
+          "corso": "PRINCIPI DI ASSISTENZA ALLA PERSONA",
+          "docente": "MARIO CASOLINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 18:30",
+          "corso": "TECNICHE DI DIAGNOSTICA PER IMMAGINI IN PEDIATRIA",
+          "docente": "CLAUDIO GRANATA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 17:30",
+          "corso": "PRINCIPI DI ASSISTENZA ALLA PERSONA",
+          "docente": "MARIO CASOLINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 13:00",
+          "corso": "MEZZI DI CONTRASTO",
+          "docente": "MARIA ASSUNTA COVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:30",
+          "corso": "DIAGNOSTICA PER IMMAGINI SENOLOGICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 18:30",
+          "corso": "DIAGNOSTICA PER IMMAGINI SENOLOGICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 18:30",
+          "corso": "TECNICHE DI DIAGNOSTICA PER IMMAGINI IN PEDIATRIA",
+          "docente": "CLAUDIO GRANATA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 17:30",
+          "corso": "PRINCIPI DI ASSISTENZA ALLA PERSONA",
+          "docente": "MARIO CASOLINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN RM",
+          "docente": "ROSSANO GIROMETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 15:30",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 17:30",
+          "corso": "PRINCIPI DI ASSISTENZA ALLA PERSONA",
+          "docente": "MARIO CASOLINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 15:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 18:30",
+          "corso": "TECNICHE DI DIAGNOSTICA PER IMMAGINI IN PEDIATRIA",
+          "docente": "CLAUDIO GRANATA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 17:30",
+          "corso": "PRINCIPI DI ASSISTENZA ALLA PERSONA",
+          "docente": "MARIO CASOLINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN RM",
+          "docente": "ROSSANO GIROMETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:30",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 18:30",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 18:30",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 15:30",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 17:30",
+          "corso": "TECNICHE DI IMAGING DEL CUORE",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 18:30",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:30 - 16:00",
+          "corso": "ATTIVITA' FISICA E BENESSERE",
+          "docente": "FABRIZIO SORS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 15:30",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 17:30",
+          "corso": "TECNICHE DI IMAGING DEL CUORE",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "09:00 - 12:30",
+          "corso": "CONTROLLI DI QUALITA' IN TC",
+          "docente": "LUIGI BREGANT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "09:00 - 12:30",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:30",
+          "corso": "ANATOMIA E PROTOCOLLI IN NEURORADIOLOGIA",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "09:00 - 11:30",
+          "corso": "CONTROLLI DI QUALITA' IN TC",
+          "docente": "LUIGI BREGANT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "09:00 - 11:30",
+          "corso": "CONTROLLI DI QUALITA' IN TC",
+          "docente": "LUIGI BREGANT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA E PROTOCOLLI IN RM",
+          "docente": "ROSSANO GIROMETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-15",
+          "orario": "09:00 - 12:30",
+          "corso": "TECNICHE DI IMAGING DEL CUORE",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-15",
+          "orario": "14:00 - 17:30",
+          "corso": "TECNICHE DI IMAGING DEL CUORE",
+          "docente": "MANUEL GIANVALERIO BELGRANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-09",
+          "orario": "09:00 - 15:00",
+          "corso": "DOTTORATO in Neuroscienze Scienze Cognitive - Prof. Agnoli Sergio",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

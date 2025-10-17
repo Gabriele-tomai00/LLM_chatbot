@@ -1,0 +1,2323 @@
+{
+  "Nome sede": "Ospedale Maggiore",
+  "Codice sede": "H003",
+  "Aule": [
+    {
+      "Nome aula": "Aula preclinica",
+      "Codice aula": "M006",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 18:30",
+          "corso": "ESAMI DI STATO IGIENE DENTALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "RADIOLOGIA ODONTOIATRICA",
+          "docente": "ANTONIO RAPANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 17:00",
+          "corso": "CORSO DI PERFEZIONAMENTO",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "08:00 - 17:00",
+          "corso": "CORSO DI PERFEZIONAMENTO",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 18:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "09:00 - 15:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO RADIOPROTEZIONE",
+          "docente": "PAOLA BREGANT, FEDERICO BERTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:30 - 18:00",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 18:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "09:00 - 15:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 12:00",
+          "corso": "ANATOMIA DENTARIA",
+          "docente": "FRANCESCO RUSIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "15:00 - 19:00",
+          "corso": "ENDODONZIA",
+          "docente": "DANIELE ANGERAME",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-26",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-06",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:30 - 19:00",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "14:30 - 19:00",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "14:30 - 17:00",
+          "corso": "LABORATORIO PROFESSIONALE 2",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-16",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-20",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-23",
+          "orario": "09:00 - 18:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-24",
+          "orario": "09:00 - 15:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-26",
+          "orario": "14:30 - 17:00",
+          "corso": "LABORATORIO PROFESSIONALE 2",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-27",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-30",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-02",
+          "orario": "14:30 - 17:00",
+          "corso": "LABORATORIO PROFESSIONALE 2",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-03",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "09:00 - 18:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "09:00 - 15:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-13",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-16",
+          "orario": "14:30 - 17:00",
+          "corso": "LABORATORIO PROFESSIONALE 2",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-17",
+          "orario": "08:30 - 13:30",
+          "corso": "Tirocinio di Odontoiatria Conservativa (prof.ssa Cadenaro)",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-20",
+          "orario": "09:00 - 18:00",
+          "corso": "CORSO di PERFEZIONAMENTO RESTAURI ADESIVI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 1",
+      "Codice aula": "M001",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "ILARIA GANDIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:30 - 17:30",
+          "corso": "INFORMATICA",
+          "docente": "PAOLO QUERCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "FEDERICO RONCHESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 16:30",
+          "corso": "CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "RADIOLOGIA ODONTOIATRICA",
+          "docente": "ANTONIO RAPANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "ILARIA GANDIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:30 - 18:30",
+          "corso": "INFORMATICA",
+          "docente": "PAOLO QUERCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "FEDERICO RONCHESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "ILARIA GANDIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 15:00",
+          "corso": "ESAMI AMMISSIONE - Scuola di Specialità AREA ODONTOIATRICA",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 16:30",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "FEDERICO RONCHESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 18:00",
+          "corso": "MALATTIE INFETTIVE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 18:00",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "STATISTICA PER LA RICERCA",
+          "docente": "ILARIA GANDIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:30 - 18:30",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "FEDERICO RONCHESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 17:30",
+          "corso": "SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI",
+          "docente": "PAOLO QUERCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "FEDERICO RONCHESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA",
+          "docente": "PAOLO QUERCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 17:30",
+          "corso": "SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI",
+          "docente": "PAOLO QUERCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:30 - 17:30",
+          "corso": "SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI",
+          "docente": "PAOLO QUERCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "09:00 - 12:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 12:00",
+          "corso": "MALATTIE CUTANEE E VENEREE",
+          "docente": "IRIS ZALAUDEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-12",
+          "orario": "09:00 - 12:00",
+          "corso": "MALATTIE CUTANEE E VENEREE",
+          "docente": "IRIS ZALAUDEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 4",
+      "Codice aula": "M004",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "MALATTIE INFETTIVE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 16:30",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA MAXILLO FACCIALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:30 - 10:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "MALATTIE INFETTIVE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "CARDIOLOGIA",
+          "docente": "ANDREA DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 18:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 18:00",
+          "corso": "MALATTIE INFETTIVE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "MATERIALI DENTARI 1 - Dott.ssa Diolosa",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 13:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Rupel)",
+          "docente": "KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI, MATTEO BIASOTTO, KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "CARDIOLOGIA",
+          "docente": "ANDREA DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 16:30",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "MATERIALI DENTARI 1 - Dott.ssa Diolosa",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 13:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Rupel)",
+          "docente": "KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI, MATTEO BIASOTTO, KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "CARDIOLOGIA",
+          "docente": "ANDREA DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 16:30",
+          "corso": "ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 16:30",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Rupel)",
+          "docente": "KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI, MATTEO BIASOTTO, KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "CARDIOLOGIA",
+          "docente": "ANDREA DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 16:30",
+          "corso": "ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 16:30",
+          "corso": "OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO, GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "CARDIOLOGIA",
+          "docente": "ANDREA DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 16:30",
+          "corso": "PARODONTOLOGIA",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "RADIOLOGIA ODONTOIATRICA",
+          "docente": "ANTONIO RAPANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 16:30",
+          "corso": "ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO, GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "KATIA RUPEL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 18:00",
+          "corso": "OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO, GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 17:00",
+          "corso": "RADIOLOGIA ODONTOIATRICA",
+          "docente": "ANTONIO RAPANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "15:00 - 17:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 3",
+      "Codice aula": "M003",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:30 - 16:30",
+          "corso": "CLINICA ODONTOSTOMATOLOGICA 1",
+          "docente": "Roberto DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 15:00",
+          "corso": "TESI DI SPECIALITA' OFTALMOLOGIA",
+          "docente": "LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:30 - 18:30",
+          "corso": "TECNICHE DI IGIENE ORALE NEI PAZIENTI CON PARTICOLARI NECESSITA'",
+          "docente": "FULVIA COSTANTINIDES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 16:30",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 16:30",
+          "corso": "OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO, GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> PEDIATRIA",
+          "docente": "ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 18:30",
+          "corso": "IL DOLORE CRONICO OROFACCIALE IN MEDICINA ORALE",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 16:30",
+          "corso": "CLINICA ODONTOSTOMATOLOGICA 2",
+          "docente": "CHIARA NAVARRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "TECNICHE DI IGIENE ORALE NEI PAZIENTI CON PARTICOLARI NECESSITA'",
+          "docente": "FULVIA COSTANTINIDES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:30 - 16:30",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 16:30",
+          "corso": "OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO, GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 16:30",
+          "corso": "CLINICA ODONTOSTOMATOLOGICA 2",
+          "docente": "CHIARA NAVARRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "TECNICHE DI IGIENE ORALE NEI PAZIENTI CON PARTICOLARI NECESSITA'",
+          "docente": "FULVIA COSTANTINIDES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 16:30",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:30 - 19:00",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:30 - 18:00",
+          "corso": "OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 16:30",
+          "corso": "CLINICA ODONTOSTOMATOLOGICA 2",
+          "docente": "CHIARA NAVARRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "TECNICHE DI IGIENE ORALE NEI PAZIENTI CON PARTICOLARI NECESSITA'",
+          "docente": "FULVIA COSTANTINIDES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:30 - 16:30",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 13:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 16:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:30 - 19:00",
+          "corso": "OTORINOLARINGOIATRIA",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 13:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 18:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:30 - 17:30",
+          "corso": "CLINICA ODONTOSTOMATOLOGICA 2",
+          "docente": "Roberto DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:30",
+          "corso": "PEDODONZIA",
+          "docente": "MILENA CADENARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "PROTESI",
+          "docente": "GIULIO MARCHESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "15:30 - 17:30",
+          "corso": "CLINICA ODONTOSTOMATOLOGICA 2",
+          "docente": "Roberto DI LENARDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 11:00",
+          "corso": "Prof.ssa Iris Zalaudek",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-20",
+          "orario": "14:30 - 17:00",
+          "corso": "TECNICHE DI SEMEIOTICA 2",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "09:00 - 11:00",
+          "corso": "Prof.ssa Iris Zalaudek",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "14:30 - 17:00",
+          "corso": "TECNICHE DI SEMEIOTICA 2",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2",
+      "Codice aula": "M002",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:30 - 17:30",
+          "corso": "PARODONTOLOGIA 2",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNICHE DI IGIENE ORALE PROFESSIONALE 2",
+          "docente": "GIOIA SEMEZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 16:30",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:30 - 18:00",
+          "corso": "TECNICHE DI IGIENE ORALE PROFESSIONALE 2",
+          "docente": "GIOIA SEMEZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "MATERIALI DENTARI 1 - Dott.ssa Diolosa",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:30 - 12:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "TECNICHE DI IGIENE ORALE PROFESSIONALE 2",
+          "docente": "GIOIA SEMEZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:30 - 17:30",
+          "corso": "PARODONTOLOGIA 2",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 17:00",
+          "corso": "ORTODONZIA",
+          "docente": "LUCA CONTARDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 14:30",
+          "corso": "RIUNIONI CLINICA, Elena Kiss",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 16:30",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:00",
+          "corso": "TECNICHE DI IGIENE ORALE PROFESSIONALE 2",
+          "docente": "GIOIA SEMEZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:30 - 16:30",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:30 - 18:30",
+          "corso": "ANESTESIA E RIANIMAZIONE",
+          "docente": "UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:30 - 12:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA APPLICATA ALLA PATOLOGIA ORALE",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:30 - 17:30",
+          "corso": "PARODONTOLOGIA 2",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "16:00 - 18:00",
+          "corso": "TECNICHE DI IGIENE ORALE PROFESSIONALE 2",
+          "docente": "GIOIA SEMEZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:30 - 12:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 17:30",
+          "corso": "RADIOLOGIA ODONTOSTOMATOLOGICA 1",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E DELL'APPARATO STOMATOGNATICO",
+          "docente": "VANESSA NICOLIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 16:30",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:30 - 12:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA APPLICATA ALLA PATOLOGIA ORALE",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:30 - 17:30",
+          "corso": "PARODONTOLOGIA 2",
+          "docente": "LORENZO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 17:30",
+          "corso": "RADIOLOGIA ODONTOSTOMATOLOGICA 1",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "MATERIALI DENTARI 1 - Dott.ssa Diolosa",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA APPLICATA ALLA PATOLOGIA ORALE",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 17:30",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "DERMATOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 16:00",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 17:30",
+          "corso": "RADIOLOGIA ODONTOSTOMATOLOGICA 1",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "MATERIALI DENTARI 2",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 17:30",
+          "corso": "RADIOLOGIA ODONTOSTOMATOLOGICA 1",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "16:00 - 18:30",
+          "corso": "PATOLOGIA SPECIALE ODONTOSTOMATOLOGICA (Dott.ssa Ottaviani)",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "09:00 - 13:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "LUCA CEGOLON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:30 - 17:30",
+          "corso": "RADIOLOGIA ODONTOSTOMATOLOGICA 1",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Seminari",
+      "Codice aula": "M001_Z",
+      "Eventi": [
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 18:30",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "Dott. Riccardo Provasi",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "Dott. Riccardo Provasi",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 14:00",
+          "corso": "IL DOLORE CRONICO OROFACCIALE IN MEDICINA ORALE",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:30 - 18:00",
+          "corso": "Esami Scuola di Specialità CHIRURGIA ORALE",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 14:00",
+          "corso": "IL DOLORE CRONICO OROFACCIALE IN MEDICINA ORALE",
+          "docente": "GIULIA OTTAVIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula informatica",
+      "Codice aula": "M005",
+      "Eventi": [
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "TECO TEST 2025 CDS IGIENE DENTALE",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:30 - 17:30",
+          "corso": "CORSO FORMAZIONE ASUGI - Millevoi Matteo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "TECO TEST 2025 CDS IGIENE DENTALE",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:30 - 17:30",
+          "corso": "CORSO FORMAZIONE ASUGI - Millevoi Matteo",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

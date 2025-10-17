@@ -1,0 +1,424 @@
+{
+  "Nome sede": "Palazzina C",
+  "Codice sede": "BC16",
+  "Aule": [
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "032_1",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 12:00",
+          "corso": "GEOFISICA APPLICATA",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "GEOLOGIA II E PRINCIPI DI RILEVAMENTO - Lezione",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 12:00",
+          "corso": "GEOFISICA APPLICATA",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "GEOLOGIA II E PRINCIPI DI RILEVAMENTO - Lezione",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 12:00",
+          "corso": "GEOFISICA APPLICATA",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "GEOLOGIA II E PRINCIPI DI RILEVAMENTO - Lezione",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "GEOFISICA APPLICATA",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "GEOLOGIA II E PRINCIPI DI RILEVAMENTO - Lezione",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 12:00",
+          "corso": "GEOFISICA APPLICATA",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "GEOLOGIA II E PRINCIPI DI RILEVAMENTO - Lezione",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOMORFOLOGIA Lezione",
+          "docente": "STEFANO FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 12:00",
+          "corso": "GEOFISICA APPLICATA",
+          "docente": "MICHELE PIPAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 17:00",
+          "corso": "GEOLOGIA II E PRINCIPI DI RILEVAMENTO - Lezione",
+          "docente": "Lorenzo BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA TERRESTRE Lezione",
+          "docente": "GIOVANNI COSTA, STEFANO PAROLAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGIA Lezione",
+          "docente": "MARCO FRANCESCHI, GIORGIO FONTOLAN, CARLO CORRADINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Magna Marussi",
+      "Codice aula": "A-RI_009",
+      "Eventi": [
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 19:30",
+          "corso": "PF 60 CFU Esami Abilitanti - Prof. STOPPA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 13:00",
+          "corso": "Lauree in Geologia e Geoscienze",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 19:00",
+          "corso": "Lauree in Geophysics and Geodata",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2242 @@
+{
+  "Nome sede": "Edificio C2",
+  "Codice sede": "AC02",
+  "Aule": [
+    {
+      "Nome aula": "Aula A Idraulica",
+      "Codice aula": "004_6",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "CAMPI ELETTROMAGNETICI",
+          "docente": "GIULIA BUTTAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA DEI MATERIALI",
+          "docente": "VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 15:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "ELECTRICITY MARKET MODELING",
+          "docente": "STEFANO PASTORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 12:00",
+          "corso": "CAMPI ELETTROMAGNETICI",
+          "docente": "GIULIA BUTTAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA DEI MATERIALI",
+          "docente": "VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 15:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "ELECTRICITY MARKET MODELING",
+          "docente": "STEFANO PASTORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 12:00",
+          "corso": "CAMPI ELETTROMAGNETICI",
+          "docente": "GIULIA BUTTAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA DEI MATERIALI",
+          "docente": "VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 15:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 10:00",
+          "corso": "ELECTRICITY MARKET MODELING",
+          "docente": "STEFANO PASTORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 12:00",
+          "corso": "CAMPI ELETTROMAGNETICI",
+          "docente": "GIULIA BUTTAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA DEI MATERIALI",
+          "docente": "VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 15:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "ELECTRICITY MARKET MODELING",
+          "docente": "STEFANO PASTORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA DEI MATERIALI",
+          "docente": "VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 15:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "ELECTRICITY MARKET MODELING",
+          "docente": "STEFANO PASTORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:00",
+          "corso": "CAMPI ELETTROMAGNETICI",
+          "docente": "GIULIA BUTTAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA DEI MATERIALI",
+          "docente": "VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 15:00",
+          "corso": "MOLECULAR SIMULATION",
+          "docente": "ERIK LAURINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "ELECTRICITY MARKET MODELING",
+          "docente": "STEFANO PASTORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "GEOLOGIA AMBIENTALE",
+          "docente": "DAVIDE LENAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 10:00",
+          "corso": "GREEN NANOTECHNOLOGIES, NATURAL AND BIOINSPIRED MATERIALS",
+          "docente": "NICOLA SCUOR, VANNI LUGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 13:00",
+          "corso": "IMPIANTI TERMOTECNICI DI BORDO",
+          "docente": "MARCO MANZAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 16:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "COSTRUZIONE DI MACCHINE",
+          "docente": "MARCELLO LEPORE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 10:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "12:00 - 14:00",
+          "corso": "CHIMICA ORGANICA",
+          "docente": "Paolo Pengo",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOLOGIA E FISIOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "006_3",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA MECCANICA",
+          "docente": "STEFANO SERIANI, CARLO POLONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 14:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 17:00",
+          "corso": "ZOOLOGIA GENERALE",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA MECCANICA",
+          "docente": "STEFANO SERIANI, CARLO POLONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 14:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 17:00",
+          "corso": "ZOOLOGIA GENERALE",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA MECCANICA",
+          "docente": "STEFANO SERIANI, CARLO POLONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 14:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 17:00",
+          "corso": "ZOOLOGIA GENERALE",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA MECCANICA",
+          "docente": "STEFANO SERIANI, CARLO POLONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 14:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 17:00",
+          "corso": "ZOOLOGIA GENERALE",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA MECCANICA",
+          "docente": "STEFANO SERIANI, CARLO POLONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 14:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 17:00",
+          "corso": "ZOOLOGIA GENERALE",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 12:00",
+          "corso": "NAVI MILITARI E SOMMERGIBILI",
+          "docente": "ALBERTO MARINO'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "MACCHINE ELETTRICHE",
+          "docente": "ALBERTO TESSAROLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALL'INGEGNERIA MECCANICA",
+          "docente": "STEFANO SERIANI, CARLO POLONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 14:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:00",
+          "corso": "ZOOLOGIA GENERALE",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPIANTI ELETTRICI - PRINCIPI DI IMPIANTI ELETTRICI NAVALI",
+          "docente": "ANDREA VICENZUTTI, GIORGIO SULLIGOI, DANIELE BOSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "ARCHITETTURA NAVALE",
+          "docente": "FRANCESCO MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "STATICA DELLA NAVE",
+          "docente": "GABRIELE BULIAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "12:00 - 14:00",
+          "corso": "RETI DI CALCOLATORI ED INTRODUZIONE ALLA CYBERSECURITY",
+          "docente": "Alberto BARTOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 17:00",
+          "corso": "IMPIANTI NAVALI",
+          "docente": "VITTORIO BUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-20",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES [502MI] - Prof. Trevisan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-03",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES [502MI] - Prof. Trevisan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-17",
+          "orario": "10:00 - 12:00",
+          "corso": "ADVANCED INTERNET TECHNOLOGIES [502MI] - Prof. Trevisan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B Idraulica",
+      "Codice aula": "010_8",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO DI BIOCHIMICA",
+          "docente": "PAOLA CESCUTTI, MARIO MARDIROSSIAN, FEDERICA TRAMER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 12:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "ESPRESSIONE GENICA",
+          "docente": "GUIDALBERTO MANFIOLETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 11:00",
+          "corso": "PROGRAMMAZIONE INFORMATICA",
+          "docente": "ANTONIO FIUMARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "VALTER SERGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 15:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 17:00",
+          "corso": "FISICA GENERALE II",
+          "docente": "Pierluigi MONACO, GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO DI BIOCHIMICA",
+          "docente": "PAOLA CESCUTTI, MARIO MARDIROSSIAN, FEDERICA TRAMER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 12:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "ESPRESSIONE GENICA",
+          "docente": "GUIDALBERTO MANFIOLETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 11:00",
+          "corso": "PROGRAMMAZIONE INFORMATICA",
+          "docente": "ANTONIO FIUMARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "VALTER SERGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 15:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 17:00",
+          "corso": "FISICA GENERALE II",
+          "docente": "Pierluigi MONACO, GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO DI BIOCHIMICA",
+          "docente": "PAOLA CESCUTTI, MARIO MARDIROSSIAN, FEDERICA TRAMER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 10:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 12:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "ESPRESSIONE GENICA",
+          "docente": "GUIDALBERTO MANFIOLETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 11:00",
+          "corso": "PROGRAMMAZIONE INFORMATICA",
+          "docente": "ANTONIO FIUMARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "VALTER SERGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 15:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 17:00",
+          "corso": "FISICA GENERALE II",
+          "docente": "Pierluigi MONACO, GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO DI BIOCHIMICA",
+          "docente": "PAOLA CESCUTTI, MARIO MARDIROSSIAN, FEDERICA TRAMER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "ESPRESSIONE GENICA",
+          "docente": "GUIDALBERTO MANFIOLETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 11:00",
+          "corso": "PROGRAMMAZIONE INFORMATICA",
+          "docente": "ANTONIO FIUMARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "VALTER SERGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 15:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 17:00",
+          "corso": "FISICA GENERALE II",
+          "docente": "Pierluigi MONACO, GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO DI BIOCHIMICA",
+          "docente": "PAOLA CESCUTTI, MARIO MARDIROSSIAN, FEDERICA TRAMER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 10:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 12:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "ESPRESSIONE GENICA",
+          "docente": "GUIDALBERTO MANFIOLETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 11:00",
+          "corso": "PROGRAMMAZIONE INFORMATICA",
+          "docente": "ANTONIO FIUMARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "VALTER SERGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 15:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 17:00",
+          "corso": "FISICA GENERALE II",
+          "docente": "Pierluigi MONACO, GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO DI BIOCHIMICA",
+          "docente": "PAOLA CESCUTTI, MARIO MARDIROSSIAN, FEDERICA TRAMER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 10:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 12:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "ESPRESSIONE GENICA",
+          "docente": "GUIDALBERTO MANFIOLETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "TERMODINAMICA",
+          "docente": "SABRINA PRICL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 11:00",
+          "corso": "PROGRAMMAZIONE INFORMATICA",
+          "docente": "ANTONIO FIUMARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "VALTER SERGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 15:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:00",
+          "corso": "FISICA GENERALE II",
+          "docente": "Pierluigi MONACO, GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "IMMUNOLOGIA AVANZATA",
+          "docente": "ROBERTA BULLA, PAOLO MACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "METODI DIAGNOSTICI IN ETA' EVOLUTIVA: DALLA VALUTAZIONE ALL'INTERVENTO",
+          "docente": "SANDRA PELLIZZONI, MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 11:00",
+          "corso": "ALLESTIMENTO NAVALE",
+          "docente": "ALBERTO MOROSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA TECNICA",
+          "docente": "RICCARDO ZAMOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Biblioteca Carli",
+      "Codice aula": "017_PT",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "Macchine e macchine marine - Prof. Taccani e Prof.ssa Parussini",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 12:00",
+          "corso": "AZIONAMENTI ELETTRICI",
+          "docente": "Simone CASTELLAN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 14:00",
+          "corso": "SISTEMI ELETTRICI PER L'ENERGIA I",
+          "docente": "STEFANO QUAIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 12:00",
+          "corso": "ELECTRICAL ENERGY STORAGE",
+          "docente": "NICOLA BLASUTTIGH",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

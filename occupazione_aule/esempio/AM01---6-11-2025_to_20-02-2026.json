@@ -1,0 +1,2152 @@
+{
+  "Nome sede": "Edificio M",
+  "Codice sede": "AM01",
+  "Aule": [
+    {
+      "Nome aula": "Aula Magna",
+      "Codice aula": "004_4",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO - MOD. A",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "CHIMICA GENERALE E INORGANICA",
+          "docente": "Paolo FORNASIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 14:00",
+          "corso": "BIOLOGIA ANIMALE",
+          "docente": "PIERO GIULIO GIULIANINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 17:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 14:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 12:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO - MOD. A",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 18:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "CHIMICA GENERALE E INORGANICA",
+          "docente": "Paolo FORNASIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 14:00",
+          "corso": "BIOLOGIA ANIMALE",
+          "docente": "PIERO GIULIO GIULIANINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 17:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "17:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 14:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 12:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO - MOD. A",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 10:00",
+          "corso": "CHIMICA GENERALE E INORGANICA",
+          "docente": "Paolo FORNASIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 14:00",
+          "corso": "BIOLOGIA ANIMALE",
+          "docente": "PIERO GIULIO GIULIANINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 17:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 14:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 12:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO - MOD. A",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "CHIMICA GENERALE E INORGANICA",
+          "docente": "Paolo FORNASIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 14:00",
+          "corso": "BIOLOGIA ANIMALE",
+          "docente": "PIERO GIULIO GIULIANINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 17:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "17:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 14:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 12:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 10:00",
+          "corso": "CHIMICA GENERALE E INORGANICA",
+          "docente": "Paolo FORNASIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 14:00",
+          "corso": "BIOLOGIA ANIMALE",
+          "docente": "PIERO GIULIO GIULIANINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 17:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "17:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 14:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICOLOGIA DELLO SVILUPPO - MOD. A",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 18:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 10:00",
+          "corso": "CHIMICA GENERALE E INORGANICA",
+          "docente": "Paolo FORNASIERO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 14:00",
+          "corso": "STORIA E METODI",
+          "docente": "FABRIZIO SORS, MICHELE FORNACIAI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 14:00",
+          "corso": "BIOLOGIA ANIMALE",
+          "docente": "PIERO GIULIO GIULIANINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "17:00 - 19:00",
+          "corso": "BASI STATISTICHE PER LA PSICOLOGIA",
+          "docente": "MICHELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "ANDREA CARNAGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "17:00 - 19:00",
+          "corso": "PENSIERO E LINGUAGGIO",
+          "docente": "DONATELLA FERRANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA E GENETICA",
+          "docente": "Paolo Edomi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 14:00",
+          "corso": "ELEMENTI DI METODOLOGIA DELLA RICERCA PSICOLOGICA",
+          "docente": "CARLO FANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "Martino PRIZZI, PAOLO NOVATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "021_5",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "PRINCIPI E GESTIONE DELLE AREE MARINE PROTETTE",
+          "docente": "MAURIZIO SPOTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOLOGIA ED ECOLOGIA DELLA PESCA",
+          "docente": "DIEGO BORME, SIMONE LIBRALATO, ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "ECOTOSSICOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "PRINCIPI E GESTIONE DELLE AREE MARINE PROTETTE",
+          "docente": "MAURIZIO SPOTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOLOGIA ED ECOLOGIA DELLA PESCA",
+          "docente": "DIEGO BORME, SIMONE LIBRALATO, ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 19:00",
+          "corso": "ECOTOSSICOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "PRINCIPI E GESTIONE DELLE AREE MARINE PROTETTE",
+          "docente": "MAURIZIO SPOTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOLOGIA ED ECOLOGIA DELLA PESCA",
+          "docente": "DIEGO BORME, SIMONE LIBRALATO, ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "ECOTOSSICOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "PRINCIPI E GESTIONE DELLE AREE MARINE PROTETTE",
+          "docente": "MAURIZIO SPOTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOLOGIA ED ECOLOGIA DELLA PESCA",
+          "docente": "DIEGO BORME, SIMONE LIBRALATO, ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "ECOTOSSICOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "PRINCIPI E GESTIONE DELLE AREE MARINE PROTETTE",
+          "docente": "MAURIZIO SPOTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOLOGIA ED ECOLOGIA DELLA PESCA",
+          "docente": "DIEGO BORME, SIMONE LIBRALATO, ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "ECOTOSSICOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "PRINCIPI E GESTIONE DELLE AREE MARINE PROTETTE",
+          "docente": "MAURIZIO SPOTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOLOGIA ED ECOLOGIA DELLA PESCA",
+          "docente": "DIEGO BORME, SIMONE LIBRALATO, ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOFISICA MOLECOLARE",
+          "docente": "IVAN DONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 14:00",
+          "corso": "PSICOLOGIA DEL BENESSERE NELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "FRANCESCA MALFATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "ECOTOSSICOLOGIA",
+          "docente": "MONIA RENZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 12:00",
+          "corso": "GENETICA E BIOTECNOLOGIE",
+          "docente": "Alberto PALLAVICINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "12:00 - 14:00",
+          "corso": "FISICA DELL'AMBIENTE",
+          "docente": "MATTEO COSTANZI ALUNNO CERBOLINI, Alexandro SARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "016",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA DELLE SCIENZE NATURALI",
+          "docente": "MICHELE STOPPA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 16:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOMARCATORI MOLECOLARI NEI TESSUTI",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 12:00",
+          "corso": "PHYTOGEOGRAPHY",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "CONSERVATION AND MANAGEMENT OF MARINE ECOSYSTEMS",
+          "docente": "STANISLAO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOETICA NELLE BIOTECNOLOGIE",
+          "docente": "ELIO SANTANGELO, PAOLA ZARATTINI, ALBERTO PETROCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 12:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA DELLE SCIENZE NATURALI",
+          "docente": "MICHELE STOPPA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 16:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOMARCATORI MOLECOLARI NEI TESSUTI",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 12:00",
+          "corso": "PHYTOGEOGRAPHY",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "CONSERVATION AND MANAGEMENT OF MARINE ECOSYSTEMS",
+          "docente": "STANISLAO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOETICA NELLE BIOTECNOLOGIE",
+          "docente": "ELIO SANTANGELO, PAOLA ZARATTINI, ALBERTO PETROCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 12:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA DELLE SCIENZE NATURALI",
+          "docente": "MICHELE STOPPA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 16:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOMARCATORI MOLECOLARI NEI TESSUTI",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 12:00",
+          "corso": "PHYTOGEOGRAPHY",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "CONSERVATION AND MANAGEMENT OF MARINE ECOSYSTEMS",
+          "docente": "STANISLAO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOETICA NELLE BIOTECNOLOGIE",
+          "docente": "ELIO SANTANGELO, PAOLA ZARATTINI, ALBERTO PETROCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 12:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA DELLE SCIENZE NATURALI",
+          "docente": "MICHELE STOPPA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 16:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOMARCATORI MOLECOLARI NEI TESSUTI",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 12:00",
+          "corso": "PHYTOGEOGRAPHY",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "CONSERVATION AND MANAGEMENT OF MARINE ECOSYSTEMS",
+          "docente": "STANISLAO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOETICA NELLE BIOTECNOLOGIE",
+          "docente": "ELIO SANTANGELO, PAOLA ZARATTINI, ALBERTO PETROCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 12:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOMARCATORI MOLECOLARI NEI TESSUTI",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 12:00",
+          "corso": "PHYTOGEOGRAPHY",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "CONSERVATION AND MANAGEMENT OF MARINE ECOSYSTEMS",
+          "docente": "STANISLAO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOETICA NELLE BIOTECNOLOGIE",
+          "docente": "ELIO SANTANGELO, PAOLA ZARATTINI, ALBERTO PETROCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 12:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "DIDATTICA DELLE SCIENZE NATURALI",
+          "docente": "MICHELE STOPPA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 16:00",
+          "corso": "OCEANOGRAFIA",
+          "docente": "MILENA MENNA, GIUSEPPE CIVITARESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOMARCATORI MOLECOLARI NEI TESSUTI",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 12:00",
+          "corso": "PHYTOGEOGRAPHY",
+          "docente": "LUCIA MUGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "CONSERVATION AND MANAGEMENT OF MARINE ECOSYSTEMS",
+          "docente": "STANISLAO BEVILACQUA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOETICA NELLE BIOTECNOLOGIE",
+          "docente": "ELIO SANTANGELO, PAOLA ZARATTINI, ALBERTO PETROCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 12:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "CARDIOLOGIA CLINICA TRASLAZIONALE",
+          "docente": "ANETA ALEKSOVA, NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 14:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 18:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "IMPATTI DEI FATTORI AMBIENTALI SULLE PIANTE",
+          "docente": "Andrea NARDINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "ZOOGEOGRAPHY",
+          "docente": "CHIARA MANFRIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "ORGANISMI MODELLO",
+          "docente": "FRANCESCO NAPOLETANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-20",
+          "orario": "10:00 - 13:00",
+          "corso": "L'Università per scuola",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-22",
+          "orario": "10:00 - 13:00",
+          "corso": "L'Università per scuola",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-23",
+          "orario": "10:00 - 13:00",
+          "corso": "L'Università per scuola",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "10:00 - 13:00",
+          "corso": "L'Università per scuola",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

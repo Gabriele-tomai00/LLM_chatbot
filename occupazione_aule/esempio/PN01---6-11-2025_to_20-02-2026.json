@@ -1,0 +1,676 @@
+{
+  "Nome sede": "Edificio di Pordenone",
+  "Codice sede": "PN01",
+  "Aule": [
+    {
+      "Nome aula": "Aula S2",
+      "Codice aula": "001_S2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "ANESTESIA E RIANIMAZIONE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "BLS",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "CARDIOLOGIA E NUTRIZIONE",
+          "docente": "ENRICO FABRIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 13:00",
+          "corso": "BLS",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "CARDIOLOGIA E NUTRIZIONE",
+          "docente": "ENRICO FABRIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 13:00",
+          "corso": "ENDOCRINOLOGIA E NUTRIZIONE",
+          "docente": "RICCARDO CANDIDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 18:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "ENDOCRINOLOGIA E NUTRIZIONE",
+          "docente": "RICCARDO CANDIDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "NEFROLOGIA E NUTRIZIONE",
+          "docente": "CARLA CAMEROTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 13:00",
+          "corso": "NUTRIZIONE E METABOLISMO IN AMBITO INTERNISTICO, GERIATRICO ED INTENSIVISTICO",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 18:00",
+          "corso": "NUTRIZIONE E METABOLISMO IN AMBITO INTERNISTICO, GERIATRICO ED INTENSIVISTICO",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 13:00",
+          "corso": "BLS",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "NEFROLOGIA E NUTRIZIONE",
+          "docente": "CARLA CAMEROTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 13:00",
+          "corso": "NUTRIZIONE E METABOLISMO IN AMBITO INTERNISTICO, GERIATRICO ED INTENSIVISTICO",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 18:00",
+          "corso": "PRINCIPI E TECNICHE DI NUTRIZIONE CLINICA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 13:00",
+          "corso": "PRINCIPI E TECNICHE DI NUTRIZIONE CLINICA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 18:00",
+          "corso": "PRINCIPI E TECNICHE DI NUTRIZIONE CLINICA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 13:00",
+          "corso": "RUOLO DEL DIETISTA NEL PAZIENTE MEDICO",
+          "docente": "MARIA ROSARIA PERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "NEFROLOGIA E NUTRIZIONE",
+          "docente": "CARLA CAMEROTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "RUOLO DEL DIETISTA NEL PAZIENTE MEDICO",
+          "docente": "MARIA ROSARIA PERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "NEFROLOGIA E NUTRIZIONE",
+          "docente": "CARLA CAMEROTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 13:00",
+          "corso": "PRINCIPI E TECNICHE DI NUTRIZIONE CLINICA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 18:00",
+          "corso": "PRINCIPI E TECNICHE DI NUTRIZIONE CLINICA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "ENDOCRINOLOGIA E NUTRIZIONE",
+          "docente": "RICCARDO CANDIDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 17:00",
+          "corso": "RUOLO DEL DIETISTA NEL PAZIENTE MEDICO",
+          "docente": "MARIA ROSARIA PERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA E NUTRIZIONE",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "GASTROENTEROLOGIA E NUTRIZIONE",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "09:00 - 13:00",
+          "corso": "NUTRIZIONE E METABOLISMO IN AMBITO INTERNISTICO, GERIATRICO ED INTENSIVISTICO",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 18:00",
+          "corso": "NUTRIZIONE E METABOLISMO IN AMBITO INTERNISTICO, GERIATRICO ED INTENSIVISTICO",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula L2",
+      "Codice aula": "005_L2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "Marco Alberto Mojoli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "16:00 - 18:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "ISTOLOGIA",
+          "docente": "GIOVANNI SORRENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "ISTOLOGIA",
+          "docente": "GIOVANNI SORRENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 13:00",
+          "corso": "ISTOLOGIA",
+          "docente": "GIOVANNI SORRENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 13:00",
+          "corso": "INFORMATICA 1",
+          "docente": "VANNI PIAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 18:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 18:00",
+          "corso": "BIOLOGIA APPLICATA AGLI STUDI BIOMEDICI",
+          "docente": "SILVIA PEGORARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "ISTOLOGIA",
+          "docente": "GIOVANNI SORRENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "ISTOLOGIA",
+          "docente": "GIOVANNI SORRENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 13:00",
+          "corso": "ISTOLOGIA",
+          "docente": "GIOVANNI SORRENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 13:00",
+          "corso": "INFORMATICA 2",
+          "docente": "VANNI PIAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "STATISTICA PER LA RICERCA BIOMEDICA",
+          "docente": "STEFANO MASET",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "STATISTICA PER LA RICERCA BIOMEDICA",
+          "docente": "STEFANO MASET",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 13:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 17:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 13:00",
+          "corso": "INFORMATICA 2",
+          "docente": "VANNI PIAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "INFORMATICA 2",
+          "docente": "VANNI PIAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 18:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 18:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "GENETICA MEDICA",
+          "docente": "BEATRICE SPEDICATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA E BIOCHIMICA",
+          "docente": "ELENA AMBROSETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA AD INDIRIZZO BIOMEDICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 17:30",
+          "corso": "FISIOLOGIA",
+          "docente": "MATTEO BIASOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

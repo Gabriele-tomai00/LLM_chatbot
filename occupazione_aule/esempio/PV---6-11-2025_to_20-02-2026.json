@@ -1,0 +1,68 @@
+{
+  "Nome sede": "Porto Vecchio",
+  "Codice sede": "PV",
+  "Aule": [
+    {
+      "Nome aula": "Aula 'Ernesto Illy'",
+      "Codice aula": "PV_C",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "10:30 - 12:30",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:30 - 15:30",
+          "corso": "ABUSI E VIOLENZE CONTRO LE DONNE E I MINORI",
+          "docente": "LUCIANO LIPPOLIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:30 - 17:30",
+          "corso": "LEGISLAZIONE E RESPONSABILITÀ PROFESSIONALE",
+          "docente": "SARA BUCHINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 10:00",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:30 - 12:30",
+          "corso": "LA GESTIONE PREANALITICA DEGLI ESAMI DI LABORATORIO",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:30 - 15:30",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:30 - 17:30",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+  "Nome sede": "Via Pascoli 31",
+  "Codice sede": "Z016",
+  "Aule": [
+    {
+      "Nome aula": "Aula 1",
+      "Codice aula": "002_PT",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "RICERCA BIBLIOGRAFICA Dott. Ugrin",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "MEDICINA LEGALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA",
+          "docente": "PAOLA D'ANDREA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "17:00 - 19:00",
+          "corso": "RICERCA BIBLIOGRAFICA 2° anno - Dott. Ugrin",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "IGIENE ED EPIDEMIOLOGIA",
+          "docente": "LUDOVICA SEGAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMINARIO RELAZIONE TERAPEUTICA",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 18:00",
+          "corso": "ESAMI DI STATO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:00 - 19:00",
+          "corso": "RICERCA BIBLIOGRAFICA 1° anno - Dott. Ugrin",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "IGIENE ED EPIDEMIOLOGIA",
+          "docente": "LUDOVICA SEGAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 13:00",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 18:00",
+          "corso": "SEMINARIO RELAZIONE TERAPEUTICA",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "SEMINARIO RELAZIONE TERAPEUTICA",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "IGIENE ED EPIDEMIOLOGIA",
+          "docente": "LUDOVICA SEGAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "SEMINARIO RELAZIONE TERAPEUTICA",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMINARIO RELAZIONE TERAPEUTICA",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "IGIENE ED EPIDEMIOLOGIA",
+          "docente": "LUDOVICA SEGAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "RICERCA BIBLIOGRAFICA 1° anno - Dott. Ugrin",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 13:00",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA DEL LAVORO",
+          "docente": "FRANCESCA RUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "RICERCA BIBLIOGRAFICA 1° anno - Dott. Ugrin",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA DEL LAVORO",
+          "docente": "FRANCESCA RUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 18:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "IGIENE ED EPIDEMIOLOGIA",
+          "docente": "LUDOVICA SEGAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "MEDICINA DEL LAVORO",
+          "docente": "FRANCESCA RUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA DEL LAVORO",
+          "docente": "FRANCESCA RUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 13:00",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MEDICA",
+          "docente": "LUCA BROMBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2",
+      "Codice aula": "004_PT",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 13:00",
+          "corso": "LA FRAGILITA? DELL?ANZIANO NELLE PATOLOGIE DELL?APPARATO LOCOMOTORE",
+          "docente": "LUIGI MURENA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 19:00",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-08",
+          "orario": "09:00 - 13:00",
+          "corso": "PATOLOGIE PSICHIATRICHE LEGATE ALL?INVECCHIAMENTO",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-08",
+          "orario": "14:00 - 19:00",
+          "corso": "VALIDAZIONE E COSTRUZIONE DI SURVEY",
+          "docente": "ANDREA DISSEGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 19:00",
+          "corso": "TRAUMATOLOGIA",
+          "docente": "GIANLUCA CANTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 13:00",
+          "corso": "LA FRAGILITA? DELL?ANZIANO NELLE PATOLOGIE DELL?APPARATO LOCOMOTORE",
+          "docente": "LUIGI MURENA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 19:00",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-15",
+          "orario": "09:00 - 13:00",
+          "corso": "PATOLOGIE PSICHIATRICHE LEGATE ALL?INVECCHIAMENTO",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 19:00",
+          "corso": "TRAUMATOLOGIA",
+          "docente": "GIANLUCA CANTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 19:00",
+          "corso": "NEUROLOGIA DEL COMPORTAMENTO",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 13:00",
+          "corso": "PATOLOGIE PSICHIATRICHE LEGATE ALL?INVECCHIAMENTO",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 19:00",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "09:00 - 13:00",
+          "corso": "PATOLOGIE PSICHIATRICHE LEGATE ALL?INVECCHIAMENTO",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "14:00 - 19:00",
+          "corso": "CHRONIC CARE MODEL E ACTIVE AGEING",
+          "docente": "FRANCESCA MAGATON RIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 19:00",
+          "corso": "TRAUMATOLOGIA",
+          "docente": "GIANLUCA CANTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 13:00",
+          "corso": "PSICOLOGIA DEI GRUPPI: LEADERSHIP, TEAM BULDING, GESTIONE DEI CONFLITTI E NEGOZIAZIONE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 19:00",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "09:00 - 12:30",
+          "corso": "CHRONIC CARE MODEL E ACTIVE AGEING",
+          "docente": "FRANCESCA MAGATON RIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "15:00 - 19:00",
+          "corso": "PSICOLOGIA DEI GRUPPI: LEADERSHIP, TEAM BULDING, GESTIONE DEI CONFLITTI E NEGOZIAZIONE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 19:00",
+          "corso": "TRAUMATOLOGIA",
+          "docente": "GIANLUCA CANTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:30 - 13:30",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 18:00",
+          "corso": "TECNOLOGIE ASSISTIVE, SMART CITY E INNOVAZIONI SOCIALI E STRUMENTALI PER L?INVECCHIAMENTO ATTIVO",
+          "docente": "MIRIAM MARTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-06",
+          "orario": "09:00 - 12:30",
+          "corso": "CHRONIC CARE MODEL E ACTIVE AGEING",
+          "docente": "FRANCESCA MAGATON RIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-06",
+          "orario": "15:00 - 19:00",
+          "corso": "PSICOLOGIA DEI GRUPPI: LEADERSHIP, TEAM BULDING, GESTIONE DEI CONFLITTI E NEGOZIAZIONE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "RICERCA BIBLIOGRAFICA 2° anno - Dott. Ugrin",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 13:00",
+          "corso": "PSICOLOGIA DEI GRUPPI: LEADERSHIP, TEAM BULDING, GESTIONE DEI CONFLITTI E NEGOZIAZIONE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 19:00",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "09:00 - 13:00",
+          "corso": "TECNOLOGIE ASSISTIVE, SMART CITY E INNOVAZIONI SOCIALI E STRUMENTALI PER L?INVECCHIAMENTO ATTIVO",
+          "docente": "MIRIAM MARTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "14:00 - 19:00",
+          "corso": "CHRONIC CARE MODEL E ACTIVE AGEING",
+          "docente": "FRANCESCA MAGATON RIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 19:00",
+          "corso": "TRAUMATOLOGIA",
+          "docente": "GIANLUCA CANTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:30 - 13:30",
+          "corso": "STATISTICA PER LA RICERCA, REVISIONI, REVISIONI SISTEMATICHE E METANALISI",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:00",
+          "corso": "TECNOLOGIE ASSISTIVE, SMART CITY E INNOVAZIONI SOCIALI E STRUMENTALI PER L?INVECCHIAMENTO ATTIVO",
+          "docente": "MIRIAM MARTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "09:00 - 13:00",
+          "corso": "TECNOLOGIE ASSISTIVE, SMART CITY E INNOVAZIONI SOCIALI E STRUMENTALI PER L?INVECCHIAMENTO ATTIVO",
+          "docente": "MIRIAM MARTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "14:00 - 18:00",
+          "corso": "PSICOLOGIA DEI GRUPPI: LEADERSHIP, TEAM BULDING, GESTIONE DEI CONFLITTI E NEGOZIAZIONE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 4_Via Conti",
+      "Codice aula": "003_PT",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "LABORATORIO DI FISIOTERPIA UROGINECOLOGICA  -Moschella",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "RIEDUCAZIONE POSTURALE",
+          "docente": "VINCENZO GUIDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Palestra",
+      "Codice aula": "004_Z",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI PERFETTI - Dott.ssa Supanz",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "RIEDUCAZIONE POSTURALE",
+          "docente": "VINCENZO GUIDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 18:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 19:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 19:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA DEI DISTURBI MUSCOLO SCHELETRICI DEL RACHIDE",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 19:00",
+          "corso": "ESERCITAZIONI PERFETTI - Dott.ssa Supanz",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "FISIOTERAPIA DEI DISTURBI MUSCOLO SCHELETRICI DEL RACHIDE",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "ESERCITAZIONI PERFETTI - Dott.ssa Supanz",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 19:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 18:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 15:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "ESERCITAZIONI PERFETTI - Dott.ssa Supanz",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "ESERCITAZIONI PERFETTI - Dott.ssa Supanz",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 16:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA NEUROLOGICA",
+          "docente": "GIULIA SGUBIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 18:00",
+          "corso": "MOVIMENTAZIONE DEL PZ E L'UTILIZZO DEGLI AUSILI E ERGONOMIA 1° anno",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 19:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 18:00",
+          "corso": "FISIOTERAPIA IN PATOLOGIA ORTOPEDICA TRAUMATOLOGICA DELL'ADULTO",
+          "docente": "MANUELA DEODATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 3",
+      "Codice aula": "003_Z",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA ORTOPEDICA INFANTILE",
+          "docente": "ROBERTO CASALAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 16:00",
+          "corso": "ORTOPEDIA INFANTILE",
+          "docente": "LUIGI MURENA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 15:00",
+          "corso": "PEDIATRIA",
+          "docente": "ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA ORTOPEDICA INFANTILE",
+          "docente": "ROBERTO CASALAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 15:00",
+          "corso": "RICERCA BIBLIOGRAFICA 3° anno",
+          "docente": "MIRIAM MARTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA ORTOPEDICA INFANTILE",
+          "docente": "ROBERTO CASALAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 17:00",
+          "corso": "ORTOPEDIA INFANTILE",
+          "docente": "LUIGI MURENA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 15:00",
+          "corso": "PEDIATRIA",
+          "docente": "ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA ORTOPEDICA INFANTILE",
+          "docente": "ROBERTO CASALAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 19:00",
+          "corso": "FISIOTERAPIA IN PROTESIOLOGIA E ORTESIOLOGIA",
+          "docente": "BARBARA CACCIATORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 15:00",
+          "corso": "RICERCA BIBLIOGRAFICA 3° anno",
+          "docente": "MIRIAM MARTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA ORTOPEDICA INFANTILE",
+          "docente": "ROBERTO CASALAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 16:00",
+          "corso": "ORTOPEDIA INFANTILE",
+          "docente": "LUIGI MURENA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 15:00",
+          "corso": "PEDIATRIA",
+          "docente": "ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "FISIOTERAPIA ORTOPEDICA INFANTILE",
+          "docente": "ROBERTO CASALAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 19:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 18:00",
+          "corso": "FISIOTERAPIA IN PROTESIOLOGIA E ORTESIOLOGIA",
+          "docente": "BARBARA CACCIATORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 16:00",
+          "corso": "PEDIATRIA",
+          "docente": "ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "RIEDUCAZIONE POSTURALE",
+          "docente": "VINCENZO GUIDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 19:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 18:00",
+          "corso": "FISIOTERAPIA IN PROTESIOLOGIA E ORTESIOLOGIA",
+          "docente": "BARBARA CACCIATORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOTERAPIA NEUROLOGICA INFANTILE",
+          "docente": "SERENA CANOVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

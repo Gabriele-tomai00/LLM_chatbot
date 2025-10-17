@@ -1,0 +1,4509 @@
+{
+  "Nome sede": "Ospedale di Cattinara",
+  "Codice sede": "H002",
+  "Aule": [
+    {
+      "Nome aula": "Aula 8",
+      "Codice aula": "C008",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:30 - 18:30",
+          "corso": "Master 1°livello - Gestione infermieristica del paziente con ferite difficili",
+          "docente": "EVELIN MAKUC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:30 - 18:30",
+          "corso": "Master 1°livello - Gestione infermieristica del paziente con ferite difficili",
+          "docente": "EVELIN MAKUC",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO FORMAZIONE ASUGI - Elisa Bogatec",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:30 - 18:30",
+          "corso": "FORMAZIONE TEAM LEADER ACCREDITATION CANADA - ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 18:00",
+          "corso": "Scuola di Specialità MEDICINA d' EMERGENZA - URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "ERIK ROMAN-POGNUZ, UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "APPLICAZIONE DELLE BIOTECNOLOGIE ALLA CLINICA DEI SENSI CHIMICI",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:00",
+          "corso": "INCONTRI CLINICI DI PS MED/URG - Dott. Cominotto - CASI SPECIALIZZANDI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "17:00 - 19:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "ERIK ROMAN-POGNUZ, UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "APPLICAZIONE DELLE BIOTECNOLOGIE ALLA CLINICA DEI SENSI CHIMICI",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 18:30",
+          "corso": "MASTER NUTRIZIONE E DIABETOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:30 - 18:30",
+          "corso": "ANESTESIA E RIANIMAZIONE",
+          "docente": "UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "APPLICAZIONE DELLE BIOTECNOLOGIE ALLA CLINICA DEI SENSI CHIMICI",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 17:00",
+          "corso": "INCONTRI CLINICI DI PS MED/URG - Dott. Cominotto - CASI SPECIALIZZANDI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 18:00",
+          "corso": "JOURNAL CLUB INFERMIERISTICA, Ana Karina Hinojosa",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "APPLICAZIONE DELLE BIOTECNOLOGIE ALLA CLINICA DEI SENSI CHIMICI",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 17:30",
+          "corso": "Scuola di Specialità CHIRURGIA ORALE - Seminario Dott.ssa Abram",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:30 - 17:00",
+          "corso": "INCONTRI CLINICI DI PS MED/URG - Dott. Cominotto - ACLS revisione linee guida 2025",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 19:00",
+          "corso": "MASTER DRS",
+          "docente": "Marco CONFALONIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 17:30",
+          "corso": "Scuola di Specialità CHIRURGIA ORALE - Seminario Dott.ssa Abram",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 18:00",
+          "corso": "Scuola di Specialità MEDICINA d' EMERGENZA - URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:30",
+          "corso": "MASTER NUTRIZIONE E DIABETOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "08:00 - 18:00",
+          "corso": "Scuola di Specialità MEDICINA d' EMERGENZA - URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-21",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-27",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-03",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-11",
+          "orario": "08:00 - 18:00",
+          "corso": "Scuola di Specialità MEDICINA d' EMERGENZA - URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-17",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Magna",
+      "Codice aula": "C00M",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 16:30",
+          "corso": "IGIENE DENTALE",
+          "docente": "COSTANZA FRATTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:30 - 15:00",
+          "corso": "TESI LOGOPEDIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "COLLEGIO DI DIREZIONE ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:30 - 14:00",
+          "corso": "TESI LOGOPEDIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 18:00",
+          "corso": "TECNICHE DI RADIOLOGIA MEDICA",
+          "docente": "FRANCESCA ROMANA FABRIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:30 - 13:00",
+          "corso": "TESI TECNICI DI LABORATORIO",
+          "docente": "EMANUELA LUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "CONSIGLIO DI DIPARTIMENTO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:30 - 14:00",
+          "corso": "TESI TECNICI DI LABORATORIO",
+          "docente": "EMANUELA LUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO ASUGI - La responsabilità civile e penale del professionista sanitario ' - Elisa Bogatec",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 17:00",
+          "corso": "LAUREE FISIOTERAPIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "17:00 - 19:30",
+          "corso": "EVENTO ACCREDITAMENTO - GIORNATE MEDICHE TRIESTINE",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "08:30 - 14:00",
+          "corso": "EVENTO ACCREDITAMENTO - GIORNATE MEDICHE TRIESTINE",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:30 - 16:00",
+          "corso": "CONGRESSINO PEDIATRIA (3 di 4)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 14:00",
+          "corso": "LAUREE TERP - sessione autunnale",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 18:00",
+          "corso": "LAUREE INFERMIERISTICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:30 - 18:00",
+          "corso": "LAUREE INFERMIERISTICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:30 - 18:00",
+          "corso": "LAUREE INFERMIERISTICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:30 - 14:30",
+          "corso": "LAUREE INFERMIERISTICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 18:00",
+          "corso": "CONCORSO DIRIGENTE PROFESSIONI SANITARIE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 18:00",
+          "corso": "CONCORSO DIRIGENTE PROFESSIONI SANITARIE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "CONSIGLIO DI DIPARTIMENTO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 18:30",
+          "corso": "Lauree CdL Medicina",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 18:30",
+          "corso": "Lauree CdL Medicina",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 18:30",
+          "corso": "Lauree CdL Medicina",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 15:00",
+          "corso": "Lauree CdL Medicina",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "COLLEGIO DI DIREZIONE ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:30 - 16:00",
+          "corso": "CONGRESSINO PEDIATRIA (4 di 4)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:30 - 18:00",
+          "corso": "ORDINE DEI MEDICI - OMCeO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 14:00",
+          "corso": "LM Interateneo in Scienze Inf. ed Ostetriche",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-19",
+          "orario": "08:00 - 16:00",
+          "corso": "TESI DI SPECIALITA' PEDIATRIA",
+          "docente": "EGIDIO BARBI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-28",
+          "orario": "08:30 - 17:30",
+          "corso": "Scuola di Specialità MEDICINA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 5-6-7",
+      "Codice aula": "C00567",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA",
+          "docente": "RENATO CANNIZZARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "SEMINARIO ECG - Specializzandi Medicina Interna - Dott. Zecchin",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 10:00",
+          "corso": "MALATTIE DELL'APPARATO RESPIRATORIO (materie affini)",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 13:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 17:00",
+          "corso": "Scuola di Specialità GASTRO",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-08",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:30 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA - CD cuore",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:30 - 18:30",
+          "corso": "ANESTESIA E RIANIMAZIONE",
+          "docente": "UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 17:00",
+          "corso": "CHIRURGIA GENERALE",
+          "docente": "CHIARA DOBRINJA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "TESI di SPECIALITA' in MICROBIOLOGIA",
+          "docente": "Manola COMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-15",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:30 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA - CD addome",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "INDICAZIONI E INTERPRETAZIONE DELLE PROVE FUNZIONALI RESPIRATORIE",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:00",
+          "corso": "CHIRURGIA GENERALE",
+          "docente": "CHIARA DOBRINJA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "17:00 - 19:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:30 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA - CD esame obiettivo generale",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE DELL'APPARATO RESPIRATORIO (materie affini)",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:00 - 19:00",
+          "corso": "MBPE 3° ANNO - BRITISH MEDICAL JOURNAL (CLINICAL PRACTICE)",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA",
+          "docente": "RENATO CANNIZZARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-06",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE DELL'APPARATO RESPIRATORIO (materie affini)",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "09:00 - 14:00",
+          "corso": "MASTER DRS",
+          "docente": "Marco CONFALONIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 17:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 16:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:00 - 19:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "C00B",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA",
+          "docente": "RENATO CANNIZZARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 10:00",
+          "corso": "MALATTIE DELL'APPARATO RESPIRATORIO (materie affini)",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 13:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 18:30",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:30 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA - CD cuore",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA",
+          "docente": "Saveria CROCE'",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 18:30",
+          "corso": "Tesi di Specialità MAD",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 17:00",
+          "corso": "CHIRURGIA GENERALE",
+          "docente": "CHIARA DOBRINJA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 19:00",
+          "corso": "CORSO ASUGI - ' Buon uso dell'antibioticoterapia: dalle linee guida alla pratica clinica'",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:30 - 18:30",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:30 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA - CD addome",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:30 - 17:30",
+          "corso": "Scuola di Specialità CHIRURGIA GENERALE - Seminario Dott.ssa Dudine",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "INDICAZIONI E INTERPRETAZIONE DELLE PROVE FUNZIONALI RESPIRATORIE",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:00",
+          "corso": "CHIRURGIA GENERALE",
+          "docente": "CHIARA DOBRINJA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "17:00 - 19:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 18:30",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "09:00 - 13:30",
+          "corso": "MASTER NUTRIZIONE E DIABETOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:30 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA - CD esame obiettivo generale",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 17:30",
+          "corso": "Scuola di Specialità CHIRURGIA GENERALE - Seminario Dott.ssa Dudine",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA E TOSSICOLOGIA",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE DELL'APPARATO RESPIRATORIO (materie affini)",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:00 - 19:00",
+          "corso": "MBPE 3° ANNO - BRITISH MEDICAL JOURNAL (CLINICAL PRACTICE)",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "GASTROENTEROLOGIA",
+          "docente": "RENATO CANNIZZARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 18:30",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "Corso a scelta BIOCHIMICA CLINICA MOLECOLARE",
+          "docente": "FABIO GERIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "Corso a scelta BIOCHIMICA CLINICA MOLECOLARE",
+          "docente": "FABIO GERIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "Corso a scelta BIOCHIMICA CLINICA MOLECOLARE",
+          "docente": "FABIO GERIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 18:00",
+          "corso": "IMMUNOLOGIA CLINICA - Dott.ssa Urban",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE DELL'APPARATO RESPIRATORIO (materie affini)",
+          "docente": "BARBARA RUARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "Corso a scelta BIOCHIMICA CLINICA MOLECOLARE",
+          "docente": "FABIO GERIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "09:00 - 13:00",
+          "corso": "programma HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "Corso a scelta BIOCHIMICA CLINICA MOLECOLARE",
+          "docente": "FABIO GERIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOCHIMICA CLINICA",
+          "docente": "GABRIELE GRASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 17:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CHIRURGICA",
+          "docente": "Angelo TUROLDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "17:00 - 19:00",
+          "corso": "SEMEIOTICA E METODOLOGIA CLINICA",
+          "docente": "BRUNO FABRIS, MARCO MERLO, ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "09:00 - 13:30",
+          "corso": "MASTER NUTRIZIONE E DIABETOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 16:00",
+          "corso": "ENDOCRINOLOGIA",
+          "docente": "STELLA BERNARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:00 - 19:00",
+          "corso": "FARMACOLOGIA (non mutuata)",
+          "docente": "GABRIELE STOCCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-10",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-17",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-22",
+          "orario": "14:30 - 18:00",
+          "corso": "DIPLOMI SCUOLA DI SPECIALITA' - AREA ODONTOIATRICA",
+          "docente": "MICHELE MAGLIONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-24",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-31",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-14",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 9",
+      "Codice aula": "C009",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-08",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA (Dott. Roman Pognuz)",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 19:00",
+          "corso": "CORSO FORMATIVO per la NEUROCHIRURGIA (gruppo 1)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 19:00",
+          "corso": "CORSO FORMATIVO per la NEUROCHIRURGIA (gruppo 2)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-15",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "ERIK ROMAN-POGNUZ, UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "Visiting professor c/o nostro Dipartimento - Prof. Treister",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "ERIK ROMAN-POGNUZ, UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 19:00",
+          "corso": "CORSO RESIDENZIALE CORNEE (Laura Biagi)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:30 - 16:00",
+          "corso": "corso ECM in materia di sicurezza (titolo evento: FUMO DI TABACCO: Dipendenza, danni alla salute, normativa e regolamento aziendale)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 19:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "ERIK ROMAN-POGNUZ, UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA (Dott. Roman Pognuz)",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:30 - 16:30",
+          "corso": "FARMACOLOGIA",
+          "docente": "RAFFAELLA FRANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:30 - 18:30",
+          "corso": "ANESTESIA E RIANIMAZIONE",
+          "docente": "UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-06",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 17:30",
+          "corso": "MEDICINA INTERNA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:30 - 16:00",
+          "corso": "ASUGI - Natalina Lauzana",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 17:00",
+          "corso": "INCONTRI CLINICI DI PS MED/URG - Dott. Cominotto - CASI SPECIALIZZANDI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:30 - 17:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-15",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-16",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-16",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-22",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-23",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-23",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-29",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-30",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-30",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-03",
+          "orario": "08:30 - 19:30",
+          "corso": "DEPOSITO MATERIALE CORSO ASUGI ATLS",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-12",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-13",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-13",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-19",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-20",
+          "orario": "09:00 - 13:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-20",
+          "orario": "14:00 - 18:00",
+          "corso": "MAGISTRALE SCIENZE INFERMIERISTICHE ED OSTETRICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "C00A",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "OTORINOLARINGOIATRIA 1",
+          "docente": "GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "17:00 - 19:00",
+          "corso": "MALATTIE ODONTOIATRICHE",
+          "docente": "FEDERICO BERTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 17:00",
+          "corso": "TERAPIA MEDICA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "TESI DI SPECIALITA' DERMATOLOGIA e VENEREOLOGIA",
+          "docente": "NICOLA DI MEO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:30 - 19:00",
+          "corso": "MALATTIE CUTANEE E VENEREE (Prof.ssa Pizzichetta)",
+          "docente": "MARIA ANTONIETTA PIZZICHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 17:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "NUTRIZIONE",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:00",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:30 - 17:00",
+          "corso": "MEDICINA PALLIATIVA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 19:00",
+          "corso": "MALATTIE CUTANEE E VENEREE (Prof.ssa Pizzichetta)",
+          "docente": "MARIA ANTONIETTA PIZZICHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:30 - 17:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "MEDICINA PALLIATIVA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:00",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "17:00 - 19:00",
+          "corso": "MATERIE AFFINI - ANGIOLOGIA E DIAGNOSTICA ULTRASONOGRAFICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "OTORINOLARINGOIATRIA 1",
+          "docente": "GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "17:00 - 19:00",
+          "corso": "MALATTIE ODONTOIATRICHE",
+          "docente": "FEDERICO BERTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 19:00",
+          "corso": "MALATTIE CUTANEE E VENEREE (Prof.ssa Pizzichetta)",
+          "docente": "MARIA ANTONIETTA PIZZICHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:30 - 13:30",
+          "corso": "CORSO Sicurezza alimentare e nutrizionale nelle strutture ospedaliere",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 17:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "NUTRIZIONE",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:30 - 19:30",
+          "corso": "CHIRURGIA GENERALE 1",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "OTORINOLARINGOIATRIA 2",
+          "docente": "GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "17:00 - 19:00",
+          "corso": "MATERIE AFFINI - ANGIOLOGIA E DIAGNOSTICA ULTRASONOGRAFICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 17:00",
+          "corso": "TERAPIA MEDICA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "17:00 - 19:00",
+          "corso": "MATERIE AFFINI - ANGIOLOGIA E DIAGNOSTICA ULTRASONOGRAFICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 19:00",
+          "corso": "MALATTIE CUTANEE E VENEREE (Prof.ssa Pizzichetta)",
+          "docente": "MARIA ANTONIETTA PIZZICHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:30 - 17:30",
+          "corso": "CHIRURGIA GENERALE 1",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:30 - 13:30",
+          "corso": "CORSO Sicurezza alimentare e nutrizionale nelle strutture ospedaliere",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:30 - 19:30",
+          "corso": "CHIRURGIA GENERALE 1",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:30 - 17:00",
+          "corso": "MEDICINA PALLIATIVA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 17:00",
+          "corso": "TERAPIA MEDICA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "17:00 - 19:00",
+          "corso": "MATERIE AFFINI - ANGIOLOGIA E DIAGNOSTICA ULTRASONOGRAFICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 17:30",
+          "corso": "CHIRURGIA GENERALE 1",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:30 - 19:00",
+          "corso": "MEDICINA PALLIATIVA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:30 - 19:30",
+          "corso": "CHIRURGIA GENERALE 1",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "OTORINOLARINGOIATRIA 2",
+          "docente": "GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "17:00 - 19:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 17:00",
+          "corso": "TERAPIA MEDICA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "17:00 - 19:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 19:00",
+          "corso": "MALATTIE CUTANEE E VENEREE (Prof.ssa Pizzichetta)",
+          "docente": "MARIA ANTONIETTA PIZZICHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 17:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "NUTRIZIONE",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:30 - 19:30",
+          "corso": "CHIRURGIA GENERALE 1",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "OTORINOLARINGOIATRIA 2",
+          "docente": "GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "17:00 - 19:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE ODONTOIATRICHE",
+          "docente": "FEDERICO BERTON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:30 - 16:30",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "NUTRIZIONE",
+          "docente": "ROCCO BARAZZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:30 - 16:30",
+          "corso": "MATERIE AFFINI - ANGIOLOGIA E DIAGNOSTICA ULTRASONOGRAFICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "14:30 - 17:00",
+          "corso": "MEDICINA INTERNA 2",
+          "docente": "GIANNI BIOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "17:00 - 19:00",
+          "corso": "MATERIE AFFINI - ANGIOLOGIA E DIAGNOSTICA ULTRASONOGRAFICA",
+          "docente": "MICHELE BERTOLOTTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "OTORINOLARINGOIATRIA 2",
+          "docente": "GIANCARLO TIRELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "17:00 - 19:00",
+          "corso": "OFTALMOLOGIA",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "14:30 - 16:30",
+          "corso": "TERAPIA MEDICA",
+          "docente": "MICHELA ZANETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-30",
+          "orario": "15:00 - 18:00",
+          "corso": "TESI di SPECIALITA' in CHIRURGIA ORALE",
+          "docente": "SILVIA PALMISANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "15:00 - 17:30",
+          "corso": "CHIRURGIA GENERALE E TIROCINIO",
+          "docente": "Nicolo' de Manzini",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 1",
+      "Codice aula": "C00123-1",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "ANESTESIOLOGIA E TRATTAMENTO DELL'EMERGENZA",
+          "docente": "UMBERTO LUCANGELO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:30 - 13:30",
+          "corso": "FORMAZIONE TEAM LEADER ACCREDITATION CANADA - ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "MBPE - 2 MODULO (Dott. Maschietto)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:30",
+          "corso": "MBPE - 2 MODULO (Dott. Maschietto)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 16:30",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:30 - 17:00",
+          "corso": "EMERGENZE SANITARIA IN AUSTRALIA - Dott.  Rohan Laging",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:30",
+          "corso": "MBPE - 2 MODULO (Dott. Picerna)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:30",
+          "corso": "Scuola di Specialità CHIRURGIA GENERALE - Seminario Prof. Roberto Salvia",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:30",
+          "corso": "Scuola di Specialità CHIRURGIA GENERALE - Seminario Prof. Giovanni de Manzoni",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:30 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI OTORINO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI OTORINO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "14:00 - 19:00",
+          "corso": "Appello combinato MBPE + Tirocinio (Prof. Emmi)",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 10",
+      "Codice aula": "C010",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "APPLICAZIONE DELLE BIOTECNOLOGIE ALLA CLINICA DEI SENSI CHIMICI",
+          "docente": "PAOLO BOSCOLO RIZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 17:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 18:00",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 17:30",
+          "corso": "STATISTICA MEDICA",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:30 - 19:00",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 14:00",
+          "corso": "MEETING CLINICA NEUROLOGICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:30 - 19:00",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 14:00",
+          "corso": "MEETING CLINICA NEUROLOGICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 14:00",
+          "corso": "MEETING CLINICA NEUROLOGICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:30 - 19:00",
+          "corso": "MBPE 4° ANNO - 1 MODULO",
+          "docente": "STELLA BERNARDI, MARIA ASSUNTA COVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 14:00",
+          "corso": "MEETING CLINICA NEUROLOGICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 14:00",
+          "corso": "MEETING CLINICA NEUROLOGICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 16:30",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 16:30",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:30 - 18:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:30 - 12:00",
+          "corso": "Colloqui studenti CdL Infermieristica 2° anno A.A. 2025/2026 - Ana Karina Hinojosa",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 14:00",
+          "corso": "MEETING CLINICA NEUROLOGICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "16:30 - 18:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-19",
+          "orario": "15:00 - 19:00",
+          "corso": "Fisiologia",
+          "docente": "CONSUELO COMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-16",
+          "orario": "15:00 - 19:00",
+          "corso": "Fisiologia",
+          "docente": "CONSUELO COMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "C00C",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 17:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 18:00",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 17:30",
+          "corso": "STATISTICA MEDICA",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:30 - 19:00",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "TESI di SPECIALITA' in OTORINOLARINGOIATRIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:30 - 19:00",
+          "corso": "MBPE 4° ANNO - 1 MODULO",
+          "docente": "STELLA BERNARDI, MARIA ASSUNTA COVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. D'Onofrio)",
+          "docente": "ALBERTO D'ONOFRIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:30 - 18:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1",
+          "docente": "ROSSANA BUSSANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 16:30",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 16:30",
+          "corso": "NEUROPSICHIATRIA INFANTILE",
+          "docente": "ANDREA CLARICI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:30 - 18:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 17:30",
+          "corso": "C.I. ANATOMIA PATOLOGICA 1 (Prof. Zanconati)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Manganotti)",
+          "docente": "PAOLO MANGANOTTI, ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 17:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:30 - 16:30",
+          "corso": "PSICHIATRIA E PSICOLOGIA CLINICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "MALATTIE DEL SISTEMA NERVOSO (Prof. Benussi)",
+          "docente": "ALBERTO BENUSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "16:30 - 18:30",
+          "corso": "INFORMATICA DI BASE (Prof. Peron)",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "13:00 - 15:00",
+          "corso": "MALATTIE DELL'APPARATO VISIVO",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "14:00 - 19:00",
+          "corso": "MEDICINA BASATA SULL'EVIDENZA - 3 MODULO",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "13:00 - 15:00",
+          "corso": "MALATTIE DELL'APPARATO VISIVO",
+          "docente": "DANIELE TOGNETTO, DARIO MARANGONI, LEANDRO INFERRERA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2",
+      "Codice aula": "C00123-2",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "MBPE - 2 MODULO (Dott. Maschietto)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:30",
+          "corso": "MBPE - 2 MODULO (Dott. Maschietto)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 16:30",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:30 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI OTORINO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI OTORINO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "14:00 - 19:00",
+          "corso": "Appello combinato MBPE + Tirocinio (Prof. Emmi)",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 3",
+      "Codice aula": "C00123-3",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "MBPE - 2 MODULO (Dott. Maschietto)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:30",
+          "corso": "MBPE - 2 MODULO (Dott. Maschietto)",
+          "docente": "Roberto DELLA VEDOVA, Doriano Battigelli",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 16:30",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:30 - 17:00",
+          "corso": "Dinamiche in Team : team leader ij traumatologia e rianimazione - Dott. Rohan Laging",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 16:30",
+          "corso": "MALATTIE CARDIOVASCOLARI",
+          "docente": "GIANFRANCO SINAGRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:30 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "MATERIE AFFINI - TRAUMATOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "GINECOLOGIA ED OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI OTORINO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:30 - 12:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI, ANDREA TADDIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 18:30",
+          "corso": "PROGRAMMI HH",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:30 - 18:30",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "MASSIMO PUATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "16:30 - 19:00",
+          "corso": "UROLOGIA",
+          "docente": "GIOVANNI LIGUORI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI OTORINO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "14:00 - 19:00",
+          "corso": "Appello combinato MBPE + Tirocinio (Prof. Emmi)",
+          "docente": "GIACOMO EMMI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-07",
+          "orario": "08:30 - 19:30",
+          "corso": "CORSO  ATLS ASUGI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 4",
+      "Codice aula": "001_ZF",
+      "Eventi": [
+        {
+          "data": "2026-01-20",
+          "orario": "09:00 - 17:00",
+          "corso": "GESTIONE DEL RISCHIO CLINICO E TUTELA DELL'ASSISITITO [702ME] ",
+          "docente": "GIANFRANCO SANSON, GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-03",
+          "orario": "09:00 - 17:00",
+          "corso": "INFERMIERISTICA CLINICA NEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "14:00 - 15:30",
+          "corso": "ESAMI ONCOLOGIA",
+          "docente": "ANDREA ROCCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "09:00 - 17:00",
+          "corso": "GESTIONE DEL RISCHIO CLINICO E TUTELA DELL'ASSISITITO [702ME] ",
+          "docente": "GIANFRANCO SANSON, GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-18",
+          "orario": "09:00 - 17:00",
+          "corso": "INFERMIERISTICA CLINICA NEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1201 @@
+{
+  "Nome sede": "Ospedale San Polo di Monfalcone",
+  "Codice sede": "H006",
+  "Aule": [
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "002_ZA",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "10:30 - 12:30",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:30 - 15:30",
+          "corso": "ABUSI E VIOLENZE CONTRO LE DONNE E I MINORI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:30 - 17:30",
+          "corso": "LEGISLAZIONE E RESPONSABILITÀ PROFESSIONALE",
+          "docente": "SARA BUCHINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 10:00",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:30 - 12:30",
+          "corso": "LA GESTIONE PREANALITICA DEGLI ESAMI DI LABORATORIO",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:30 - 15:30",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:30 - 17:30",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:30 - 12:30",
+          "corso": "LA GESTIONE PREANALITICA DEGLI ESAMI DI LABORATORIO",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:30 - 15:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:30 - 16:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:30 - 12:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:30 - 15:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 10:00",
+          "corso": "TUTORATO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:30 - 15:30",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:30 - 12:30",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "ABUSI E VIOLENZE CONTRO LE DONNE E I MINORI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:30 - 12:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:30 - 15:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:30 - 12:30",
+          "corso": "ABUSI E VIOLENZE CONTRO LE DONNE E I MINORI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:30 - 15:30",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 10:00",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:30 - 17:30",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:30 - 16:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:30 - 12:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:30 - 16:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:30 - 12:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:30 - 15:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 12:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:30 - 15:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:30 - 17:30",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "TUTORATO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:30 - 12:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:30 - 12:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 10:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "001_ZB",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "GERIATRIA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "INFERMIERISTICA CLINICA: TRATTAMENTI FARMACOLOGICI",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:30 - 18:30",
+          "corso": "INFERMIERISTICA CLINICA IN AMBITO MEDICO",
+          "docente": "Antonella Geri",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA INTERNA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE II",
+          "docente": "NICOLA AVERSANA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 18:30",
+          "corso": "INFERMIERISTICA CLINICA: TRATTAMENTI FARMACOLOGICI",
+          "docente": "MANUELA DREOS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "TUTORATO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:30 - 18:30",
+          "corso": "INTERVENTI EDUCATIVI PER LA SALUTE",
+          "docente": "Sara Sanson",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "EMERGENZE E CURE INTENSIVE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "INFERMIERISTICA NELLA SALUTE MENTALE E NELLE DIPENDENZE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "16:30 - 18:30",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA NELLA SALUTE MENTALE E NELLE DIPENDENZE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:30 - 18:30",
+          "corso": "INFERMIERISTICA IN AMBITO OSTETRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 10:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 13:00",
+          "corso": "GINECOLOGIA / OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 18:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA NELLA SALUTE MENTALE E NELLE DIPENDENZE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 17:30",
+          "corso": "ELEMENTI DI TERAPIA FISICA E RESPIRATORIA A SUPPORTO DELL'ASSISTENZA",
+          "docente": "SABRINA PLANISCIG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "EMERGENZE E CURE INTENSIVE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 18:30",
+          "corso": "INFERMIERISTICA IN AMBITO PEDIATRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 18:30",
+          "corso": "INTERVENTI EDUCATIVI PER LA SALUTE",
+          "docente": "Sara Sanson",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA NELLA SALUTE MENTALE E NELLE DIPENDENZE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:30 - 18:30",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 10:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 13:00",
+          "corso": "GINECOLOGIA / OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 18:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 17:30",
+          "corso": "ELEMENTI DI TERAPIA FISICA E RESPIRATORIA A SUPPORTO DELL'ASSISTENZA",
+          "docente": "SABRINA PLANISCIG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "EMERGENZE E CURE INTENSIVE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 18:30",
+          "corso": "INTERVENTI EDUCATIVI PER LA SALUTE",
+          "docente": "Sara Sanson",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "INFERMIERISTICA IN AMBITO OSTETRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA IN AMBITO PEDIATRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "INFERMIERISTICA IN AMBITO OSTETRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 10:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 13:00",
+          "corso": "GINECOLOGIA / OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 18:30",
+          "corso": "PEDIATRIA",
+          "docente": "EGIDIO BARBI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "ETICA DEL CARING, DISTRESS MORALE E DIRITTO ALLA SALUTE",
+          "docente": "KATIUSCIA SCALA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:30 - 18:30",
+          "corso": "ELEMENTI DI TERAPIA FISICA E RESPIRATORIA A SUPPORTO DELL'ASSISTENZA",
+          "docente": "SABRINA PLANISCIG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "ETICA DEL CARING, DISTRESS MORALE E DIRITTO ALLA SALUTE",
+          "docente": "KATIUSCIA SCALA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "EMERGENZE E CURE INTENSIVE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 18:30",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 10:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 13:00",
+          "corso": "GINECOLOGIA / OSTETRICIA",
+          "docente": "GIUSEPPE RICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "ETICA DEL CARING, DISTRESS MORALE E DIRITTO ALLA SALUTE",
+          "docente": "KATIUSCIA SCALA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:30 - 18:30",
+          "corso": "INFERMIERISTICA NELLA SALUTE MENTALE E NELLE DIPENDENZE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:30 - 18:30",
+          "corso": "ELEMENTI DI TERAPIA FISICA E RESPIRATORIA A SUPPORTO DELL'ASSISTENZA",
+          "docente": "SABRINA PLANISCIG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "MEDICINA D'URGENZA",
+          "docente": "NICOLA FIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "ETICA DEL CARING, DISTRESS MORALE E DIRITTO ALLA SALUTE",
+          "docente": "KATIUSCIA SCALA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:30 - 18:30",
+          "corso": "INTERVENTI EDUCATIVI PER LA SALUTE",
+          "docente": "Sara Sanson",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "EMERGENZE E CURE INTENSIVE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 18:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE III",
+          "docente": "CHIARA CREATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "ETICA DEL CARING, DISTRESS MORALE E DIRITTO ALLA SALUTE",
+          "docente": "KATIUSCIA SCALA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 18:30",
+          "corso": "INFERMIERISTICA IN AMBITO OSTETRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA IN AMBITO PEDIATRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "INFERMIERISTICA DI COMUNITÀ",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "INFERMIERISTICA CLINICA DEL MALATO CRITICO",
+          "docente": "GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 18:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE III",
+          "docente": "CHIARA CREATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "EMERGENZE E CURE INTENSIVE",
+          "docente": "ERIK ROMAN-POGNUZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIRURGIA D'URGENZA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "ELEMENTI DI TERAPIA FISICA E RESPIRATORIA A SUPPORTO DELL'ASSISTENZA",
+          "docente": "SABRINA PLANISCIG",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "ETICA DEL CARING, DISTRESS MORALE E DIRITTO ALLA SALUTE",
+          "docente": "KATIUSCIA SCALA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:30",
+          "corso": "INFERMIERISTICA IN AMBITO PEDIATRICO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

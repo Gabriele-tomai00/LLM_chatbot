@@ -1,0 +1,495 @@
+{
+  "Nome sede": "Trieste Convention Center",
+  "Codice sede": "TS-CC",
+  "Aule": [
+    {
+      "Nome aula": "Sala 'Margherita Hack'",
+      "Codice aula": "14307_001",
+      "Eventi": [
+        {
+          "data": "2025-11-10",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:30 - 12:30",
+          "corso": "LA GESTIONE PREANALITICA DEGLI ESAMI DI LABORATORIO",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:30 - 15:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:30 - 16:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 10:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:30 - 12:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:30 - 15:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 10:00",
+          "corso": "TUTORATO",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:30 - 15:30",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:30 - 12:30",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "ALESSANDRA GALMONTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 10:00",
+          "corso": "ABUSI E VIOLENZE CONTRO LE DONNE E I MINORI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:30 - 12:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:30 - 15:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:30 - 12:30",
+          "corso": "ABUSI E VIOLENZE CONTRO LE DONNE E I MINORI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:30 - 15:30",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 10:00",
+          "corso": "METODOLOGIA DELLA RELAZIONE ASSISTENZIALE",
+          "docente": "ROBERTA MORO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:30 - 17:30",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:30 - 16:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:30 - 12:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:30 - 16:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:00 - 10:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:30 - 12:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:30 - 12:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:30 - 15:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:30 - 17:30",
+          "corso": "LABORATORIO PROFESSIONALIZZANTE I",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 12:30",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:30 - 15:30",
+          "corso": "PRINCIPI FONDAMENTALI DELLA PROFESSIONE INFERMIERISTICA",
+          "docente": "LAURA DE BIASIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:30 - 17:30",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 10:00",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:30 - 15:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:30 - 12:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:30 - 15:30",
+          "corso": "IGIENE GENERALE",
+          "docente": "GIULIA VALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:30 - 17:30",
+          "corso": "SICUREZZA NELL'ASSISTENZA E SORVEGLIANZA DEGLI ASSISTITI",
+          "docente": "PASQUALINA SERAFINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 10:00",
+          "corso": "TUTORATO",
+          "docente": "ELENA CALIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:30 - 12:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "EPISTEMOLOGIA E TEORIA INFERMIERISTICA",
+          "docente": "LUCA BERTOCCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:30 - 12:30",
+          "corso": "SICUREZZA NEI LUOGHI DI LAVORO E RADIOPROTEZIONE",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:30 - 17:30",
+          "corso": "ANATOMIA UMANA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 10:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

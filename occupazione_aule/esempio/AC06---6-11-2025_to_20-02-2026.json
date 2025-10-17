@@ -1,0 +1,1312 @@
+{
+  "Nome sede": "Edificio C6",
+  "Codice sede": "AC06",
+  "Aule": [
+    {
+      "Nome aula": "Aula Piccola",
+      "Codice aula": "024_ARI",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA MOLECOLARE",
+          "docente": "CHIARA COLLESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 16:00",
+          "corso": "DESIGN FOR SUSTAINABILITY OF PROCESSES AND LCA",
+          "docente": "ALESSANDRO BORDIGNON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 18:30",
+          "corso": "FORMAZIONE TEORICA ADDETTO ANTINCENDIO LIVELLO 3 FOR",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA MOLECOLARE",
+          "docente": "CHIARA COLLESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 16:00",
+          "corso": "DESIGN FOR SUSTAINABILITY OF PROCESSES AND LCA",
+          "docente": "ALESSANDRO BORDIGNON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA MOLECOLARE",
+          "docente": "CHIARA COLLESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 16:00",
+          "corso": "DESIGN FOR SUSTAINABILITY OF PROCESSES AND LCA",
+          "docente": "ALESSANDRO BORDIGNON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA MOLECOLARE",
+          "docente": "CHIARA COLLESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 16:00",
+          "corso": "DESIGN FOR SUSTAINABILITY OF PROCESSES AND LCA",
+          "docente": "ALESSANDRO BORDIGNON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 18:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "13:00 - 16:00",
+          "corso": "DESIGN FOR SUSTAINABILITY OF PROCESSES AND LCA",
+          "docente": "ALESSANDRO BORDIGNON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOLOGIA MOLECOLARE",
+          "docente": "CHIARA COLLESI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 16:00",
+          "corso": "DESIGN FOR SUSTAINABILITY OF PROCESSES AND LCA",
+          "docente": "ALESSANDRO BORDIGNON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 09:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 15:00",
+          "corso": "LEGISLAZIONE FARMACEUTICA",
+          "docente": "Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "ANTONIOS VARNAVAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "PSICOLOGIA DELLE RELAZIONI",
+          "docente": "MARCO DEL GIUDICE",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Grande",
+      "Codice aula": "014_ARI",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "CHEMOMETRICS AND EXPERIMENTAL DESIGN",
+          "docente": "STEFANO FORNASARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "Analisi delle politiche pubbliche",
+          "docente": "FEDERICO DONELLI, MATTIA ZULIANELLO, ELISABETTA DE GIORGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "12:00 - 13:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 18:30",
+          "corso": " <i class=\"fa fa-asterisk\" aria-hidden=\"true\" title=\"Un asterisco vicino al nome dell'insegnamento pu&ograve; indicare la presenza di una nota, di un allegato o di un link. Cliccare sulla lezione per visualizzarne il contenuto.\"></i> ACQUISIZIONE E GESTIONE DELLE TECNOLOGIE IN SANITA'",
+          "docente": "CINZIA SPAGNO, MARCO BELTRAME, MAURIZIO RIZZETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:30",
+          "corso": "Seminario della Professoressa Tracey Pirali, organizzato nellambito del programma AIRCampus",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "Analisi delle politiche pubbliche",
+          "docente": "FEDERICO DONELLI, MATTIA ZULIANELLO, ELISABETTA DE GIORGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "12:00 - 13:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "CHEMOMETRICS AND EXPERIMENTAL DESIGN",
+          "docente": "STEFANO FORNASARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "Analisi delle politiche pubbliche",
+          "docente": "FEDERICO DONELLI, MATTIA ZULIANELLO, ELISABETTA DE GIORGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "12:00 - 13:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "CHEMOMETRICS AND EXPERIMENTAL DESIGN",
+          "docente": "STEFANO FORNASARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "Analisi delle politiche pubbliche",
+          "docente": "FEDERICO DONELLI, MATTIA ZULIANELLO, ELISABETTA DE GIORGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "12:00 - 13:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "CHEMOMETRICS AND EXPERIMENTAL DESIGN",
+          "docente": "STEFANO FORNASARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 16:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "Analisi delle politiche pubbliche",
+          "docente": "FEDERICO DONELLI, MATTIA ZULIANELLO, ELISABETTA DE GIORGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "12:00 - 13:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "CHEMOMETRICS AND EXPERIMENTAL DESIGN",
+          "docente": "STEFANO FORNASARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "FARMACOLOGIA",
+          "docente": "SABRINA PACOR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "PRODOTTI DIETETICI",
+          "docente": "GIUSEPPE PROCIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "Analisi delle politiche pubbliche",
+          "docente": "FEDERICO DONELLI, MATTIA ZULIANELLO, ELISABETTA DE GIORGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "TOSSICOLOGIA E FARMACOVIGILANZA",
+          "docente": "MARCO PELIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "12:00 - 13:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "FISIOLOGIA",
+          "docente": "Annalisa BERNAREGGI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "CHEMOMETRICS AND EXPERIMENTAL DESIGN",
+          "docente": "STEFANO FORNASARO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA GENERALE ED INORGANICA",
+          "docente": "RITA DE ZORZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "MATEMATICA E STATISTICA",
+          "docente": "DANIELE DEL SANTO, SCIPIO CUCCAGNA, ARNAUD BROTHIER",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-16",
+          "orario": "10:00 - 13:00",
+          "corso": "BIOCHIMICA GENERALE E DELLA NUTRIZIONE",
+          "docente": "PAOLA D'ANDREA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "11:00 - 15:00",
+          "corso": "QUALITA' E ACCREDITAMENTO DEL LABORATORIO CHIMICO,CHIMICA DEI BENI CULTURALI, LAB. DI MONITORAGGIO DELLE ACQUE MARINE-Prof. Adami",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-06",
+          "orario": "10:00 - 13:00",
+          "corso": "BIOCHIMICA GENERALE E DELLA NUTRIZIONE",
+          "docente": "PAOLA D'ANDREA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-13",
+          "orario": "10:00 - 13:00",
+          "corso": "BIOCHIMICA GENERALE E DELLA NUTRIZIONE",
+          "docente": "PAOLA D'ANDREA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-19",
+          "orario": "11:00 - 15:00",
+          "corso": "QUALITA' E ACCREDITAMENTO DEL LABORATORIO CHIMICO,CHIMICA DEI BENI CULTURALI, LAB. DI MONITORAGGIO DELLE ACQUE MARINE-Prof. Adami",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Beltrame",
+      "Codice aula": "015_ARI",
+      "Eventi": [
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 18:00",
+          "corso": " Corso per BIM coordinator (Compa FVG)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 18:00",
+          "corso": " Corso per BIM coordinator (Compa FVG)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "CONTROL OF CYBER-PHYSICAL SYSTEMS",
+          "docente": "DAVIDE MARTINO RAIMONDO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

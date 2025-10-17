@@ -1,0 +1,3767 @@
+{
+  "Nome sede": "Edificio Via Lazzaretto Vecchio 8",
+  "Codice sede": "CA03",
+  "Aule": [
+    {
+      "Nome aula": "Aula 4",
+      "Codice aula": "011_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "GNERI E CONTESTI NELLA POESIA LATINA - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 18:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "GNERI E CONTESTI NELLA POESIA LATINA - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 18:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "GNERI E CONTESTI NELLA POESIA LATINA - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE IN PROSPETTIVA ANTI-OPPRESSIVA",
+          "docente": "MARIANNA GINOCCHIETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "GNERI E CONTESTI NELLA POESIA LATINA - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE IN PROSPETTIVA ANTI-OPPRESSIVA",
+          "docente": "MARIANNA GINOCCHIETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 13:00",
+          "corso": "GNERI E CONTESTI NELLA POESIA LATINA - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE IN PROSPETTIVA ANTI-OPPRESSIVA",
+          "docente": "MARIANNA GINOCCHIETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "GNERI E CONTESTI NELLA POESIA LATINA - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "LETTERATURA ANGLO-AMERICANA I",
+          "docente": "LEONARDO BUONOMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE IN PROSPETTIVA ANTI-OPPRESSIVA",
+          "docente": "MARIANNA GINOCCHIETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "10:00 - 13:00",
+          "corso": "CARTOGRAFIA DISTRIBUITA SUL WEB PER IL TURISMO",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "15:00 - 18:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "08:00 - 10:00",
+          "corso": "NUMISMATICA",
+          "docente": "ANDREA GARIBOLDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "11:00 - 14:00",
+          "corso": "COMUNICAZIONE E MESSAGGIO NELLE SCRITTURE ESPOSTE DEL MONDO ROMANO",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "GIANLUCA MAGNELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "08:00 - 11:00",
+          "corso": "TELERILEVAMENTO PER IL CONTROLLO DEGLI ECOSISTEMI",
+          "docente": "ANDREA FAVRETTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "13:00 - 15:00",
+          "corso": "ARCHEOLOGIA E STORIA DELL'ARTE GRECA E ROMANA",
+          "docente": "EMANUELA MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "GIANLUCA MAGNELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 5",
+      "Codice aula": "012_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 14:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 14:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 14:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 14:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 14:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 14:00",
+          "corso": "TEORIE E TECNICHE DEL LINGUAGGIO AUDIOVISIVO",
+          "docente": "MASSIMILIANO SPANU, BEATRICE PALOMA FIORENTINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "09:00 - 11:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "16:00 - 18:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "18:00 - 19:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "FRANCESCO MARCATTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI SOCIO-FILOSOFICI DE DIRITTI UMANI",
+          "docente": "MARCO COSSUTTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "11:00 - 14:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA GENERALE - CORSO AVANZATO",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "16:00 - 19:00",
+          "corso": "FILOSOFIA E STORIA DEI DIRITTI UMANI",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 1",
+      "Codice aula": "031_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "LETTERATURA SPAGNOLA III",
+          "docente": "ANA CECILIA PRENZ, NICOLA PALLADINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 14:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 13:00",
+          "corso": "LINGUA GRECA PER I TESTI FILOSOFICI (LE63) - ELEMENTI DI LINGUA GRECA (LE08)",
+          "docente": "LORENZA SAVIGNAGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 14:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 13:00",
+          "corso": "LINGUA GRECA PER I TESTI FILOSOFICI (LE63) - ELEMENTI DI LINGUA GRECA (LE08)",
+          "docente": "LORENZA SAVIGNAGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 14:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 10:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 13:00",
+          "corso": "LINGUA GRECA PER I TESTI FILOSOFICI (LE63) - ELEMENTI DI LINGUA GRECA (LE08)",
+          "docente": "LORENZA SAVIGNAGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 14:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 10:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 13:00",
+          "corso": "LINGUA GRECA PER I TESTI FILOSOFICI (LE63) - ELEMENTI DI LINGUA GRECA (LE08)",
+          "docente": "LORENZA SAVIGNAGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "11:00 - 14:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 10:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 13:00",
+          "corso": "LINGUA GRECA PER I TESTI FILOSOFICI (LE63) - ELEMENTI DI LINGUA GRECA (LE08)",
+          "docente": "LORENZA SAVIGNAGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 14:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 10:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 13:00",
+          "corso": "LINGUA GRECA PER I TESTI FILOSOFICI (LE63) - ELEMENTI DI LINGUA GRECA (LE08)",
+          "docente": "LORENZA SAVIGNAGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 18:00",
+          "corso": "TEORIE E TECNICHE DELLA RICERCA SOCIALE",
+          "docente": "RAFFAELLA CAVALLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "13:00 - 16:00",
+          "corso": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+          "docente": "GIULIA CACCAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA DI COMUNITA'",
+          "docente": "MARIO CESAREO  CODA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "09:00 - 12:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "16:00 - 19:00",
+          "corso": "STORIA DELLA FILOSOFIA MODERNA E CONTEMPORANEA",
+          "docente": "ALBERTO BONCHINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "11:00 - 13:00",
+          "corso": "ELEMENTI DI DIRITTO PRIVATO",
+          "docente": "LUCA BALLERINI, MASSIMO CAMPAILLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "16:00 - 19:00",
+          "corso": "STORIA DELLA FILOSOFIA CONTEMPORANEA",
+          "docente": "ALBERTO BONCHINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "09:00 - 12:00",
+          "corso": "MEDICINA SOCIALE E DI COMUNITA'",
+          "docente": "FABIO BARBONE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "14:00 - 17:00",
+          "corso": "TEORIE DEL SERVIZIO SOCIALE E POLITICHE SOCIALI",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "17:00 - 19:00",
+          "corso": "TEATRO E ORATORIA NEL MONDO ROMANO",
+          "docente": "Marco FERNANDELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "14:00 - 17:00",
+          "corso": "CULTURA E SOCIETÀ DEI PAESI ARABI",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-09",
+          "orario": "16:00 - 19:00",
+          "corso": "STORIA DELLA FILOSOFIA MODERNA E CONTEMPORANEA",
+          "docente": "ALBERTO BONCHINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "16:00 - 19:00",
+          "corso": "STORIA DELLA FILOSOFIA CONTEMPORANEA",
+          "docente": "ALBERTO BONCHINO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 6",
+      "Codice aula": "007_03",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 20:00",
+          "corso": "Convegno 'Centri e Periferie' - Dott. Pinzauti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+          "docente": "CLAUDIA ZANCHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+          "docente": "CLAUDIA ZANCHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+          "docente": "CLAUDIA ZANCHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+          "docente": "CLAUDIA ZANCHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+          "docente": "CLAUDIA ZANCHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+          "docente": "CLAUDIA ZANCHETTA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "17:00 - 19:00",
+          "corso": "ELEMENTI DI LINGUA LATINA - Prof.ssa Navarra",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 14:00",
+          "corso": "Didattica della letteratura italiana  - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "10:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 1",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "ELEMENTI DI PSICOLOGIA GENERALE",
+          "docente": "SERGIO AGNOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA E LETTERATURA ARABA",
+          "docente": "CRISTIANA BALDAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "10:00 - 13:00",
+          "corso": "SOCIOLOGIA GENERALE",
+          "docente": "ROSEMARY SERRA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2",
+      "Codice aula": "008_02A",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "SVILUPPO DI COMUNITA' E BENESSERE",
+          "docente": "FELICITAS KRESIMON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "SVILUPPO DI COMUNITA' E BENESSERE",
+          "docente": "FELICITAS KRESIMON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "SVILUPPO DI COMUNITA' E BENESSERE",
+          "docente": "FELICITAS KRESIMON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "SVILUPPO DI COMUNITA' E BENESSERE",
+          "docente": "FELICITAS KRESIMON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "09:00 - 12:00",
+          "corso": "GLI STATI UNITI NEL CONTESTO GLOBALE",
+          "docente": "ELISABETTA VEZZOSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "14:00 - 16:00",
+          "corso": "LINGUA FRANCESE II",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "Cristina Castellani",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "11:00 - 13:00",
+          "corso": "LINGUA SPAGNOLA I",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "13:00 - 15:00",
+          "corso": "LINGUA SPAGNOLA III",
+          "docente": "HELENA LOZANO MIRALLES",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "12:00 - 14:00",
+          "corso": "COMPETENZE PER LA GESTIONE DEL GRUPPO",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO AMMINISTRATIVO NELLA GESTIONE DEI SERVIZI",
+          "docente": "GIGLIOLA BRIDDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 12:00",
+          "corso": "SERVIZI SOCIALI E INNOVAZIONE - DIGITAL SOCIAL WORK",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "13:00 - 16:00",
+          "corso": "GEOGRAFIA SOCIALE E DEL TERRITORIO",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 3",
+      "Codice aula": "010_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025",
+          "annullato": "si"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025",
+          "annullato": "si"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "STORIA DEL CINEMA - A - STORIA DEL CINEMA - B",
+          "docente": "MASSIMILIANO SPANU",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "Storia e critca della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA I",
+          "docente": "ULISSE DOGÀ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 2",
+          "docente": "CRISTINA BRAIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "STORIA DEL CINEMA - A - STORIA DEL CINEMA - B",
+          "docente": "MASSIMILIANO SPANU",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "Storia e critca della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA I",
+          "docente": "ULISSE DOGÀ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 2",
+          "docente": "CRISTINA BRAIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "STORIA DEL CINEMA - A - STORIA DEL CINEMA - B",
+          "docente": "MASSIMILIANO SPANU",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "Storia e critca della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA I",
+          "docente": "ULISSE DOGÀ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 2",
+          "docente": "CRISTINA BRAIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "STORIA DEL CINEMA - A - STORIA DEL CINEMA - B",
+          "docente": "MASSIMILIANO SPANU",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "Storia e critca della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA I",
+          "docente": "ULISSE DOGÀ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 2",
+          "docente": "CRISTINA BRAIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "11:00 - 13:00",
+          "corso": "STORIA DEL CINEMA - A - STORIA DEL CINEMA - B",
+          "docente": "MASSIMILIANO SPANU",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 17:00",
+          "corso": "Storia e critca della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA I",
+          "docente": "ULISSE DOGÀ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 2",
+          "docente": "CRISTINA BRAIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "STORIA DEL CINEMA - A - STORIA DEL CINEMA - B",
+          "docente": "MASSIMILIANO SPANU",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "Storia e critca della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "LINGUA TEDESCA I",
+          "docente": "ULISSE DOGÀ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 2",
+          "docente": "CRISTINA BRAIDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 12:00",
+          "corso": "Letteratura italiana e cinema - Prof.ssa Del Tedesco",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "Storia e critica della letteratura italiana - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "16:00 - 18:00",
+          "corso": "Strumenti digitali per la ricerca italianistica - Prof.ssa Piras",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "08:00 - 11:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "15:00 - 18:00",
+          "corso": "SERVIZIO SOCIALE, CONFLITTI E MEDIAZIONE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "08:00 - 11:00",
+          "corso": "VIOLENZA DI GENERE",
+          "docente": "PATRIZIA ROMITO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "15:00 - 18:30",
+          "corso": "C.I. POLITICA SOCIALE E GESTIONE DEI CONFLITTI (Prof.ssa E. KOLAR)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIE E TECNICHE DEI NUOVI MEDIA - SOCIOLOGIA DELLA FAMIGLIA (Prof. G. PORCELLI)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI E TECNICHE DEL SERVIZIO SOCIALE 3",
+          "docente": "LUIGI GUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "15:00 - 18:00",
+          "corso": "POLITICA SOCIALE",
+          "docente": "ELISABETTA KOLAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-09",
+          "orario": "15:00 - 18:30",
+          "corso": "C.I. POLITICA SOCIALE E GESTIONE DEI CONFLITTI (Prof.ssa E. KOLAR)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula informatica",
+      "Codice aula": "027_03",
+      "Eventi": [
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 17:00",
+          "corso": "METRICA E MUSICA NELLA POESIA GRECA Prof.ssa Savignago",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

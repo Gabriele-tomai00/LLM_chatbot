@@ -1,0 +1,1030 @@
+{
+  "Nome sede": "Edificio di Portogruaro via Seminario 34",
+  "Codice sede": "X001",
+  "Aule": [
+    {
+      "Nome aula": "Aula Grande",
+      "Codice aula": "002_ZC",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:30 - 13:30",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:30 - 13:30",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:30 - 13:30",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:30 - 13:30",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "09:30 - 13:30",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:30 - 13:30",
+          "corso": "PEDAGOGIA GENERALE",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:45 - 11:45",
+          "corso": "PSICOLOGIA DEL CICLO DI VITA - MODULO 1",
+          "docente": "MARCELLA CAPUTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 12:00",
+          "corso": "STORIA CONTEMPORANEA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 17:30",
+          "corso": "GEOGRAFIA PER LA FORMAZIONE",
+          "docente": "ORIETTA SELVA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 4",
+      "Codice aula": "004_ZA",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA DELLA FAMIGLIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "LEGISLAZIONE MINORILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA DELLA FAMIGLIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:30",
+          "corso": "LEGISLAZIONE MINORILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA DELLA FAMIGLIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 17:30",
+          "corso": "LEGISLAZIONE MINORILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA DELLA FAMIGLIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 17:30",
+          "corso": "LEGISLAZIONE MINORILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA DELLA FAMIGLIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 17:30",
+          "corso": "LEGISLAZIONE MINORILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "PEDAGOGIA DELLA FAMIGLIA",
+          "docente": "ELISABETTA MADRIZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 17:30",
+          "corso": "LEGISLAZIONE MINORILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 13:00",
+          "corso": "PEDAGOGIA SPERIMENTALE",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI LINGUA INGLESE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA PER LE DIFFICOLTA' DI APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 1",
+      "Codice aula": "004_ZB",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 13:00",
+          "corso": "PROGETTAZIONE E INNOVAZIONE NELLA GESTIONE DEI SERVIZI EDUCATIVI PER LA DISABILITÀ",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:30 - 12:30",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA DELL?EDUCAZIONE E POLITICHE SOCIALI",
+          "docente": "GIORGIO PORCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 13:00",
+          "corso": "PROGETTAZIONE E INNOVAZIONE NELLA GESTIONE DEI SERVIZI EDUCATIVI PER LA DISABILITÀ",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:30 - 12:30",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA DELL?EDUCAZIONE E POLITICHE SOCIALI",
+          "docente": "GIORGIO PORCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 13:00",
+          "corso": "PROGETTAZIONE E INNOVAZIONE NELLA GESTIONE DEI SERVIZI EDUCATIVI PER LA DISABILITÀ",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:30 - 12:30",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA DELL?EDUCAZIONE E POLITICHE SOCIALI",
+          "docente": "GIORGIO PORCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 13:00",
+          "corso": "PROGETTAZIONE E INNOVAZIONE NELLA GESTIONE DEI SERVIZI EDUCATIVI PER LA DISABILITÀ",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:30 - 12:30",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA DELL?EDUCAZIONE E POLITICHE SOCIALI",
+          "docente": "GIORGIO PORCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 13:00",
+          "corso": "PROGETTAZIONE E INNOVAZIONE NELLA GESTIONE DEI SERVIZI EDUCATIVI PER LA DISABILITÀ",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 17:00",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:30 - 12:30",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA DELL?EDUCAZIONE E POLITICHE SOCIALI",
+          "docente": "GIORGIO PORCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 13:00",
+          "corso": "PROGETTAZIONE E INNOVAZIONE NELLA GESTIONE DEI SERVIZI EDUCATIVI PER LA DISABILITÀ",
+          "docente": "ELENA BORTOLOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:30 - 12:30",
+          "corso": "METODI E TECNICHE DELLA GESTIONE DI GRUPPO E COORDINAMENTO PEDAGOGICO",
+          "docente": "GINA CHIANESE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 16:00",
+          "corso": "SOCIOLOGIA DELL?EDUCAZIONE E POLITICHE SOCIALI",
+          "docente": "GIORGIO PORCELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "GEOGRAFIA SOCIALE",
+          "docente": "DRAGAN UMEK",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:30",
+          "corso": "PEDAGOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 3",
+      "Codice aula": "003_ZA",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "OFA ITALIANO SF01",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:30",
+          "corso": "OFA ITALIANO SF01",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 17:30",
+          "corso": "OFA ITALIANO SF01",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 17:30",
+          "corso": "OFA ITALIANO SF01",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 17:30",
+          "corso": "OFA ITALIANO SF01",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 17:30",
+          "corso": "OFA ITALIANO SF01",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "10:00 - 12:30",
+          "corso": "PEDAGOGIA SOCIALE",
+          "docente": "MATTEO CORNACCHIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2",
+      "Codice aula": "005_Z",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "EDUCAZIONE ALLA CITTADINANZA",
+          "docente": "MARCO IUS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "EDUCAZIONE ALLA CITTADINANZA",
+          "docente": "MARCO IUS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "EDUCAZIONE ALLA CITTADINANZA",
+          "docente": "MARCO IUS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "EDUCAZIONE ALLA CITTADINANZA",
+          "docente": "MARCO IUS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "EDUCAZIONE ALLA CITTADINANZA",
+          "docente": "MARCO IUS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "EDUCAZIONE ALLA CITTADINANZA",
+          "docente": "MARCO IUS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 17:00",
+          "corso": "PROGETTAZIONE, VALUTAZIONE E QUALITÀ DEI SERVIZI E DEI PROGETTI FORMATIVI ED EDUCATIVI",
+          "docente": "PAOLO SORZIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

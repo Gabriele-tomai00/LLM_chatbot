@@ -1,0 +1,165 @@
+{
+  "Nome sede": "Palazzina Spazio Rosa",
+  "Codice sede": "SG_SP_ROSA",
+  "Aule": [
+    {
+      "Nome aula": "SR_Lab-Inf  - Laboratorio informatico",
+      "Codice aula": "SR_Lab-Inf",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:30 - 12:30",
+          "corso": "CORSO EXCEL AVANZATO per Personale Amministrativo ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI CHIMICA AVANZATA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:30 - 12:30",
+          "corso": "CORSO EXCEL AVANZATO per Personale Amministrativo ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:30 - 12:30",
+          "corso": "CORSO EXCEL AVANZATO per Personale Amministrativo ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:30 - 12:30",
+          "corso": "CORSO EXCEL AVANZATO per Personale Amministrativo ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:30 - 12:30",
+          "corso": "CORSO EXCEL AVANZATO per Personale Amministrativo ASUGI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO a SCELTA - 'Basi di istologia e richiami patologici su vetrino virtuale' (1133ME e 764ME)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO a SCELTA - 'Basi di istologia e richiami patologici su vetrino virtuale' (1133ME e 764ME)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "11:00 - 13:00",
+          "corso": "Esami ONCOLOGIA per CdL Infermieristica ",
+          "docente": "ANDREA ROCCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "08:30 - 12:30",
+          "corso": "INFERMIERISTICA CLINICA NELLE MALATTIE CRONICO-DEGENERATIVE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "09:00 - 13:00",
+          "corso": "STATISTICA 758ME - Metodologia Scientifica della Ricerca",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-20",
+          "orario": "08:30 - 13:00",
+          "corso": "INFERMIERISTICA NELLE COMUNITA'",
+          "docente": "LAURA DE BIASIO, Sara Sanson, CLAUDIA FANTUZZI, LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-29",
+          "orario": "09:00 - 13:00",
+          "corso": "STATISTICA 758ME - Metodologia Scientifica della Ricerca",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-30",
+          "orario": "09:00 - 14:00",
+          "corso": "ESAMI FISIOLOGIA per CdL Infermieristica",
+          "docente": "LORENZO ANGELO CINGOLANI, GIANFRANCO SANSON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-30",
+          "orario": "14:00 - 18:00",
+          "corso": "INFERMIERISTICA CLINICA IN AMBITO ONCOLOGICO E DELLE CURE PALLIATIVE",
+          "docente": "ALESSANDRO  CALDAROLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-04",
+          "orario": "15:00 - 17:30",
+          "corso": "ONCOLOGIA MEDICA - sessione invernale",
+          "docente": "ANDREA ROCCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-05",
+          "orario": "08:30 - 12:30",
+          "corso": "INFERMIERISTICA CLINICA NELLE MALATTIE CRONICO-DEGENERATIVE",
+          "docente": "CLAUDIA FANTUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-11",
+          "orario": "09:00 - 13:00",
+          "corso": "STATISTICA 758ME - Metodologia Scientifica della Ricerca",
+          "docente": "GIULIA BARBATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-20",
+          "orario": "08:30 - 13:00",
+          "corso": "INFERMIERISTICA NELLE COMUNITA'",
+          "docente": "LAURA DE BIASIO, Sara Sanson, CLAUDIA FANTUZZI, LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-20",
+          "orario": "14:00 - 18:00",
+          "corso": "INFERMIERISTICA CLINICA IN AMBITO ONCOLOGICO E DELLE CURE PALLIATIVE",
+          "docente": "ALESSANDRO  CALDAROLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "SR_Lab-did - Laboratorio per Tecnici di Laboratorio",
+      "Codice aula": "SR_Lab-did",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI CHIMICA AVANZATA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

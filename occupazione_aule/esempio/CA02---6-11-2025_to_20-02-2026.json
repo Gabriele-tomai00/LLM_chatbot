@@ -1,0 +1,103 @@
+{
+  "Nome sede": "Edificio Via Lazzaretto Vecchio 6",
+  "Codice sede": "CA02",
+  "Aule": [
+    {
+      "Nome aula": "Aula Seminari 'Corbato'",
+      "Codice aula": "AS01",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "08:00 - 11:00",
+          "corso": "Tradizione e ricezione della letteratura latina - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 11:00",
+          "corso": "Tradizione e ricezione della letteratura latina - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 11:00",
+          "corso": "Tradizione e ricezione della letteratura latina - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 11:00",
+          "corso": "Tradizione e ricezione della letteratura latina - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 11:00",
+          "corso": "Tradizione e ricezione della letteratura latina - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 11:00",
+          "corso": "Tradizione e ricezione della letteratura latina - Prof. Fernandelli",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "10:00 - 13:00",
+          "corso": "STORIA ROMANA: POLITICA, ISTITUZIONI E SOCIETA' - A",
+          "docente": "Fulvia MAINARDIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

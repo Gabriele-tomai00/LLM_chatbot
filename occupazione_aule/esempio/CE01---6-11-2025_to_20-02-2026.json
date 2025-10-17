@@ -1,0 +1,760 @@
+{
+  "Nome sede": "Edificio Via Monfort 3",
+  "Codice sede": "CE01",
+  "Aule": [
+    {
+      "Nome aula": "Aula Magna",
+      "Codice aula": "017_01",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 18:30",
+          "corso": "T3 - Scienze della formazione primaria",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-08",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO DI LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-15",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO DI LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 18:30",
+          "corso": "T3 - Scienze della formazione primaria",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-22",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO DI LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-29",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO DI LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-06",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO DI LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 18:30",
+          "corso": "T3 - Scienze della formazione primaria",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-13",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 18:00",
+          "corso": "LABORATORIO DI LETTERATURA ITALIANA MODERNA",
+          "docente": "GIANNI CIMADOR, ROSA NECCHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-20",
+          "orario": "08:30 - 13:30",
+          "corso": "TFA sostegno - Prof.ssa Bortolotti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-29",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-30",
+          "orario": "09:00 - 12:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-02",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-05",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "09:00 - 12:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO",
+          "docente": "MICHELLE PIERI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-08",
+          "orario": "14:00 - 17:00",
+          "corso": "LINGUISTICA ITALIANA",
+          "docente": "FEDERICO BARICCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-09",
+          "orario": "09:00 - 11:00",
+          "corso": "ETNOGRAFIA DEI CONTESTI SCOLASTICI",
+          "docente": "GIUSEPPE GRIMALDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "09:00 - 11:00",
+          "corso": "ANTROPOLOGIA CULTURALE - A",
+          "docente": "ROBERTA ALTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-12",
+          "orario": "14:00 - 17:00",
+          "corso": "FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - A - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B - FILOSOFIA DEL LINGUAGGIO E SEMIOTICA - B",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "10:30 - 12:30",
+          "corso": "PEDAGOGIA GENERALE E SOCIALE",
+          "docente": "FARNAZ FARAHI SARABI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "10:30 - 12:30",
+          "corso": "PEDAGOGIA GENERALE E SOCIALE",
+          "docente": "FARNAZ FARAHI SARABI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-11",
+          "orario": "09:00 - 11:00",
+          "corso": "ANTROPOLOGIA CULTURALE - A",
+          "docente": "ROBERTA ALTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Cinema",
+      "Codice aula": "AC01",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "PEDAGOGIA INTERCULTURALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 14:00",
+          "corso": "TECNOLOGIE PER L'APPRENDIMENTO IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 15:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 13:00",
+          "corso": "EDUCAZIONE MUSICALE IN LINGUA SLOVENA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-24",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-31",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "16:00 - 19:00",
+          "corso": "LOGICA MATEMATICA",
+          "docente": "ANDREA STROLLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

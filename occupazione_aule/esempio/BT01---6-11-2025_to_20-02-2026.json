@@ -1,0 +1,2225 @@
+{
+  "Nome sede": "Palazzina T",
+  "Codice sede": "BT01",
+  "Aule": [
+    {
+      "Nome aula": "Aula 2.5 MIcroscopia",
+      "Codice aula": "017_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO a SCELTA - 'Basi di istologia e richiami patologici su vetrino virtuale' (1133ME e 764ME)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "08:00 - 13:00",
+          "corso": "ESERCITAZIONI di MICROSCOPIA - Anatomia Patologica IV anno",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 18:00",
+          "corso": "CORSO a SCELTA - 'Basi di istologia e richiami patologici su vetrino virtuale' (1133ME e 764ME)",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "14:00 - 18:00",
+          "corso": "ESAMI corso a scelta 'Basi di istologia e richiami patologici su vetrino virtuale' ",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-03",
+          "orario": "14:00 - 18:00",
+          "corso": "ESAMI corso a scelta 'Basi di istologia e richiami patologici su vetrino virtuale' ",
+          "docente": "FABRIZIO ZANCONATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2.3",
+      "Codice aula": "019_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:30 - 10:30",
+          "corso": "FILOSOFIA E PRAGMATICA DEL LINGUAGGIO",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:30 - 17:30",
+          "corso": "MEDICINA DEL LAVORO",
+          "docente": "FRANCESCA RUI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:30 - 13:30",
+          "corso": "Fondamenti di fisica applicata",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:30 - 17:30",
+          "corso": "SEMINARIO FORMATIVO 1° anno Logopedia",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 17:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:30 - 17:30",
+          "corso": "FILOSOFIA E PRAGMATICA DEL LINGUAGGIO",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:30 - 11:30",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO LE AREE DI INTERESSE DELLA LOGOPEDIA",
+          "docente": "MAGDA GREGORAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:30 - 17:30",
+          "corso": "LABORATORIO IL GIOCO IN ETA' EVOLUTIVA",
+          "docente": "CHIARA BONAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:30 - 13:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 17:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 10:30",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:30 - 17:30",
+          "corso": "FILOSOFIA E PRAGMATICA DEL LINGUAGGIO",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:30 - 11:30",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:30 - 17:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:30 - 16:30",
+          "corso": "LABORATORIO IL GIOCO IN ETA' EVOLUTIVA",
+          "docente": "CHIARA BONAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:30 - 13:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:30 - 17:30",
+          "corso": "SEMINARIO FORMATIVO 1° anno Logopedia",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 17:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:30 - 17:30",
+          "corso": "FILOSOFIA E PRAGMATICA DEL LINGUAGGIO",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:30 - 11:30",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:30 - 16:30",
+          "corso": "LABORATORIO IL GIOCO IN ETA' EVOLUTIVA",
+          "docente": "CHIARA BONAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "10:30 - 13:30",
+          "corso": "FISICA ACUSTICA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 17:30",
+          "corso": "INTERCULTURALITA' E BILINGUISMO IN LOGOPEDIA",
+          "docente": "BARBARA PICCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:30 - 13:30",
+          "corso": "ANATOMIA UMANA E ISTOLOGIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:30 - 17:30",
+          "corso": "FILOSOFIA E PRAGMATICA DEL LINGUAGGIO",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:30 - 11:30",
+          "corso": "STATISTICA MEDICA",
+          "docente": "LUCIO TORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "PEDAGOGIA DEI PROCESSI DI APPRENDIMENTO",
+          "docente": "CATERINA BEMBICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:30 - 17:30",
+          "corso": "FILOSOFIA E PRAGMATICA DEL LINGUAGGIO",
+          "docente": "PAOLO LABINAZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:30 - 17:30",
+          "corso": "INTERCULTURALITA' E BILINGUISMO IN LOGOPEDIA",
+          "docente": "BARBARA PICCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-22",
+          "orario": "14:30 - 18:30",
+          "corso": "INTERCULTURALITA' E BILINGUISMO IN LOGOPEDIA",
+          "docente": "BARBARA PICCOLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 1.2",
+      "Codice aula": "008_01Z",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "15:30 - 18:30",
+          "corso": "LA STROKE UNIT",
+          "docente": "MARCELLO NACCARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:30 - 10:30",
+          "corso": "ELEMENTI DI DIETETICA",
+          "docente": "GIANLUCA GORTAN CAPPELLARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "10:30 - 13:30",
+          "corso": "ANTROPOLOGIA PER LE PROFESSIONI SANITARIE",
+          "docente": "FRANCESCA MARZARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:30 - 17:30",
+          "corso": "LA STROKE UNIT",
+          "docente": "MARCELLO NACCARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "LOGOPEDIA DELLE LARINGECTOMIE FUNZIONALI E CHIRURGIA CAVO ORALE E OROFARINGEA",
+          "docente": "CRISTINA PIERLUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:30 - 11:30",
+          "corso": "PRINCIPI DI RIABILITAZIONE FISIOTERAPICA E SCHEMI MUSCOLARI, INTERVENTO INTEGRATO",
+          "docente": "LISA NOVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:30 - 13:30",
+          "corso": "ANTROPOLOGIA PER LE PROFESSIONI SANITARIE",
+          "docente": "FRANCESCA MARZARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 16:30",
+          "corso": "PATOLOGIA E CHIRURGIA ONCOLOGICA ORL (CAVO ORALE, OROFARINGE, MASSICCIO FACCIALE)",
+          "docente": "ALFONSO FORTUNATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA DELLE PATOLOGIE ODONTOSTOMATOLOGICHE",
+          "docente": "CRISTINA MAINENTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:30 - 17:00",
+          "corso": "LOGOPEDIA DEL PAZIENTE CRONICO E DEGENERATIVO",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:30 - 10:30",
+          "corso": "ELEMENTI DI DIETETICA",
+          "docente": "GIANLUCA GORTAN CAPPELLARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "10:30 - 13:00",
+          "corso": "LOGOPEDIA DEL PAZIENTE CRONICO E DEGENERATIVO",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:30 - 17:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:30",
+          "corso": "LOGOPEDIA DEL TRAUMA CRANICO",
+          "docente": "FANNY MENEGUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 17:00",
+          "corso": "LOGOPEDIA DEL TRAUMA CRANICO",
+          "docente": "FANNY MENEGUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "LOGOPEDIA DELLE LARINGECTOMIE FUNZIONALI E CHIRURGIA CAVO ORALE E OROFARINGEA",
+          "docente": "CRISTINA PIERLUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:30 - 13:30",
+          "corso": "PATOLOGIA E CHIRURGIA ONCOLOGICA ORL (CAVO ORALE, OROFARINGE, MASSICCIO FACCIALE)",
+          "docente": "ALFONSO FORTUNATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:30 - 18:30",
+          "corso": "PRINCIPI DI RIABILITAZIONE FISIOTERAPICA E SCHEMI MUSCOLARI, INTERVENTO INTEGRATO",
+          "docente": "LISA NOVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:30 - 13:30",
+          "corso": "ANTROPOLOGIA PER LE PROFESSIONI SANITARIE",
+          "docente": "FRANCESCA MARZARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:30 - 10:30",
+          "corso": "ELEMENTI DI DIETETICA",
+          "docente": "GIANLUCA GORTAN CAPPELLARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "10:30 - 13:00",
+          "corso": "LOGOPEDIA DEL PAZIENTE CRONICO E DEGENERATIVO",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:30 - 13:30",
+          "corso": "COMUNICAZIONE E LAVORO IN EQUIPE",
+          "docente": "LOREDANA BRAICO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:30 - 16:30",
+          "corso": "ELEMENTI DI DIETETICA",
+          "docente": "GIANLUCA GORTAN CAPPELLARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA DELLE PATOLOGIE ODONTOSTOMATOLOGICHE",
+          "docente": "CRISTINA MAINENTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "LOGOPEDIA DELLE LARINGECTOMIE FUNZIONALI E CHIRURGIA CAVO ORALE E OROFARINGEA",
+          "docente": "CRISTINA PIERLUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO SCREENING E COUNSELING IN LOGOPEDIA",
+          "docente": "MAGDA GREGORAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:30 - 16:30",
+          "corso": "PATOLOGIA E CHIRURGIA ONCOLOGICA ORL (CAVO ORALE, OROFARINGE, MASSICCIO FACCIALE)",
+          "docente": "ALFONSO FORTUNATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:30 - 13:00",
+          "corso": "LOGOPEDIA DELLE DISARTRIE",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:30 - 17:30",
+          "corso": "ANTROPOLOGIA PER LE PROFESSIONI SANITARIE",
+          "docente": "FRANCESCA MARZARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:30",
+          "corso": "LOGOPEDIA DEL TRAUMA CRANICO",
+          "docente": "FANNY MENEGUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:30 - 17:00",
+          "corso": "LOGOPEDIA DEL TRAUMA CRANICO",
+          "docente": "FANNY MENEGUZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "08:30 - 11:30",
+          "corso": "DEONTOLOGIA E ORGANIZZAZIONE DELLA PROFESSIONE IN LOGOPEDIA",
+          "docente": "DANIELA ROSOLEN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:30 - 13:30",
+          "corso": "PATOLOGIA E CHIRURGIA ONCOLOGICA ORL (CAVO ORALE, OROFARINGE, MASSICCIO FACCIALE)",
+          "docente": "ALFONSO FORTUNATI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 16:30",
+          "corso": "ELEMENTI DI DIETETICA",
+          "docente": "GIANLUCA GORTAN CAPPELLARI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:30 - 18:30",
+          "corso": "LA STROKE UNIT",
+          "docente": "MARCELLO NACCARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:30 - 16:30",
+          "corso": "SCIENZE INFERMIERISTICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:30 - 11:30",
+          "corso": "DEONTOLOGIA E ORGANIZZAZIONE DELLA PROFESSIONE IN LOGOPEDIA",
+          "docente": "DANIELA ROSOLEN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO SCREENING E COUNSELING IN LOGOPEDIA",
+          "docente": "MAGDA GREGORAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:30 - 16:30",
+          "corso": "SCIENZE INFERMIERISTICHE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:30 - 18:30",
+          "corso": "PRINCIPI DI RIABILITAZIONE FISIOTERAPICA E SCHEMI MUSCOLARI, INTERVENTO INTEGRATO",
+          "docente": "LISA NOVELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "08:30 - 11:30",
+          "corso": "LOGOPEDIA 2 DELLE AFASIE, DISTURBI LINGUISTICI NON AFASICI, APRASSIE, ACALCULIE",
+          "docente": "SONIA ANTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:30 - 13:30",
+          "corso": "COMUNICAZIONE E LAVORO IN EQUIPE",
+          "docente": "LOREDANA BRAICO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:30 - 17:00",
+          "corso": "LOGOPEDIA DELLE DISARTRIE",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:30 - 17:30",
+          "corso": "LA STROKE UNIT",
+          "docente": "MARCELLO NACCARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "LOGOPEDIA DELLE LARINGECTOMIE FUNZIONALI E CHIRURGIA CAVO ORALE E OROFARINGEA",
+          "docente": "CRISTINA PIERLUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:30 - 16:30",
+          "corso": "DEONTOLOGIA E ORGANIZZAZIONE DELLA PROFESSIONE IN LOGOPEDIA",
+          "docente": "DANIELA ROSOLEN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:30",
+          "corso": "LOGOPEDIA DELLE DISARTRIE",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:30 - 13:30",
+          "corso": "LABORATORIO SCREENING E COUNSELING IN LOGOPEDIA",
+          "docente": "MAGDA GREGORAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "10:30 - 13:30",
+          "corso": "COMUNICAZIONE E LAVORO IN EQUIPE",
+          "docente": "LOREDANA BRAICO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:30 - 16:30",
+          "corso": "DEONTOLOGIA E ORGANIZZAZIONE DELLA PROFESSIONE IN LOGOPEDIA",
+          "docente": "DANIELA ROSOLEN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:30",
+          "corso": "LOGOPEDIA DELLE DISARTRIE",
+          "docente": "CATERINA SIRABELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 17:30",
+          "corso": "LOGOPEDIA DEL LARINGECTOMIZZATO TOTALE",
+          "docente": "MARTINA DA RE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "08:30 - 11:30",
+          "corso": "COMUNICAZIONE E LAVORO IN EQUIPE",
+          "docente": "LOREDANA BRAICO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 17:00",
+          "corso": "LOGOPEDIA DELLE LARINGECTOMIE FUNZIONALI E CHIRURGIA CAVO ORALE E OROFARINGEA",
+          "docente": "CRISTINA PIERLUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:30 - 12:30",
+          "corso": "LABORATORIO SCREENING E COUNSELING IN LOGOPEDIA",
+          "docente": "MAGDA GREGORAT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:30 - 18:30",
+          "corso": "LOGOPEDIA DELLE PATOLOGIE ODONTOSTOMATOLOGICHE",
+          "docente": "CRISTINA MAINENTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:30 - 17:30",
+          "corso": "LOGOPEDIA DEL LARINGECTOMIZZATO TOTALE",
+          "docente": "MARTINA DA RE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-23",
+          "orario": "14:30 - 18:30",
+          "corso": "LOGOPEDIA DEL LARINGECTOMIZZATO TOTALE + FUNZIONALI",
+          "docente": "MARTINA DA RE, CRISTINA PIERLUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2.6",
+      "Codice aula": "015_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "Biochimica clinica",
+          "docente": "BRUNA SCAGGIANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "Metodi e tecniche di microbiologia diagnostica",
+          "docente": "Serena BONIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:30 - 11:30",
+          "corso": "ESERCITAZIONI DI LABORATORIO BIOMEDICO 4",
+          "docente": "DORELLA FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:30 - 13:30",
+          "corso": "Patologia clinica",
+          "docente": "MARTINA FABRIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:30 - 16:30",
+          "corso": "Patologia clinica",
+          "docente": "MARTINA FABRIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 13:00",
+          "corso": "TECNICHE DI ANATOMIA PATOLOGICA",
+          "docente": "CRISTINA BOTTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "ESERCITAZIONI DI LABORATORIO BIOMEDICO 4",
+          "docente": "DORELLA FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 13:00",
+          "corso": "ESERCITAZIONI DI LABORATORIO BIOMEDICO 4",
+          "docente": "DORELLA FURLANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:30 - 17:30",
+          "corso": "EMATOLOGIA E URINE/PROTEINE",
+          "docente": "EMANUELA LUCCI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2.2",
+      "Codice aula": "020_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "GENETICA MEDICA 2",
+          "docente": "ADAMO PIO D'ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOLOGIA APPLICATA",
+          "docente": "CHIARA AGOSTINIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA DEL LAVORO (RADIOPROTEZIONE)",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "GENETICA MEDICA 2",
+          "docente": "ADAMO PIO D'ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 17:00",
+          "corso": "EDUCAZIONE PRENATALE E GENITORIALITA'",
+          "docente": "MARINA SERREQI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "GENETICA MEDICA 2",
+          "docente": "ADAMO PIO D'ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "PROCEDURE TECNICO ASSISTENZIALI (ECG, OSSIGENOTERAPIA,GESTIONE CVP E CVC, MEDICAZIONE CHIRURGICA E DI LESIONI DA PRESSIONE)",
+          "docente": "ADAM FABIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 18:00",
+          "corso": "SCIENZE CLINICHE OSTETRICO GINECOLOGICHE",
+          "docente": "MARIA PIAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "INFORMATICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 17:00",
+          "corso": "SCIENZE CLINICHE OSTETRICO GINECOLOGICHE",
+          "docente": "MARIA PIAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "INFORMATICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 18:00",
+          "corso": "SOMMINISTRAZIONE DELLA TERAPIA",
+          "docente": "CHIARA TARTARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "GENETICA MEDICA 2",
+          "docente": "ADAMO PIO D'ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "INFORMATICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 13:00",
+          "corso": "OSTETRICIA PREVENTIVA",
+          "docente": "GLORIA GODEAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 17:00",
+          "corso": "EDUCAZIONE PRENATALE E GENITORIALITA'",
+          "docente": "MARINA SERREQI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "PROCEDURE TECNICO ASSISTENZIALI (ECG, OSSIGENOTERAPIA,GESTIONE CVP E CVC, MEDICAZIONE CHIRURGICA E DI LESIONI DA PRESSIONE)",
+          "docente": "ADAM FABIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "SOMMINISTRAZIONE DELLA TERAPIA",
+          "docente": "CHIARA TARTARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "INFORMATICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "GENETICA MEDICA 2",
+          "docente": "ADAMO PIO D'ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "INFORMATICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 18:00",
+          "corso": "SCIENZE CLINICHE OSTETRICO GINECOLOGICHE",
+          "docente": "MARIA PIAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "PROCEDURE TECNICO ASSISTENZIALI (ECG, OSSIGENOTERAPIA,GESTIONE CVP E CVC, MEDICAZIONE CHIRURGICA E DI LESIONI DA PRESSIONE)",
+          "docente": "ADAM FABIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "INFORMATICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "SOMMINISTRAZIONE DELLA TERAPIA",
+          "docente": "CHIARA TARTARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "SOMMINISTRAZIONE DELLA TERAPIA",
+          "docente": "CHIARA TARTARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "EDUCAZIONE PRENATALE E GENITORIALITA'",
+          "docente": "MARINA SERREQI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 13:00",
+          "corso": "OSTETRICIA PREVENTIVA",
+          "docente": "GLORIA GODEAS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 18:00",
+          "corso": "SCIENZE CLINICHE OSTETRICO GINECOLOGICHE",
+          "docente": "MARIA PIAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "BIOCHIMICA",
+          "docente": "ELEONORA MARSICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "PROCEDURE TECNICO ASSISTENZIALI (ECG, OSSIGENOTERAPIA,GESTIONE CVP E CVC, MEDICAZIONE CHIRURGICA E DI LESIONI DA PRESSIONE)",
+          "docente": "ADAM FABIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 15:00",
+          "corso": "MEDICINA DEL LAVORO (RADIOPROTEZIONE)",
+          "docente": "MARCELLA MAURO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "GENETICA MEDICA 2",
+          "docente": "ADAMO PIO D'ADAMO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "SCIENZE CLINICHE OSTETRICO GINECOLOGICHE",
+          "docente": "MARIA PIAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "PROCEDURE TECNICO ASSISTENZIALI (ECG, OSSIGENOTERAPIA,GESTIONE CVP E CVC, MEDICAZIONE CHIRURGICA E DI LESIONI DA PRESSIONE)",
+          "docente": "ADAM FABIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "SOMMINISTRAZIONE DELLA TERAPIA",
+          "docente": "CHIARA TARTARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 17:00",
+          "corso": "EDUCAZIONE PRENATALE E GENITORIALITA'",
+          "docente": "MARINA SERREQI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 18:00",
+          "corso": "SALUTE ORMONALE FEMMINILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 13:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "EMBRIOLOGIA",
+          "docente": "EMILIANA GIACOMELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 10:00",
+          "corso": "ANATOMIA UMANA 1",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "10:00 - 13:00",
+          "corso": "ANATOMIA UMANA 2",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 18:00",
+          "corso": "SALUTE ORMONALE FEMMINILE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "EMBRIOLOGIA",
+          "docente": "EMILIANA GIACOMELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 13:00",
+          "corso": "ANATOMIA UMANA 2",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "PROCEDURE TECNICO ASSISTENZIALI (ECG, OSSIGENOTERAPIA,GESTIONE CVP E CVC, MEDICAZIONE CHIRURGICA E DI LESIONI DA PRESSIONE)",
+          "docente": "ADAM FABIANI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "EMBRIOLOGIA",
+          "docente": "EMILIANA GIACOMELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "EMBRIOLOGIA",
+          "docente": "EMILIANA GIACOMELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 18:00",
+          "corso": "ANATOMIA UMANA 2",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "10:00 - 13:00",
+          "corso": "ANATOMIA UMANA 2",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "EMBRIOLOGIA",
+          "docente": "EMILIANA GIACOMELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "IGIENE GENERALE ED APPLICATA",
+          "docente": "ELISA PISCIANZ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "EMBRIOLOGIA",
+          "docente": "EMILIANA GIACOMELLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 1.3",
+      "Codice aula": "027_01",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "PATOLOGIA GENERALE",
+          "docente": "VIOLETTA BORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "FONDAMENTI EDUCATIVI IN RIABILITAZIONE",
+          "docente": "RITA MANZARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "COINVOLGIMENTO DELLA FAMIGLIA NEI PERCORSI DI CURA",
+          "docente": "FRANCESCA BERTOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 14:00",
+          "corso": "FONDAMENTI EDUCATIVI IN RIABILITAZIONE",
+          "docente": "RITA MANZARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA CLINICA",
+          "docente": "ILARIA COLPIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 15:00",
+          "corso": "INTRODUZIONE ALLA PSICOPATOLOGIA",
+          "docente": "ALESSANDRA ORETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 12:00",
+          "corso": "TEORIE DELL'APPRENDIMENTO E RIABILITAZIONE PSICHIATRICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:30 - 16:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA PSICOPATOLOGIA",
+          "docente": "ALESSANDRA ORETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "PATOLOGIA GENERALE",
+          "docente": "VIOLETTA BORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "15:00 - 18:00",
+          "corso": "FISIOLOGIA E NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 16:00",
+          "corso": "FISIOLOGIA E NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "TEORIE DELL'APPRENDIMENTO E RIABILITAZIONE PSICHIATRICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 16:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "COINVOLGIMENTO DELLA FAMIGLIA NEI PERCORSI DI CURA",
+          "docente": "FRANCESCA BERTOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 14:00",
+          "corso": "FONDAMENTI EDUCATIVI IN RIABILITAZIONE",
+          "docente": "RITA MANZARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALLA PSICOPATOLOGIA",
+          "docente": "ALESSANDRA ORETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:30 - 16:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA E NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "PATOLOGIA GENERALE",
+          "docente": "VIOLETTA BORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA PSICOPATOLOGIA",
+          "docente": "ALESSANDRA ORETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "FISIOLOGIA E NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "COINVOLGIMENTO DELLA FAMIGLIA NEI PERCORSI DI CURA",
+          "docente": "FRANCESCA BERTOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "TEORIE DELL'APPRENDIMENTO E RIABILITAZIONE PSICHIATRICA",
+          "docente": "UMBERTO ALBERT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 17:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "PSICOLOGIA CLINICA",
+          "docente": "Barbara PENOLAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 18:00",
+          "corso": "NEURORADIOLOGIA",
+          "docente": "MAJA UKMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 12:00",
+          "corso": "PATOLOGIA GENERALE",
+          "docente": "VIOLETTA BORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 16:00",
+          "corso": "FONDAMENTI EDUCATIVI IN RIABILITAZIONE",
+          "docente": "RITA MANZARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 12:00",
+          "corso": "INTRODUZIONE ALLA PSICOPATOLOGIA",
+          "docente": "ALESSANDRA ORETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "12:00 - 14:00",
+          "corso": "NEURORADIOLOGIA",
+          "docente": "MAJA UKMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "FISIOLOGIA E NEUROFISIOLOGIA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:30 - 16:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "FONDAMENTI EDUCATIVI IN RIABILITAZIONE",
+          "docente": "RITA MANZARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 15:00",
+          "corso": "PSICHIATRIA",
+          "docente": "LUCA PELLEGRINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 18:00",
+          "corso": "PSICOLOGIA GENERALE",
+          "docente": "MAURO MURGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "10:00 - 12:00",
+          "corso": "PSICOLOGIA CLINICA",
+          "docente": "Barbara PENOLAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 18:00",
+          "corso": "NEURORADIOLOGIA",
+          "docente": "MAJA UKMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA PSICOPATOLOGIA",
+          "docente": "ALESSANDRA ORETTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 14:00",
+          "corso": "PATOLOGIA GENERALE",
+          "docente": "VIOLETTA BORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "NEURORADIOLOGIA",
+          "docente": "MAJA UKMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 14:00",
+          "corso": "COINVOLGIMENTO DELLA FAMIGLIA NEI PERCORSI DI CURA",
+          "docente": "FRANCESCA BERTOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "PRINCIPI E FONDAMENTI DELLA RIABILITAZIONE PSICHIATRICA",
+          "docente": "RAFFAELLA STRAIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:30 - 16:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "COINVOLGIMENTO DELLA FAMIGLIA NEI PERCORSI DI CURA",
+          "docente": "FRANCESCA BERTOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO PROFESSIONALE 1 ANNO",
+          "docente": "RAFFAELLA STRAIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 13:00",
+          "corso": "PSICOLOGIA CLINICA",
+          "docente": "Barbara PENOLAZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "NEURORADIOLOGIA",
+          "docente": "MAJA UKMAR",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO PROFESSIONALE 1 ANNO",
+          "docente": "RAFFAELLA STRAIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "FONDAMENTI EDUCATIVI IN RIABILITAZIONE",
+          "docente": "RITA MANZARA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:30 - 16:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "PSICOLOGIA SOCIALE",
+          "docente": "MARIA RITA VECCHIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 16:00",
+          "corso": "PRINCIPI E FONDAMENTI DELLA RIABILITAZIONE PSICHIATRICA",
+          "docente": "RAFFAELLA STRAIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO PROFESSIONALE 1 ANNO",
+          "docente": "RAFFAELLA STRAIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "ANATOMIA UMANA E NEUROANATOMIA",
+          "docente": "VITTORIO GRILL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 12:00",
+          "corso": "PRINCIPI E FONDAMENTI DELLA RIABILITAZIONE PSICHIATRICA",
+          "docente": "RAFFAELLA STRAIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 14:00",
+          "corso": "COINVOLGIMENTO DELLA FAMIGLIA NEI PERCORSI DI CURA",
+          "docente": "FRANCESCA BERTOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "PATOLOGIA GENERALE",
+          "docente": "VIOLETTA BORELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula 2.4",
+      "Codice aula": "018_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' ADULTA",
+          "docente": "ROBERTO BARUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "ECONOMIA E FISCALITA' NELLA LIBERA PROFESSIONE",
+          "docente": "CRISTINA RIZZOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' ADULTA",
+          "docente": "PIERLUIGI BONINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "LA LOGOPEDIA DEI DISTURBI DELLO SPETTRO AUTISTICO",
+          "docente": "GIUSI ZANDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 15:00",
+          "corso": "LA LOGOPEDIA DEI DISTURBI DELLO SPETTRO AUTISTICO",
+          "docente": "GIUSI ZANDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 18:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' ADULTA",
+          "docente": "ROBERTO BARUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 18:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' PEDIATRICA",
+          "docente": "MARCO PODDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' ADULTA",
+          "docente": "ROBERTO BARUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "ECONOMIA E FISCALITA' NELLA LIBERA PROFESSIONE",
+          "docente": "CRISTINA RIZZOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 19:00",
+          "corso": "LOGOPEDIA DEI DISTURBI DEL LINGUAGGIO 1",
+          "docente": "ALDO IZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "LA LOGOPEDIA DEI DISTURBI DELLO SPETTRO AUTISTICO",
+          "docente": "GIUSI ZANDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "ECONOMIA E FISCALITA' NELLA LIBERA PROFESSIONE",
+          "docente": "CRISTINA RIZZOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "LA LOGOPEDIA DEI DISTURBI DELLO SPETTRO AUTISTICO",
+          "docente": "GIUSI ZANDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' ADULTA",
+          "docente": "ROBERTO BARUCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "MALATTIE NON NEOPLASTICHE DELLA VOCE IN ETA' PEDIATRICA",
+          "docente": "MARCO PODDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 19:00",
+          "corso": "LOGOPEDIA DEI DISTURBI DEL LINGUAGGIO 1",
+          "docente": "ALDO IZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "ECONOMIA E FISCALITA' NELLA LIBERA PROFESSIONE",
+          "docente": "CRISTINA RIZZOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 19:00",
+          "corso": "LOGOPEDIA DEI DISTURBI DEL LINGUAGGIO 1",
+          "docente": "ALDO IZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 17:00",
+          "corso": "LOGOPEDIA DELLA DISFAGIA",
+          "docente": "MICHELLE PASSERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "ECONOMIA E FISCALITA' NELLA LIBERA PROFESSIONE",
+          "docente": "CRISTINA RIZZOLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 19:00",
+          "corso": "LOGOPEDIA DEI DISTURBI DEL LINGUAGGIO 1",
+          "docente": "ALDO IZZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "LA LOGOPEDIA DEI DISTURBI DELLO SPETTRO AUTISTICO",
+          "docente": "GIUSI ZANDA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 17:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "MEDICINA INTERNA E GERIATRIA",
+          "docente": "ANDREA GRILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

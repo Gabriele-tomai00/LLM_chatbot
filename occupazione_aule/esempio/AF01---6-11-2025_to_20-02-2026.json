@@ -1,0 +1,4419 @@
+{
+  "Nome sede": "Edificio F",
+  "Codice sede": "AF01",
+  "Aule": [
+    {
+      "Nome aula": "Aula A",
+      "Codice aula": "024_5",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "Consiglio di Dipartimento",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA DEI CAMPI I",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 16:00",
+          "corso": "FISICA STATISTICA",
+          "docente": "ANDREA TROMBETTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "13:00 - 14:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "'Astronomia For Dummies' (Gruppo Astrofili Universitario di Trieste)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "MECCANICA QUANTISTICA",
+          "docente": "FABIO BENATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA DEI CAMPI I",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 16:00",
+          "corso": "FISICA STATISTICA",
+          "docente": "ANDREA TROMBETTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "13:00 - 14:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "MECCANICA QUANTISTICA",
+          "docente": "FABIO BENATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "Consiglio dei Corsi di Studio in FISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA DEI CAMPI I",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 16:00",
+          "corso": "FISICA STATISTICA",
+          "docente": "ANDREA TROMBETTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "13:00 - 14:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "'Astronomia For Dummies' (Gruppo Astrofili Universitario di Trieste)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "MECCANICA QUANTISTICA",
+          "docente": "FABIO BENATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA DEI CAMPI I",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 16:00",
+          "corso": "FISICA STATISTICA",
+          "docente": "ANDREA TROMBETTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "13:00 - 14:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "MECCANICA QUANTISTICA",
+          "docente": "FABIO BENATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "13:00 - 14:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "MECCANICA QUANTISTICA",
+          "docente": "FABIO BENATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA DEI CAMPI I",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 16:00",
+          "corso": "FISICA STATISTICA",
+          "docente": "ANDREA TROMBETTONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "13:00 - 14:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "MECCANICA QUANTISTICA",
+          "docente": "FABIO BENATTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "Laboratorio di elettromagnetismo - Lezione",
+          "docente": "GIACOMO MARGAGLIOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "CHIMICA",
+          "docente": "TIZIANO MONTINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI MATEMATICI DELLA FISICA",
+          "docente": "LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "ELETTROMAGNETISMO",
+          "docente": "ALBERTO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Laboratorio T20",
+      "Codice aula": "009_8",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "10:00 - 12:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "INTERAZIONE RADIAZIONE-MATERIA E LUCE DI SINCROTRONE",
+          "docente": "ERIK VESSELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "10:00 - 12:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "INTERAZIONE RADIAZIONE-MATERIA E LUCE DI SINCROTRONE",
+          "docente": "ERIK VESSELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "10:00 - 12:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "INTERAZIONE RADIAZIONE-MATERIA E LUCE DI SINCROTRONE",
+          "docente": "ERIK VESSELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "10:00 - 12:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "INTERAZIONE RADIAZIONE-MATERIA E LUCE DI SINCROTRONE",
+          "docente": "ERIK VESSELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "10:00 - 12:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "INTERAZIONE RADIAZIONE-MATERIA E LUCE DI SINCROTRONE",
+          "docente": "ERIK VESSELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "10:00 - 12:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "12:00 - 14:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "INTERAZIONE RADIAZIONE-MATERIA E LUCE DI SINCROTRONE",
+          "docente": "ERIK VESSELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 12:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "Biofisica Sperimentale",
+          "docente": "LOREDANA CASALIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "12:00 - 14:00",
+          "corso": "FOTONICA",
+          "docente": "FEDERICO CILENTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula E/Laboratorio T17",
+      "Codice aula": "003_2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI DI FISICA MEDICA",
+          "docente": "LUIGI RIGON, RENATA LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI DI FISICA MEDICA",
+          "docente": "LUIGI RIGON, RENATA LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI DI FISICA MEDICA",
+          "docente": "LUIGI RIGON, RENATA LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 17:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI DI FISICA MEDICA",
+          "docente": "LUIGI RIGON, RENATA LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 17:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI DI FISICA MEDICA",
+          "docente": "LUIGI RIGON, RENATA LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI DI FISICA MEDICA",
+          "docente": "LUIGI RIGON, RENATA LONGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "RIVELATORI A SEMICONDUTTORE E APPARATI PER LA FISICA NUCLEARE E SUBNUCLEARE",
+          "docente": "GIACOMO CONTIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "17:00 - 19:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "ALGORITMI DI CALCOLO QUANTISTICO",
+          "docente": "MATTEO CARLESSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "PIANETI E ASTROBIOLOGIA",
+          "docente": "STAVRO IVANOVSKI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 14:00",
+          "corso": "PIATTAFORME QUANTISTICHE",
+          "docente": "Luis Aldemar Peña Ardila, MATTEO MARINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "15:00 - 17:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "13:00 - 14:00",
+          "corso": "STATISTICA AVANZATA PER LA FISICA",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 15:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula B",
+      "Codice aula": "039_2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI B",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:30 - 11:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 15:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "17:00 - 19:00",
+          "corso": "SIMMETRIE E INTERAZIONI FONDAMENTALI",
+          "docente": "Emidio GABRIELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI B",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:30 - 11:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 15:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "17:00 - 19:00",
+          "corso": "SIMMETRIE E INTERAZIONI FONDAMENTALI",
+          "docente": "Emidio GABRIELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI B",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:30 - 11:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 15:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "17:00 - 19:00",
+          "corso": "SIMMETRIE E INTERAZIONI FONDAMENTALI",
+          "docente": "Emidio GABRIELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI B",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:30 - 11:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 15:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "17:00 - 19:00",
+          "corso": "SIMMETRIE E INTERAZIONI FONDAMENTALI",
+          "docente": "Emidio GABRIELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:30 - 11:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 15:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "17:00 - 19:00",
+          "corso": "SIMMETRIE E INTERAZIONI FONDAMENTALI",
+          "docente": "Emidio GABRIELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 15:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI B",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:30 - 11:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 15:00",
+          "corso": "MECCANICA STATISTICA",
+          "docente": "ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "17:00 - 19:00",
+          "corso": "SIMMETRIE E INTERAZIONI FONDAMENTALI",
+          "docente": "Emidio GABRIELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "RELATIVITA' GENERALE",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 12:00",
+          "corso": "PROCESSI RADIATIVI",
+          "docente": "STEFANO BORGANI, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 14:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DEI GRUPPI",
+          "docente": "ROBERTO VALANDRO, LORENZO DI PIETRO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 18:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALL'ASTROFISICA",
+          "docente": "Pierluigi MONACO, NICOLA PIETRO GENTILE FUSILLO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 12:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Lezione",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "13:00 - 16:00",
+          "corso": "ATOMI, MOLECOLE E FOTONI",
+          "docente": "FRANCESCO SCAZZA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "16:00 - 17:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula C",
+      "Codice aula": "038_2",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "ASTROFISICA STELLARE",
+          "docente": "GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI A",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "17:00 - 19:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "ELETTRONICA AVANZATA PER LA FISICA SPERIMENTALE",
+          "docente": "LAURA GONELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "ASTROFISICA STELLARE",
+          "docente": "GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI A",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "17:00 - 19:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "ELETTRONICA AVANZATA PER LA FISICA SPERIMENTALE",
+          "docente": "LAURA GONELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "ASTROFISICA STELLARE",
+          "docente": "GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI A",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "17:00 - 19:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "ELETTRONICA AVANZATA PER LA FISICA SPERIMENTALE",
+          "docente": "LAURA GONELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "ASTROFISICA STELLARE",
+          "docente": "GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI A",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "17:00 - 19:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 10:30",
+          "corso": "Il rinvio pregiudiziale come strumento di dialogo tra organi giurisdizionali: profili istituzionali e aspetti pratici- Prof. F. SPITALERI ",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "ELETTRONICA AVANZATA PER LA FISICA SPERIMENTALE",
+          "docente": "LAURA GONELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "17:00 - 19:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "ELETTRONICA AVANZATA PER LA FISICA SPERIMENTALE",
+          "docente": "LAURA GONELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA DEI SISTEMI DISORDINATI",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "ASTROFISICA STELLARE",
+          "docente": "GABRIELE CESCUTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "STRUMENTI INFORMATICI A",
+          "docente": "DANIELE COSLOVICH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "ASTROFISICA DELLE GALASSIE",
+          "docente": "MARISA GIRARDI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DEI CAMPI III",
+          "docente": "ROBERTO VALANDRO, ENRICO MORGANTE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "17:00 - 19:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTAZIONE QUANTISTICA",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 16:00",
+          "corso": "FISICA SPERIMENTALE DELLE PARTICELLE",
+          "docente": "MARINA COBAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "ELETTRONICA AVANZATA PER LA FISICA SPERIMENTALE",
+          "docente": "LAURA GONELLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 17:00",
+          "corso": "LABORATORIO DI ASTROFISICA SPAZIALE",
+          "docente": "FEDERICO DOGO, ANNA GREGORIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "13:00 - 14:00",
+          "corso": "MECCANICA QUANTISTICA E RELATIVITA' SPECIALE",
+          "docente": "ANGELO BASSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "15:00 - 17:00",
+          "corso": "STATI ELETTRONICI NON CONVENZIONALI IN BASSA DIMENSIONALITA'",
+          "docente": "FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula D",
+      "Codice aula": "043_3",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "18:00 - 19:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "18:00 - 19:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "18:00 - 19:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "18:00 - 19:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "18:00 - 19:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "RELATIVITA' GENERALE AVANZATA E FISICA GRAVITAZIONALE",
+          "docente": "Stefano Ansoldi",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "FISICA MODERNA",
+          "docente": "MARCO MALVESTUTO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 18:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "18:00 - 19:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "ONDE GRAVITAZIONALI",
+          "docente": "EDOARDO MILOTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "FISICA DELLA MATERIA CONDENSATA I",
+          "docente": "MARIA PERESSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 15:00",
+          "corso": "FONDAMENTI FISICI DI TECNOLOGIA MODERNA",
+          "docente": "AGATA TROVATO, FEDERICO DOGO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "15:00 - 17:00",
+          "corso": "TEORIA DELLE STRINGHE",
+          "docente": "PIERO NICOLINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Laboratorio T19",
+      "Codice aula": "005_PT",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIA DELLE GRANDI DEVIAZIONI E GRUPPO DI RINORMALIZZAZIONE",
+          "docente": "ANDREA TROMBETTONI, ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "15:00 - 18:00",
+          "corso": "Seconda edizione locale della scuola INFN AggiornaMenti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIA DELLE GRANDI DEVIAZIONI E GRUPPO DI RINORMALIZZAZIONE",
+          "docente": "ANDREA TROMBETTONI, ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIA DELLE GRANDI DEVIAZIONI E GRUPPO DI RINORMALIZZAZIONE",
+          "docente": "ANDREA TROMBETTONI, ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "15:00 - 18:00",
+          "corso": "Seconda edizione locale della scuola INFN AggiornaMenti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIA DELLE GRANDI DEVIAZIONI E GRUPPO DI RINORMALIZZAZIONE",
+          "docente": "ANDREA TROMBETTONI, ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "METODI NUMERICI PER I SISTEMI QUANTISTICI A MOLTI CORPI",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIA DELLE GRANDI DEVIAZIONI E GRUPPO DI RINORMALIZZAZIONE",
+          "docente": "ANDREA TROMBETTONI, ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "15:00 - 18:00",
+          "corso": "Seconda edizione locale della scuola INFN AggiornaMenti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "TEORIA DELLE GRANDI DEVIAZIONI E GRUPPO DI RINORMALIZZAZIONE",
+          "docente": "ANDREA TROMBETTONI, ALBERTO IMPARATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "FORMAZIONE ED ANALISI DI IMMAGINI IN FISICA",
+          "docente": "PIERRE THIBAULT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "15:00 - 18:00",
+          "corso": "Seconda edizione locale della scuola INFN AggiornaMenti",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Laboratorio Fisica nucleare e sub nucleare",
+      "Codice aula": "038_02",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA NUCLEARE E SUBNUCLEARE - Laboratorio",
+          "docente": "Paolo CAMERINI",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Lab. informatico Poropat",
+      "Codice aula": "002_02",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 15:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Laboratorio",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 15:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Laboratorio",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 15:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Laboratorio",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 15:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Laboratorio",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-08",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 15:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Laboratorio",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 15:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "METODI DI TRATTAMENTO DELLE IMMAGINI",
+          "docente": "MAURO MESSEROTTI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "LABORATORIO DI FISICA COMPUTAZIONALE - Laboratorio",
+          "docente": "MARIA PERESSI, FEDERICO BECCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 13:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Laboratorio T21",
+      "Codice aula": "PT_LA",
+      "Eventi": [
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 15:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 15:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 15:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 15:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 15:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 15:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:00",
+          "corso": "PROGRAMMAZIONE AVANZATA E TECNICHE DI SIMULAZIONE PER LA FISICA",
+          "docente": "VALENTINA ZACCOLO, AGATA TROVATO, GRAZIA LUPARELLO, GIACOMO PRINCIPE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "LABORATORIO DI PROGRAMMAZIONE AVANZATA PER L'ASTROFISICA",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Sala Riunioni",
+      "Codice aula": "021_4",
+      "Eventi": [
+        {
+          "data": "2025-11-11",
+          "orario": "09:30 - 11:30",
+          "corso": "Meeting gruppo di X-ray imaging (Brombal)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "12:00 - 13:00",
+          "corso": "Riunione del Gruppo Alice",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:30 - 16:00",
+          "corso": "Riunione del Gruppo GW",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 13:30",
+          "corso": "Corso formazione INFN",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "12:00 - 13:00",
+          "corso": "Riunione del Gruppo Alice",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:30 - 16:00",
+          "corso": "Riunione del Gruppo GW",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "INTRODUZIONE ALLA FISICA DELLE PARTICELLE",
+          "docente": "VIERI CANDELISE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "12:00 - 13:00",
+          "corso": "Riunione del Gruppo Alice",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:30 - 11:30",
+          "corso": "Meeting gruppo di X-ray imaging (Brombal)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:30 - 16:00",
+          "corso": "Riunione del Gruppo GW",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "12:00 - 13:00",
+          "corso": "Riunione del Gruppo Alice",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "09:30 - 11:30",
+          "corso": "Meeting gruppo di X-ray imaging (Brombal)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-10",
+          "orario": "09:30 - 11:30",
+          "corso": "Meeting gruppo di X-ray imaging (Brombal)",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}

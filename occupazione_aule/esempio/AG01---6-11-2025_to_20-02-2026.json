@@ -1,0 +1,2139 @@
+{
+  "Nome sede": "Edificio G",
+  "Codice sede": "AG01",
+  "Aule": [
+    {
+      "Nome aula": "Aula V",
+      "Codice aula": "010_3",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "WEB APPLICATION PROGRAMMING",
+          "docente": "ANDREA DE LORENZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO DEI MERCATI FINANZIARI",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "CONCETTI FONDAMENTALI DELL'IA - DIGITALIZZAZIONE DEL LAVORO E SISTEMI DI IA - DIRITTO PRIVATO E IA",
+          "docente": "MARIA DOLORES FERRARA, ANGELO VENCHIARUTTI, NICOLA MUFFATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "08:00 - 11:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "14:00 - 15:00",
+          "corso": "tutorato  Filosofia del diritto",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+          "docente": "MARIA DOLORES FERRARA, ROBERTA NUNIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "WEB APPLICATION PROGRAMMING",
+          "docente": "ANDREA DE LORENZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO DEI MERCATI FINANZIARI",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "CONCETTI FONDAMENTALI DELL'IA - DIGITALIZZAZIONE DEL LAVORO E SISTEMI DI IA - DIRITTO PRIVATO E IA",
+          "docente": "MARIA DOLORES FERRARA, ANGELO VENCHIARUTTI, NICOLA MUFFATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "08:00 - 11:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "14:00 - 15:00",
+          "corso": "tutorato  Filosofia del diritto",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+          "docente": "MARIA DOLORES FERRARA, ROBERTA NUNIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "WEB APPLICATION PROGRAMMING",
+          "docente": "ANDREA DE LORENZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO DEI MERCATI FINANZIARI",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "CONCETTI FONDAMENTALI DELL'IA - DIGITALIZZAZIONE DEL LAVORO E SISTEMI DI IA - DIRITTO PRIVATO E IA",
+          "docente": "MARIA DOLORES FERRARA, ANGELO VENCHIARUTTI, NICOLA MUFFATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "08:00 - 11:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "14:00 - 15:00",
+          "corso": "tutorato  Filosofia del diritto",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+          "docente": "MARIA DOLORES FERRARA, ROBERTA NUNIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "WEB APPLICATION PROGRAMMING",
+          "docente": "ANDREA DE LORENZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO DEI MERCATI FINANZIARI",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "CONCETTI FONDAMENTALI DELL'IA - DIGITALIZZAZIONE DEL LAVORO E SISTEMI DI IA - DIRITTO PRIVATO E IA",
+          "docente": "MARIA DOLORES FERRARA, ANGELO VENCHIARUTTI, NICOLA MUFFATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "08:00 - 11:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "14:00 - 15:00",
+          "corso": "tutorato  Filosofia del diritto",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+          "docente": "MARIA DOLORES FERRARA, ROBERTA NUNIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "CONCETTI FONDAMENTALI DELL'IA - DIGITALIZZAZIONE DEL LAVORO E SISTEMI DI IA - DIRITTO PRIVATO E IA",
+          "docente": "MARIA DOLORES FERRARA, ANGELO VENCHIARUTTI, NICOLA MUFFATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "08:00 - 11:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "14:00 - 15:00",
+          "corso": "tutorato  Filosofia del diritto",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+          "docente": "MARIA DOLORES FERRARA, ROBERTA NUNIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "WEB APPLICATION PROGRAMMING",
+          "docente": "ANDREA DE LORENZO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO DEI MERCATI FINANZIARI",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO ROMANO PROGREDITO",
+          "docente": "GIORGIA MARAGNO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 12:00",
+          "corso": "DIRITTO E RELIGIONE",
+          "docente": "PIETRO FARAGUNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "CONCETTI FONDAMENTALI DELL'IA - DIGITALIZZAZIONE DEL LAVORO E SISTEMI DI IA - DIRITTO PRIVATO E IA",
+          "docente": "MARIA DOLORES FERRARA, ANGELO VENCHIARUTTI, NICOLA MUFFATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "16:00 - 19:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "08:00 - 11:00",
+          "corso": "DIRITTO DELL'AMBIENTE",
+          "docente": "Giulia MILO, EDOARDO NICOLA FRAGALE",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "DIRITTO TRIBUTARIO",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "14:00 - 15:00",
+          "corso": "tutorato  Filosofia del diritto",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 18:00",
+          "corso": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+          "docente": "MARIA DOLORES FERRARA, ROBERTA NUNIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "FILOSOFIA DELLA MENTE",
+          "docente": "RICCARDO MARTINELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "METODI FISICI IN CHIMICA ORGANICA",
+          "docente": "Giacomo Filippini",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 15:00",
+          "corso": "TEORIA E TECNICA DELLA NORMAZIONE E DELL'INTERPRETAZIONE",
+          "docente": "NICOLA MUFFATO, MAURO GIUSEPPE BARBERIS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 19:00",
+          "corso": "BIOMATERIALI E INGEGNERIA TISSUTALE",
+          "docente": "GIANLUCA TURCO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 12:00",
+          "corso": "OPTIMIZATION FOR ARTIFICIAL INTELLIGENCE",
+          "docente": "Luca Manzoni",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-14",
+          "orario": "11:00 - 19:00",
+          "corso": "DIRITTO TRIBUTARIO - DIRITTO TRIBUTARIO D'IMPRESA - DIRITTO TRIBUTARIO EUROPEO E INTERNAZIONALE",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-28",
+          "orario": "11:00 - 19:00",
+          "corso": "DIRITTO TRIBUTARIO - DIRITTO TRIBUTARIO D'IMPRESA - DIRITTO TRIBUTARIO EUROPEO E INTERNAZIONALE",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-11",
+          "orario": "11:00 - 19:00",
+          "corso": "DIRITTO TRIBUTARIO - DIRITTO TRIBUTARIO D'IMPRESA - DIRITTO TRIBUTARIO EUROPEO E INTERNAZIONALE",
+          "docente": "DARIO STEVANATO",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula Z",
+      "Codice aula": "009_4",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025",
+          "annullato": "si"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "13:00 - 15:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "15:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA AVANZATA",
+          "docente": "ALESSANDRO TOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 16:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "16:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "13:00 - 15:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "15:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA AVANZATA",
+          "docente": "ALESSANDRO TOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 16:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "16:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "13:00 - 15:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "15:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA AVANZATA",
+          "docente": "ALESSANDRO TOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 16:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "16:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "13:00 - 15:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "15:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA AVANZATA",
+          "docente": "ALESSANDRO TOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 16:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "16:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA AVANZATA",
+          "docente": "ALESSANDRO TOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 16:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "16:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "09:00 - 11:00",
+          "corso": "MICROBIOLOGIA",
+          "docente": "CRISTINA LAGATOLLA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FISICA",
+          "docente": "GIOVANNA FRONZONI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "13:00 - 15:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "15:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "11:00 - 13:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "14:00 - 16:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "09:00 - 11:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "11:00 - 13:00",
+          "corso": "BIOCHIMICA AVANZATA",
+          "docente": "ALESSANDRO TOSSI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 16:00",
+          "corso": "DIRITTO AMBIENTALE E DIRITTO DELL'IMPRESA",
+          "docente": "MASSIMO BIANCA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "16:00 - 17:00",
+          "corso": "BIOMONITORING FOR ENVIRONMENTAL CHANGE DETECTION",
+          "docente": "FABIO CANDOTTO CARNIEL, Mauro TRETIACH",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "09:00 - 11:00",
+          "corso": "PREFORMULAZIONE, FISICA-FARMACEUTICA E BIOFARMACEUTICA - Lezioni",
+          "docente": "Beatrice PERISSUTTI, Massimiliano Pio Di Cagno",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "11:00 - 13:00",
+          "corso": "CHIMICA FARMACEUTICA 1",
+          "docente": "TATIANA DA ROS",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "14:00 - 16:00",
+          "corso": "GEOGRAFIA DEI CAMBIAMENTI GLOBALI E CITTA' SOSTENIBILI",
+          "docente": "GIUSEPPE BORRUSO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 18:00",
+          "corso": "ISTITUZIONI DI FISICA PER IL SISTEMA TERRA",
+          "docente": "Fabio ROMANELLI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "08:00 - 11:00",
+          "corso": "ELEMENTI DI PSICOTERAPIA",
+          "docente": "ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "RESISTENZA E PROPULSIONE",
+          "docente": "MITJA MORGUT",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-07",
+          "orario": "15:30 - 17:30",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-01-13",
+          "orario": "16:00 - 19:00",
+          "corso": "LINGUA FRANCESE I - prof.ssa Tognan",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-02",
+          "orario": "09:00 - 12:30",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2026-02-09",
+          "orario": "09:00 - 13:30",
+          "corso": "LINGUA FRANCESE I",
+          "docente": "",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    },
+    {
+      "Nome aula": "Aula F",
+      "Codice aula": "004_3",
+      "Eventi": [
+        {
+          "data": "2025-11-06",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-06",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-07",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "14:00 - 16:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-10",
+          "orario": "16:00 - 18:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "09:00 - 11:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "12:00 - 14:00",
+          "corso": "ONCOLOGIA MOLECOLARE",
+          "docente": "GIANNINO DEL SAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-11",
+          "orario": "15:00 - 18:00",
+          "corso": "APPRENDIMENTO MATEMATICO: VALUTAZIONE E INTERVENTO",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "10:00 - 12:00",
+          "corso": "NEUROPSICOLOGIA PROGREDITO",
+          "docente": "PAOLO BERNARDIS, ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "13:00 - 15:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-12",
+          "orario": "15:00 - 17:00",
+          "corso": "PATOLOGIA MOLECOLARE",
+          "docente": "PAOLO MACOR, MAURIZIO ROMANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-13",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-14",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "14:00 - 16:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-17",
+          "orario": "16:00 - 18:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "09:00 - 11:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "12:00 - 14:00",
+          "corso": "ONCOLOGIA MOLECOLARE",
+          "docente": "GIANNINO DEL SAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-18",
+          "orario": "15:00 - 18:00",
+          "corso": "APPRENDIMENTO MATEMATICO: VALUTAZIONE E INTERVENTO",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "10:00 - 12:00",
+          "corso": "NEUROPSICOLOGIA PROGREDITO",
+          "docente": "PAOLO BERNARDIS, ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "13:00 - 15:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-19",
+          "orario": "15:00 - 17:00",
+          "corso": "PATOLOGIA MOLECOLARE",
+          "docente": "PAOLO MACOR, MAURIZIO ROMANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-20",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-21",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "14:00 - 16:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-24",
+          "orario": "16:00 - 18:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "09:00 - 11:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "12:00 - 14:00",
+          "corso": "ONCOLOGIA MOLECOLARE",
+          "docente": "GIANNINO DEL SAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-25",
+          "orario": "15:00 - 18:00",
+          "corso": "APPRENDIMENTO MATEMATICO: VALUTAZIONE E INTERVENTO",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "10:00 - 12:00",
+          "corso": "NEUROPSICOLOGIA PROGREDITO",
+          "docente": "PAOLO BERNARDIS, ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "13:00 - 15:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-26",
+          "orario": "15:00 - 17:00",
+          "corso": "PATOLOGIA MOLECOLARE",
+          "docente": "PAOLO MACOR, MAURIZIO ROMANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-27",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-11-28",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "14:00 - 16:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-01",
+          "orario": "16:00 - 18:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "09:00 - 11:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "12:00 - 14:00",
+          "corso": "ONCOLOGIA MOLECOLARE",
+          "docente": "GIANNINO DEL SAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-02",
+          "orario": "15:00 - 18:00",
+          "corso": "APPRENDIMENTO MATEMATICO: VALUTAZIONE E INTERVENTO",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "10:00 - 12:00",
+          "corso": "NEUROPSICOLOGIA PROGREDITO",
+          "docente": "PAOLO BERNARDIS, ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "13:00 - 15:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-03",
+          "orario": "15:00 - 17:00",
+          "corso": "PATOLOGIA MOLECOLARE",
+          "docente": "PAOLO MACOR, MAURIZIO ROMANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-04",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-05",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "09:00 - 11:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "12:00 - 14:00",
+          "corso": "ONCOLOGIA MOLECOLARE",
+          "docente": "GIANNINO DEL SAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-09",
+          "orario": "15:00 - 18:00",
+          "corso": "APPRENDIMENTO MATEMATICO: VALUTAZIONE E INTERVENTO",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "10:00 - 12:00",
+          "corso": "NEUROPSICOLOGIA PROGREDITO",
+          "docente": "PAOLO BERNARDIS, ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "13:00 - 15:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-10",
+          "orario": "15:00 - 17:00",
+          "corso": "PATOLOGIA MOLECOLARE",
+          "docente": "PAOLO MACOR, MAURIZIO ROMANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-11",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-12",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "14:00 - 16:00",
+          "corso": "TERAPIA GENICA E MEDICINA RIGENERATIVA",
+          "docente": "SERENA ZACCHIGNA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-15",
+          "orario": "16:00 - 18:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "09:00 - 11:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "12:00 - 14:00",
+          "corso": "ONCOLOGIA MOLECOLARE",
+          "docente": "GIANNINO DEL SAL",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-16",
+          "orario": "15:00 - 18:00",
+          "corso": "APPRENDIMENTO MATEMATICO: VALUTAZIONE E INTERVENTO",
+          "docente": "MARIA CHIARA PASSOLUNGHI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "10:00 - 12:00",
+          "corso": "NEUROPSICOLOGIA PROGREDITO",
+          "docente": "PAOLO BERNARDIS, ADA GHIGGIA",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "13:00 - 15:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-17",
+          "orario": "15:00 - 17:00",
+          "corso": "PATOLOGIA MOLECOLARE",
+          "docente": "PAOLO MACOR, MAURIZIO ROMANO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "10:00 - 13:00",
+          "corso": "SVILUPPO DEL FARMACO E FARMACOGENOMICA",
+          "docente": "ALBERTA BERGAMO, MARIANNA LUCAFÒ",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "13:00 - 16:00",
+          "corso": "BIOSTATISTICA E DIAGNOSTICA",
+          "docente": "ILARIA GANDIN, MAURIZIO RUSCIO",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-18",
+          "orario": "16:00 - 17:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "09:00 - 11:00",
+          "corso": "ZOOLOGIA SISTEMATICA",
+          "docente": "ANTONIO TERLIZZI",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "11:00 - 13:00",
+          "corso": "COMPUTABILITÀ, COMPLESSITÀ E LOGICA",
+          "docente": "ADRIANO PERON",
+          "Ultimo aggiornamento": "05-10-2025"
+        },
+        {
+          "data": "2025-12-19",
+          "orario": "14:00 - 16:00",
+          "corso": "SISTEMI MODELLO PER LA RICERCA BIOMEDICA",
+          "docente": "LICIO COLLAVIN",
+          "Ultimo aggiornamento": "05-10-2025"
+        }
+      ]
+    }
+  ]
+}
