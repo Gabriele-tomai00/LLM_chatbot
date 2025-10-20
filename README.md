@@ -29,5 +29,9 @@ Parametri possibili:
 
 ```bash
     cd linkcrawler/linkcrawler/spiders
+    scrapy crawl scraper
+```  
+```bash
+    cd linkcrawler/linkcrawler/spiders
     python3 link_spider.py
 ```
