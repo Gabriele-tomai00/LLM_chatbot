@@ -29,7 +29,7 @@ Parametri possibili:
 
 ```bash
     cd linkcrawler/linkcrawler/spiders
-    scrapy crawl scraper
+    scrapy crawl scraper -O items.csv
 ```  
 ```bash
     cd linkcrawler/linkcrawler/spiders

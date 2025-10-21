@@ -1,41 +1,60 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from urllib.parse import urlparse
-from w3lib.url import canonicalize_url
+import time
+from datetime import datetime
+from units_scraper.utils import *
+from pydispatch import dispatcher
+from scrapy import signals
+
+# def clean_urls(file_path="units_links.txt"):
+#     with open(file_path, "r") as f:
+#         urls = {line.strip() for line in f if line.strip()}
 
 
-def normalize_url(url):
-    parsed = urlparse(url)
-    normalized = parsed._replace(fragment='')  # rimuove la parte dopo #
-    return canonicalize_url(normalized.geturl())
-
-
+    
 class ScraperSpider(CrawlSpider):
     name = "scraper"
     allowed_domains = ["portale.units.it"]
     start_urls = ["https://portale.units.it/it"]
+    EXCLUDE_DOMAINS = [
+        "arts.units.it", "openstarts.units.it", "moodle.units.it",
+        "moodle2.units.it", "wmail1.units.it", "cargo.units.it",
+        "cspn.units.it", "www-amm.units.it", "inside.units.it",
+        "flux.units.it", "centracon.units.it", "smats.units.it",
+        "docenti.units.it", "orari.units.it"
+    ]
+
+    EXCLUDE_URLS = [
+        r".*feedback.*", r".*search.*", r"#", r".*eventi-passati.*",
+        r".*openstarts.*", r".*moodle.units.*", r".*moodle2.*",
+        r".*wmail1.*", r".*cargo.*", r".*wmail3.*", r".*wmail4.*"
+    ]
 
     rules = (
-        Rule(LinkExtractor(allow=()), callback="parse_item", follow=True),
+        Rule(
+            LinkExtractor(
+                allow=(),           # o regex specifiche se vuoi limitare gli URL
+                deny=EXCLUDE_URLS,
+                deny_domains=EXCLUDE_DOMAINS
+            ),
+            callback="parse_item",
+            follow=True
+        ),
     )
+
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.visited_urls = set()
+        dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
-        normalized_url = normalize_url(response.url)
+        yield {
+            "Url": response.url,
+            "Status": response.status,
+        }
 
-        if normalized_url not in self.visited_urls:
-            self.visited_urls.add(normalized_url)
-            yield {
-                "Url": normalized_url
-            }
 
-    def closed(self, reason):
-        """Scrapy chiama questo metodo quando termina lo spider."""
-        with open("links.txt", "w", encoding="utf-8") as f:
-            for url in sorted(self.visited_urls):
-                f.write(url + "\n")
+    def spider_closed(self):
+        print_scraping_summary(self.crawler.stats.get_stats())
 
-        self.logger.info(f"✅ Salvati {len(self.visited_urls)} link in links.txt")
