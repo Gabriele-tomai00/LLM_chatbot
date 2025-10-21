@@ -17,26 +17,18 @@ class ScraperSpider(CrawlSpider):
     name = "scraper"
     allowed_domains = ["portale.units.it"]
     start_urls = ["https://portale.units.it/it"]
-    EXCLUDE_DOMAINS = [
-        "arts.units.it", "openstarts.units.it", "moodle.units.it",
-        "moodle2.units.it", "wmail1.units.it", "cargo.units.it",
-        "cspn.units.it", "www-amm.units.it", "inside.units.it",
-        "flux.units.it", "centracon.units.it", "smats.units.it",
-        "docenti.units.it", "orari.units.it"
-    ]
 
-    EXCLUDE_URLS = [
-        r".*feedback.*", r".*search.*", r"#", r".*eventi-passati.*",
-        r".*openstarts.*", r".*moodle.units.*", r".*moodle2.*",
-        r".*wmail1.*", r".*cargo.*", r".*wmail3.*", r".*wmail4.*"
+    # WHITELIST DI URL/REGEX PERMESSI (puoi aggiungere pattern)
+    ALLOW_URLS = [
+        r"^https://portale\.units\.it/it$",
+        # es: r".*didattica.*", r".*studenti.*"
     ]
 
     rules = (
         Rule(
             LinkExtractor(
-                allow=(),           # o regex specifiche se vuoi limitare gli URL
-                deny=EXCLUDE_URLS,
-                deny_domains=EXCLUDE_DOMAINS
+                #allow=ALLOW_URLS,          # <-- solo questi URL vengono seguiti
+                allow_domains=allowed_domains
             ),
             callback="parse_item",
             follow=True
@@ -44,15 +36,18 @@ class ScraperSpider(CrawlSpider):
     )
 
 
+
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
-        yield {
-            "Url": response.url,
-            "Status": response.status,
-        }
+        item = {}
+        item['body'] = response.text
+        item['url'] = response.url
+        print(f"Scraped: {item['url']}, status: {response.status}")
+        yield item
 
 
     def spider_closed(self):
