@@ -22,9 +22,10 @@ USER_AGENT = "units_scraper (network lab)"
 ROBOTSTXT_OBEY = True
 
 # Concurrency and throttling settings
-CONCURRENT_REQUESTS = 100
-CONCURRENT_REQUESTS_PER_DOMAIN = 100
-DOWNLOAD_DELAY = 1
+CONCURRENT_REQUESTS = 250
+CONCURRENT_REQUESTS_PER_DOMAIN = 250
+# Configure a delay (in seconds) for requests for the same website
+DOWNLOAD_DELAY = 0
 
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
@@ -71,7 +72,7 @@ AUTOTHROTTLE_START_DELAY = 0
 AUTOTHROTTLE_MAX_DELAY = 20
 # The average number of requests Scrapy should be sending in parallel to
 # each remote server
-AUTOTHROTTLE_TARGET_CONCURRENCY = 60
+AUTOTHROTTLE_TARGET_CONCURRENCY = 200
 # Enable showing throttling stats for every response received:
 #AUTOTHROTTLE_DEBUG = False
 
@@ -87,4 +88,4 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 60
 FEED_EXPORT_ENCODING = "utf-8"
 
 LOG_ENABLED = True
-LOG_LEVEL = "WARNING"
+#LOG_LEVEL = "WARNING"
