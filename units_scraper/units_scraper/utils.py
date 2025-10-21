@@ -36,13 +36,12 @@ def print_scraping_summary(stats: dict, log_file: str = "scraping_summary.log"):
     item_scraped_count = stats.get("item_scraped_count", 0)
 
     summary_lines = [
-        f"\n\n====== CRAWLING SESSION {start_time.strftime('%Y-%m-%d %H:%M:%S')} ======\n",
+        f"\n====== SCRAPING SESSION {start_time.strftime('%Y-%m-%d %H:%M:%S')} ======",
         f"🕒 elapsed time: {format_time(elapsed)}",
         f"Start time: {start_time.strftime('%Y-%m-%d %H:%M:%S')}",
-        f"End time: {end_time.strftime('%Y-%m-%d %H:%M:%S')}",
         f"📄 Total items scraped: {item_scraped_count}",
         f"📊 Max request depth: {request_depth_max}",
-        "\n===================================================\n\n"
+        "==================================================="
     ]
 
     # Stampa a video
