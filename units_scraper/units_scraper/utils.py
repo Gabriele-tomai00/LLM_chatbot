@@ -54,3 +54,13 @@ def print_scraping_summary(stats: dict, log_file: str = "scraping_summary.log"):
         for line in summary_lines:
             f.write(line + "\n")
 
+
+def remove_output_directory(dir_path = "output_bodies"):
+    from shutil import rmtree
+    from os import path
+
+    if path.exists(dir_path) and path.isdir(dir_path):
+        rmtree(dir_path)
+        print(f"Output directory '{dir_path}' removed.")
+    else:
+        print(f"Output directory '{dir_path}' does not exist.")

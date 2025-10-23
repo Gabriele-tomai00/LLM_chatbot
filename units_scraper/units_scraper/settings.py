@@ -60,7 +60,8 @@ DOWNLOAD_DELAY = 0
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   "units_scraper.pipelines.RemoveFooterAndExtractTextPipeline": 100,
+    "units_scraper.pipelines.cleanContentPipeline": 200,
+    "units_scraper.pipelines.saveBodyPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
