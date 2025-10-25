@@ -42,7 +42,7 @@ class ScraperSpider(CrawlSpider):
 
     def parse_item(self, response):
         print(f"Scraped: {response.url}, status: {response.status}")
-        parsed_content = parse_html_content(response)
+        parsed_content = parse_html_content_html2text(response)
         save_webpage_to_file(response.text, parsed_content, self.counter)
         self.counter += 1
         item = {

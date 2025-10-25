@@ -67,7 +67,7 @@ def remove_output_directory(dir_path = "output_bodies"):
         rmtree(dir_path)
         print(f"Output directory '{dir_path}' removed.")
 
-def parse_html_content_html2text(response) -> str:
+def parse_html_content_soup(response) -> str:
     soup = BeautifulSoup(response.text, "lxml")
     for tag in soup(["script", "style", "footer", "meta", "link", "img"]):
         tag.decompose()
