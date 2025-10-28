@@ -4,8 +4,10 @@ import json
 import os
 from bs4 import BeautifulSoup
 import html2text
-import w3lib
 import re
+import lxml.html as html
+from scrapy.http import HtmlResponse
+import unicodedata
 
 def format_time(seconds: float) -> str:
     hours = int(seconds // 3600)
@@ -30,7 +32,6 @@ def print_scraping_summary(stats: dict, log_file: str = "scraping_summary.log"):
     if start_time is None:
         start_time = datetime.now()
     
-    # finish_time preferibile da stats, altrimenti usa adesso
     end_time = stats.get("finish_time", datetime.now())
     request_depth_max = stats.get("request_depth_max", 0)
 
@@ -48,12 +49,8 @@ def print_scraping_summary(stats: dict, log_file: str = "scraping_summary.log"):
         f"📊 Max request depth: {request_depth_max}",
         "==================================================="
     ]
-
-    # Stampa a video
     for line in summary_lines:
         print(line)
-
-    # Salva su file (append)
     log_path = Path(log_file)
     with log_path.open("a", encoding="utf-8") as f:
         for line in summary_lines:
@@ -88,7 +85,7 @@ def parse_html_content_html2text(response) -> str:
     h.body_width = 0               # <--- no wrapping forzato, più leggibile
     text = h.handle(response.text)
     #print(f"Cleaned content: {text}")
-    return text
+    return normalize_markdown(text)
 
 def save_webpage_to_file(html_content, parsed_content, counter=1, output_dir="output_bodies"):
     os.makedirs(output_dir, exist_ok=True)
@@ -128,27 +125,44 @@ def get_metadata(response) -> dict:
         description = response.xpath('//meta[@name="description"]/@content').get()
         if not description:
             description = response.xpath('//meta[@property="og:description"]/@content').get()
-
+        date = get_article_date(response)
         return {
             "title": title,
             "description": description,
-            "date": get_article_date(response)
+            "date": date
         }
 
-import lxml.html as html
-from scrapy.http import HtmlResponse
+
+
+def normalize_markdown(text: str) -> str:
+    """Avoid problems in JSON line (in markdown) about special unicode characters."""
+    if not text:
+        return text
+
+    replacements = {
+        "’": "'",
+        "‘": "'",
+        "“": '"',
+        "”": '"',
+        "–": "-",
+        "—": "-",
+        "…": "...",
+        "\u00A0": " ",  # space not-breaking
+    }
+
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return unicodedata.normalize("NFKC", text)
+
 
 def filter_response(response):
-    # Parsing iniziale con lxml
-    tree = html.fromstring(response.text)
+    tree = html.fromstring(response.body)
     
-    # Rimuovi tag inutili
     tags_to_remove = ["footer", "script", "style", "meta", "link", "img"]
     for tag in tags_to_remove:
         for el in tree.xpath(f"//{tag}"):
             el.drop_tree()
 
-    # Classi e ID da rimuovere
     classes_to_remove = [
         "open-readspeaker-ui", "banner", "cookie-consent", 
         "nav-item dropdown", "clearfix navnavbar-nav",
@@ -169,21 +183,14 @@ def filter_response(response):
         for el in tree.xpath(f'//*[@id="{id_name}"]'):
             el.drop_tree()
 
-    # Converti a stringa HTML
     cleaned_html = html.tostring(tree, encoding="unicode")
-
-    # Pulizia finale con BeautifulSoup
     soup = BeautifulSoup(cleaned_html, "lxml")
-
-    # Rimuove tag <strong> ma mantiene il testo
     for strong_tag in soup.find_all("strong"):
         strong_tag.unwrap()
-    # Rimuove tag vuoti
     for tag in soup.find_all():
         if not tag.get_text(strip=True):
             tag.decompose()
 
-    # Restituisce la risposta pulita
     return HtmlResponse(
         url=response.url,
         body=str(soup),

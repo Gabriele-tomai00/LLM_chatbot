@@ -43,6 +43,7 @@ class ScraperSpider(CrawlSpider):
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
+        print(str(self.counter) + " " + response.url)
         metadata = get_metadata(response)
         cleaned_response = filter_response(response)
         content = parse_html_content_html2text(cleaned_response)
@@ -53,8 +54,8 @@ class ScraperSpider(CrawlSpider):
             "url": response.url,
             "description": metadata["description"],
             "timestamp": metadata["date"],
-            "body": content
-        }
+            "content": content
+         }
         yield item
 
 
