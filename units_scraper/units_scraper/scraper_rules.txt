@@ -18,6 +18,7 @@ pregresso.sba.units.it
 dryades.units.it
 stream.dia.units.it
 esse3.units.it
+esse3web.units.it
 biblio.units.it
 apply.units.it
 docu.units.it
@@ -27,6 +28,14 @@ dmi.units.it
 wireless.units.it
 byzantine.units.it
 voip.units.it
+eut.units.it
+webmail.sp.units.it
+cloudmail.units.it
+cloudmail.studenti.units.it
+mail.scfor.units.it
+wmail2.units.it
+suggerimenti.units.it
+sebina.units.it
 
 # Regex da bloccare
 [@deny_regex]
@@ -41,3 +50,5 @@ voip.units.it
 .*wmail3.*
 .*wmail4.*
 .*@.*
+.*facebook.*
+.*instagram.*
