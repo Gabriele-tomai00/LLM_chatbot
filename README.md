@@ -28,23 +28,10 @@ Parametri possibili:
 ## Scraping link da units:
 
 ```bash
-    cd linkcrawler/linkcrawler/spiders
+    cd units_scraper
     scrapy crawl scraper -s DEPTH_LIMIT=3 -O items.jsonl
 ```  
 ```bash
     cd linkcrawler/linkcrawler/spiders
     python3 link_spider.py
-```
-
-## Impostazioni dello spider
-Cose che sicuramente non vogliamo
-```python
-            deny_domains=["arts.units.it", "openstarts.units.it", "moodle.units.it", "moodle2.units.it", 
-                          "wmail1.units.it", "cargo.units.it", "cspn.units.it", "www-amm.units.it", 
-                          "inside.units.it", "flux.units.it", "centracon.units.it", "smats.units.it",
-                          "docenti.units.it", "orari.units.it"],
-            deny=[r".*feedback.*", r".*search.*", r"#", r".*eventi-passati.*", 
-                  r".*openstarts.*", r".*moodle.units.*", r".*moodle2.units.*", 
-                  r".*wmail1.*", r".*cargo.*", r".*wmail3.*", r".*wmail4.*",]
-        
 ```
