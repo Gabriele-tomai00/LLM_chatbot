@@ -77,7 +77,6 @@ async def main():
     if args.create_index:
         print("Creating a new index from items.jsonl...")
         create_index("rag_index", "../items.jsonl")
-        print("Index created successfully.")
         return
 
     # === Option 3: Direct search ===
