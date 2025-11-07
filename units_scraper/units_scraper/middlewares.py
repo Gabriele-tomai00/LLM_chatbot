@@ -156,7 +156,7 @@ class UARotatorMiddleware:
 
     @classmethod
     def from_crawler(cls, crawler):
-        rotate = crawler.settings.getbool("ROTARY_USER_AGENT", True)
+        rotate = crawler.settings.getbool("ROTARY_USER_AGENT", False)
         user_agents = crawler.settings.get('USER_AGENTS', [])
         return cls(user_agents, rotate)
 

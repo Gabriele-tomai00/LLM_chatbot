@@ -28,14 +28,14 @@ class ScraperSpider(CrawlSpider):
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
-        print_log(response, self.counter)
+        print_log(response, self.counter, self.crawler.settings)
 
         metadata = get_metadata(response)
         cleaned_response = filter_response(response)
         md_content = parse_html_content_html2text(cleaned_response)
         self.counter += 1
         if is_informative_markdown(md_content):
-            save_webpage_to_file(cleaned_response.text, md_content, response.url, self.counter, "scraper_md_output")
+            #save_webpage_to_file(cleaned_response.text, md_content, response.url, self.counter, "scraper_md_output")
             item = {
                 "title": metadata["title"],
                 "url": response.url,
@@ -48,6 +48,5 @@ class ScraperSpider(CrawlSpider):
 
 
     def spider_closed(self):
-        rotate_user_agent = self.settings.getbool("ROTARY_USER_AGENT", True)
-        print_scraping_summary(self.crawler.stats.get_stats(), rotate_user_agent, "scraping_summary.log")
+        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, "scraping_summary.log")
 

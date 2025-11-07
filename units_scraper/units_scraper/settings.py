@@ -55,7 +55,7 @@ DOWNLOAD_DELAY = 0
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-
+USE_PROXY = False
 try:
     load_dotenv()
     PROXY_URL = os.getenv("SCRAPY_PROXY_URL")
@@ -63,13 +63,10 @@ try:
     PROXY_PASS = os.getenv("SCRAPY_PROXY_PASS")
     PROXY_RATE = float(os.getenv("SCRAPY_PROXY_RATE", 0))  # di default 0 se mancante
 
-    USE_PROXY = all([PROXY_URL, PROXY_USER, PROXY_PASS]) and PROXY_RATE > 0
-
 except Exception as e:
     print(f"[WARN] Impossible loading .env: {e}")
     PROXY_URL = PROXY_USER = PROXY_PASS = None
     PROXY_RATE = 0
-    USE_PROXY = False
 
 # Imposta i middleware in base all’uso o meno del proxy
 if USE_PROXY:

@@ -89,7 +89,7 @@ def get_size_of_result_file(file_path: str) -> str:
         return size_str
     return "File not found"
 
-def print_scraping_summary(stats: dict, rotate_user_agent, summary_file_name: str = "scraping_summary.log"):
+def print_scraping_summary(stats: dict, settings, summary_file_name: str = "scraping_summary.log"):
     print(json.dumps(stats, indent=4, default=str))
 
     start_time = stats.get("start_time", datetime.now())
@@ -121,7 +121,7 @@ def print_scraping_summary(stats: dict, rotate_user_agent, summary_file_name: st
         f"Total items scraped: {item_scraped_count}",
         f"Responses per minute: {responses_per_minute}",
         f"Max request depth: {request_depth_max}",
-        f"Use of multiple user agents: {rotate_user_agent}",
+        f"Use of multiple user agents: {settings.getbool("ROTARY_USER_AGENT", False)}",
         f"{proxy_summary}",
         f"Output size: {get_size_of_result_file(file_name_of_results)}",
         "==============================================="
@@ -298,12 +298,18 @@ def is_informative_markdown(text: str) -> bool:
     # criteria: at least 20 words total and at least 2 meaningful lines
     return word_count > 20 and len(meaningful_lines) > 1
 
-def print_log(response, counter):
-    current_proxy = response.meta.get("proxy")
-    user_agent = response.request.headers.get("User-Agent", b"").decode("utf-8")
-    ua_preview = user_agent[:20] + ("..." if len(user_agent) > 50 else "")
-
-    if current_proxy:
-        print(f"{counter} {response.url}  → via PROXY {current_proxy}  |  UA: {ua_preview}")
-    else:
-        print(f"{counter} {response.url}  → direct (no proxy)  |  UA: {ua_preview}")
+def print_log(response, counter, settings):
+    log = str(counter) + " " + response.url
+    rotate = settings.getbool("ROTARY_USER_AGENT", False)
+    proxy = settings.getbool("USE_PROXY", False)
+    if proxy:
+        current_proxy = response.meta.get("proxy")
+        if current_proxy:
+            log = log + "   PROXY: " + current_proxy
+        else:
+            log = log + "   direct (no proxy) " 
+    if rotate:
+        user_agent = response.request.headers.get("User-Agent", b"").decode("utf-8")
+        ua_preview = user_agent[:20] + ("..." if len(user_agent) > 50 else "")
+        log = log + " | UA: " + ua_preview
+    print(log)

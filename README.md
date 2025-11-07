@@ -45,12 +45,22 @@ Il proxy rate va da 0.0 a 1.0 e serve per indicare la percentuale di richieste c
 
 ```bash
     cd units_scraper
-    scrapy crawl scraper -s DEPTH_LIMIT=1 -s USE_PROXY=True -O ../items.jsonl
+    scrapy crawl scraper -s DEPTH_LIMIT=1 -O ../items.jsonl
 ```
-Puoi aggiungere `-s ROTARY_USER_AGENT=True` se vuoi disattivare la rotazione dello user agent, usata per evitare alcuni tipi di blocchi.
+Opzioni:
+```
+-s ROTARY_USER_AGENT    attivare la rotazione dello user agent
+-s USE_PROXY            attivare la possibilità di usare il proxy per una % di request sul totale
+```
 
 # RAG:
 ```bash
     cd rag
     python3 rag.py
+```
+Opzioni:
+```
+--create-index    creare l'index da salvare su disco (lento)
+--delete-index    cancellare l'index
+-m                forumare il messaggio
 ```
