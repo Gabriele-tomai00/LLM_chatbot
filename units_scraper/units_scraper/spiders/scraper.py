@@ -28,19 +28,19 @@ class ScraperSpider(CrawlSpider):
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
-        print_log(response, self.counter, self.crawler.settings)
-
-        metadata = get_metadata(response)
-        self.counter += 1
-            #save_webpage_to_file(cleaned_response.text, md_content, response.url, self.counter, "scraper_md_output")
-        item = {
-            "title": metadata["title"],
-            "url": response.url,
-            "description": metadata["description"],
-            "timestamp": metadata["date"],
-            "content": response.text
-        }
-        yield item
+        try:
+            print_log(response, self.counter, self.crawler.settings)
+            metadata = get_metadata(response)
+            self.counter += 1
+            yield {
+                "title": metadata["title"],
+                "url": response.url,
+                "description": metadata["description"],
+                "timestamp": metadata["date"],
+                "content": response.text
+            }
+        except Exception as e:
+            self.logger.warning(f"Error parsing {response.url}: {e}")
 
 
 

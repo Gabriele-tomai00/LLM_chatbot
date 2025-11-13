@@ -121,7 +121,7 @@ def print_scraping_summary(stats: dict, settings, summary_file_name: str = "scra
         f"Total items scraped: {item_scraped_count}",
         f"Responses per minute: {responses_per_minute}",
         f"Max request depth: {request_depth_max}",
-        f"Use of multiple user agents: {settings.getbool("ROTARY_USER_AGENT", False)}",
+        f"Use of multiple user agents: {settings.getbool('ROTARY_USER_AGENT', False)}",
         f"{proxy_summary}",
         f"Output size: {get_size_of_result_file(file_name_of_results)}",
         "==============================================="
