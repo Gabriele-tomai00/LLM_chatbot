@@ -49,8 +49,7 @@ deny_domains = [
     "mail.scfor.units.it",
     "wmail2.units.it",
     "suggerimenti.units.it",
-    "sebina.units.it",
-    "iuslit.units.it"
+    "sebina.units.it"
 ]
 deny_regex = [
     r".*feedback.*",
