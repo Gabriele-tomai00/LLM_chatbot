@@ -31,15 +31,19 @@ else
 fi
 
 # --- Execute your workflow ---
+
+# --- Scraping part ---
 mkdir -p results
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT=1 -O ../results/items.jsonl
+scrapy crawl scraper -s DEPTH_LIMIT=5 -O ../results/items.jsonl
 
 cd ../links_study
 
 echo "Run domains_numbers.py"
 python3 domains_numbers.py
 
+
+# --- Cleaning part ---
 cd ..
 echo "Run pages_cleaner.py"
 python3 pages_cleaner.py --input results/items.jsonl --output results/filtered_items.jsonl --verbose

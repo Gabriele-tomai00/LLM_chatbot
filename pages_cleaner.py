@@ -7,6 +7,8 @@ import json
 import logging
 import argparse
 from tqdm import tqdm
+from concurrent.futures import ProcessPoolExecutor
+import multiprocessing
 
 def filter_response(html_content: str) -> str:
     """Cleans HTML by removing tags, classes, IDs, and empty elements. Returns cleaned HTML as string."""
@@ -98,6 +100,35 @@ def parse_html_content_html2text(html_content: str) -> str:
     return normalize_markdown(text)
 
 
+def process_line(line):
+    line = line.strip()
+    if not line:
+        return None, "skipped"
+
+    try:
+        item = json.loads(line)
+    except json.JSONDecodeError:
+        return None, "skipped"
+
+    html_content = item.get("content", "")
+    url = item.get("url", "")
+
+    if not html_content.strip():
+        return None, "skipped"
+
+    try:
+        cleaned_html = filter_response(html_content)
+        md_content = parse_html_content_html2text(cleaned_html)
+        if is_informative_markdown(md_content):
+            item["content"] = md_content
+            return item, "saved"
+        else:
+            return None, "skipped"
+    except Exception as e:
+        logging.warning(f"Error processing {url}: {e}")
+        return None, "skipped"
+
+
 def main(input_file: str, output_file: str, verbose: bool):
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(message)s",
@@ -110,42 +141,22 @@ def main(input_file: str, output_file: str, verbose: bool):
     saved_lines = 0
     skipped_lines = 0
 
+    num_workers = multiprocessing.cpu_count()
+
     with open(input_file, "r", encoding="utf-8") as fin, open(output_file, "w", encoding="utf-8") as fout:
-        for line in tqdm(fin, total=total_lines, desc="Processing lines"):
-            line = line.strip()
-            if not line:
-                skipped_lines += 1
-                continue
-            try:
-                item = json.loads(line)
-            except json.JSONDecodeError:
-                skipped_lines += 1
-                continue
-
-            html_content = item.get("content", "")
-            url = item.get("url", "")
-
-            if not html_content.strip():
-                skipped_lines += 1
-                continue
-
-            try:
-                cleaned_html = filter_response(html_content)
-                md_content = parse_html_content_html2text(cleaned_html)
-                if is_informative_markdown(md_content):
-                    item["content"] = md_content
+        with ProcessPoolExecutor(max_workers=num_workers) as executor:
+            # iterator invece di list
+            for result in tqdm(executor.map(process_line, fin), total=total_lines, desc="Processing lines"):
+                item, status = result
+                if status == "saved" and item is not None:
                     fout.write(json.dumps(item, ensure_ascii=False) + "\n")
                     saved_lines += 1
                     if verbose:
-                        tqdm.write(f"saved: {url}")
+                        tqdm.write(f"saved: {item.get('url','')}")
                 else:
                     skipped_lines += 1
-                    if verbose:
-                        tqdm.write(f"skipped: {url}")
-            except Exception as e:
-                skipped_lines += 1
-                logging.warning(f"Error processing {url}: {e}")
-                continue
+                    if verbose and item is not None:
+                        tqdm.write(f"skipped: {item.get('url','')}")
 
     print(f"\nTotal lines processed: {total_lines}")
     print(f"Lines saved: {saved_lines}")
