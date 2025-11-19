@@ -3,15 +3,15 @@ import datetime
 import json
 import os
 from bs4 import BeautifulSoup
-import html2text
 import re
 import lxml.html as html
 from scrapy.http import HtmlResponse
 import unicodedata
 import json
 from datetime import datetime
-from pathlib import Path
 from urllib.parse import urlparse
+from shutil import rmtree
+from os import path
 
 deny_domains = [
     "arts.units.it",
@@ -138,34 +138,10 @@ def print_scraping_summary(stats: dict, settings, summary_file_name):
 
 
 def remove_output_directory(dir_path):
-    from shutil import rmtree
-    from os import path
-
     if path.exists(dir_path) and path.isdir(dir_path):
         rmtree(dir_path)
         print(f"Output directory '{dir_path}' removed.")
 
-def parse_html_content_soup(response) -> str:
-    soup = BeautifulSoup(response.text, "lxml")
-    for tag in soup(["script", "style", "footer", "meta", "link", "img"]):
-        tag.decompose()
-    for tag in soup.find_all("nav", class_=["blu", "navbar-expand-lg"]):
-        tag.decompose()
-    text = soup.get_text(separator="\n", strip=True)
-    return text
-
-def parse_html_content_html2text(response) -> str:
-    # cleaned_html = w3lib.html.remove_tags_with_content(
-    #     response.text,
-    #     which_ones=('footer','script','style', 'meta', 'link', 'img')
-    # )
-    h = html2text.HTML2Text()
-    h.ignore_links = True          # <--- non stampa gli href
-    h.ignore_images = True         # <--- nel dubbio
-    h.body_width = 0               # <--- no wrapping forzato, più leggibile
-    text = h.handle(response.text)
-    #print(f"Cleaned content: {text}")
-    return normalize_markdown(text)
 
 def save_webpage_to_file(html_content, url, counter, output_dir):
     os.makedirs(output_dir, exist_ok=True)

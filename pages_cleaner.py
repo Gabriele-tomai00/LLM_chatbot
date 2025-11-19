@@ -227,8 +227,11 @@ def process_line(line):
         md_content = parse_html_content_html2text(cleaned_html)
         if is_informative_markdown(md_content):
             item["content"] = md_content
+
+            # JUST FOR DEVELOPMENT !!
             save_filtered_html_to_file(url, cleaned_html)
             save_md_to_file(url, md_content)
+            ###
 
             return item, "saved"
         else:
@@ -279,12 +282,9 @@ if __name__ == "__main__":
     parser.add_argument("--verbose", action="store_true", help="Enable detailed logging")
     args = parser.parse_args()
 
-    if os.path.exists(output_dir_FILTERED_HTML):
-        shutil.rmtree(output_dir_FILTERED_HTML)
-        os.makedirs(output_dir_FILTERED_HTML)
-
-    if os.path.exists(output_dir_CLEANED_MD):
-        shutil.rmtree(output_dir_CLEANED_MD)
-        os.makedirs(output_dir_CLEANED_MD)
+    for directory in [output_dir_FILTERED_HTML, output_dir_CLEANED_MD]:
+        if os.path.exists(directory):
+            shutil.rmtree(directory)
+        os.makedirs(directory)
 
     main(args.input, args.output, args.verbose)

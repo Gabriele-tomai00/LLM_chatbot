@@ -24,6 +24,8 @@ class ScraperSpider(CrawlSpider):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+        self.save_each_file = kwargs.get("save_each_file", "False") in ['True', 'true', '1']
+
         remove_output_directory("scraper_md_output")
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
@@ -32,7 +34,12 @@ class ScraperSpider(CrawlSpider):
             print_log(response, self.counter, self.crawler.settings)
             metadata = get_metadata(response)
             self.counter += 1
-            save_webpage_to_file(response.text, response.url, self.counter, "../results/html_output/")
+
+            # JUST FOR DEVELOPMENT !!
+            if self.save_each_file:
+                save_webpage_to_file(response.text, response.url, self.counter, "../results/html_output/")
+            ###
+            
             yield {
                 "title": metadata["title"],
                 "url": response.url,
