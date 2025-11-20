@@ -30,12 +30,12 @@ else
     fi
 fi
 
-# --- Execute your workflow ---
+mkdir -p results
+
 
 # --- Scraping part ---
-mkdir -p results
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT=5 -O ../results/items.jsonl
+#scrapy crawl scraper -s DEPTH_LIMIT=1 -O ../results/items.jsonl -a save_each_file=False
 
 cd ../links_study
 
@@ -45,5 +45,13 @@ python3 domains_numbers.py
 
 # --- Cleaning part ---
 cd ..
-echo "Run pages_cleaner.py"
+echo -e "\nRun pages_cleaner.py"
 python3 pages_cleaner.py --input results/items.jsonl --output results/filtered_items.jsonl --verbose
+
+
+# --- RAG: create index ---
+echo -e "\nCreation of RAG index in progress..."
+cd rag
+python3 rag.py --create-index-from "../results/filtered_items.jsonl"
+#echo -e "\nQuestion: quali sono i dipartimenti dell'universita di Trieste?"
+#python3 rag.py --message "quali sono i dipartimenti dell'universita di Trieste?"

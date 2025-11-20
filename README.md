@@ -69,3 +69,7 @@ Opzioni:
 --delete-index          cancellare l'index
 -m                      forumare il messaggio
 ```
+Exemples:
+```
+python3 rag.py --message "quali sono i dipartimenti dell'universita di Trieste?"
+```

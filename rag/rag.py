@@ -61,7 +61,6 @@ async def main():
     parser.add_argument(
         "--create-index-from",
         type=str,
-        default="../results/filtered_items.jsonl",
         help="Input JSONL file"
     )
 

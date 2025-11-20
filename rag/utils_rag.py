@@ -80,17 +80,24 @@ def create_index(persist_dir, jsonl_path):
 
 
 def get_index(persist_dir: str, jsonl_path: str = "../items.jsonl") -> VectorStoreIndex:
-    """Load an existing index or create a new one from items.jsonl if missing."""
-    if os.path.exists(persist_dir):
-        print("Loading existing index from:", persist_dir)
-        storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
-        index = load_index_from_storage(
-            storage_context,
-            embed_model=Settings.embed_model,
-        )
-        return index    
-    else:
-        return create_index(persist_dir, jsonl_path)
+    """Load an existing index. If directory missing or incomplete, return None."""
+
+    if not os.path.exists(persist_dir):
+        print(f"Index directory '{persist_dir}' does not exist.")
+        return None
+
+    if not os.listdir(persist_dir):
+        print(f"Index directory '{persist_dir}' exists but is empty.")
+        return None
+
+    print("Loading existing index from:", persist_dir)
+    storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
+    index = load_index_from_storage(
+        storage_context,
+        embed_model=Settings.embed_model,
+    )
+    return index
+
 
 
 def delete_index(persist_dir: str):
