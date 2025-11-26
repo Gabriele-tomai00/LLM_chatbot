@@ -3,6 +3,9 @@ import requests
 from llama_index.core.llms import CustomLLM, CompletionResponse, CompletionResponseGen, LLMMetadata
 from llama_index.core.llms.callbacks import llm_completion_callback
 from pydantic import BaseModel, PrivateAttr
+from pydantic import PrivateAttr
+from dotenv import load_dotenv
+import os
 
 class PolitoLLMwrapper(CustomLLM):
     context_window: int = 3900
@@ -10,9 +13,10 @@ class PolitoLLMwrapper(CustomLLM):
     model_name: str = "vllm_remote"
 
     # private attributes won't be copied by pydantic deepcopy
-    _bearer_token: str = PrivateAttr("ozae0jeuvia0Ux0jiokeeMuamuo3ohxeetee6co3")
-    _api_url: str = PrivateAttr("https://kubernetes.polito.it/vllm/v1/chat/completions")
-    _model: str = PrivateAttr("mistralai/Mistral-7B-Instruct-v0.1")
+    load_dotenv()
+    _bearer_token: str = PrivateAttr(os.getenv("BEARER_TOKEN"))
+    _api_url: str = PrivateAttr(os.getenv("API_URL"))
+    _model: str = PrivateAttr(os.getenv("MODEL"))
 
     @property
     def metadata(self) -> LLMMetadata:
