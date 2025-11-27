@@ -32,30 +32,9 @@ query_engine = index.as_query_engine(
 retriever = index.as_retriever(similarity_top_k=3)
 
 
-def clean_html_text(text: str) -> str:
-    """Clean HTML tags and boilerplate from text."""
-    import re
-    # Remove HTML tags
-    text = re.sub(r'<[^>]+>', '', text)
-    # Remove multiple whitespaces
-    text = re.sub(r'\s+', ' ', text)
-    # Remove common boilerplate
-    boilerplate_phrases = [
-        "Instagram", "Facebook", "LinkedIn", "YouTube", "Twitter", "Rss",
-        "Albo ufficiale", "Amministrazione trasparente", "Lavora con noi",
-        "Gare d'appalto", "Aste immobiliari", "Fatturazione elettronica",
-        "Modalità di pagamento", "Accessibilità", "Privacy", "Social Media policy",
-        "Cookie", "Address Book", "Immagine Coordinata di Ateneo", "Servizi online",
-        "Dove siamo", "Scrivici", "URP", "P.IVA", "C.F.", "P.E.C."
-    ]
-    for phrase in boilerplate_phrases:
-        text = text.replace(phrase, '')
-    return text.strip()
-
-
 async def search_documents_with_debug(query: str) -> str:
     """Search the indexed university documents and return relevant information with minimal debug info."""
-    print("🔍 Searching in documents...")
+    print("Searching in documents...")
     
     # Retrieve chunks quietly
     nodes = await retriever.aretrieve(query)
@@ -68,28 +47,28 @@ async def search_documents_with_debug(query: str) -> str:
     
     if high_relevance:
         best_score = max(n.score for n in high_relevance)
-        print(f"🎯 Best match score: {best_score:.3f}")
+        print(f"Best match score: {best_score:.3f}")
         
         # Show just one snippet from the best chunk
         best_node = max(high_relevance, key=lambda x: x.score)
-        clean_text = clean_html_text(best_node.text)
-        if len(clean_text) > 150:
-            snippet = clean_text[:150] + "..."
-            print(f"📄 Snippet: {snippet}")
+        clean_text = best_node.text
+        if len(clean_text) > 100:
+            snippet = clean_text[:100] + "..."
+            print(f"Snippet: {snippet}")
     
-    print("\n🤖 Generating answer...")
+    print("\nGenerating answer...")
     
     try:
         response = await query_engine.aquery(query)
         return str(response)
     except Exception as e:
-        print(f"⚠️  LLM error, using fallback...")
+        print(f"LLM error, using fallback...")
         # Fallback to best chunk content
         if nodes:
             best_node = max(nodes, key=lambda x: x.score)
-            clean_text = clean_html_text(best_node.text)
-            return f"Sulla base dei documenti trovati:\n\n{clean_text[:800]}..."
-        return "❌ Non ho trovato informazioni sufficienti per rispondere."
+            clean_text = best_node.text
+            return f"Sulla base dei documenti trovati:\n\n{clean_text[:200]}..."
+        return "Non ho trovato informazioni sufficienti per rispondere."
 
 
 async def simple_query(query: str) -> str:
@@ -98,12 +77,12 @@ async def simple_query(query: str) -> str:
         response = await query_engine.aquery(query)
         return str(response)
     except Exception as e:
-        return f"❌ Errore: {e}"
+        return f"Errore: {e}"
 
 
 async def test_document_sources():
     """Test function with clean output."""
-    print("\n🧪 TESTING DOCUMENT CONTENT...")
+    print("\nTESTING DOCUMENT CONTENT...")
     
     test_queries = [
         "Corsi di laurea in ingegneria informatica",
@@ -123,14 +102,14 @@ async def test_document_sources():
                 best_score = max(n.score for n in nodes) if nodes else 0
                 print(f"   📊 High: {high_rel}, Medium: {medium_rel}, Best: {best_score:.3f}")
             else:
-                print("   ❌ No relevant chunks")
+                print("   No relevant chunks")
         except Exception as e:
-            print(f"   ❌ Error: {e}")
+            print(f"   Error: {e}")
 
 
 async def test_llm_capabilities():
     """Test if the LLM is working properly with clean output."""
-    print("\n🧪 TESTING LLM...")
+    print("\nTESTING LLM...")
     
     test_prompts = [
         "Rispondi semplicemente 'OK'",
@@ -140,16 +119,16 @@ async def test_llm_capabilities():
     for prompt in test_prompts:
         try:
             response = await query_engine.aquery(prompt)
-            print(f"✅ '{prompt}' → {str(response)[:50]}...")
+            print(f"'{prompt}' → {str(response)[:50]}...")
         except Exception as e:
-            print(f"❌ '{prompt}' → Error: {e}")
+            print(f"'{prompt}' → Error: {e}")
 
 
 # --------------------------
 # Interactive loop
 # --------------------------
 async def interactive_loop():
-    print("🟢 Assistant started (RAG Mode - CLEAN OUTPUT)")
+    print("Assistant started (RAG Mode - CLEAN OUTPUT)")
     print("\nAvailable commands:")
     print("  ask <question>    → ask with minimal debug info")
     print("  quick <question>  → ask without any debug info") 
@@ -165,7 +144,7 @@ async def interactive_loop():
             continue
 
         if user_input.lower() == "quit":
-            print("🔴 Shutting down...")
+            print("Shutting down...")
             break
 
         elif user_input.lower() == "test_llm":
@@ -182,9 +161,9 @@ async def interactive_loop():
 
             try:
                 response = await search_documents_with_debug(query)
-                print(f"\n📝 ANSWER:\n{response}\n")
+                print(f"\nANSWER:\n{response}\n")
             except Exception as e:
-                print(f"❌ Error: {e}")
+                print(f"Error: {e}")
 
         elif user_input.lower().startswith("quick "):
             query = user_input[6:].strip()
@@ -192,15 +171,15 @@ async def interactive_loop():
                 print("Please provide a question after 'quick'.")
                 continue
 
-            print("⏳ Processing...")
+            print("Processing...")
             try:
                 response = await simple_query(query)
-                print(f"\n📝 ANSWER:\n{response}\n")
+                print(f"\nANSWER:\n{response}\n")
             except Exception as e:
-                print(f"❌ Error: {e}")
+                print(f"Error: {e}")
 
         else:
-            print("❓ Unknown command. Use: ask, quick, test_llm, test_sources, quit")
+            print("Unknown command. Use: ask, quick, test_llm, test_sources, quit")
 
 
 async def main():
