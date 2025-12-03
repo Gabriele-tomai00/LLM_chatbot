@@ -58,12 +58,21 @@ class PolitoLLMwrapper(CustomLLM):
         response.raise_for_status()
         return response.json()["choices"][0]["message"]["content"].strip()
 
+    def _extract_answer(self, raw: str) -> str:
+        key = "ANSWER:"
+        if key in raw:
+            return raw.split(key, 1)[1].strip()
+        return raw.strip()
+
     @llm_completion_callback()
     def complete(self, prompt: str, **kwargs: Any) -> CompletionResponse:
         text = self._call_api(prompt)
-        return CompletionResponse(text=text)
+        clean = self._extract_answer(text)
+        return CompletionResponse(text=clean)
 
     @llm_completion_callback()
     def stream_complete(self, prompt: str, **kwargs: Any) -> CompletionResponseGen:
         text = self._call_api(prompt)
-        yield CompletionResponse(text=text, delta=text)
+        clean = self._extract_answer(text)
+        for ch in clean:
+            yield CompletionResponse(text=ch, delta=ch)
