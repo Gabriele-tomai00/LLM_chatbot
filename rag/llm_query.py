@@ -1,9 +1,10 @@
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
+from llama_index.core import Settings
 from llama_index.core import set_global_handler
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 import asyncio
 from utils_rag import *
 from polito_llm_wrapper import *
+from llama_index.core.prompts import PromptTemplate
 
 
 # Enable debug logging
@@ -19,12 +20,26 @@ if index is None:
     print("No index found. Please create it first using --create-index.")
     exit(1)
 
+RAG_PROMPT = PromptTemplate(
+"""
+{system_prompt}
+
+CONTESTO (informazioni recuperate):
+{context_str}
+
+DOMANDA:
+{query_str}
+
+"""
+)
+
+
 # Create query engine
 query_engine = index.as_query_engine(
     llm=Settings.llm,
     similarity_top_k=3,
+    text_qa_template=RAG_PROMPT,
     verbose=False,  # Disabilitato per meno output
-    response_mode="compact",
     use_async=True
 )
 
@@ -43,18 +58,11 @@ async def search_documents_with_debug(query: str) -> str:
     high_relevance = [n for n in nodes if n.score >= 0.7]
     medium_relevance = [n for n in nodes if 0.5 <= n.score < 0.7]
     
-    print(f"📚 Found: {len(high_relevance)} high relevance, {len(medium_relevance)} medium relevance")
+    print(f"Found: {len(high_relevance)} high relevance, {len(medium_relevance)} medium relevance")
     
     if high_relevance:
         best_score = max(n.score for n in high_relevance)
         print(f"Best match score: {best_score:.3f}")
-        
-        # Show just one snippet from the best chunk
-        best_node = max(high_relevance, key=lambda x: x.score)
-        clean_text = best_node.text
-        if len(clean_text) > 100:
-            snippet = clean_text[:100] + "..."
-            print(f"Snippet: {snippet}")
     
     print("\nGenerating answer...")
     
@@ -63,11 +71,6 @@ async def search_documents_with_debug(query: str) -> str:
         return str(response)
     except Exception as e:
         print(f"LLM error, using fallback...")
-        # Fallback to best chunk content
-        if nodes:
-            best_node = max(nodes, key=lambda x: x.score)
-            clean_text = best_node.text
-            return f"Sulla base dei documenti trovati:\n\n{clean_text[:200]}..."
         return "Non ho trovato informazioni sufficienti per rispondere."
 
 
@@ -100,7 +103,7 @@ async def test_document_sources():
                 high_rel = len([n for n in nodes if n.score >= 0.7])
                 medium_rel = len([n for n in nodes if 0.5 <= n.score < 0.7])
                 best_score = max(n.score for n in nodes) if nodes else 0
-                print(f"   📊 High: {high_rel}, Medium: {medium_rel}, Best: {best_score:.3f}")
+                print(f"   High: {high_rel}, Medium: {medium_rel}, Best: {best_score:.3f}")
             else:
                 print("   No relevant chunks")
         except Exception as e:
