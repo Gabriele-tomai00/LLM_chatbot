@@ -1,8 +1,27 @@
 #!/bin/bash
-set -e  # Stop the script immediately if any command fails
+set -e
 
 ENV_DIR="env"
 REQUIREMENTS_FILE="requirements.txt"
+
+# --- Default depth limit ---
+DEPTH_LIMIT=4
+
+# --- Parse arguments ---
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --depth|-d)
+            DEPTH_LIMIT="$2"
+            shift 2
+            ;;
+        *)
+            echo "Unknown parameter: $1"
+            exit 1
+            ;;
+    esac
+done
+
+echo "Using DEPTH_LIMIT = $DEPTH_LIMIT"
 
 # --- Check/Create Virtual Environment ---
 if [[ ! -d "$ENV_DIR" ]]; then
@@ -21,7 +40,6 @@ if [[ ! -d "$ENV_DIR" ]]; then
 else
     echo "Virtual environment already exists."
 
-    # If the environment is not active, activate it
     if [[ -z "$VIRTUAL_ENV" ]]; then
         echo "Activating virtual environment..."
         source "$ENV_DIR/bin/activate"
@@ -32,26 +50,21 @@ fi
 
 mkdir -p results
 
-
 # --- Scraping part ---
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT=3 -O ../results/items.jsonl -a save_each_file=False
+scrapy crawl scraper -s DEPTH_LIMIT="$DEPTH_LIMIT" -O ../results/items.jsonl -a save_each_file=False
 
 cd ../links_study
 
 echo "Run domains_numbers.py"
 python3 domains_numbers.py
 
-
 # --- Cleaning part ---
 cd ..
 echo -e "\nRun pages_cleaner.py"
 python3 pages_cleaner.py --input results/items.jsonl --output results/filtered_items.jsonl --verbose
 
-
 # --- RAG: create index ---
 echo -e "\nCreation of RAG index in progress..."
 cd rag
 python3 rag.py --create-index-from "../results/filtered_items.jsonl"
-#echo -e "\nQuestion: quali sono i dipartimenti dell'universita di Trieste?"
-#python3 rag.py --message "quali sono i dipartimenti dell'universita di Trieste?"
