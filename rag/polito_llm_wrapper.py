@@ -7,18 +7,19 @@ from dotenv import load_dotenv
 import os
 from typing import Any, ClassVar
 
+system_prompt_path = os.path.join(os.path.dirname(__file__), "prompt_for_llm.txt")
+with open(system_prompt_path, "r", encoding="utf-8") as f:
+    SYSTEM_TEXT = f.read().strip()
+
+
 
 class PolitoLLMwrapper(CustomLLM):
     context_window: int = 3900
     num_output: int = 1024
     model_name: str = "vllm_remote"
 
-    SYSTEM: ClassVar[str] = (
-    "Sei l’assistente ufficiale dell'Università di Trieste.\n"
-    "Rispondi solo con informazioni basate sui documenti recuperati.\n"
-    "Se non hai abbastanza informazioni, dillo chiaramente e non inventare mai niente\n"
-    "Rispondi sempre in italiano."
-    )
+    SYSTEM: ClassVar[str] = SYSTEM_TEXT
+
     def __init__(self, **data):
         super().__init__(**data)
         dotenv_path = os.path.join(os.path.dirname(__file__), ".env")
