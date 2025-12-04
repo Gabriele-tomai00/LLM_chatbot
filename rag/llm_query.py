@@ -5,14 +5,20 @@ import asyncio
 from utils_rag import *
 from polito_llm_wrapper import *
 from llama_index.core.prompts import PromptTemplate
-
+import sys
 
 # Enable debug logging
 set_global_handler("simple")
 
 # Global settings
 Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
-Settings.llm = PolitoLLMwrapper()
+
+try:
+    Settings.llm = PolitoLLMwrapper()
+except RuntimeError as e:
+    print(e)
+    sys.exit(1)
+
 
 # Load RAG index
 index = get_index("rag_index")
@@ -22,16 +28,20 @@ if index is None:
 
 RAG_PROMPT = PromptTemplate(
 """
-{system_prompt}
+Sei l’assistente ufficiale dell'Università di Trieste.
+Rispondi solo sulla base del contesto dato. 
+Se il contesto non contiene la risposta, dì che non trovi informazioni.
 
-CONTESTO (informazioni recuperate):
+CONTENUTO DISPONIBILE:
 {context_str}
 
 DOMANDA:
 {query_str}
 
+RISPOSTA:
 """
 )
+
 
 
 # Create query engine
@@ -66,12 +76,8 @@ async def search_documents_with_debug(query: str) -> str:
     
     print("\nGenerating answer...")
     
-    try:
-        response = await query_engine.aquery(query)
-        return str(response)
-    except Exception as e:
-        print(f"LLM error, using fallback...")
-        return "Non ho trovato informazioni sufficienti per rispondere."
+    response = await query_engine.aquery(query)
+    return str(response)
 
 
 async def simple_query(query: str) -> str:

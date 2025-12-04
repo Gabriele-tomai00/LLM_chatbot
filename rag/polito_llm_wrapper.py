@@ -16,15 +16,20 @@ class PolitoLLMwrapper(CustomLLM):
     SYSTEM: ClassVar[str] = (
     "Sei l’assistente ufficiale dell'Università di Trieste.\n"
     "Rispondi solo con informazioni basate sui documenti recuperati.\n"
-    "Se non hai abbastanza informazioni, dillo chiaramente.\n"
+    "Se non hai abbastanza informazioni, dillo chiaramente e non inventare mai niente\n"
     "Rispondi sempre in italiano."
     )
+    def __init__(self, **data):
+        super().__init__(**data)
+        dotenv_path = os.path.join(os.path.dirname(__file__), ".env")
+        load_dotenv(dotenv_path)
+        self._bearer_token = os.getenv("BEARER_TOKEN")
+        self._api_url = os.getenv("API_URL")
+        self._model = os.getenv("MODEL")
 
+        if not self._bearer_token or not self._api_url or not self._model:
+            raise RuntimeError("Missing environment variables for LLM configuration.")
 
-    load_dotenv()
-    _bearer_token: str = PrivateAttr(os.getenv("BEARER_TOKEN"))
-    _api_url: str = PrivateAttr(os.getenv("API_URL"))
-    _model: str = PrivateAttr(os.getenv("MODEL"))
 
     @property
     def metadata(self) -> LLMMetadata:
@@ -59,10 +64,22 @@ class PolitoLLMwrapper(CustomLLM):
         return response.json()["choices"][0]["message"]["content"].strip()
 
     def _extract_answer(self, raw: str) -> str:
-        key = "ANSWER:"
-        if key in raw:
-            return raw.split(key, 1)[1].strip()
-        return raw.strip()
+        # Remove debug sections
+        cleaned = raw
+
+        # Remove "Prompt:" blocks
+        if "** Prompt:" in cleaned:
+            cleaned = cleaned.split("** Prompt:", 1)[0]
+
+        # Keep only last "ANSWER:" if present
+        if "ANSWER:" in cleaned:
+            cleaned = cleaned.split("ANSWER:", 1)[1]
+
+        # Remove completion blocks
+        if "** Completion:" in cleaned:
+            cleaned = cleaned.split("** Completion:", 1)[-1]
+
+        return cleaned.strip()
 
     @llm_completion_callback()
     def complete(self, prompt: str, **kwargs: Any) -> CompletionResponse:
