@@ -6,8 +6,9 @@ from scrapy import signals
 class ScraperSpider(CrawlSpider):
     name = "scraper"
     allowed_domains = ["units.it"]
-    start_urls = ["https://portale.units.it/it"]
+    start_urls = ["https://portale.units.it/it/studiare/contatti/tasse-contributi-esoneri"]
     counter = 1
+    pdf_links_set = set()
 
     rules = (
         Rule(
@@ -30,12 +31,17 @@ class ScraperSpider(CrawlSpider):
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
+
+        pdf_links = response.css("a::attr(href)").re(r'.*\.pdf$')
+        new_set = set()
+        for link in pdf_links:
+            self.pdf_links_set.add(response.urljoin(link))
+
         try:
             print_log(response, self.counter, self.crawler.settings)
             metadata = get_metadata(response)
             self.counter += 1
 
-            # JUST FOR DEVELOPMENT !!
             if self.save_each_file:
                 save_webpage_to_file(response.text, response.url, self.counter, "../results/html_output/")
             ###
@@ -51,7 +57,6 @@ class ScraperSpider(CrawlSpider):
             self.logger.warning(f"Error parsing {response.url}: {e}")
 
 
-
     def spider_closed(self):
-        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, "../results/scraping_summary.log")
-
+        save_pdf_list(self.pdf_links_set, "../results/")
+        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, len(self.pdf_links_set) , "../results/scraping_summary.log")

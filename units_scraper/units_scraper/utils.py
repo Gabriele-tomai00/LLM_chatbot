@@ -90,7 +90,7 @@ def get_size_of_result_file(file_path: str) -> str:
         return size_str
     return "File not found"
 
-def print_scraping_summary(stats: dict, settings, summary_file_name):
+def print_scraping_summary(stats: dict, settings, pdf_num, summary_file_name):
     print(json.dumps(stats, indent=4, default=str))
 
     start_time = stats.get("start_time", datetime.now())
@@ -120,6 +120,7 @@ def print_scraping_summary(stats: dict, settings, summary_file_name):
         f"Elapsed time: {format_time(elapsed)}",
         f"End time: {end_time.strftime('%d-%m-%Y %H:%M')}",
         f"Total items scraped: {item_scraped_count}",
+        f"Total unique PDF links found: {pdf_num}",
         f"Responses per minute: {responses_per_minute}",
         f"Max request depth: {request_depth_max}",
         f"Use of multiple user agents: {settings.getbool('ROTARY_USER_AGENT', False)}",
@@ -148,6 +149,19 @@ def save_webpage_to_file(html_content, url, counter, output_dir):
     original_path = os.path.join(output_dir, f"{counter}_original.html")
     with open(original_path, "w", encoding="utf-8") as f:
         f.write(html_content)
+
+def save_pdf_list(links_set, file_path):
+    remove_output_directory(file_path)
+    os.makedirs(file_path, exist_ok=True)
+
+    # Define the full path for the output file
+    output_file = os.path.join(file_path, "pdf_links.txt")
+
+    # Open the file in append mode to add new links without overwriting
+    with open(output_file, "a", encoding="utf-8") as f:
+        for link in links_set:
+            f.write(link + "\n")
+
 
 def get_article_date(response):
     # Estrai le date dai meta tag
