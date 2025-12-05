@@ -56,6 +56,10 @@ def convert_pdf(pdf_path, output_dir):
         return (pdf_path, e)
 
 def convert_all_pdfs_parallel(pdf_files, input_dir, output_dir, max_workers=4):
+    """Convert multiple PDFs in parallel, skipping errors."""
+    os.makedirs(output_dir, exist_ok=True)
+    failed_files = []
+
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         futures = {
             executor.submit(
@@ -66,12 +70,10 @@ def convert_all_pdfs_parallel(pdf_files, input_dir, output_dir, max_workers=4):
             for pdf_file in pdf_files
         }
 
-        for future in tqdm(as_completed(futures), total=len(futures), desc="Converting PDFs", unit="file"):
-            pdf_file = futures[future]
-            path, error = future.result()
+    print("Conversion completed.")
+    if failed_files:
+        print(f"Failed to convert {len(failed_files)} PDFs.")
 
-            if error:
-                print(f"Failed to convert {pdf_file}: {error}")
 
 if __name__ == "__main__":
     if path.exists(output_dir_filtered) and path.isdir(output_dir_filtered):
