@@ -28,7 +28,10 @@ class PolitoLLMwrapper(CustomLLM):
         self._bearer_token = os.getenv("BEARER_TOKEN")
         self._api_url = os.getenv("API_URL")
         self._model = os.getenv("MODEL")
-        self.temperature = os.getenv("TEMPERATURE")
+        temp = os.getenv("TEMPERATURE")
+        if temp is not None:
+            self.temperature = float(temp)
+
 
         if not self._bearer_token or not self._api_url or not self._model:
             raise RuntimeError("Missing environment variables for LLM configuration.")
