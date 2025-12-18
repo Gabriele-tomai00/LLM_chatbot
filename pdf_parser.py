@@ -7,7 +7,7 @@ from shutil import rmtree
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_completed
 
 pdf_links_file = "results/pdf_links.txt"
-output_dir_filtered = "results/filtered_pdf_output/"
+output_dir_filtered = "results/original_pdf_downloaded/"
 output_dir_cleaned = "results/cleaned_pdf_output/"
 
 def download_pdf(link, output_dir):
