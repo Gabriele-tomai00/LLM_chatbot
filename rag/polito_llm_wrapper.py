@@ -17,6 +17,7 @@ class PolitoLLMwrapper(CustomLLM):
     context_window: int = 3900
     num_output: int = 1024
     model_name: str = "vllm_remote"
+    temperature: float = 0.2
 
     SYSTEM: ClassVar[str] = SYSTEM_TEXT
 
@@ -27,6 +28,7 @@ class PolitoLLMwrapper(CustomLLM):
         self._bearer_token = os.getenv("BEARER_TOKEN")
         self._api_url = os.getenv("API_URL")
         self._model = os.getenv("MODEL")
+        self.temperature = os.getenv("TEMPERATURE")
 
         if not self._bearer_token or not self._api_url or not self._model:
             raise RuntimeError("Missing environment variables for LLM configuration.")
@@ -58,6 +60,7 @@ class PolitoLLMwrapper(CustomLLM):
             "model": self._model,
             "messages": [{"role": "user", "content": full_prompt}],
             "max_tokens": self.num_output,
+            "temperature": float(self.temperature),
         }
 
         response = requests.post(self._api_url, json=payload, headers=headers)
