@@ -7,9 +7,12 @@ from llama_index.core import (
     VectorStoreIndex,
     Settings,
     StorageContext,
-    load_index_from_storage,
     Document,
 )
+from llama_index.vector_stores.chroma import ChromaVectorStore
+from llama_index.core import StorageContext
+import chromadb
+
 
 def print_indexing_summary(start_time, persist_dir, num_docs, log_file: str = "indexing_summary.log"):
     elapsed = (datetime.now() - start_time).total_seconds()
@@ -69,15 +72,27 @@ def create_index(persist_dir, jsonl_path):
             )
             documents.append(doc)
 
+    # index = VectorStoreIndex.from_documents(
+    #     documents,
+    #     embed_model=Settings.embed_model,
+    # )
+
+    # index.storage_context.persist(persist_dir=persist_dir)
+    # print_indexing_summary(start_time, persist_dir, len(documents))
+    # return index
+
+
+    db = chromadb.PersistentClient(persist_dir)
+    chroma_collection = db.get_or_create_collection("quickstart")
+    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+    storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
     index = VectorStoreIndex.from_documents(
-        documents,
-        embed_model=Settings.embed_model,
+        documents, 
+        storage_context=storage_context, 
+        embed_model=Settings.embed_model
     )
-
-    index.storage_context.persist(persist_dir=persist_dir)
-    print_indexing_summary(start_time, persist_dir, len(documents))
     return index
-
 
 def get_index(persist_dir: str, jsonl_path: str = "../items.jsonl") -> VectorStoreIndex:
     """Load an existing index. If directory missing or incomplete, return None."""
@@ -86,14 +101,19 @@ def get_index(persist_dir: str, jsonl_path: str = "../items.jsonl") -> VectorSto
         print(f"Index directory '{persist_dir}' does not exist.")
         return None
 
-    if not os.listdir(persist_dir):
-        print(f"Index directory '{persist_dir}' exists but is empty.")
-        return None
-
     print("Loading existing index from:", persist_dir)
-    storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
-    index = load_index_from_storage(
-        storage_context,
+    # storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
+    # index = load_index_from_storage(
+    #     storage_context,
+    #     embed_model=Settings.embed_model,
+    # )
+    # return index
+
+    db2 = chromadb.PersistentClient(persist_dir)
+    chroma_collection = db2.get_or_create_collection("quickstart")
+    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+    index = VectorStoreIndex.from_vector_store(
+        vector_store,
         embed_model=Settings.embed_model,
     )
     return index
