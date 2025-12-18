@@ -3,10 +3,13 @@ from scrapy.linkextractors import LinkExtractor
 from units_scraper.utils import *
 from pydispatch import dispatcher
 from scrapy import signals
+from urllib.parse import urlparse, urlunparse, quote, unquote
+
 class ScraperSpider(CrawlSpider):
     name = "scraper"
     allowed_domains = ["units.it"]
-    start_urls = ["https://portale.units.it/it/studiare/contatti/tasse-contributi-esoneri"]
+    start_urls = ["https://portale.units.it/it"]
+    #start_urls = ["https://portale.units.it/it", "https://lauree.units.it/it/0320106203900001/tasse-e-contributi"]
     counter = 1
     pdf_links_set = set()
 
@@ -25,26 +28,36 @@ class ScraperSpider(CrawlSpider):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.save_each_file = kwargs.get("save_each_file", "False") in ['True', 'true', '1']
+        self.save_each_file = kwargs.get("save_each_file", "False").lower() == "true"
+        self.scrape_pdf = kwargs.get("scrape_pdf", "False").lower() == "true"
 
+        os.makedirs("../results", exist_ok=True)
         remove_output_directory("scraper_md_output")
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
     def parse_item(self, response):
 
-        pdf_links = response.css("a::attr(href)").re(r'.*\.pdf$')
-        new_set = set()
-        for link in pdf_links:
-            self.pdf_links_set.add(response.urljoin(link))
-
         try:
-            print_log(response, self.counter, self.crawler.settings)
+            print_log(response, self.counter, self.crawler.settings)\
+
             metadata = get_metadata(response)
             self.counter += 1
 
             if self.save_each_file:
                 save_webpage_to_file(response.text, response.url, self.counter, "../results/html_output/")
-            ###
+            if self.scrape_pdf:
+                pdf_links = response.css("a::attr(href)").re(r'.*\.pdf$')
+                for link in pdf_links:
+                    absolute = response.urljoin(link)
+                    parsed = urlparse(absolute)
+
+                    # decode first
+                    raw_path = unquote(parsed.path)
+                    # Then encode exactly once
+                    cleaned_path = quote(raw_path)
+                    normalizated_pdf_link = urlunparse(parsed._replace(path=cleaned_path))
+                    # print(f"PDF: {normalizated_pdf_link}")
+                    self.pdf_links_set.add(normalizated_pdf_link)
             
             yield {
                 "title": metadata["title"],
