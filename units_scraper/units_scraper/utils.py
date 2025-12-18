@@ -151,7 +151,6 @@ def save_webpage_to_file(html_content, url, counter, output_dir):
         f.write(html_content)
 
 def save_pdf_list(links_set, file_path):
-    remove_output_directory(file_path)
     os.makedirs(file_path, exist_ok=True)
 
     # Define the full path for the output file
@@ -164,15 +163,12 @@ def save_pdf_list(links_set, file_path):
 
 
 def get_article_date(response):
-    # Estrai le date dai meta tag
     modified = response.xpath('//meta[@property="article:modified_time"]/@content').get()
     published = response.xpath('//meta[@property="article:published_time"]/@content').get()
 
-    # Prova a catturare la data con regex
     modified_date = re.search(r'\b(\d{2}/\d{2}/\d{4})\b', modified) if modified else None
     published_date = re.search(r'\b(\d{2}/\d{2}/\d{4})\b', published) if published else None
 
-    # Scegli la data disponibile, altrimenti oggi
     if modified_date:
         date = modified_date.group(1)
     elif published_date:
