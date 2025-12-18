@@ -15,6 +15,7 @@ results/*
 
 # rag
 rag_index/
+chroma_db/
 
 
 # Ignore virtual environments
