@@ -93,11 +93,14 @@ async def main():
         if index is None:
             print("No index found. Please create the index first using --create-index.")
             return
-        query_engine = index.as_query_engine(llm=Settings.llm)
-        agent.query_engine = query_engine
-        response = await agent.run(args.message)
-        print("\nAnswer:")
-        print(response)
+        else:
+            print("index found, proceeding...")
+        # query_engine = index.as_query_engine(llm=Settings.llm)
+        # agent.query_engine = query_engine
+        # response = await agent.run(args.message)
+        # print("\nAnswer:")
+        # print(response)
+        
     else:
         parser.print_help()
 

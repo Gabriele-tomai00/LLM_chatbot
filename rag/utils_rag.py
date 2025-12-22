@@ -92,6 +92,9 @@ def create_index(persist_dir, jsonl_path):
         storage_context=storage_context, 
         embed_model=Settings.embed_model
     )
+    
+    print_indexing_summary(start_time, persist_dir, len(documents))
+
     return index
 
 def get_index(persist_dir: str, jsonl_path: str = "../items.jsonl") -> VectorStoreIndex:
