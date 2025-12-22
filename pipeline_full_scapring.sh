@@ -67,4 +67,4 @@ python3 pages_cleaner.py --input results/items.jsonl --output results/filtered_i
 # --- RAG: create index ---
 echo -e "\nCreation of RAG index in progress..."
 cd rag
-python3 rag.py --create-index-from "../results/filtered_items.jsonl"
+python3 llm_query.py --create-index-from ../results/filtered_items.jsonl"
