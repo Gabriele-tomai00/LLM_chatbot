@@ -9,3 +9,4 @@ scrapy
 html2text
 llama_index.embeddings.huggingface
 llama_index.llms.ollama
+llama-index-vector-stores-chroma
