@@ -18,10 +18,12 @@ import os
 CHUNK_SIZE_ITEMS = 140000  # o un numero che approssima 8GB
 class MultiFileJsonPipeline:
     def open_spider(self, spider):
-        self.output_dir = getattr(spider, "output_dir", "../results/items_chunks")
+        self.output_dir = getattr(spider, "output_dir", "../results/scraper_results")
         # Clear output folder at start
         if os.path.exists(self.output_dir):
+            print("Clearing output folder...")
             shutil.rmtree(self.output_dir)
+            print("Output folder cleared")
         os.makedirs(self.output_dir, exist_ok=True)
 
         self.file = None

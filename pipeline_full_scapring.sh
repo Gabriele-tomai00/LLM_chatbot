@@ -52,7 +52,7 @@ mkdir -p results
 
 # --- Scraping part ---
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT=4 -a output_dir="../results/items_chunks"
+scrapy crawl scraper -s DEPTH_LIMIT=4 -a output_dir="../results/scraper_results"
 
 cd ../links_study
 
