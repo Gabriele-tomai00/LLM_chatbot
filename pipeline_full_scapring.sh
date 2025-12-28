@@ -61,8 +61,11 @@ python3 domains_numbers.py
 
 # --- Cleaning part ---
 cd ..
+echo -e "\nSplit file if too big"
+python3 split_jsonl.py results/items.jsonl results/scaper_results/
+
 echo -e "\nRun pages_cleaner.py"
-python3 pages_cleaner.py --input results/items.jsonl --output results/filtered_items.jsonl --verbose
+python3 pages_cleaner.py --input results/scraper_results/ --output results/filtered_items.jsonl --verbose
 
 # --- RAG: create index ---
 echo -e "\nCreation of RAG index in progress..."
