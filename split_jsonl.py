@@ -10,6 +10,10 @@ def split_jsonl(input_path, output_dir):
         raise FileNotFoundError(f"Input file not found: {input_path}")
     os.makedirs(output_dir, exist_ok=True)
 
+    if os.path.exists(output_dir) and os.path.isdir(output_dir):
+        shutil.rmtree(output_dir)
+        print(f"Folder '{output_dir}' removed.")
+
     part = 1
     bytes_written = 0
     out_file = open(os.path.join(output_dir, f"part_{part}.jsonl"), "wb")
@@ -35,5 +39,8 @@ if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python split_jsonl.py <input_file> <output_dir>")
         sys.exit(1)
+
+
+
 
     split_jsonl(sys.argv[1], sys.argv[2])
