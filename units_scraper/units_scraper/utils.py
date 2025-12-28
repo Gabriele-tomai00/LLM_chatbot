@@ -90,7 +90,7 @@ def get_size_of_result_file(file_path: str) -> str:
         return size_str
     return "File not found"
 
-def print_scraping_summary(stats: dict, settings, pdf_num, summary_file_name):
+def print_scraping_summary(stats: dict, settings, pdf_num, feed_uri, summary_file_name):
     print(json.dumps(stats, indent=4, default=str))
 
     start_time = stats.get("start_time", datetime.now())
@@ -99,7 +99,6 @@ def print_scraping_summary(stats: dict, settings, pdf_num, summary_file_name):
     request_depth_max = stats.get("request_depth_max", 0)
     item_scraped_count = stats.get("item_scraped_count", 0)
     responses_per_minute = int(float(stats.get("responses_per_minute") or 0))
-    file_name_of_results = "../results/items.jsonl"
 
     proxy_used = stats.get("proxy/used", 0)
     proxy_not_used = stats.get("proxy/not_used", 0)
@@ -125,7 +124,7 @@ def print_scraping_summary(stats: dict, settings, pdf_num, summary_file_name):
         f"Max request depth: {request_depth_max}",
         f"Use of multiple user agents: {settings.getbool('ROTARY_USER_AGENT', False)}",
         f"{proxy_summary}",
-        f"Output size: {get_size_of_result_file(file_name_of_results)}",
+        f"Output size: {get_size_of_result_file(feed_uri)}",
         "==============================================="
     ]
     for line in summary_lines:
@@ -135,7 +134,6 @@ def print_scraping_summary(stats: dict, settings, pdf_num, summary_file_name):
         for line in summary_lines:
             f.write(line + "\n")
     print(f"'{summary_file_name}' updated")
-
 
 
 def remove_output_directory(dir_path):

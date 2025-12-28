@@ -72,4 +72,16 @@ class ScraperSpider(CrawlSpider):
 
     def spider_closed(self):
         save_pdf_list(self.pdf_links_set, "../results/")
-        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, len(self.pdf_links_set) , "../results/scraping_summary.log")
+
+        feed_uris = []
+        feeds = getattr(self.crawler.settings, 'getdict', lambda x: {})('FEEDS')  # Scrapy >=2.1
+        for uri in feeds.keys():
+            feed_uris.append(uri)
+        if feed_uris:
+            feed_uri = feed_uris[0]
+        else:
+            feed_uri = None
+
+        print("Output file from -O:", feed_uri)
+
+        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, len(self.pdf_links_set), feed_uri, "../results/scraping_summary.log")
