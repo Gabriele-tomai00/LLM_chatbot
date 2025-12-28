@@ -91,6 +91,7 @@ else:
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    "units_scraper.pipelines.saveLinksPipeline": 100,
+    'units_scraper.pipelines.MultiFileJsonPipeline': 300,
    #"units_scraper.pipelines.html2textPipeline": 200
    #  "units_scraper.pipelines.getMetadataPipeline": 200,
 }

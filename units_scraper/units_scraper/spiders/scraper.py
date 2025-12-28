@@ -30,6 +30,7 @@ class ScraperSpider(CrawlSpider):
         super().__init__(*args, **kwargs)
         self.save_each_file = kwargs.get("save_each_file", "False").lower() == "true"
         self.scrape_pdf = kwargs.get("scrape_pdf", "False").lower() == "true"
+        self.output_dir = kwargs.get("output_dir", "../results/scraper_results")
 
         os.makedirs("../results", exist_ok=True)
         remove_output_directory("scraper_md_output")
@@ -84,4 +85,4 @@ class ScraperSpider(CrawlSpider):
 
         print("Output file from -O:", feed_uri)
 
-        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, len(self.pdf_links_set), feed_uri, "../results/scraping_summary.log")
+        print_scraping_summary(self.crawler.stats.get_stats(), self.settings, len(self.pdf_links_set), self.output_dir, "../results/scraping_summary.log")

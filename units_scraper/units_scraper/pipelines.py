@@ -12,6 +12,44 @@ from bs4 import BeautifulSoup
 import html2text
 from urllib.parse import urlparse
 
+import json
+import os
+
+CHUNK_SIZE_ITEMS = 140000  # o un numero che approssima 8GB
+class MultiFileJsonPipeline:
+    def open_spider(self, spider):
+        self.output_dir = getattr(spider, "output_dir", "../results/items_chunks")
+        # Clear output folder at start
+        if os.path.exists(self.output_dir):
+            shutil.rmtree(self.output_dir)
+        os.makedirs(self.output_dir, exist_ok=True)
+
+        self.file = None
+        self.counter = 0
+        self.part = 1
+        self._open_new_file()
+
+
+    def _open_new_file(self):
+        if self.file:
+            self.file.close()
+        filename = os.path.join(self.output_dir, f"part_{self.part}.jsonl")
+        self.file = open(filename, "w", encoding="utf-8")
+        self.part += 1
+        self.counter = 0
+
+    def close_spider(self, spider):
+        if self.file:
+            self.file.close()
+
+    def process_item(self, item, spider):
+        self.file.write(json.dumps(item, ensure_ascii=False) + "\n")
+        self.counter += 1
+        if self.counter >= CHUNK_SIZE_ITEMS:
+            self._open_new_file()
+        return item
+
+
 
 class cleanContentPipeline:
     def process_item(self, item, spider):

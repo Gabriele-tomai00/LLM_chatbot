@@ -80,17 +80,40 @@ def format_time(seconds: float) -> str:
     else:
         return f"{secs}s"
 
-def get_size_of_result_file(file_path: str) -> str:
-    if os.path.exists(file_path):
-        size_bytes = os.path.getsize(file_path)
-        if size_bytes >= 1024**3:  # 1 GB
-            size_str = f"{size_bytes / (1024**3):.2f} GB"
-        else:
-            size_str = f"{size_bytes / (1024**2):.2f} MB"
-        return size_str
-    return "File not found"
+def get_size_of_result_file(path: str) -> str:
+    """
+    Returns the size of a file or a folder.
+    - For a file: returns its size.
+    - For a folder: returns the total size of all files inside (recursively).
+    The returned value is a human-readable string (B, KB, MB, GB).
+    """
+    if not os.path.exists(path):
+        return "File or folder not found"
 
-def print_scraping_summary(stats: dict, settings, pdf_num, feed_uri, summary_file_name):
+    total_size = 0
+
+    if os.path.isfile(path):
+        total_size = os.path.getsize(path)
+    elif os.path.isdir(path):
+        # Walk through all files in the directory
+        for dirpath, dirnames, filenames in os.walk(path):
+            for filename in filenames:
+                filepath = os.path.join(dirpath, filename)
+                if os.path.isfile(filepath):
+                    total_size += os.path.getsize(filepath)
+
+    # Convert to human-readable format
+    if total_size >= 1024**3:
+        return f"{total_size / (1024**3):.2f} GB"
+    elif total_size >= 1024**2:
+        return f"{total_size / (1024**2):.2f} MB"
+    elif total_size >= 1024:
+        return f"{total_size / 1024:.2f} KB"
+    else:
+        return f"{total_size} B"
+
+
+def print_scraping_summary(stats: dict, settings, pdf_num, output_dir, summary_file_name):
     print(json.dumps(stats, indent=4, default=str))
 
     start_time = stats.get("start_time", datetime.now())
@@ -124,7 +147,8 @@ def print_scraping_summary(stats: dict, settings, pdf_num, feed_uri, summary_fil
         f"Max request depth: {request_depth_max}",
         f"Use of multiple user agents: {settings.getbool('ROTARY_USER_AGENT', False)}",
         f"{proxy_summary}",
-        f"Output size: {get_size_of_result_file(feed_uri)}",
+        f"Output: {output_dir}",
+        f"Output size: {get_size_of_result_file(output_dir)}",
         "==============================================="
     ]
     for line in summary_lines:

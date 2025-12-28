@@ -52,7 +52,7 @@ mkdir -p results
 
 # --- Scraping part ---
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT="$DEPTH_LIMIT" -O ../results/items.jsonl -a save_each_file=False
+scrapy crawl scraper -s DEPTH_LIMIT=4 -a output_dir="../results/items_chunks"
 
 cd ../links_study
 
