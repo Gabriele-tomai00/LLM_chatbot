@@ -113,7 +113,7 @@ def get_size_of_result_file(path: str) -> str:
         return f"{total_size} B"
 
 
-def print_scraping_summary(stats: dict, settings, pdf_num, output_dir, summary_file_name):
+def print_scraping_summary(stats: dict, settings, pdf_count, output_dir, summary_file_name):
     print(json.dumps(stats, indent=4, default=str))
 
     start_time = stats.get("start_time", datetime.now())
@@ -142,7 +142,6 @@ def print_scraping_summary(stats: dict, settings, pdf_num, output_dir, summary_f
         f"Elapsed time: {format_time(elapsed)}",
         f"End time: {end_time.strftime('%d-%m-%Y %H:%M')}",
         f"Total items scraped: {item_scraped_count}",
-        f"Total unique PDF links found: {pdf_num}",
         f"Responses per minute: {responses_per_minute}",
         f"Max request depth: {request_depth_max}",
         f"Use of multiple user agents: {settings.getbool('ROTARY_USER_AGENT', False)}",
@@ -151,6 +150,10 @@ def print_scraping_summary(stats: dict, settings, pdf_num, output_dir, summary_f
         f"Output size: {get_size_of_result_file(output_dir)}",
         "==============================================="
     ]
+
+    if pdf_count > 0:
+        summary_lines.insert(4, f"Total unique PDF links found: {pdf_count}")
+
     for line in summary_lines:
         print(line)
 
