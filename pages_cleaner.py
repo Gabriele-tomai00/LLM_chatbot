@@ -13,7 +13,7 @@ from urllib.parse import urlparse, unquote
 import hashlib
 import multiprocessing
 
-# set to False for massive processing on huge files
+# Set to False for large-scale processing
 SAVE_DEBUG_FILES = False
 
 output_dir_FILTERED_HTML = "results/filtered_html_output/"
@@ -134,7 +134,6 @@ def process_line(line):
 
         item["content"] = md
 
-        # per debug solo quando necessario
         if SAVE_DEBUG_FILES:
             fn = sanitize_filename(url)
             os.makedirs(output_dir_FILTERED_HTML, exist_ok=True)
@@ -150,15 +149,18 @@ def process_line(line):
         return None, "skipped"
 
 
-def process_file(input_file: str, output_file: str, verbose: bool):
-    logging.basicConfig(format="%(levelname)s - %(message)s", level=logging.WARNING)
+def process_file(input_file: str, output, verbose: bool, write_to_existing=False):
+    # If write_to_existing=False, 'output' is a file path and we open it
+    close_after = False
+    if not write_to_existing:
+        output = open(output, "w", encoding="utf-8")
+        close_after = True
 
     max_workers = min(8, multiprocessing.cpu_count())
     saved = 0
     skipped = 0
 
     with open(input_file, "r", encoding="utf-8") as fin, \
-         open(output_file, "w", encoding="utf-8") as fout, \
          ProcessPoolExecutor(max_workers=max_workers) as executor:
 
         for result in tqdm(executor.map(process_line, fin, chunksize=500),
@@ -170,48 +172,60 @@ def process_file(input_file: str, output_file: str, verbose: bool):
 
             item, status = result
             if status == "saved" and item:
-                fout.write(json.dumps(item, ensure_ascii=False) + "\n")
+                output.write(json.dumps(item, ensure_ascii=False) + "\n")
                 saved += 1
                 if verbose:
                     tqdm.write(f"SAVED: {item.get('url', '')}")
             else:
                 skipped += 1
 
-    print(f"Completed {os.path.basename(input_file)}: Saved {saved}, Skipped {skipped}")
+    if close_after:
+        output.close()
+
+    print(f"Finished {os.path.basename(input_file)}: Saved {saved}, Skipped {skipped}")
 
 
 def main(input_path: str, output_path: str, verbose: bool):
+    # Output must always be a file
+    if output_path.endswith("/") or output_path.endswith("\\") or os.path.isdir(output_path):
+        raise ValueError("Error: --output must be a file, not a directory.")
+
+    output_dir = os.path.dirname(output_path)
+    if output_dir and not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+
     if os.path.isfile(input_path):
-        # single file
-        if os.path.exists(output_path) and not os.path.isdir(output_path):
-            raise ValueError(f"Output path {output_path} esiste ed è un file, deve essere una cartella.")
-        os.makedirs(output_path, exist_ok=True)
-        out_file = os.path.join(output_path, os.path.basename(input_path))
-        process_file(input_path, out_file, verbose)
+        print(f"Processing single input file: {input_path}")
+        process_file(input_path, output_path, verbose)
+        return
 
-    elif os.path.isdir(input_path):
-        # dir: process all .jsonl files inside
-        if os.path.exists(output_path) and not os.path.isdir(output_path):
-            raise ValueError(f"Output path {output_path} esiste ed è un file, deve essere una cartella.")
-        os.makedirs(output_path, exist_ok=True)
-        jsonl_files = [f for f in os.listdir(input_path) if f.endswith(".jsonl")]
+    if os.path.isdir(input_path):
+        jsonl_files = [os.path.join(input_path, f) for f in os.listdir(input_path) if f.endswith(".jsonl")]
         if not jsonl_files:
-            print(f"Nessun file .jsonl trovato in {input_path}")
+            print(f"No .jsonl files found in directory: {input_path}")
             return
-        for f in jsonl_files:
-            in_file = os.path.join(input_path, f)
-            out_file = os.path.join(output_path, f)
-            process_file(in_file, out_file, verbose)
 
-    else:
-        raise FileNotFoundError(f"Input path {input_path} non trovato.")
+        print(f"Processing directory: {input_path}")
+        print(f"Merging all cleaned content into: {output_path}\n")
+
+        with open(output_path, "w", encoding="utf-8") as fout:
+            for f in jsonl_files:
+                print(f"Processing {f} ...")
+                process_file(f, fout, verbose, write_to_existing=True)
+
+        print(f"\nAll files processed successfully. Output written to: {output_path}")
+        return
+
+    raise FileNotFoundError(f"Input path not found: {input_path}")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", type=str, required=True)
-    parser.add_argument("--output", type=str, required=True)
-    parser.add_argument("--verbose", action="store_true")
+    parser.add_argument("--input", type=str, required=True, help="Input file or directory")
+    parser.add_argument("--output", type=str, required=True, help="Output file (.jsonl)")
+    parser.add_argument("--verbose", action="store_true", help="Print each saved URL")
     args = parser.parse_args()
+
+    logging.basicConfig(format="%(levelname)s - %(message)s", level=logging.WARNING)
 
     main(args.input, args.output, args.verbose)
