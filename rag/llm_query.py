@@ -15,8 +15,8 @@ set_global_handler("simple")
 Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
 
 try:
-    #Settings.llm = PolitoLLMwrapper()
-    Settings.llm = UuitsLLMWrapper(model_name="gpt-oss-120b", temperature=0.2)
+    Settings.llm = PolitoLLMwrapper()
+    #Settings.llm = UuitsLLMWrapper(model_name="gpt-oss-120b", temperature=0.2)
 
 except RuntimeError as e:
     print(e)
