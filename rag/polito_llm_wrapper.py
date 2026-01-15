@@ -100,3 +100,77 @@ class PolitoLLMwrapper(CustomLLM):
         clean = self._extract_answer(text)
         for ch in clean:
             yield CompletionResponse(text=ch, delta=ch)
+
+
+class UuitsLLMWrapper(CustomLLM):
+    """Wrapper for Ollama's GPT-OSS 120B model at 172.30.42.129."""
+
+    context_window: int = 3900
+    num_output: int = 1024
+    model_name: str = "gpt-oss-120b"  # Default model
+    temperature: float = 0.2
+    api_url: str = "http://172.30.42.129:8080/v1/chat/completions"
+
+    SYSTEM: ClassVar[str] = SYSTEM_TEXT
+
+    def __init__(self, model_name: str = None, temperature: float = None, **data):
+        super().__init__(**data)
+        if model_name:
+            self.model_name = model_name
+        if temperature is not None:
+            self.temperature = temperature
+
+    @property
+    def metadata(self) -> LLMMetadata:
+        return LLMMetadata(
+            context_window=self.context_window,
+            num_output=self.num_output,
+            model_name=self.model_name,
+        )
+
+    def _call_api(self, prompt: str) -> str:
+        """Call the Ollama GPT-OSS 120B endpoint using a ChatGPT-compatible payload."""
+        headers = {"Content-Type": "application/json"}
+
+        full_prompt = (
+            "<|system|>\n"
+            + self.SYSTEM
+            + "\n<|user|>\n"
+            + prompt
+            + "\n<|assistant|>\n"
+        )
+
+        payload = {
+            "model": self.model_name,
+            "messages": [{"role": "user", "content": full_prompt}],
+            "max_tokens": self.num_output,
+            "temperature": float(self.temperature),
+        }
+
+        response = requests.post(self.api_url, json=payload, headers=headers)
+        response.raise_for_status()
+        return response.json()["choices"][0]["message"]["content"].strip()
+
+    def _extract_answer(self, raw: str) -> str:
+        """Clean the raw output from the LLM."""
+        cleaned = raw
+        if "** Prompt:" in cleaned:
+            cleaned = cleaned.split("** Prompt:", 1)[0]
+        if "ANSWER:" in cleaned:
+            cleaned = cleaned.split("ANSWER:", 1)[1]
+        if "** Completion:" in cleaned:
+            cleaned = cleaned.split("** Completion:", 1)[-1]
+        return cleaned.strip()
+
+    @llm_completion_callback()
+    def complete(self, prompt: str, **kwargs: Any) -> CompletionResponse:
+        text = self._call_api(prompt)
+        clean = self._extract_answer(text)
+        return CompletionResponse(text=clean)
+
+    @llm_completion_callback()
+    def stream_complete(self, prompt: str, **kwargs: Any) -> CompletionResponseGen:
+        text = self._call_api(prompt)
+        clean = self._extract_answer(text)
+        for ch in clean:
+            yield CompletionResponse(text=ch, delta=ch)
