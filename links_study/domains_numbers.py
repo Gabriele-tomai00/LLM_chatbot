@@ -1,3 +1,4 @@
+import argparse
 from urllib.parse import urlparse
 from collections import Counter
 
@@ -19,8 +20,12 @@ def conta_link_per_dominio(nome_file):
 
 
 if __name__ == "__main__":
-    nome_file_input = "../results/units_links.txt"
-    nome_file_output = "../results/summary_domains_numbers.txt"
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-d", "--depth", type=int, required=True, help="Depth limit")
+    args = parser.parse_args()
+
+    nome_file_input = f"../results/links_list_{args.depth}.txt"
+    nome_file_output = f"../results/summary_domains_numbers_{args.depth}.txt"
 
     domini = conta_link_per_dominio(nome_file_input)
 

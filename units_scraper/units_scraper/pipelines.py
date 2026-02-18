@@ -19,6 +19,12 @@ ITEM_CHECK_INTERVAL = 10000        # Check file size every N items
 CHUNK_MAX_BYTES = 8 * 1024**3     # 8 GB
 
 class MultiFileJsonPipeline:
+    """
+    This pipeline saves scraped items into JSONL files. 
+    It automatically rotates the output file when it exceeds a configured size limit (CHUNK_MAX_BYTES), 
+    ensuring that individual files do not become too large. 
+    It also clears the output directory at the start of the spider.
+    """
     def open_spider(self, spider):
         self.output_dir = getattr(spider, "output_dir", "../results/scraper_results")
         # Clear output folder at start
@@ -131,10 +137,16 @@ class saveWebpagePipeline:
     
 
 class saveLinksPipeline:
-    def __init__(self):
-        self.file_path = "../results/units_links.txt"
+    def __init__(self, depth_limit):
+        self.file_path = f"../results/links_list_{depth_limit}.txt"
         with open(self.file_path, "w") as f:
             pass
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(
+            depth_limit=crawler.settings.get('DEPTH_LIMIT')
+        )
 
     def process_item(self, item, spider):
         if 'url' in item:

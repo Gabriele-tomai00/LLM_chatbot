@@ -5,7 +5,7 @@ scraper_md_output/
 items.json
 units_scraper/items.jsonl
 items.jsonl
-units_scraper/units_scraper/units_links.txt
+units_scraper/units_scraper/links_list.txt
 filtered_items.jsonl
 results/*
 

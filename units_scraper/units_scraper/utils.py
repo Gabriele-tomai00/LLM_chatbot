@@ -9,7 +9,6 @@ from scrapy.http import HtmlResponse
 import unicodedata
 import json
 from datetime import datetime
-from urllib.parse import urlparse
 from shutil import rmtree
 from os import path
 

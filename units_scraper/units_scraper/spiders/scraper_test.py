@@ -6,7 +6,7 @@ from scrapy import signals
 from urllib.parse import urlparse, urlunparse, quote, unquote
 
 class ScraperSpider(CrawlSpider):
-    name = "scraper"
+    name = "scraper_test"
     allowed_domains = ["units.it"]
     start_urls = ["https://portale.units.it/it"]
     #start_urls = ["https://portale.units.it/it", "https://lauree.units.it/it/0320106203900001/tasse-e-contributi"]

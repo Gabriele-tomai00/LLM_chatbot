@@ -1,3 +1,6 @@
+# exemple
+# ./pipeline_scapring_cleaning.sh -d 2
+
 #!/bin/bash
 set -e
 
@@ -52,22 +55,28 @@ mkdir -p results
 
 # --- Scraping part ---
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT=4 -a output_dir="../results/scraper_results"
+scrapy crawl scraper -s DEPTH_LIMIT=$DEPTH_LIMIT -a output_dir="../results/scraper_results_${DEPTH_LIMIT}"
 
+
+# --- DOMAIN NUMBERS ---
 cd ../links_study
-
 echo "Run domains_numbers.py"
-python3 domains_numbers.py
+python3 domains_numbers.py -d $DEPTH_LIMIT
+
+# --- SPLIT JSON part ---
+# cd ..
+# echo -e "\nSplit file if too big"
+# python3 split_jsonl.py results/items.jsonl results/scraper_results_${DEPTH_LIMIT}/
 
 # --- Cleaning part ---
 cd ..
-echo -e "\nSplit file if too big"
-python3 split_jsonl.py results/items.jsonl results/scraper_results/
-
 echo -e "\nRun pages_cleaner.py"
-python3 pages_cleaner.py --input results/scraper_results/ --output results/filtered_items.jsonl --verbose
+python3 pages_cleaner.py \
+    --input "results/scraper_results_${DEPTH_LIMIT}/" \
+    --output "results/filtered_items_${DEPTH_LIMIT}.jsonl" \
+    --verbose
 
 # --- RAG: create index ---
-echo -e "\nCreation of RAG index in progress..."
-cd rag
-python3 llm_query.py --create-index-from ../results/filtered_items.jsonl"
+# echo -e "\nCreation of RAG index in progress..."
+# cd rag
+# python3 llm_query.py --create-index-from ../results/filtered_items.jsonl"

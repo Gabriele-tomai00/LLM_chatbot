@@ -10,5 +10,5 @@ def filter_links(input_file, output_file):
                 f_out.write(link + "\n")
 
 if __name__ == "__main__":
-    filter_links("results/units_links.txt", "output.txt")
+    filter_links("results/links_list.txt", "output.txt")
     print("Filtered links saved to output.txt")
