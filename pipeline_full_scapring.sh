@@ -51,7 +51,11 @@ else
     fi
 fi
 
+# --- Delete old results ---
 mkdir -p results
+cd results
+rm -rf scraper_results_${DEPTH_LIMIT} filtered_items_${DEPTH_LIMIT}.jsonl summary_domains_numbers_${DEPTH_LIMIT}.txt links_list_${DEPTH_LIMIT}.txt
+cd ..
 
 # --- Scraping part ---
 cd units_scraper
