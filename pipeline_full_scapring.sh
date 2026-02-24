@@ -52,12 +52,14 @@ else
 fi
 
 # --- Delete old results ---
+echo -e "\nDelete old results"
 mkdir -p results
 cd results
 rm -rf scraper_results_${DEPTH_LIMIT} filtered_items_${DEPTH_LIMIT}.jsonl summary_domains_numbers_${DEPTH_LIMIT}.txt links_list_${DEPTH_LIMIT}.txt
 cd ..
 
 # --- Scraping part ---
+echo -e "\nRun scraper"
 cd units_scraper
 scrapy crawl scraper -s DEPTH_LIMIT=$DEPTH_LIMIT -a output_dir="../results/scraper_results_${DEPTH_LIMIT}"
 

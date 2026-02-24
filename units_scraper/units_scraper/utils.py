@@ -127,6 +127,17 @@ def print_scraping_summary(stats: dict, settings, pdf_count, output_dir, summary
     proxy_disabled = stats.get("proxy/disabled", 0)
     proxy_total = proxy_used + proxy_not_used + proxy_disabled
 
+    exception_count = stats.get("downloader/exception_count", 0)
+    retry_count = stats.get("retry/count", 0)
+    retry_max_reached = stats.get("retry/max_reached", 0)
+    
+    status_codes_summary = []
+    for key, value in stats.items():
+        if key.startswith("downloader/response_status_count/"):
+            code = key.split("/")[-1]
+            status_codes_summary.append(f"{code}: {value}")
+    status_codes_str = ", ".join(status_codes_summary) if status_codes_summary else "None"
+
     if proxy_total > 0:
         if proxy_disabled > 0 and proxy_used == 0:
             proxy_summary = "Proxy disabled for this run"
@@ -143,6 +154,10 @@ def print_scraping_summary(stats: dict, settings, pdf_count, output_dir, summary
         f"Total items scraped: {item_scraped_count}",
         f"Responses per minute: {responses_per_minute}",
         f"Max request depth: {request_depth_max}",
+        f"Exceptions: {exception_count}",
+        f"Retries: {retry_count}",
+        f"Max retries reached: {retry_max_reached}",
+        f"Status codes: {status_codes_str}",
         f"Use of multiple user agents: {settings.getbool('ROTARY_USER_AGENT', False)}",
         f"{proxy_summary}",
         f"Output: {output_dir}",
