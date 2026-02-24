@@ -30,8 +30,8 @@ USER_AGENTS = [
 ROBOTSTXT_OBEY = True
 
 # Concurrency and throttling settings
-CONCURRENT_REQUESTS = 250
-CONCURRENT_REQUESTS_PER_DOMAIN = 250
+CONCURRENT_REQUESTS = 100
+CONCURRENT_REQUESTS_PER_DOMAIN = 100
 # Configure a delay (in seconds) for requests for the same website
 DOWNLOAD_DELAY = 0
 
@@ -105,7 +105,7 @@ AUTOTHROTTLE_START_DELAY = 0
 AUTOTHROTTLE_MAX_DELAY = 20
 # The average number of requests Scrapy should be sending in parallel to
 # each remote server
-AUTOTHROTTLE_TARGET_CONCURRENCY = 200
+AUTOTHROTTLE_TARGET_CONCURRENCY = 100
 # Enable showing throttling stats for every response received:
 #AUTOTHROTTLE_DEBUG = False
 
@@ -124,8 +124,8 @@ LOG_ENABLED = True
 LOG_LEVEL = "ERROR"
 
 
-DOWNLOAD_TIMEOUT = 10  
-RETRY_TIMES = 1 
+DOWNLOAD_TIMEOUT = 20  
+RETRY_TIMES = 2 
 RETRY_ENABLED = True
 DNS_TIMEOUT = 5
 REACTOR_THREADPOOL_MAXSIZE = 20
