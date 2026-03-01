@@ -39,7 +39,17 @@ def filter_response(html_content: str) -> str:
     classes_and_ids_to_remove = [
         "open-readspeaker-ui", "banner", "cookie", "nav-item dropdown",
         "sidebar", "breadcrumb", "btn dropdown-toggle", "main-header",
-        "footer-container", "links"
+        "footer-container", "links",
+        "clearfix navnavbar-nav", "clearfix menu menu-level-0",
+        "views-field views-field-link__uri",
+        "block-layout-builder", "block-field-blocknodeeventofield-documenti-allegati",
+        "visually-hidden-focusable", "clearfix dropdown-menu", "nav-link",
+        "field__label visually-hidden", "visually-hidden",
+        "field field--name-field-media-image field--type-image field--label-visually_hidden",
+        "clearfix nav", "modal modal-search fade",
+        "block block-menu navigation menu--menu-target", "view-content row",
+        "rsbtn",    # ← ReadSpeaker player ("Ascolta")
+        "rs_skip",  # ← ReadSpeaker wrapper
     ]
 
     for name in classes_and_ids_to_remove:

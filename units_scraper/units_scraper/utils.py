@@ -5,7 +5,6 @@ import os
 from bs4 import BeautifulSoup
 import re
 import lxml.html as html
-from scrapy.http import HtmlResponse
 import unicodedata
 import json
 from datetime import datetime
@@ -255,48 +254,6 @@ def normalize_markdown(text: str) -> str:
         text = text.replace(old, new)
     return unicodedata.normalize("NFKC", text)
 
-
-def filter_response(response):
-    tree = html.fromstring(response.body)
-    
-    tags_to_remove = ["footer", "script", "style", "meta", "link", "img"]
-    for tag in tags_to_remove:
-        for el in tree.xpath(f"//{tag}"):
-            el.drop_tree()
-
-    classes_to_remove = [
-        "open-readspeaker-ui", "banner", "cookie-consent", 
-        "nav-item dropdown", "clearfix navnavbar-nav",
-        "clearfix menu menu-level-0", "sidebar", 
-        "views-field views-field-link__uri", 
-        "block block-layout-builder block-field-blocknodeeventofield-documenti-allegati",
-        "visually-hidden-focusable", "clearfix dropdown-menu", "nav-link",
-        "field__label visually-hidden", "field field--name-field-media-image field--type-image field--label-visually_hidden",
-        "clearfix nav", "modal modal-search fade", "breadcrumb", "btn dropdown-toggle",
-        "block block-menu navigation menu--menu-target", "view-content row"
-    ]
-    ids_to_remove = ["main-header", "footer-container"]
-
-    for class_name in classes_to_remove:
-        for el in tree.xpath(f'//*[@class="{class_name}"]'):
-            el.drop_tree()
-    for id_name in ids_to_remove:
-        for el in tree.xpath(f'//*[@id="{id_name}"]'):
-            el.drop_tree()
-
-    cleaned_html = html.tostring(tree, encoding="unicode")
-    soup = BeautifulSoup(cleaned_html, "lxml")
-    for strong_tag in soup.find_all("strong"):
-        strong_tag.unwrap()
-    for tag in soup.find_all():
-        if not tag.get_text(strip=True):
-            tag.decompose()
-
-    return HtmlResponse(
-        url=response.url,
-        body=str(soup),
-        encoding='utf-8'
-    )
 
 def is_informative_markdown(text: str) -> bool:
     # remove markdown titles
