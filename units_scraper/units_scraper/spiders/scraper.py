@@ -18,8 +18,8 @@ class ScraperSpider(CrawlSpider):
     counter = 1
     pdf_links_set = set()
     
-    # Set to keep track of normalized page IDs to avoid language duplicates
-    seen_pages_ids = set()
+    # Set to store only canonical IDs (Content-based deduplication)
+    seen_canonicals = set()
 
     rules = (
         Rule(
@@ -43,11 +43,6 @@ class ScraperSpider(CrawlSpider):
         remove_output_directory("scraper_md_output")
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
-
-
-# Set to store only canonical IDs
-    seen_canonicals = set()
-
     def parse_item(self, response):
         # 1. Check for Canonical Tag (Content-based)
         canonical = response.xpath('//link[@rel="canonical"]/@href').get()
@@ -58,12 +53,11 @@ class ScraperSpider(CrawlSpider):
             norm_canonical = re.sub(r'/(it|en)(/|$)', '/', norm_canonical).rstrip('/')
             
             if norm_canonical in self.seen_canonicals:
-                self.logger.debug(f"Discarding: Canonical {norm_canonical} already processed.")
+                self.logger.info(f"Duplicate content detected via Canonical. Skipping: {response.url}")
                 return
             
             self.seen_canonicals.add(norm_canonical)
 
-        # 2. Proceed with extraction
         try:
             print_log(response, self.counter, self.crawler.settings)
 
@@ -86,9 +80,9 @@ class ScraperSpider(CrawlSpider):
                     self.pdf_links_set.add(normalized_pdf_link)
 
             yield {
-                "title": metadata["title"],
+                "title": metadata.get("title", "No Title"),
                 "url": response.url,
-                "canonical": canonical,
+                "timestamp": metadata.get("date"),
                 "content": response.text
             }
         except Exception as e:
