@@ -47,7 +47,9 @@ deny_domains = [
     "mail.scfor.units.it",
     "wmail2.units.it",
     "suggerimenti.units.it",
-    "sebina.units.it"
+    "sebina.units.it",
+    "onlineforms.units.it",
+    "helpdesk.units.it"
 ]
 deny_regex = [
     r".*feedback.*",
@@ -285,3 +287,24 @@ def print_log(response, counter, settings):
         ua_preview = user_agent[:20] + ("..." if len(user_agent) > 50 else "")
         log = log + " | UA: " + ua_preview
     print(log)
+
+
+# def get_page_id(response):
+#     """
+#     Generates a unique identifier for the page to detect linguistic duplicates.
+#     It prioritizes the canonical tag and removes non-semantic URL parts.
+#     """
+#     # 1. Extract canonical link if present
+#     canonical = response.xpath('//link[@rel="canonical"]/@href').get()
+#     base_url = canonical if canonical else response.url
+    
+#     # 2. Normalize the URL string
+#     # Remove explicit port 443
+#     normalized = base_url.replace(':443', '')
+    
+#     # Remove /it/ or /en/ language prefixes from the path
+#     # This matches /it/ at the start of path or mid-path
+#     normalized = re.sub(r'/(it|en)(/|$)', '/', normalized)
+    
+#     # Remove trailing slash for consistency
+#     return normalized.rstrip('/')

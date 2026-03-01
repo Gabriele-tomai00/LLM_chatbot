@@ -43,38 +43,27 @@ class ScraperSpider(CrawlSpider):
         remove_output_directory("scraper_md_output")
         dispatcher.connect(self.spider_closed, signals.engine_stopped)
 
-    def get_page_id(self, response):
-        """
-        Generates a unique identifier for the page to detect linguistic duplicates.
-        It prioritizes the canonical tag and removes non-semantic URL parts.
-        """
-        # 1. Extract canonical link if present
-        canonical = response.xpath('//link[@rel="canonical"]/@href').get()
-        base_url = canonical if canonical else response.url
-        
-        # 2. Normalize the URL string
-        # Remove explicit port 443
-        normalized = base_url.replace(':443', '')
-        
-        # Remove /it/ or /en/ language prefixes from the path
-        # This matches /it/ at the start of path or mid-path
-        normalized = re.sub(r'/(it|en)(/|$)', '/', normalized)
-        
-        # Remove trailing slash for consistency
-        return normalized.rstrip('/')
+
+
+# Set to store only canonical IDs
+    seen_canonicals = set()
 
     def parse_item(self, response):
-        # --- LANGUAGE DEDUPLICATION LOGIC ---
-        page_id = self.get_page_id(response)
+        # 1. Check for Canonical Tag (Content-based)
+        canonical = response.xpath('//link[@rel="canonical"]/@href').get()
         
-        if page_id in self.seen_pages_ids:
-            self.logger.debug(f"Skipping duplicate (Language): {response.url} -> ID: {page_id}")
-            return
-        
-        # Record this ID as processed
-        self.seen_pages_ids.add(page_id)
-        # ------------------------------------
+        if canonical:
+            # Normalize the canonical as well to be safe
+            norm_canonical = canonical.replace(':443', '')
+            norm_canonical = re.sub(r'/(it|en)(/|$)', '/', norm_canonical).rstrip('/')
+            
+            if norm_canonical in self.seen_canonicals:
+                self.logger.debug(f"Discarding: Canonical {norm_canonical} already processed.")
+                return
+            
+            self.seen_canonicals.add(norm_canonical)
 
+        # 2. Proceed with extraction
         try:
             print_log(response, self.counter, self.crawler.settings)
 
@@ -95,17 +84,16 @@ class ScraperSpider(CrawlSpider):
                     cleaned_path = quote(raw_path)
                     normalized_pdf_link = urlunparse(parsed._replace(path=cleaned_path))
                     self.pdf_links_set.add(normalized_pdf_link)
-            
+
             yield {
                 "title": metadata["title"],
                 "url": response.url,
-                "page_id": page_id, # Useful for post-scraping verification
-                "description": metadata["description"],
-                "timestamp": metadata["date"],
+                "canonical": canonical,
                 "content": response.text
             }
         except Exception as e:
             self.logger.warning(f"Error parsing {response.url}: {e}")
+
 
 
     def spider_closed(self):

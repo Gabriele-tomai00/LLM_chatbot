@@ -13,6 +13,9 @@ BOT_NAME = "units_scraper"
 
 SPIDER_MODULES = ["units_scraper.spiders"]
 NEWSPIDER_MODULE = "units_scraper.spiders"
+# settings.py
+DUPEFILTER_CLASS = 'units_scraper.multilingual_page_filtering.UnitsLinguisticDupeFilter'
+# JOBDIR = 'crawls/myspider-1'  # Enables disk-based duplicate filtering
 
 ADDONS = {}
 DEPTH_LIMIT = 1
