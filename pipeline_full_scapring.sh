@@ -86,3 +86,8 @@ python3 pages_cleaner.py \
 # echo -e "\nCreation of RAG index in progress..."
 # cd rag
 # python3 llm_query.py --create-index-from ../results/filtered_items.jsonl"
+
+# --- SHOW a markdown file (exemple) ---
+# python3 display_md.py -d ${DEPTH_LIMIT} -u "https://www.units.it/persone/index.php/from/abook/persona/38993"
+
+# python3 display_md.py -d 2 -u "https://www.units.it/persone/index.php/from/abook/persona/38993"
