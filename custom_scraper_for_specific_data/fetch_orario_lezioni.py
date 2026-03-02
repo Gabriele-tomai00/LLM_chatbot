@@ -53,7 +53,6 @@ if __name__ == "__main__":
     URL_schedule_data = "https://orari.units.it/agendaweb/grid_call.php"
 
     driver = webdriver.Chrome(options=chrome_options)
-    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     driver.get(URL_FORM)
     time.sleep(0.6)
     departments = get_departments(driver)
@@ -64,9 +63,9 @@ if __name__ == "__main__":
     print(f"num_departments considered: {'all' if num_departments == 0 else num_departments}")
     driver.quit()
 
-    num_cores = max(1, multiprocessing.cpu_count()*4)
-    results = Parallel(n_jobs=16)(
-        delayed(get_info_for_request)(dept, BASE_URL, school_year, start_date, chrome_options, URL_FORM) for dept in departments
+    # num_cores = max(1, multiprocessing.cpu_count())
+    results = Parallel(n_jobs=4)(
+        delayed(get_info_for_request)(dept, school_year, start_date, URL_FORM) for dept in departments
     )
 
     final_blocks = []

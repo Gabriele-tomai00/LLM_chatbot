@@ -9,11 +9,10 @@ from datetime import timedelta
 import json
 import requests
 from urllib.parse import urlencode, quote
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from utils import format_iso_date_to_italian_long, get_day_of_week
+from selenium.webdriver.chrome.options import Options
 
 def print_title(start_time, start_date, end_date, school_year):
     print(r"""
@@ -147,8 +146,17 @@ def set_study_year_and_curriculum(year, driver):
     time.sleep(0.4)
 
 
-def get_info_for_request(dept, base_url, school_year, start_date, chrome_options, URL_FORM):
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)    
+def get_info_for_request(dept, school_year, start_date, URL_FORM):
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument("user-agent=UNITS Links Crawler (network lab)")
+
+    driver = webdriver.Chrome(options=chrome_options)
+    driver = webdriver.Chrome(options=chrome_options)    
     driver.get(URL_FORM)
     time.sleep(0.4)
 
