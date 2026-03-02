@@ -21,11 +21,11 @@ def format_iso_date_to_italian_long(iso_date):
     except ValueError:
         return None
 
-def get_day_of_week(day):
+def get_day_of_week(iso_date):
     """
     Returns the Italian day of the week for a given date in ISO 8601 format (YYYY-MM-DD).
     """
-    date_obj = datetime.datetime.strptime(day, "%Y-%m-%d")
+    date_obj = datetime.datetime.strptime(iso_date, "%Y-%m-%d")
     day_of_week = date_obj.strftime("%A")
     
     days_mapping = {
