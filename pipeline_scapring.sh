@@ -56,34 +56,37 @@ echo -e "\nDelete old results"
 mkdir -p results
 cd results
 rm -rf scraper_results_${DEPTH_LIMIT} filtered_items_${DEPTH_LIMIT}.jsonl summary_domains_numbers_${DEPTH_LIMIT}.txt links_list_${DEPTH_LIMIT}.txt
-rm -rf teams_codes.json
-rm -rf units_book.json
-rm -rf room_schedule_per_site
-rm -rf lessons_schedule_by_course
 cd ..
 
+# --- Scraping part ---
+echo -e "\nRun scraper"
+cd units_scraper
+scrapy crawl scraper -s DEPTH_LIMIT=$DEPTH_LIMIT -a output_dir="../results/scraper_results_${DEPTH_LIMIT}"
 
-./pipeline_scapring.sh -d $DEPTH_LIMIT
+# --- DOMAIN NUMBERS ---
+cd ../links_study
+echo "Run domains_numbers.py"
+python3 domains_numbers.py -d $DEPTH_LIMIT
 
-# --- Address book ---
-echo -e "\n\n\nADDRESS BOOK SCRAPER"
-cd custom_scraper_for_specific_data
-python3 fetch_rubrica_personale.py --output="../results/units_book.json"
+# --- SPLIT JSON part ---
+# cd ..
+# echo -e "\nSplit file if too big"
+# python3 split_jsonl.py results/items.jsonl results/scraper_results_${DEPTH_LIMIT}/
+
+# --- Cleaning part ---
 cd ..
+echo -e "\nRun pages_cleaner.py"
+python3 pages_cleaner.py \
+    --input "results/scraper_results_${DEPTH_LIMIT}/" \
+    --output "results/filtered_items_${DEPTH_LIMIT}.jsonl" \
+    --verbose
 
-# --- Occupazione Aule ---
-echo -e "\n\n\nOCCUPAZIONE AULE SCRAPER"
-cd custom_scraper_for_specific_data
-python3 fetch_calendario_aule.py --start_date 06-03-2026 --end_date 11-03-2026 --output="../results/room_schedule_per_site" --num_sites 2
-cd ..
+# --- RAG: create index ---
+# echo -e "\nCreation of RAG index in progress..."
+# cd rag
+# python3 llm_query.py --create-index-from ../results/filtered_items.jsonl"
 
-# --- Orario lezioni ---
-echo -e "\nOrario lezioni scraper"
-cd custom_scraper_for_specific_data
-python3 fetch_orario_lezioni.py --start_date 06-03-2026 --end_date 25-03-2026 --num_departments 1 --output="../results/lessons_schedule_by_course"
-cd ..
+# --- SHOW a markdown file (exemple) ---
+# python3 display_md.py -d ${DEPTH_LIMIT} -u "https://www.units.it/persone/index.php/from/abook/persona/38993"
 
-# --- Teams codes ---
-echo -e "\nTeams codes scraper"
-cd custom_scraper_for_specific_data
-python3 teams_code_downloader.py -o "../results/teams_codes.json"
+# python3 display_md.py -d 2 -u "https://www.units.it/persone/index.php/from/abook/persona/38993"
