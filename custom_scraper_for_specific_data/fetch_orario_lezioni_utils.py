@@ -38,7 +38,7 @@ def print_result(start_time, start_date, end_date, school_year, output_dir, num_
     print(f"################################################\n")
 
 def get_day_of_week(day):
-    date_obj = datetime.strptime(day, "%d-%m-%Y")
+    date_obj = datetime.strptime(day, "%Y-%m-%d")
     day_of_week = date_obj.strftime("%A")
     
     days_mapping = {
@@ -276,7 +276,19 @@ def write_json_to_file(file_name, new_content):
     with open(file_name, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-
+def format_date_italian(iso_date: str) -> str:
+    months = [
+        "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno",
+        "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"
+    ]
+    
+    date_obj = datetime.strptime(iso_date, "%Y-%m-%d")
+    day = date_obj.day
+    month = months[date_obj.month - 1]
+    year = date_obj.year
+    
+    return f"{day} {month} {year}"
+    
 def get_response_and_write_json_to_files(course_schedule_info, OUTPUT_DIR, url, BASE_URL, end_date):
     session = requests.Session()
     retries = Retry(total=5, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504])
@@ -344,17 +356,21 @@ def get_response_and_write_json_to_files(course_schedule_info, OUTPUT_DIR, url, 
         
         for lesson in lessons:
             # Flattening everything into a single record
+            iso_date = datetime.strptime(lesson.get('data'), "%d-%m-%Y").strftime("%Y-%m-%d") if lesson.get('data') else "N/A"
+
             flat_lesson = {
                 # Human readable summary for the embedding model
                 "course_context": f"{study_course} - {course_year_and_curriculum}",
-                "lesson_details": f"{study_course} - Data: {lesson.get('data')}, Orario: {lesson.get('orario')}, Aula: {lesson.get('aula')}",
+                "lesson_details": f"{study_course} - Data: {iso_date}, Orario: {lesson.get('orario')}, Aula: {lesson.get('aula')}",
+                "time": lesson.get("orario"),
                 "teacher": lesson.get("docente"),
                 # Metadata for precise filtering
                 "metadata": {
                     "department": department_code,
                     "course_code": course_code,
                     "study_year_code": curriculum_code_and_year,
-                    "date": lesson.get("data") + " (" + get_day_of_week(lesson.get("data")) + ")",
+                    "iso-date": iso_date,
+                    "read_time": format_date_italian(iso_date) + " (" + get_day_of_week(iso_date) + ")",
                     "Full location (room + building)": lesson.get("aula"),
                     "url": specific_url
                 }
