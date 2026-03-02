@@ -5,6 +5,7 @@
 DEPTH_LIMIT=4
 START_DATE="02-01-2026"
 END_DATE="10-07-2026"
+OUTPUT_DIR="results_custom_scapers"
 
 
 #!/bin/bash
@@ -82,22 +83,22 @@ cd ..
 # --- Address book ---
 echo -e "\n\n\nADDRESS BOOK SCRAPER"
 cd custom_scraper_for_specific_data
-python3 fetch_rubrica_personale.py --output="../results/units_book.json"
+python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json"
 cd ..
 
 # --- Occupazione Aule ---
 echo -e "\n\n\nOCCUPAZIONE AULE SCRAPER"
 cd custom_scraper_for_specific_data
-python3 fetch_calendario_aule.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../results/room_schedule_per_site" --num_sites 2
+python3 fetch_calendario_aule.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/room_schedule_per_site" --num_sites 2
 cd ..
 
 # --- Orario lezioni ---
 echo -e "\nOrario lezioni scraper"
 cd custom_scraper_for_specific_data
-python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --num_departments 1 --output="../results/lessons_schedule_by_course"
+python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --num_departments 1 --output="../$OUTPUT_DIR/lessons_schedule_by_course"
 cd ..
 
 # --- Teams codes ---
 echo -e "\nTeams codes scraper"
 cd custom_scraper_for_specific_data
-python3 teams_code_downloader.py -o "../results/teams_codes.json"
+python3 teams_code_downloader.py -o "../$OUTPUT_DIR/teams_codes.json"
