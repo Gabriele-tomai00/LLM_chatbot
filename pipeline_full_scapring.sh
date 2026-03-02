@@ -96,7 +96,7 @@ cd ..
 # --- Orario lezioni ---
 echo -e "\nOrario lezioni scraper"
 cd custom_scraper_for_specific_data
-python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --num_departments 1 --output="../$OUTPUT_DIR/lessons_schedule_by_course"
+python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/lessons_schedule_by_course"
 # esemple: python3 fetch_orario_lezioni.py --start_date "02-02-2026" --end_date "10-02-2026" --num_departments 1 --output="../results_custom_scapers/lessons_schedule_by_course"
 cd ..
 
