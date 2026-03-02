@@ -2,6 +2,7 @@ import requests
 import json
 import argparse
 from datetime import datetime
+import os
 
 URL = "https://spweb.units.it/jsonapi/static/dad_grp.json"
 
@@ -59,6 +60,9 @@ def save_to_json(data, output_path):
         "codes": data
     }
     
+    # Ensure the directory exists
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    
     try:
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
@@ -69,8 +73,7 @@ def save_to_json(data, output_path):
 if __name__ == "__main__":
     # exemple: python3 teams_code_downloader.py -o teams_codes.json
     parser = argparse.ArgumentParser(description="Download Teams codes from UNITS")
-    parser.add_argument("-o", "--output", help="Output file path for the JSON data", required=True)
-    
+    parser.add_argument("-o", "--output", help="Output file path for the JSON data", default="../results/teams_codes.json")    
     args = parser.parse_args()
     
     print("Downloading data...")
