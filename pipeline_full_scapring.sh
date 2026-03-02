@@ -83,7 +83,8 @@ cd ..
 # --- Address book ---
 echo -e "\n\n\nADDRESS BOOK SCRAPER"
 cd custom_scraper_for_specific_data
-python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json"
+python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json" --max-values 100
+# exemple: python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json" --max-values 2
 cd ..
 
 # --- Occupazione Aule ---

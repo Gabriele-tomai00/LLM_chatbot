@@ -129,6 +129,8 @@ def process_page(session, page, total, dom_id, libraries):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Script used to extract the Units Institute staff address book.")
     parser.add_argument("-o", "--output", type=str, help="Output file for the extracted data.", default=OUTPUT_FILE)
+    parser.add_argument("--max-values", type=int, help="Maximum number of values to extract.", default=0)
+
     args = parser.parse_args()
     if args.output:
         OUTPUT_FILE = args.output
@@ -138,7 +140,8 @@ if __name__ == "__main__":
     session, dom_id, libraries, total = get_session_data()
     print(f"Total pages: {total}. Saving to {OUTPUT_FILE}")
     
-    total = 1 # for DEBUG
+    if args.max_values > 0:
+        total = min(total, args.max_values) # for DEBUG
 
     all_people = []
     for page in range(0, total + 1):
