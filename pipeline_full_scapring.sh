@@ -1,5 +1,11 @@
 # exemple
-# ./pipeline_scapring_cleaning.sh -d 2
+# ./pipeline_full_scapring.sh -d 2 -s "02-02-2026" -e "10-02-2026"
+
+# --- Default parameters ---
+DEPTH_LIMIT=4
+START_DATE="02-01-2026"
+END_DATE="10-07-2026"
+
 
 #!/bin/bash
 set -e
@@ -7,14 +13,20 @@ set -e
 ENV_DIR="env"
 REQUIREMENTS_FILE="requirements.txt"
 
-# --- Default depth limit ---
-DEPTH_LIMIT=4
 
 # --- Parse arguments ---
 while [[ $# -gt 0 ]]; do
     case "$1" in
         --depth|-d)
             DEPTH_LIMIT="$2"
+            shift 2
+            ;;
+        --start_date|-s)
+            START_DATE="$2"
+            shift 2
+            ;;
+        --end_date|-e)
+            END_DATE="$2"
             shift 2
             ;;
         *)
@@ -25,6 +37,8 @@ while [[ $# -gt 0 ]]; do
 done
 
 echo "Using DEPTH_LIMIT = $DEPTH_LIMIT"
+echo "Using START_DATE = $START_DATE"
+echo "Using END_DATE = $END_DATE"
 
 # --- Check/Create Virtual Environment ---
 if [[ ! -d "$ENV_DIR" ]]; then
@@ -74,13 +88,13 @@ cd ..
 # --- Occupazione Aule ---
 echo -e "\n\n\nOCCUPAZIONE AULE SCRAPER"
 cd custom_scraper_for_specific_data
-python3 fetch_calendario_aule.py --start_date 06-03-2026 --end_date 11-03-2026 --output="../results/room_schedule_per_site" --num_sites 2
+python3 fetch_calendario_aule.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../results/room_schedule_per_site" --num_sites 2
 cd ..
 
 # --- Orario lezioni ---
 echo -e "\nOrario lezioni scraper"
 cd custom_scraper_for_specific_data
-python3 fetch_orario_lezioni.py --start_date 06-03-2026 --end_date 25-03-2026 --num_departments 1 --output="../results/lessons_schedule_by_course"
+python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --num_departments 1 --output="../results/lessons_schedule_by_course"
 cd ..
 
 # --- Teams codes ---
