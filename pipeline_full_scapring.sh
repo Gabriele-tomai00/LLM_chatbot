@@ -69,15 +69,15 @@ fi
 # --- Delete old results ---
 echo -e "\nDelete old results"
 mkdir -p results
-cd results
-rm -rf scraper_results_${DEPTH_LIMIT} filtered_items_${DEPTH_LIMIT}.jsonl summary_domains_numbers_${DEPTH_LIMIT}.txt links_list_${DEPTH_LIMIT}.txt
-rm -rf teams_codes.json
-rm -rf units_book.json
-rm -rf room_schedule_per_site
-rm -rf lessons_schedule_by_course
-cd ..
+rm -rf \
+  results/scraper_results_${DEPTH_LIMIT} \
+  results/filtered_items_${DEPTH_LIMIT}.jsonl \
+  results/summary_domains_numbers_${DEPTH_LIMIT}.txt \
+  results/links_list_${DEPTH_LIMIT}.txt
+rm -rf "$OUTPUT_DIR"
+mkdir -p "$OUTPUT_DIR"
 
-
+# SCRAPY pipeline + link study
 ./pipeline_scapring.sh -d $DEPTH_LIMIT
 
 # --- Address book ---
