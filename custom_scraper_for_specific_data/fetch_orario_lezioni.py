@@ -8,7 +8,6 @@ from selenium.webdriver.chrome.options import Options
 from datetime import date, datetime
 import argparse
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 
 from fetch_orario_lezioni_utils import (
     print_title,
@@ -47,12 +46,14 @@ if __name__ == "__main__":
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("user-agent=UNITS Links Crawler (network lab)")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
     BASE_URL = "https://orari.units.it/agendaweb/index.php"
     URL_FORM = BASE_URL + "?view=easycourse&_lang=it&include=corso"
     URL_schedule_data = "https://orari.units.it/agendaweb/grid_call.php"
 
-
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+    driver = webdriver.Chrome(options=chrome_options)
+    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     driver.get(URL_FORM)
     time.sleep(0.6)
     departments = get_departments(driver)
