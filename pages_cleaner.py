@@ -12,14 +12,13 @@ import os
 from urllib.parse import urlparse, unquote
 import hashlib
 import multiprocessing
+from functools import partial
 
-# Set to False for large-scale processing
+# Set to True only if you want to inspect intermediate files
 SAVE_DEBUG_FILES = False
 
-output_dir_FILTERED_HTML = "results/filtered_html_output/"
-output_dir_CLEANED_MD = "results/cleaned_md_output/"
-
 def sanitize_filename(name: str, max_length: int = 150) -> str:
+    """Sanitize URL to create a safe filename."""
     name = unquote(name)
     parsed = urlparse(name)
     basename = parsed.netloc + parsed.path
@@ -29,9 +28,13 @@ def sanitize_filename(name: str, max_length: int = 150) -> str:
         basename = basename[:max_length] + "_" + digest
     return basename
 
-
 def filter_response(html_content: str) -> str:
-    tree = html.fromstring(html_content)
+    """Remove boilerplate tags and specific classes/IDs from HTML."""
+    try:
+        tree = html.fromstring(html_content)
+    except Exception:
+        return ""
+
     for tag in ["footer", "script", "style", "meta", "link", "img"]:
         for el in tree.xpath(f"//{tag}"):
             el.drop_tree()
@@ -48,15 +51,16 @@ def filter_response(html_content: str) -> str:
         "field field--name-field-media-image field--type-image field--label-visually_hidden",
         "clearfix nav", "modal modal-search fade",
         "block block-menu navigation menu--menu-target", "view-content row",
-        "rsbtn",    # ← ReadSpeaker player ("Ascolta")
-        "rs_skip",  # ← ReadSpeaker wrapper
+        "rsbtn", "rs_skip",
     ]
 
     for name in classes_and_ids_to_remove:
         for el in tree.xpath(f'//*[contains(translate(@class, "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"), "{name.lower()}")]'):
-            el.drop_tree()
+            try: el.drop_tree()
+            except: pass
         for el in tree.xpath(f'//*[contains(translate(@id, "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"), "{name.lower()}")]'):
-            el.drop_tree()
+            try: el.drop_tree()
+            except: pass
 
     soup = BeautifulSoup(html.tostring(tree, encoding="unicode"), "lxml")
 
@@ -79,38 +83,17 @@ def normalize_markdown(text: str) -> str:
         text = text.replace(old, new)
     return unicodedata.normalize("NFKC", text)
 
-
-def is_informative_markdown(
-    text: str,
-    min_words_total: int = 30,
-    min_lines: int = 3,
-    min_words_per_line: int = 5,
-    min_unique_ratio: float = 0.6
-) -> bool:
+def is_informative_markdown(text: str) -> bool:
+    """Basic heuristic to filter out non-informative pages."""
     text = normalize_markdown(text)
     cleaned = re.sub(r'#+\s*.*', '', text)
-
-    patterns = [
-        r'\b(Tutti gli avvisi|Link utili|Contatti|Servizi|Privacy|Dove siamo)\b',
-        r'\b(P\.IVA|C\.F\.|PEC:|Fatturazione elettronica)\b',
-        r'\b(http[s]?://[^\s]+)\b'
-    ]
-    for pattern in patterns:
-        cleaned = re.sub(pattern, '', cleaned, flags=re.IGNORECASE)
-
     lines = [l.strip() for l in cleaned.splitlines() if l.strip()]
-    meaningful = [l for l in lines if len(l.split()) >= min_words_per_line]
-
-    if len(meaningful) < min_lines:
-        return False
-
+    meaningful = [l for l in lines if len(l.split()) >= 5]
+    if len(meaningful) < 3: return False
     words = " ".join(meaningful).split()
-    if len(words) < min_words_total:
-        return False
-
+    if len(words) < 30: return False
     unique_ratio = len(set(words)) / len(words)
-    return unique_ratio >= min_unique_ratio
-
+    return unique_ratio >= 0.6
 
 def parse_html_content_html2text(html_content: str) -> str:
     h = html2text.HTML2Text()
@@ -119,21 +102,17 @@ def parse_html_content_html2text(html_content: str) -> str:
     h.body_width = 0
     return normalize_markdown(h.handle(html_content))
 
-
-def process_line(line):
+def process_line(line, debug_dirs=None):
+    """Worker function with optional debug directory support."""
     line = line.strip()
-    if not line:
-        return None, "skipped"
-
+    if not line: return None, "skipped"
     try:
         item = json.loads(line)
-    except json.JSONDecodeError:
-        return None, "skipped"
+    except: return None, "skipped"
 
     html_content = item.get("content", "")
     url = item.get("url", "")
-    if not html_content:
-        return None, "skipped"
+    if not html_content: return None, "skipped"
 
     try:
         cleaned_html = filter_response(html_content)
@@ -144,98 +123,76 @@ def process_line(line):
 
         item["content"] = md
 
-        if SAVE_DEBUG_FILES:
+        if SAVE_DEBUG_FILES and debug_dirs:
             fn = sanitize_filename(url)
-            os.makedirs(output_dir_FILTERED_HTML, exist_ok=True)
-            os.makedirs(output_dir_CLEANED_MD, exist_ok=True)
-            with open(os.path.join(output_dir_FILTERED_HTML, fn + ".html"), "w") as f:
+            with open(os.path.join(debug_dirs['html'], fn + ".html"), "w", encoding="utf-8") as f:
                 f.write(cleaned_html)
-            with open(os.path.join(output_dir_CLEANED_MD, fn + ".md"), "w") as f:
+            with open(os.path.join(debug_dirs['md'], fn + ".md"), "w", encoding="utf-8") as f:
                 f.write(md)
 
         return item, "saved"
-
-    except Exception:
+    except:
         return None, "skipped"
 
-
-def process_file(input_file: str, output, verbose: bool, write_to_existing=False):
-    # If write_to_existing=False, 'output' is a file path and we open it
-    close_after = False
-    if not write_to_existing:
-        output = open(output, "w", encoding="utf-8")
-        close_after = True
-
+def process_file_logic(input_file_path, output_file_handle, verbose, debug_dirs):
     max_workers = min(8, multiprocessing.cpu_count())
-    saved = 0
-    skipped = 0
+    saved, skipped = 0, 0
+    
+    # Use partial to pass debug_dirs to the worker function
+    worker_func = partial(process_line, debug_dirs=debug_dirs)
 
-    with open(input_file, "r", encoding="utf-8") as fin, \
-         ProcessPoolExecutor(max_workers=max_workers) as executor:
+    with open(input_file_path, "r", encoding="utf-8") as fin:
+        with ProcessPoolExecutor(max_workers=max_workers) as executor:
+            for result in tqdm(executor.map(worker_func, fin, chunksize=200),
+                               desc=f"Processing {os.path.basename(input_file_path)}", 
+                               leave=False):
+                if not result:
+                    skipped += 1
+                    continue
+                item, status = result
+                if status == "saved" and item:
+                    output_file_handle.write(json.dumps(item, ensure_ascii=False) + "\n")
+                    saved += 1
+                    if verbose: tqdm.write(f"SAVED: {item.get('url', '')}")
+                else:
+                    skipped += 1
+    return saved, skipped
 
-        for result in tqdm(executor.map(process_line, fin, chunksize=500),
-                           desc=f"Processing {os.path.basename(input_file)}", mininterval=1):
-
-            if not result:
-                skipped += 1
-                continue
-
-            item, status = result
-            if status == "saved" and item:
-                output.write(json.dumps(item, ensure_ascii=False) + "\n")
-                saved += 1
-                if verbose:
-                    tqdm.write(f"SAVED: {item.get('url', '')}")
-            else:
-                skipped += 1
-
-    if close_after:
-        output.close()
-
-    print(f"Finished {os.path.basename(input_file)}: Saved {saved}, Skipped {skipped}")
-
-
-def main(input_path: str, output_path: str, verbose: bool):
-    # Output must always be a file
-    if output_path.endswith("/") or output_path.endswith("\\") or os.path.isdir(output_path):
-        raise ValueError("Error: --output must be a file, not a directory.")
-
-    output_dir = os.path.dirname(output_path)
-    if output_dir and not os.path.exists(output_dir):
-        os.makedirs(output_dir, exist_ok=True)
-
-    if os.path.isfile(input_path):
-        print(f"Processing single input file: {input_path}")
-        process_file(input_path, output_path, verbose)
-        return
-
-    if os.path.isdir(input_path):
-        jsonl_files = [os.path.join(input_path, f) for f in os.listdir(input_path) if f.endswith(".jsonl")]
-        if not jsonl_files:
-            print(f"No .jsonl files found in directory: {input_path}")
-            return
-
-        print(f"Processing directory: {input_path}")
-        print(f"Merging all cleaned content into: {output_path}\n")
-
-        with open(output_path, "w", encoding="utf-8") as fout:
-            for f in jsonl_files:
-                print(f"Processing {f} ...")
-                process_file(f, fout, verbose, write_to_existing=True)
-
-        print(f"\nAll files processed successfully. Output written to: {output_path}")
-        return
-
-    raise FileNotFoundError(f"Input path not found: {input_path}")
-
-
-if __name__ == "__main__":
+def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", type=str, required=True, help="Input file or directory")
-    parser.add_argument("--output", type=str, required=True, help="Output file (.jsonl)")
-    parser.add_argument("--verbose", action="store_true", help="Print each saved URL")
+    parser.add_argument("--input", type=str, required=True)
+    parser.add_argument("--output", type=str, required=True)
+    parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
 
-    logging.basicConfig(format="%(levelname)s - %(message)s", level=logging.WARNING)
+    input_path = os.path.abspath(args.input)
+    output_path = os.path.abspath(args.output)
+    
+    # The parent directory of the output file (e.g., $OUTPUT_DIR)
+    base_output_dir = os.path.dirname(output_path)
+    if base_output_dir and not os.path.exists(base_output_dir):
+        os.makedirs(base_output_dir, exist_ok=True)
 
-    main(args.input, args.output, args.verbose)
+    # Define debug subdirectories inside the output folder
+    debug_dirs = None
+    if SAVE_DEBUG_FILES:
+        debug_dirs = {
+            'html': os.path.join(base_output_dir, "debug_filtered_html"),
+            'md': os.path.join(base_output_dir, "debug_cleaned_md")
+        }
+        for d in debug_dirs.values():
+            os.makedirs(d, exist_ok=True)
+
+    if os.path.isfile(input_path):
+        with open(output_path, "w", encoding="utf-8") as fout:
+            process_file_logic(input_path, fout, args.verbose, debug_dirs)
+    elif os.path.isdir(input_path):
+        jsonl_files = [os.path.join(input_path, f) for f in os.listdir(input_path) if f.endswith(".jsonl")]
+        with open(output_path, "w", encoding="utf-8") as fout:
+            for f in jsonl_files:
+                process_file_logic(f, fout, args.verbose, debug_dirs)
+
+    print(f"\nProcessing complete. Output: {output_path}")
+
+if __name__ == "__main__":
+    main()

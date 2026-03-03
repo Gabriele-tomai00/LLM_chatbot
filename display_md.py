@@ -18,13 +18,13 @@ def sanitize_filename(url):
 
 def main():
     parser = argparse.ArgumentParser(description="Extract markdown content from a JSONL file based on URL.")
-    parser.add_argument("-d", "--depth", type=int, required=True, help="Depth value to identify the input file (e.g., 2 for results/filtered_items_2.jsonl)")
+    parser.add_argument("-d", "--depth", type=int, required=True, help="Depth value to identify the input file (e.g., 2 for results_scrapy/filtered_items_2.jsonl)")
     parser.add_argument("-u", "--url", type=str, required=True, help="The URL to search for.")
     
     args = parser.parse_args()
     
     # Construct input filename
-    input_filename = f"results/filtered_items_{args.depth}.jsonl"
+    input_filename = f"results_scrapy/filtered_items_{args.depth}.jsonl"
     
     # Check if input file exists
     if not os.path.exists(input_filename):
@@ -52,10 +52,10 @@ def main():
                         
                         # Create output filename
                         safe_name = sanitize_filename(target_url)
-                        output_filename = os.path.join("results", f"{safe_name}.md")
+                        output_filename = os.path.join("results_scrapy", f"{safe_name}.md")
                         
                         # Ensure results directory exists (though it should since input is there)
-                        os.makedirs("results", exist_ok=True)
+                        os.makedirs("results_scrapy", exist_ok=True)
                         
                         with open(output_filename, 'w', encoding='utf-8') as out_f:
                             out_f.write(content)

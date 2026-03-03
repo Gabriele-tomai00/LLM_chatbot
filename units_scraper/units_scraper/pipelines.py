@@ -5,7 +5,6 @@
 
 
 # useful for handling different item types with a single interface
-import w3lib.html
 import os
 import shutil
 from bs4 import BeautifulSoup
@@ -26,7 +25,7 @@ class MultiFileJsonPipeline:
     It also clears the output directory at the start of the spider.
     """
     def open_spider(self, spider):
-        self.output_dir = getattr(spider, "output_dir", "../results/scraper_results")
+        self.output_dir = getattr(spider, "output_dir", f"../results_scrapy/scraper_results")
         # Clear output folder at start
         if os.path.exists(self.output_dir):
             shutil.rmtree(self.output_dir)
@@ -138,7 +137,7 @@ class saveWebpagePipeline:
 
 class saveLinksPipeline:
     def __init__(self, depth_limit):
-        self.file_path = f"../results/links_list_{depth_limit}.txt"
+        self.file_path = f"../results_scrapy/links_list_{depth_limit}.txt"
         with open(self.file_path, "w") as f:
             pass
 

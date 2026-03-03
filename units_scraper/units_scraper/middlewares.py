@@ -4,9 +4,7 @@
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-from scrapy.http import HtmlResponse
 from w3lib.util import to_unicode
-import lxml.html as html
 import base64
 import random
 

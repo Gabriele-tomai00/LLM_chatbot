@@ -28,8 +28,8 @@ def process_data(data):
                 ordered_attrs["nome insegnamento in inglese"] = attrs.pop("NOME_INS_ENG")
 
             # already in "nome insegnamento"
-            # if "AF_GEN_COD" in attrs:
-            #     ordered_attrs["codice ingegnamento"] = attrs.pop("AF_GEN_COD")
+            if "AF_GEN_COD" in attrs:
+                ordered_attrs["codice ingegnamento"] = attrs.pop("AF_GEN_COD")
 
             if "JCD_O365" in attrs:
                 ordered_attrs["codice teams"] = attrs.pop("JCD_O365")
@@ -41,8 +41,8 @@ def process_data(data):
                 ordered_attrs["nome corso di studi in inglese"] = attrs.pop("NOME_CORSO_ENG")
             
             # already in "nome corso di studi"
-            # if "CDS_COD" in attrs:
-            #     ordered_attrs["codice corso di studi"] = attrs.pop("CDS_COD")
+            if "CDS_COD" in attrs:
+                ordered_attrs["codice corso di studi"] = attrs.pop("CDS_COD")
 
             if "ANNO_ACCADEMICO" in attrs:
                 ordered_attrs["anno accademico"] = attrs.pop("ANNO_ACCADEMICO")
@@ -58,10 +58,10 @@ def process_data(data):
                 attrs.pop("URL_O365")
             if "AF_ID" in attrs: # used for DB (for deveolper)
                 attrs.pop("AF_ID")
-            if "AF_GEN_COD" in attrs:
-                attrs.pop("AF_GEN_COD")
-            if "CDS_COD" in attrs:
-                attrs.pop("CDS_COD")
+            # if "AF_GEN_COD" in attrs:
+            #     attrs.pop("AF_GEN_COD")
+            # if "CDS_COD" in attrs:
+            #     attrs.pop("CDS_COD")
 
             # Add remaining fields
             ordered_attrs.update(attrs)

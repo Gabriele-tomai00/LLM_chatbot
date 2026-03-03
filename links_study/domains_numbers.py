@@ -2,6 +2,7 @@ import argparse
 from urllib.parse import urlparse
 from collections import Counter, defaultdict
 import re
+import os
 
 def count_links_per_domain(file_name):
     counter = Counter()
@@ -77,10 +78,17 @@ def analyze_duplications(filepath):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-d", "--depth", type=int, required=True, help="Depth limit")
+    parser.add_argument("--dir", type=str, help="Output dir", default="../scrapy_results/")
     args = parser.parse_args()
 
-    input_file_name = f"../results/links_list_{args.depth}.txt"
-    output_file_name = f"../results/summary_domains_numbers_{args.depth}.txt"
+    base_dir = os.path.abspath(args.dir)
+    
+    input_file_name = os.path.join(base_dir, f"links_list_{args.depth}.txt")
+    output_file_name = os.path.join(base_dir, f"summary_domains_numbers_{args.depth}.txt")
+
+    if not os.path.exists(input_file_name):
+        print(f"Error: File not found -> {input_file_name}")
+        exit(1)
 
     domains = count_links_per_domain(input_file_name)
     duplication_report = analyze_duplications(input_file_name)
@@ -92,4 +100,4 @@ if __name__ == "__main__":
         
         f.write(duplication_report)
 
-    print(f"'{output_file_name}' updated")
+    print(f"Analysis complete. Report updated in: {output_file_name}")

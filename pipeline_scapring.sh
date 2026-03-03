@@ -6,6 +6,7 @@ set -e
 
 ENV_DIR="env"
 REQUIREMENTS_FILE="requirements.txt"
+OUTPUT_DIR="results_scrapy"
 
 # --- Default depth limit ---
 DEPTH_LIMIT=4
@@ -53,20 +54,22 @@ fi
 
 # --- Delete old results ---
 echo -e "\nDelete old results"
-mkdir -p results
-cd results
+mkdir -p $OUTPUT_DIR
+cd $OUTPUT_DIR
 rm -rf scraper_results_${DEPTH_LIMIT} filtered_items_${DEPTH_LIMIT}.jsonl summary_domains_numbers_${DEPTH_LIMIT}.txt links_list_${DEPTH_LIMIT}.txt
 cd ..
 
 # --- Scraping part ---
 echo -e "\nRun scraper"
 cd units_scraper
-scrapy crawl scraper -s DEPTH_LIMIT=$DEPTH_LIMIT -a output_dir="../results/scraper_results_${DEPTH_LIMIT}"
+scrapy crawl scraper -s DEPTH_LIMIT=$DEPTH_LIMIT -a output_dir="../$OUTPUT_DIR/scraper_results_${DEPTH_LIMIT}"
 
 # --- DOMAIN NUMBERS ---
 cd ../links_study
 echo "Run domains_numbers.py"
-python3 domains_numbers.py -d $DEPTH_LIMIT
+python3 domains_numbers.py -d $DEPTH_LIMIT --dir "../$OUTPUT_DIR/"
+# exemple
+# python3 domains_numbers.py -d 2 --dir "../scrapy_results/"
 
 # --- SPLIT JSON part ---
 # cd ..
@@ -77,14 +80,14 @@ python3 domains_numbers.py -d $DEPTH_LIMIT
 cd ..
 echo -e "\nRun pages_cleaner.py"
 python3 pages_cleaner.py \
-    --input "results/scraper_results_${DEPTH_LIMIT}/" \
-    --output "results/filtered_items_${DEPTH_LIMIT}.jsonl" \
+    --input "../$OUTPUT_DIR/scraper_results_${DEPTH_LIMIT}/" \
+    --output "../$OUTPUT_DIR/filtered_items_${DEPTH_LIMIT}.jsonl" \
     --verbose
 
 # --- RAG: create index ---
 # echo -e "\nCreation of RAG index in progress..."
 # cd rag
-# python3 llm_query.py --create-index-from ../results/filtered_items.jsonl"
+# python3 llm_query.py --create-index-from "../$OUTPUT_DIR/filtered_items.jsonl"
 
 # --- SHOW a markdown file (exemple) ---
 # python3 display_md.py -d ${DEPTH_LIMIT} -u "https://www.units.it/persone/index.php/from/abook/persona/38993"

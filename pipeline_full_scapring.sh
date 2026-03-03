@@ -6,6 +6,7 @@ DEPTH_LIMIT=4
 START_DATE="02-01-2026"
 END_DATE="10-07-2026"
 OUTPUT_DIR="results_custom_scrapers"
+SCRAPY_OUTPUT_DIR="results_scrapy"
 
 
 #!/bin/bash
@@ -66,14 +67,14 @@ else
     fi
 fi
 
-# --- Delete old results ---
-echo -e "\nDelete old results"
-mkdir -p results
-rm -rf \
-  results/scraper_results_${DEPTH_LIMIT} \
-  results/filtered_items_${DEPTH_LIMIT}.jsonl \
-  results/summary_domains_numbers_${DEPTH_LIMIT}.txt \
-  results/links_list_${DEPTH_LIMIT}.txt
+# --- Delete old scrapy results ---
+echo -e "\nDelete old scrapy results"
+mkdir -p $SCRAPY_OUTPUT_DIR
+rm -rf 
+  $SCRAPY_OUTPUT_DIR/scraper_results_${DEPTH_LIMIT} \
+  $SCRAPY_OUTPUT_DIR/filtered_items_${DEPTH_LIMIT}.jsonl \
+  $SCRAPY_OUTPUT_DIR/summary_domains_numbers_${DEPTH_LIMIT}.txt \
+  $SCRAPY_OUTPUT_DIR/links_list_${DEPTH_LIMIT}.txt
 rm -rf "$OUTPUT_DIR"
 mkdir -p "$OUTPUT_DIR"
 
