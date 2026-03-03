@@ -106,3 +106,4 @@ cd ..
 echo -e "\nTeams codes scraper"
 cd custom_scraper_for_specific_data
 python3 teams_code_downloader.py -o "../$OUTPUT_DIR/teams_codes.json"
+# esemple: python3 teams_code_downloader.py -o "../results_custom_scrapers/teams_codes.json"
