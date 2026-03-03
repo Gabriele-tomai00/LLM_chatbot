@@ -1,6 +1,7 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from units_scraper.utils import *
+from units_scraper.deny_lists import deny_domains, deny_regex
 from pydispatch import dispatcher
 from scrapy import signals
 from urllib.parse import urlparse, urlunparse, quote, unquote

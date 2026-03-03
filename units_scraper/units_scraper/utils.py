@@ -2,72 +2,12 @@
 import datetime
 import json
 import os
-from bs4 import BeautifulSoup
 import re
-import lxml.html as html
 import unicodedata
 import json
 from datetime import datetime
 from shutil import rmtree
 from os import path
-
-deny_domains = [
-    "arts.units.it",
-    "openstarts.units.it",
-    "moodle.units.it",
-    "moodle2.units.it",
-    "wmail1.units.it",
-    "cargo.units.it",
-    "cspn.units.it",
-    "www-amm.units.it",
-    "inside.units.it",
-    "flux.units.it",
-    "centracon.units.it",
-    "smats.units.it",
-    "docenti.units.it",
-    "orari.units.it",
-    "pregresso.sba.units.it",
-    "dryades.units.it",
-    "stream.dia.units.it",
-    "esse3.units.it",
-    "esse3web.units.it",
-    "biblio.units.it",
-    "apply.units.it",
-    "docu.units.it",
-    "100anni.units.it",
-    "rendiconti.dmi.units.it",
-    "dmi.units.it",
-    "wireless.units.it",
-    "byzantine.units.it",
-    "voip.units.it",
-    "eut.units.it",
-    "webmail.sp.units.it",
-    "cloudmail.units.it",
-    "cloudmail.studenti.units.it",
-    "mail.scfor.units.it",
-    "wmail2.units.it",
-    "suggerimenti.units.it",
-    "sebina.units.it",
-    "onlineforms.units.it",
-    "helpdesk.units.it"
-]
-deny_regex = [
-    r".*feedback.*",
-    r".*search.*",
-    r".*eventi-passati.*",
-    r".*openstarts.*",
-    r".*moodle.units.*",
-    r".*moodle2.units.*",
-    r".*wmail1.*",
-    r".*cargo.*",
-    r".*wmail3.*",
-    r".*wmail4.*",
-    r".*@.*",
-    r".*facebook.*",
-    r".*instagram.*",
-    r".*notizie.*",
-    r".*ricerca/progetti.*", # there are a lot of research projects, maybe useful
-]
 
 def format_time(seconds: float) -> str:
     hours = int(seconds // 3600)

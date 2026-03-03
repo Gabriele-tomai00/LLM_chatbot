@@ -1,5 +1,4 @@
 import re
-import os
 from urllib.parse import urlparse, urlunparse, quote, unquote
 
 from scrapy.spiders import CrawlSpider, Rule
@@ -9,6 +8,7 @@ from pydispatch import dispatcher
 
 # Assuming all utilities are imported correctly
 from units_scraper.utils import *
+from units_scraper.deny_lists import deny_domains, deny_regex
 
 class ScraperSpider(CrawlSpider):
     name = "scraper"
