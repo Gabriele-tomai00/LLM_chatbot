@@ -1,12 +1,20 @@
 # exemple
 # ./pipeline_full_scapring.sh -d 2 -s "02-02-2026" -e "10-02-2026"
 
+# change to false in production
+TEST_DEV="True"
+
 # --- Default parameters ---
-DEPTH_LIMIT=4
+DEPTH_LIMIT=2
 START_DATE="02-01-2026"
 END_DATE="10-07-2026"
 OUTPUT_DIR="results_custom_scrapers"
-SCRAPY_OUTPUT_DIR="results_scrapy"
+
+if [ "$TEST_DEV" = "True" ]; then
+    START_DATE="02-01-2026"
+    END_DATE="09-01-2026"
+    MAX_VALUES=2
+fi
 
 
 #!/bin/bash
@@ -67,24 +75,27 @@ else
     fi
 fi
 
-# --- Delete old scrapy results ---
-echo -e "\nDelete old scrapy results"
-mkdir -p $SCRAPY_OUTPUT_DIR
-rm -rf 
-  $SCRAPY_OUTPUT_DIR/scraper_results_${DEPTH_LIMIT} \
-  $SCRAPY_OUTPUT_DIR/filtered_items_${DEPTH_LIMIT}.jsonl \
-  $SCRAPY_OUTPUT_DIR/summary_domains_numbers_${DEPTH_LIMIT}.txt \
-  $SCRAPY_OUTPUT_DIR/links_list_${DEPTH_LIMIT}.txt
-rm -rf "$OUTPUT_DIR"
+
+# Same logic for OUTPUT_DIR
+if [ -d "$OUTPUT_DIR" ]; then
+  rm -rf "$OUTPUT_DIR"
+fi
 mkdir -p "$OUTPUT_DIR"
 
 # SCRAPY pipeline + link study
 ./pipeline_scapring.sh -d $DEPTH_LIMIT
 
+
+
+# --- Delete old custom scraper results ---
+echo -e "\nCleaning up old results..."
+rm -rf "$OUTPUT_DIR"
+mkdir -p "$OUTPUT_DIR"
+
 # --- Address book ---
 echo -e "\n\n\nADDRESS BOOK SCRAPER"
 cd custom_scraper_for_specific_data
-python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json" --max-values 100
+python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json"
 # exemple: python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json" --max-values 2
 cd ..
 
@@ -99,7 +110,7 @@ cd ..
 echo -e "\nOrario lezioni scraper"
 cd custom_scraper_for_specific_data
 python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/lessons_schedule_by_course"
-# esemple: python3 fetch_orario_lezioni.py --start_date "02-02-2026" --end_date "10-02-2026" --num_departments 1 --output="../results_custom_scrapers/lessons_schedule_by_course"
+# esemple: python3 fetch_orario_lezioni.py --start_date "02-02-2026" --end_date "10-02-2026" --output="../results_custom_scrapers/lessons_schedule_by_course" --num_departments 1 
 cd ..
 
 # --- Teams codes ---

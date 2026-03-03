@@ -52,12 +52,16 @@ else
     fi
 fi
 
+
+
 # --- Delete old results ---
 echo -e "\nDelete old results"
 mkdir -p $OUTPUT_DIR
 cd $OUTPUT_DIR
 rm -rf scraper_results_${DEPTH_LIMIT} filtered_items_${DEPTH_LIMIT}.jsonl summary_domains_numbers_${DEPTH_LIMIT}.txt links_list_${DEPTH_LIMIT}.txt
 cd ..
+
+
 
 # --- Scraping part ---
 echo -e "\nRun scraper"
