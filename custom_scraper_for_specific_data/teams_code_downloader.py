@@ -76,7 +76,7 @@ def save_to_json(data, output_path):
     
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
-    print(f"Data successfully saved to JSON (with N/A): {output_path}")
+    print(f"Data successfully saved to JSON: {output_path}")
 
 def save_to_txt(data, output_path):
     """Saves data in a plain text format optimized for RAG."""
@@ -94,7 +94,7 @@ def save_to_txt(data, output_path):
                 f.write(f"{key}: {value}\n")
             f.write("\n")
             
-    print(f"Data successfully saved to TXT (with N/A): {output_path}")
+    print(f"Data successfully saved to TXT: {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Download Teams codes from UNITS")
