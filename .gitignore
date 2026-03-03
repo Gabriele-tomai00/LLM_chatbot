@@ -8,7 +8,7 @@ items.jsonl
 units_scraper/units_scraper/links_list.txt
 filtered_items.jsonl
 results/*
-results_custom_scapers
+results_custom_scrapers
 
 # proxy
 .env

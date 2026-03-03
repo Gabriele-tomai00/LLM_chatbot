@@ -5,7 +5,7 @@
 DEPTH_LIMIT=4
 START_DATE="02-01-2026"
 END_DATE="10-07-2026"
-OUTPUT_DIR="results_custom_scapers"
+OUTPUT_DIR="results_custom_scrapers"
 
 
 #!/bin/bash
@@ -91,14 +91,14 @@ cd ..
 echo -e "\n\n\nOCCUPAZIONE AULE SCRAPER"
 cd custom_scraper_for_specific_data
 python3 fetch_calendario_aule.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/room_schedule_per_site"
-# esemple: python3 fetch_calendario_aule.py --start_date "02-02-2026" --end_date "10-02-2026" --output="../results_custom_scapers/room_schedule_per_site" --num_sites 1
+# esemple: python3 fetch_calendario_aule.py --start_date "02-02-2026" --end_date "10-02-2026" --output="../results_custom_scrapers/room_schedule_per_site" --num_sites 1
 cd ..
 
 # --- Orario lezioni ---
 echo -e "\nOrario lezioni scraper"
 cd custom_scraper_for_specific_data
 python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/lessons_schedule_by_course"
-# esemple: python3 fetch_orario_lezioni.py --start_date "02-02-2026" --end_date "10-02-2026" --num_departments 1 --output="../results_custom_scapers/lessons_schedule_by_course"
+# esemple: python3 fetch_orario_lezioni.py --start_date "02-02-2026" --end_date "10-02-2026" --num_departments 1 --output="../results_custom_scrapers/lessons_schedule_by_course"
 cd ..
 
 # --- Teams codes ---
