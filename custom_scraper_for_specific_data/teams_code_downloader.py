@@ -18,45 +18,63 @@ def process_data(data):
     for item in data:
         if "attributes" in item:
             attrs = item["attributes"]
+            ordered_attrs = {}
+
+            # Add priority fields
             if "NOME_INS" in attrs:
-                attrs["NOME_INSEGNAMENTO"] = attrs.pop("NOME_INS")
-            
+                ordered_attrs["nome insegnamento"] = attrs.pop("NOME_INS")
+
             if "NOME_INS_ENG" in attrs:
-                attrs["NOME_INGLESE_INSEGNAMENTO"] = attrs.pop("NOME_INS_ENG")
-            
-            if "PERIODO_COD" in attrs:
-                attrs["PERIODO"] = attrs.pop("PERIODO_COD")
+                ordered_attrs["nome insegnamento in inglese"] = attrs.pop("NOME_INS_ENG")
+
+            # already in "nome insegnamento"
+            # if "AF_GEN_COD" in attrs:
+            #     ordered_attrs["codice ingegnamento"] = attrs.pop("AF_GEN_COD")
 
             if "JCD_O365" in attrs:
-                attrs["CODICE_TEAMS"] = attrs.pop("JCD_O365")
+                ordered_attrs["codice teams"] = attrs.pop("JCD_O365")
+            
+            if "NOME_CORSO" in attrs:
+                ordered_attrs["nome corso di studi"] = attrs.pop("NOME_CORSO")
+
+            if "NOME_CORSO_ENG" in attrs:
+                ordered_attrs["nome corso di studi in inglese"] = attrs.pop("NOME_CORSO_ENG")
+            
+            # already in "nome corso di studi"
+            # if "CDS_COD" in attrs:
+            #     ordered_attrs["codice corso di studi"] = attrs.pop("CDS_COD")
+
+            if "ANNO_ACCADEMICO" in attrs:
+                ordered_attrs["anno accademico"] = attrs.pop("ANNO_ACCADEMICO")
+                
+            if "DOCENTE" in attrs:
+                ordered_attrs["docente"] = attrs.pop("DOCENTE")
+
+            if "PERIODO_COD" in attrs:
+                ordered_attrs["periodo (semestre o quadrimestre)"] = attrs.pop("PERIODO_COD")      
+
+            # Remove unwanted fields
+            if "URL_O365" in attrs:
+                attrs.pop("URL_O365")
+            if "AF_ID" in attrs: # used for DB (for deveolper)
+                attrs.pop("AF_ID")
+            if "AF_GEN_COD" in attrs:
+                attrs.pop("AF_GEN_COD")
+            if "CDS_COD" in attrs:
+                attrs.pop("CDS_COD")
+
+            # Add remaining fields
+            ordered_attrs.update(attrs)
         
-        new_data.append(attrs)
+            new_data.append(ordered_attrs)
     return new_data
 
-# Search functions
-def search_by_course_name(data, keyword):
-    return [
-        item for item in data
-        if keyword.lower() in item["attributes"]["NOME_INSEGNAMENTO"].lower()
-    ]
-
-def search_by_teacher(data, name):
-    return [
-        item for item in data
-        if name.lower() in item["attributes"]["DOCENTE"].lower()
-    ]
-
-def search_by_course_code(data, course_code):
-    return [
-        item for item in data
-        if course_code.lower() in item["attributes"]["CDS_COD"].lower()
-    ]
 
 def save_to_json(data, output_path):
     output_data = {
         "title": "Teams Codes",
         "timestamp": datetime.now().strftime("%d/%m/%Y"),
-        "URL": URL,
+        "URL for users": "https://www.units.it/catalogo-della-didattica-a-distanza",
         "codes": data
     }
     
