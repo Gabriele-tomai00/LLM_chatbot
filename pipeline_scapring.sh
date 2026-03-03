@@ -73,7 +73,7 @@ cd ../links_study
 echo "Run domains_numbers.py"
 python3 domains_numbers.py -d $DEPTH_LIMIT --dir "../$OUTPUT_DIR/"
 # exemple
-# python3 domains_numbers.py -d 2 --dir "../scrapy_results/"
+# python3 domains_numbers.py -d 2 --dir "../results_scrapy/"
 
 # --- SPLIT JSON part ---
 # cd ..
