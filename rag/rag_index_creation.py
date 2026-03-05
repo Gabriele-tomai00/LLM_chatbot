@@ -13,15 +13,7 @@ Settings.embed_model = HuggingFaceEmbedding(
     model_name="BAAI/bge-m3",
     device="cuda"
 )
-# Settings.llm = Ollama(
-#     model="mistral",
-#     request_timeout=180.0,
-#     context_window=2000,
-#     generate_kwargs={"num_predict": 128},
-#     temperature=0,
-# )
 
-# === MAIN ===
 async def main():
 
 
@@ -37,7 +29,7 @@ async def main():
 
     print(f"Index size after staff book addition: {get_index_size(index)}")
 
-    add_to_index_teams_code(index, "../{scaper_dir}/teams_codes.json")
+    add_to_index_teams_code(index,  f"../{scraper_dir}/teams_codes.json")
 
     print(f"Index size after teams code addition: {get_index_size(index)}")
 
