@@ -4,6 +4,7 @@ import json
 import argparse
 from datetime import datetime
 import os
+from utils import *
 
 from torch.storage import T
 
@@ -17,91 +18,84 @@ def download_data():
     return response.json().get("data", [])
 
 def process_data(data):
+    timestamp = datetime.now().strftime("%d/%m/%Y")
     new_data = []
     for item in data:
-        if "attributes" in item:
-            attrs = item["attributes"]
-            ordered_attrs = {}
+        attrs = item.get("attributes", item)
 
-            # Define priority fields mapping (internal key: source key)
-            fields_to_process = [
-                ("nome insegnamento", "NOME_INS"),
-                ("nome insegnamento in inglese", "NOME_INS_ENG"),
-                ("codice insegnamento", "AF_GEN_COD"),
-                ("codice teams", "JCD_O365"),
-                ("nome corso di studi", "NOME_CORSO"),
-                ("nome corso di studi in inglese", "NOME_CORSO_ENG"),
-                ("codice corso di studi", "CDS_COD"),
-                ("anno accademico", "ANNO_ACCADEMICO"),
-                ("docente", "DOCENTE"),
-                ("periodo (semestre o quadrimestre)", "PERIODO_COD")
-            ]
+        # 1. Mapping table (label, source_key)
+        fields_to_process = [
+            ("course_name",         "NOME_INS"),
+            ("course_name_eng",     "NOME_INS_ENG"),
+            ("course_code",         "AF_GEN_COD"),
+            ("teams_code",          "JCD_O365"),
+            ("degree_program",      "NOME_CORSO"),
+            ("degree_program_eng",  "NOME_CORSO_ENG"),
+            ("degree_program_code", "CDS_COD"),
+            ("academic_year",       "ANNO_ACCADEMICO"),
+            ("teacher",             "DOCENTE"),
+            ("period",              "PERIODO_COD"),
+        ]
 
-            for label, key in fields_to_process:
-                if key in attrs:
-                    val = attrs.pop(key)
-                    # Check for empty strings or empty dictionaries
-                    if val == "" or val == {}:
-                        ordered_attrs[label] = "N/A"
-                    else:
-                        ordered_attrs[label] = val
-                else:
-                    # If the key is missing entirely from the source attributes
-                    ordered_attrs[label] = "N/A"
+        # 2. Extract and clean fields
+        ordered_attrs = {}
+        for label, key in fields_to_process:
+            val = attrs.get(key)
+            ordered_attrs[label] = "N/A" if val in ("", {}, None) else val
 
-            # Remove unwanted fields
-            attrs.pop("URL_O365", None)
-            attrs.pop("AF_ID", None)
+        # 3. Parse composite fields (after full extraction)
+        course_name_clean  = clean_nome_insegnamento(ordered_attrs["course_name"])
+        degree_name_clean  = clean_nome_corso(ordered_attrs["degree_program"])
+        teacher_name, teacher_id = parse_docente(ordered_attrs["teacher"])
 
-            # Process remaining fields in attrs
-            for k, v in attrs.items():
-                if v == "" or v == {}:
-                    ordered_attrs[k] = "N/A"
-                else:
-                    ordered_attrs[k] = v
-        
-            new_data.append(ordered_attrs)
+        # 4. Build metadata dict (nested, compatible with vector stores)
+        metadata = {
+            "doc_type":             "teams_code",
+            "course_code":          ordered_attrs["course_code"],
+            "teams_code":           ordered_attrs["teams_code"],
+            "degree_program_code":  ordered_attrs["degree_program_code"],
+            "academic_year":        ordered_attrs["academic_year"],
+            "teacher_name":         teacher_name,
+            "teacher_id":           teacher_id,
+            "period":               ordered_attrs["period"],
+            "course_name":          course_name_clean,
+            "degree_program":       degree_name_clean,
+            "degree_program_eng":   clean_nome_corso(ordered_attrs["degree_program_eng"]),
+            "last_update":          timestamp,
+        }
+
+        # 5. Generate page_content (natural language, optimized for embeddings)
+        content = (
+            f"L'insegnamento di {course_name_clean} "
+            f"(Codice: {ordered_attrs['course_code']}) "
+            f"fa parte del corso di studi in {degree_name_clean}. "
+            f"Il docente responsabile è {teacher_name}. "
+            f"Per l'anno accademico {ordered_attrs['academic_year']}, "
+            f"il codice Teams per le lezioni è: {ordered_attrs['teams_code']}. "
+            f"Periodo di svolgimento: {ordered_attrs['period']}."
+        )
+
+        new_data.append({
+            "page_content": content,
+            "metadata":     metadata,
+        })
+
     return new_data
-
-def save_to_json(data, output_path):
-    """Saves data in structured JSON format with N/A for empty fields."""
-    output_data = {
-        "title": "Teams Codes",
-        "timestamp": datetime.now().strftime("%d/%m/%Y"),
-        "URL for users": "https://www.units.it/catalogo-della-didattica-a-distanza",
-        "codes": data
-    }
     
-    os.makedirs(os.path.dirname(os.path.abspath(output_path)), exist_ok=True)
+def save_to_json(processed_data, output_path):
+    os.makedirs(os.path.dirname(os.path.abspath(f"{path_no_ext}.json")), exist_ok=True)
     
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
-    print(f"Data successfully saved to JSON: {output_path}")
+    with open(f"{path_no_ext}.json", "w", encoding="utf-8") as f:
+        json.dump(processed_data, f, ensure_ascii=False, indent=2)
+    print(f"Data successfully saved to JSON: {f"{path_no_ext}.json"}")
 
-def save_to_txt(data, output_path):
-    """Saves data in a plain text format optimized for RAG."""
-    os.makedirs(os.path.dirname(os.path.abspath(output_path)), exist_ok=True)
-    
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(f"title: Teams Codes - University of Trieste\n")
-        f.write(f"date: {datetime.now().strftime('%d/%m/%Y')}\n")
-        f.write(f"source: https://www.units.it/catalogo-della-didattica-a-distanza\n")
-        f.write("-" * 30 + "\n\n")
-
-        for entry in data:
-            for key, value in entry.items():
-                # Keys and values are already cleaned by process_data
-                f.write(f"{key}: {value}\n")
-            f.write("\n")
-            
-    print(f"Data successfully saved to TXT: {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Download Teams codes from UNITS")
     parser.add_argument("-o", "--output", help="Output file path (without extension)")    
     args = parser.parse_args()
 
-    USE_JSON = True 
+    timestamp = datetime.now().strftime("%d/%m/%Y")
 
     print("Downloading data...")
     try:
@@ -114,10 +108,13 @@ if __name__ == "__main__":
         base_path = args.output if args.output else "teams_codes"
         path_no_ext = os.path.splitext(base_path)[0]
 
-        if USE_JSON:
-            save_to_json(processed_data, f"{path_no_ext}.json")
-        else:
-            save_to_txt(processed_data, f"{path_no_ext}.txt")
+
+    # save to JSON
+        os.makedirs(os.path.dirname(os.path.abspath(f"{path_no_ext}.json")), exist_ok=True)
+        with open(f"{path_no_ext}.json", "w", encoding="utf-8") as f:
+            json.dump(processed_data, f, ensure_ascii=False, indent=2)
+        print(f"Data successfully saved to JSON: {f"{path_no_ext}.json"}")
+
             
     except Exception as e:
         print(f"An error occurred: {e}")
