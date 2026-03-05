@@ -370,6 +370,7 @@ def get_response_and_write_json_to_files(course_schedule_info, OUTPUT_DIR, url, 
                     "lesson_type":     safe(lesson.get("tipo")),
                     "cancelled":       lesson.get("annullato", "no"),
                     "url":             safe(specific_url),
+                    "doc_type":        "course_schedule"
                 }
             }
             rag_ready_lessons.append(flat_lesson)

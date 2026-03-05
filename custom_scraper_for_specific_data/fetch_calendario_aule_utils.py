@@ -92,8 +92,7 @@ def convert_json_structure(file_path):
                 "time_start": safe(extract_time_range(time_slot)[0]),
                 "time_end": safe(extract_time_range(time_slot)[1]),
                 "event": safe(course),
-                "teacher": safe(teacher),
-                "type": "evento calendario aula"
+                "teacher": safe(teacher)
             },
         }
         

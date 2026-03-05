@@ -79,10 +79,11 @@ def parse_page(html, timestamp):
             "department_staff_url": s_href,
             "phone":                s_phone,
             "email":                s_email,
-            "last_updated":         timestamp
+            "last_updated":         timestamp,
+            "doc_type":                 "staff_directory"
         }
 
-        people.append({"content": page_content, "metadata": metadata})
+        people.append({"page_content": page_content, "metadata": metadata})
     return people
 
 
