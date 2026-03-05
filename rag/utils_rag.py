@@ -44,7 +44,7 @@ def format_time(seconds: float) -> str:
         return f"{secs}s"
 
     
-def add_to_index_book(index, json_path):
+def add_to_index_staff_book(index, json_path):
 
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -52,18 +52,21 @@ def add_to_index_book(index, json_path):
     entries = data.get("entries", [])
 
     documents = []
-
     for item in entries:
+        metadata = item.get("metadata", {})
         doc = Document(
             text=item.get("page_content"),
             metadata={
-                "type": "course",
-                "course_name": item.get("nome insegnamento"),
-                "professor": item.get("docente"),
-                "teams_code": item.get("codice teams")
+                "type": metadata.get("doc_type"),
+                "nome": metadata.get("nome"),
+                "role": metadata.get("role"),
+                "department": metadata.get("department"),
+                "department_staff_url": metadata.get("department_staff_url"),
+                "phone": metadata.get("phone"),
+                "email": metadata.get("email"),
+                "last_updated": metadata.get("last_updated")
             }
         )
-
         documents.append(doc)
 
     for doc in documents:
@@ -78,21 +81,26 @@ def add_to_index_teams_code(index, json_path):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    entries = data.get("codes", [])
-
     documents = []
-
-    for item in entries:
+    for item in data:
+        metadata = item.get("metadata", {})
         doc = Document(
             text=item.get("page_content"),
             metadata={
-                "type": "course",
-                "course_name": item.get("nome_insegnamento"),
-                "course_name_eng": item.get("nome_insegnamento_eng"),
-                "course_code": item.get("codice_insegnamento")
+                "type": metadata.get("doc_type"),
+                "course_name": metadata.get("course_name"),
+                "course_code": metadata.get("course_code"),
+                "teams_code": metadata.get("teams_code"),
+                "degree_program_code": metadata.get("degree_program_code"),
+                "degree_program": metadata.get("degree_program"),
+                "degree_program_eng": metadata.get("degree_program_eng"),
+                "academic_year": metadata.get("academic_year"),
+                "teacher_name": metadata.get("teacher_name"),
+                "teacher_id": metadata.get("teacher_id"),
+                "period": metadata.get("period"),
+                "last_update": metadata.get("last_update")
             }
         )
-
         documents.append(doc)
 
     for doc in documents:
@@ -101,8 +109,98 @@ def add_to_index_teams_code(index, json_path):
     return len(documents)
 
 
+def add_to_index_lesson_calendar(index, folder_path):
+
+    json_files = [
+        os.path.join(folder_path, f)
+        for f in os.listdir(folder_path)
+        if f.endswith(".json")
+    ]
+
+    total_documents = 0
+
+    for json_file in json_files:
+        with open(json_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        documents = []
+        for item in data:
+            metadata = item.get("metadata", {})
+            doc = Document(
+                text=item.get("page_content"),
+                metadata={
+                    "type": metadata.get("doc_type"),
+                    "department": metadata.get("department"),
+                    "course_code": metadata.get("course_code"),
+                    "study_course": metadata.get("study_course"),
+                    "subject_code": metadata.get("subject_code"),
+                    "subject_name": metadata.get("subject_name"),
+                    "study_year_code": metadata.get("study_year_code"),
+                    "curriculum": metadata.get("curriculum"),
+                    "date_iso": metadata.get("date_iso"),
+                    "read_time": metadata.get("read_time"),
+                    "start_time": metadata.get("start_time"),
+                    "end_time": metadata.get("end_time"),
+                    "full_location": metadata.get("full_location"),
+                    "professor": metadata.get("professor"),
+                    "lesson_type": metadata.get("lesson_type"),
+                    "cancelled": metadata.get("cancelled"),
+                    "url": metadata.get("url")
+                }
+            )
+            documents.append(doc)
+
+        for doc in documents:
+            index.insert(doc)
+
+        total_documents += len(documents)
+
+    return total_documents
 
 
+
+def add_to_index_room_calendar(index, folder_path):
+
+    json_files = [
+        os.path.join(folder_path, f)
+        for f in os.listdir(folder_path)
+        if f.endswith(".json")
+    ]
+
+    total_documents = 0
+
+    for json_file in json_files:
+        with open(json_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        documents = []
+        for item in data:
+            metadata = item.get("metadata", {})
+            doc = Document(
+                text=item.get("page_content"),
+                metadata={
+                    "type": metadata.get("doc_type", "room_calendar"),
+                    "event_type": metadata.get("event_type"),
+                    "site_code": metadata.get("site_code"),
+                    "room_code": metadata.get("room_code"),
+                    "full_location": metadata.get("full_location"),
+                    "date_iso": metadata.get("date_iso"),
+                    "readable_date": metadata.get("readable_date"),
+                    "time_start": metadata.get("time_start"),
+                    "time_end": metadata.get("time_end"),
+                    "event": metadata.get("event"),
+                    "teacher": metadata.get("teacher"),
+                    "last_update": metadata.get("last_update")
+                }
+            )
+            documents.append(doc)
+
+        for doc in documents:
+            index.insert(doc)
+
+        total_documents += len(documents)
+
+    return total_documents
 
 
 
