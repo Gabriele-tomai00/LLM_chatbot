@@ -11,7 +11,8 @@ scraper_dir = "results_custom_scrapers_october_teams_full"
 
 Settings.embed_model = HuggingFaceEmbedding(
     model_name="BAAI/bge-m3",
-    device="cuda"
+    device="cuda",
+    embed_batch_size=512
 )
 
 async def main():

@@ -7,10 +7,9 @@ from llama_index.core import (
     VectorStoreIndex,
     Settings,
     StorageContext,
-    Document,
 )
 from llama_index.vector_stores.chroma import ChromaVectorStore
-from llama_index.core import StorageContext
+from llama_index.core.schema import TextNode
 import chromadb
 
 
@@ -21,7 +20,7 @@ def print_indexing_summary(start_time, persist_dir, num_docs, log_file: str = "i
         f"Time taken: {format_time(elapsed)}",
         f"Index created and saved to: {persist_dir}",
         f"Total documents indexed: {num_docs}",
-        f"📄 TIME of end: {datetime.now().strftime('%H:%M:%S')}",
+        f"TIME of end: {datetime.now().strftime('%H:%M:%S')}",
         "====================================================="
     ]
     for line in summary_lines:
@@ -43,18 +42,17 @@ def format_time(seconds: float) -> str:
     else:
         return f"{secs}s"
 
-    
-def add_to_index_staff_book(index, json_path):
 
+def add_to_index_staff_book(index, json_path):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     entries = data.get("entries", [])
+    nodes = []
 
-    documents = []
     for item in entries:
         metadata = item.get("metadata", {})
-        doc = Document(
+        node = TextNode(
             text=item.get("page_content"),
             metadata={
                 "type": metadata.get("doc_type"),
@@ -67,24 +65,20 @@ def add_to_index_staff_book(index, json_path):
                 "last_updated": metadata.get("last_updated")
             }
         )
-        documents.append(doc)
+        nodes.append(node)
 
-    for doc in documents:
-        index.insert(doc)
-
-    return len(documents)
-
+    index.insert_nodes(nodes)
+    return len(nodes)
 
 
 def add_to_index_teams_code(index, json_path):
-
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    documents = []
+    nodes = []
     for item in data:
         metadata = item.get("metadata", {})
-        doc = Document(
+        node = TextNode(
             text=item.get("page_content"),
             metadata={
                 "type": metadata.get("doc_type"),
@@ -101,32 +95,28 @@ def add_to_index_teams_code(index, json_path):
                 "last_update": metadata.get("last_update")
             }
         )
-        documents.append(doc)
+        nodes.append(node)
 
-    for doc in documents:
-        index.insert(doc)
-
-    return len(documents)
+    index.insert_nodes(nodes)
+    return len(nodes)
 
 
 def add_to_index_lesson_calendar(index, folder_path):
-
     json_files = [
         os.path.join(folder_path, f)
         for f in os.listdir(folder_path)
         if f.endswith(".json")
     ]
 
-    total_documents = 0
+    all_nodes = []
 
     for json_file in json_files:
         with open(json_file, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        documents = []
         for item in data:
             metadata = item.get("metadata", {})
-            doc = Document(
+            node = TextNode(
                 text=item.get("page_content"),
                 metadata={
                     "type": metadata.get("doc_type"),
@@ -148,35 +138,28 @@ def add_to_index_lesson_calendar(index, folder_path):
                     "url": metadata.get("url")
                 }
             )
-            documents.append(doc)
+            all_nodes.append(node)
 
-        for doc in documents:
-            index.insert(doc)
-
-        total_documents += len(documents)
-
-    return total_documents
-
+    index.insert_nodes(all_nodes)
+    return len(all_nodes)
 
 
 def add_to_index_room_calendar(index, folder_path):
-
     json_files = [
         os.path.join(folder_path, f)
         for f in os.listdir(folder_path)
         if f.endswith(".json")
     ]
 
-    total_documents = 0
+    all_nodes = []
 
     for json_file in json_files:
         with open(json_file, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        documents = []
         for item in data:
             metadata = item.get("metadata", {})
-            doc = Document(
+            node = TextNode(
                 text=item.get("page_content"),
                 metadata={
                     "type": metadata.get("doc_type", "room_calendar"),
@@ -193,15 +176,10 @@ def add_to_index_room_calendar(index, folder_path):
                     "last_update": metadata.get("last_update")
                 }
             )
-            documents.append(doc)
+            all_nodes.append(node)
 
-        for doc in documents:
-            index.insert(doc)
-
-        total_documents += len(documents)
-
-    return total_documents
-
+    index.insert_nodes(all_nodes)
+    return len(all_nodes)
 
 
 def load_or_create_index(persist_dir):
