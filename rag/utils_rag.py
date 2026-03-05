@@ -42,91 +42,89 @@ def format_time(seconds: float) -> str:
         return f"{minutes}m {secs}s"
     else:
         return f"{secs}s"
+
     
-def create_index(persist_dir, jsonl_path):
-    """Create a new vector index from a JSONL file."""
-    start_time = datetime.now()
+def add_to_index_book(index, json_path):
 
-    if not os.path.exists(jsonl_path):
-        raise FileNotFoundError(f"File not found: {jsonl_path}")
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    if os.path.exists(persist_dir):
-        delete_index(persist_dir)
-
-    print(f"Creating a new index from file: {jsonl_path} starting at {start_time.strftime('%H:%M:%S')}")
+    entries = data.get("entries", [])
 
     documents = []
-    with open(jsonl_path, "r", encoding="utf-8") as f:
-        for line in f:
-            item = json.loads(line)
-            doc = Document(
-                text=f"Title: {item.get('title', '')}\n"
-                     f"URL: {item.get('url', '')}\n"
-                     f"Timestamp: {item.get('timestamp', '')}\n\n"
-                     f"{item.get('content', '')}",
-                metadata={
-                    "title": item.get("title"),
-                    "url": item.get("url"),
-                    "timestamp": item.get("timestamp")
-                },
-            )
-            documents.append(doc)
 
-    # index = VectorStoreIndex.from_documents(
-    #     documents,
-    #     embed_model=Settings.embed_model,
-    # )
+    for item in entries:
+        doc = Document(
+            text=item.get("page_content"),
+            metadata={
+                "type": "course",
+                "course_name": item.get("nome insegnamento"),
+                "professor": item.get("docente"),
+                "teams_code": item.get("codice teams")
+            }
+        )
 
-    # index.storage_context.persist(persist_dir=persist_dir)
-    # print_indexing_summary(start_time, persist_dir, len(documents))
-    # return index
+        documents.append(doc)
+
+    for doc in documents:
+        index.insert(doc)
+
+    return len(documents)
 
 
-    db = chromadb.PersistentClient(persist_dir)
+
+def add_to_index_teams_code(index, json_path):
+
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    entries = data.get("codes", [])
+
+    documents = []
+
+    for item in entries:
+        doc = Document(
+            text=item.get("page_content"),
+            metadata={
+                "type": "course",
+                "course_name": item.get("nome_insegnamento"),
+                "course_name_eng": item.get("nome_insegnamento_eng"),
+                "course_code": item.get("codice_insegnamento")
+            }
+        )
+
+        documents.append(doc)
+
+    for doc in documents:
+        index.insert(doc)
+
+    return len(documents)
+
+
+
+
+
+
+
+def load_or_create_index(persist_dir):
+
+    db = chromadb.PersistentClient(path=persist_dir)
+
     chroma_collection = db.get_or_create_collection("quickstart")
+
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
-    index = VectorStoreIndex.from_documents(
-        documents, 
-        storage_context=storage_context, 
+    index = VectorStoreIndex.from_vector_store(
+        vector_store=vector_store,
+        storage_context=storage_context,
         embed_model=Settings.embed_model
     )
-    
-    print_indexing_summary(start_time, persist_dir, len(documents))
 
     return index
 
-def get_index(persist_dir: str, jsonl_path: str = "../items.jsonl") -> VectorStoreIndex:
-    """Load an existing index. If directory missing or incomplete, return None."""
 
-    if not os.path.exists(persist_dir):
-        print(f"Index directory '{persist_dir}' does not exist.")
-        return None
-
-    print("Loading existing index from:", persist_dir)
-    # storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
-    # index = load_index_from_storage(
-    #     storage_context,
-    #     embed_model=Settings.embed_model,
-    # )
-    # return index
-
-    db2 = chromadb.PersistentClient(persist_dir)
-    chroma_collection = db2.get_or_create_collection("quickstart")
-    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
-    index = VectorStoreIndex.from_vector_store(
-        vector_store,
-        embed_model=Settings.embed_model,
-    )
-    return index
-
-
-
-def delete_index(persist_dir: str):
-    if os.path.exists(persist_dir):
-        import shutil
-        shutil.rmtree(persist_dir)
-        print("Deleted index directory:", persist_dir)
-    else:
-        print("Index directory does not exist:", persist_dir)
+def get_index_size(index):
+    collection = index.vector_store._collection
+    return collection.count()
