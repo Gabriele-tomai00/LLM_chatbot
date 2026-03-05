@@ -9,7 +9,10 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false" # avoid warning messages
 
 scraper_dir = "results_custom_scrapers_october_teams_full"
 
-Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
+Settings.embed_model = HuggingFaceEmbedding(
+    model_name="BAAI/bge-m3",
+    device="cuda"
+)
 # Settings.llm = Ollama(
 #     model="mistral",
 #     request_timeout=180.0,
