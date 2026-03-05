@@ -2,17 +2,17 @@
 # ./pipeline_full_scapring.sh -d 2 -s "02-02-2026" -e "10-02-2026"
 
 # change to false in production
-TEST_DEV="True"
+TEST_DEV="False"
 
 # --- Default parameters ---
 DEPTH_LIMIT=2
-START_DATE="02-01-2026"
-END_DATE="10-07-2026"
+START_DATE="05-01-2026"
+END_DATE="01-07-2026"
 OUTPUT_DIR="results_custom_scrapers"
 
 if [ "$TEST_DEV" = "True" ]; then
-    START_DATE="02-01-2026"
-    END_DATE="09-01-2026"
+    START_DATE="02-11-2025"
+    END_DATE="09-11-2025"
     MAX_VALUES=2
 fi
 
@@ -83,7 +83,7 @@ fi
 mkdir -p "$OUTPUT_DIR"
 
 # SCRAPY pipeline + link study
-./pipeline_scapring.sh -d $DEPTH_LIMIT
+# ./pipeline_scapring.sh -d $DEPTH_LIMIT
 
 
 
@@ -92,29 +92,33 @@ echo -e "\nCleaning up old results..."
 rm -rf "$OUTPUT_DIR"
 mkdir -p "$OUTPUT_DIR"
 
+cd custom_scraper_for_specific_data
+
+
 # --- Address book ---
 echo -e "\n\n\nADDRESS BOOK SCRAPER"
-cd custom_scraper_for_specific_data
 python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json"
-# exemple: python3 fetch_rubrica_personale.py --output="../$OUTPUT_DIR/units_book.json" --max-values 2
-cd ..
+# exemple: python fetch_rubrica_personale.py --output="../$results_custom_scrapers/units_book.json" --max-values 2
+
 
 # --- Occupazione Aule ---
 echo -e "\n\n\nOCCUPAZIONE AULE SCRAPER"
-cd custom_scraper_for_specific_data
 python3 fetch_calendario_aule.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/room_schedule_per_site"
-# esemple: python3 fetch_calendario_aule.py --start_date "02-02-2026" --end_date "10-02-2026" --output="../results_custom_scrapers/room_schedule_per_site" --num_sites 1
-cd ..
+# esemple: python fetch_calendario_aule.py --start_date "02-02-2026" --end_date "10-02-2026" --output="../results_custom_scrapers/room_schedule_per_site" --num_sites 1
 
-# --- Orario lezioni ---
-echo -e "\nOrario lezioni scraper"
-cd custom_scraper_for_specific_data
-python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/lessons_schedule_by_course"
-# esemple: python3 fetch_orario_lezioni.py --start_date "02-02-2026" --end_date "10-02-2026" --output="../results_custom_scrapers/lessons_schedule_by_course" --num_departments 1 
-cd ..
 
 # --- Teams codes ---
 echo -e "\nTeams codes scraper"
-cd custom_scraper_for_specific_data
 python3 teams_code_downloader.py -o "../$OUTPUT_DIR/teams_codes.json"
-# esemple: python3 teams_code_downloader.py -o "../results_custom_scrapers/teams_codes.json"
+# esemple: python teams_code_downloader.py -o "../results_custom_scrapers/teams_codes.json"
+
+
+# --- Orario lezioni ---
+echo -e "\nOrario lezioni scraper"
+python3 fetch_orario_lezioni.py --start_date "$START_DATE" --end_date "$END_DATE" --output="../$OUTPUT_DIR/lessons_schedule_by_course"
+printf "START_DATE = $START_DATE, END_DATE = $END_DATE"
+# esemple: python fetch_orario_lezioni.py --start_date "02-11-2025" --end_date "10-11-2025" --output="../results_custom_scrapers/lessons_schedule_by_course" --num_departments 1 
+
+
+cd ..
+

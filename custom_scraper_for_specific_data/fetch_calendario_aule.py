@@ -60,7 +60,7 @@ if __name__ == "__main__":
             file_path = os.path.join(TEMP_DIR, file_name)
             json_files = convert_json_structure(file_path)
             for file in json_files:
-                write_json_to_file(file, OUTPUT_DIR, file["Site Code"], start_date, end_date)
+                write_json_to_file(file, OUTPUT_DIR, file["site_code"], start_date, end_date)
 
 
     if os.path.exists(TEMP_DIR):

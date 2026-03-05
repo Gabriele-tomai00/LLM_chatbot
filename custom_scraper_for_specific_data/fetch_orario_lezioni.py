@@ -1,4 +1,3 @@
-import multiprocessing
 import shutil
 from joblib import Parallel, delayed
 import time

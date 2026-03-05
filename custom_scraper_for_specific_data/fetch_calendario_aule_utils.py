@@ -8,7 +8,7 @@ from urllib.parse import urlencode
 from datetime import datetime, timedelta
 from collections import defaultdict
 import html
-from utils import get_day_of_week
+from utils import get_day_of_week, format_iso_date_to_italian_long, extract_time_range, safe
 
 def print_title(start_time, start_date, end_date):
     print(r"""
@@ -30,7 +30,7 @@ def write_json_to_file(content, directory, site, start_date, end_date):
     
     data_to_write = content
     # If content is the wrapper dict from convert_json_structure, extract the events list
-    if isinstance(content, dict) and "events" in content and "Site Code" in content:
+    if isinstance(content, dict) and "events" in content and "site_code" in content:
         data_to_write = content["events"]
         
     with open(file_name, "w", encoding="utf-8") as f:
@@ -76,19 +76,25 @@ def convert_json_structure(file_path):
         if site_code not in sites_info:
             sites_info[site_code] = site_name
 
+        readable_date = get_day_of_week(day) + " " + safe(format_iso_date_to_italian_long(day))
         # Note: Added space between site and room for better embedding quality
         event_dict = {
-            "Full location": f"{site_name if site_name else 'N/A'} - {room_name if room_name else 'N/A'}",
+            "page_content": f"nell'edificio/sede: {safe(site_name)} - aula: {safe(room_name)}, il giorno {readable_date} ({safe(day)}) tra le {safe(time_slot)} si tiene l'evento (o lezione): {safe(course)} (il docente è {safe(teacher)}) (ultimo aggiornamento: {safe(last_update)})",
             "metadata": {
-                "site_code": site_code if site_code else "N/A",
-                "room_code": room_code if room_code else "N/A",
-                "date_iso": day if day else "N/A",
-                "last_update": last_update if last_update else "N/A"
+                "doc_type": "calendar_entry",
+                "event_type": "generic_event",
+                "site_code": safe(site_code),
+                "room_code": safe(room_code),
+                "date_iso": safe(day),
+                "last_update": safe(last_update),
+                "full_location": f"{safe(site_name)} - {safe(room_name)}",
+                "readable_date": readable_date,
+                "time_start": safe(extract_time_range(time_slot)[0]),
+                "time_end": safe(extract_time_range(time_slot)[1]),
+                "event": safe(course),
+                "teacher": safe(teacher),
+                "type": "evento calendario aula"
             },
-            "display_date": day + " (" + get_day_of_week(day) + ")" if day else "N/A",
-            "time": time_slot if time_slot else "N/A",
-            "course": course if course else "N/A",
-            "teacher": teacher if teacher else "N/A",
         }
         
         if cancelled == "yes":
@@ -99,8 +105,8 @@ def convert_json_structure(file_path):
     result = []
     for site_code, events in sites_events.items():
         result.append({
-            "Site Code": site_code,
-            "Site Name": sites_info.get(site_code, ""),
+            "site_code": site_code,
+            "site_name": sites_info.get(site_code, ""),
             "events": events
         })
     return result

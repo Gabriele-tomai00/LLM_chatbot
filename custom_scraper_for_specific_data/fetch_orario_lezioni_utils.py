@@ -3,15 +3,13 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
-from datetime import datetime
-from datetime import date
-from datetime import timedelta
+from datetime import date, datetime, timedelta
 import json
 import requests
 from urllib.parse import urlencode, quote
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-from utils import format_iso_date_to_italian_long, get_day_of_week
+from utils import format_iso_date_to_italian_long, get_day_of_week, extract_time_range, safe
 from selenium.webdriver.chrome.options import Options
 
 def print_title(start_time, start_date, end_date, school_year):
@@ -220,8 +218,8 @@ def format_time(seconds: float) -> str:
 def response_filter(data, cell_keys=None, output_key_cells="lessons_schedule"):
     if cell_keys is None:
         cell_keys = [
-            "codice insegnamento",
-            "nome insegnamento",
+            "codice_insegnamento",
+            "nome_insegnamento",
             "data",
             "codice aula",
             "codice sede",
@@ -244,6 +242,8 @@ def response_filter(data, cell_keys=None, output_key_cells="lessons_schedule"):
     if "first_day_label" in data:
         to_return["week_start_day"] = data["first_day_label"]
     to_return[output_key_cells] = filtered_cells
+    # print("RAW CELL KEYS:", data.get("celle", [{}])[0].keys() if data.get("celle") else "NO CELLE")
+    # print("SAMPLE CELL:", data.get("celle", [{}])[0] if data.get("celle") else "EMPTY")
     return to_return
 
 
@@ -335,24 +335,41 @@ def get_response_and_write_json_to_files(course_schedule_info, OUTPUT_DIR, url, 
         rag_ready_lessons = []
         
         for lesson in lessons:
-            # Flattening everything into a single record
-            iso_date = datetime.strptime(lesson.get('data'), "%d-%m-%Y").strftime("%Y-%m-%d") if lesson.get('data') else "N/A"
+            if not lesson.get("nome_insegnamento"):
+                continue
+
+            iso_date = safe(datetime.strptime(lesson.get('data'), "%d-%m-%Y").strftime("%Y-%m-%d"))
+            
+            start_time = safe(extract_time_range(lesson.get("orario"))[0])
+            end_time   = safe(extract_time_range(lesson.get("orario"))[1])
+            read_time  = safe(format_iso_date_to_italian_long(iso_date)) + " (" + safe(get_day_of_week(iso_date)) + ")"
 
             flat_lesson = {
-                # Human readable summary for the embedding model
-                "course_context": f"{study_course} - {course_year_and_curriculum}",
-                "lesson_details": f"{study_course} - Data: {iso_date}, Orario: {lesson.get('orario')}, Aula: {lesson.get('aula')}",
-                "time": lesson.get("orario"),
-                "teacher": lesson.get("docente"),
-                # Metadata for precise filtering
+                "page_content": (
+                    f"Lezione di {safe(lesson.get('nome_insegnamento'))} "
+                    f"del corso {safe(study_course)}, {safe(course_year_and_curriculum)}. "
+                    f"Data: {safe(read_time)}. "
+                    f"Orario: {safe(start_time)} - {safe(end_time)}. "
+                    f"Aula: {safe(lesson.get('aula'))}. "
+                    f"Docente: {safe(lesson.get('docente'))}."
+                ),
                 "metadata": {
-                    "department": department_code,
-                    "course_code": course_code,
-                    "study_year_code": curriculum_code_and_year,
-                    "iso-date": iso_date,
-                    "read_time": format_iso_date_to_italian_long(iso_date) + " (" + get_day_of_week(iso_date) + ")",
-                    "Full location (room + building)": lesson.get("aula"),
-                    "url": specific_url
+                    "department":      safe(department_code),
+                    "course_code":     safe(course_code),
+                    "study_course":    safe(study_course),
+                    "subject_code":    safe(lesson.get("codice_insegnamento")),
+                    "subject_name":    safe(lesson.get("nome_insegnamento")),
+                    "study_year_code": safe(curriculum_code_and_year),
+                    "curriculum":      safe(course_year_and_curriculum),
+                    "date_iso":        safe(iso_date),
+                    "read_time":       safe(read_time),
+                    "start_time":      safe(start_time),
+                    "end_time":        safe(end_time),
+                    "full_location":   safe(lesson.get("aula")),
+                    "professor":       safe(lesson.get("docente")),
+                    "lesson_type":     safe(lesson.get("tipo")),
+                    "cancelled":       lesson.get("annullato", "no"),
+                    "url":             safe(specific_url),
                 }
             }
             rag_ready_lessons.append(flat_lesson)

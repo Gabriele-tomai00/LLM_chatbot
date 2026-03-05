@@ -5,6 +5,7 @@ import time
 import re
 from datetime import datetime
 import argparse
+from utils import safe
 
 SOURCE_URL = "https://portale.units.it/it/rubrica"
 BASE_URL = "https://portale.units.it/it/views/ajax"
@@ -43,7 +44,7 @@ def get_session_data():
     return session, dom_id, libraries, total_pages
 
 
-def parse_page(html):
+def parse_page(html, timestamp):
     soup = BeautifulSoup(html, "html.parser")
     people = []
     for card in soup.select(".rubrica__wrapper"):
@@ -53,19 +54,35 @@ def parse_page(html):
         phone = card.select_one(".rubrica__phone a")
         email = card.select_one(".rubrica__email a")
 
-        # Build absolute URL if href exists
         dept_href = dept.get("href", "") if dept else ""
         if dept_href and dept_href.startswith("/"):
             dept_href = "https://portale.units.it" + dept_href
-        
-        people.append({
-            "name":       name.get_text(strip=True)  if name  else "N/A",
-            "role":       role.get_text(strip=True)  if role  else "N/A",
-            "department": dept.get_text(strip=True)  if dept  else "N/A",
-            "department_staff_url":   dept_href,
-            "phone":      phone.get_text(strip=True) if phone else "N/A",
-            "email":      email.get_text(strip=True) if email else "N/A",
-        })
+
+        s_name  = safe(name.get_text(strip=True)  if name  else None)
+        s_role  = safe(role.get_text(strip=True)  if role  else None)
+        s_dept  = safe(dept.get_text(strip=True)  if dept  else None)
+        s_phone = safe(phone.get_text(strip=True).replace(" ", "") if phone else None)
+        s_email = safe(email.get_text(strip=True) if email else None)
+        s_href  = safe(dept_href)
+
+        page_content = (
+            f"Nome: {s_name} "
+            f"Ruolo: {s_role} "
+            f"Ufficio: {s_dept} "
+            f"Telefono: {s_phone} "
+            f"Email: {s_email} "
+        )
+        metadata = {
+            "nome":                 s_name,
+            "role":                 s_role,
+            "department":           s_dept,
+            "department_staff_url": s_href,
+            "phone":                s_phone,
+            "email":                s_email,
+            "last_updated":         timestamp
+        }
+
+        people.append({"content": page_content, "metadata": metadata})
     return people
 
 
@@ -73,7 +90,6 @@ def save_data(people_list):
     output_data = {
         "title": "Units Institute Staff Address Book",
         "url": SOURCE_URL,
-        "timestamp": datetime.now().strftime("%d/%m/%Y"),
         "entries": people_list
     }
     try:
@@ -84,7 +100,7 @@ def save_data(people_list):
         print(f"Error while saving data to {OUTPUT_FILE}: {e}")
 
 
-def process_page(session, page, total, dom_id, libraries):
+def process_page(session, page, total, dom_id, libraries, timestamp):
     params = {
         "_wrapper_format": "drupal_ajax",
         "view_name": "rubrica",
@@ -111,7 +127,7 @@ def process_page(session, page, total, dom_id, libraries):
                 cmd["data"] for cmd in data
                 if cmd.get("command") == "insert" and cmd.get("method") == "replaceWith"
             )
-            people = parse_page(html)
+            people = parse_page(html, timestamp)
             print(f"Page {page}/{total} -> {len(people)} people")
             return people
 
@@ -143,9 +159,11 @@ if __name__ == "__main__":
     if args.max_values > 0:
         total = min(total, args.max_values) # for DEBUG
 
+    timestamp = datetime.now().strftime("%d/%m/%Y")
+
     all_people = []
     for page in range(0, total + 1):
-        people = process_page(session, page, total, dom_id, libraries)
+        people = process_page(session, page, total, dom_id, libraries, timestamp)
         all_people.extend(people)
         time.sleep(DELAY)
 
